@@ -339,9 +339,10 @@ RULES = [
         title="Адреси поставки визначаються після аукціону або заявкою",
         severity="середня",
         pattern=re.compile(
-            r"(місц\w*\s+поставки|адрес\w*|товароодержувач).{0,180}"
+            r"((місц\w*\s+поставки|адрес\w*|товароодержувач).{0,180}"
             r"(визначен\w*\s+у\s+заявц|вказан\w*\s+в\s+замовлен|лише\s+переможц|"
-            r"буде\s+повідомлен|мож\w*\s+бути\s+змінен)",
+            r"буде\s+повідомлен)|"
+            r"(місц\w*\s+поставки|адрес\w*)[^.]{0,80}мож\w*\s+бути\s+змінен)",
             re.IGNORECASE | re.UNICODE | re.DOTALL,
         ),
         explanation=(
@@ -424,7 +425,7 @@ RULES = [
             r"(особ|одиниц|кран|стенд|автомоб|лаборатор|обладнан|персонал|працівн|"
             r"машин|механізм|технік)|\d+\s*(особ|одиниц)|кран|стенд|автомоб|лаборатор|обладнан)|"
             r"не\s+менше\s+\d+[-\s]?(х|ох)?\s*.{0,40}"
-            r"(особ|одиниц|кран|стенд|автомоб|лаборатор|обладнан|персонал|працівн|"
+            r"(особ|одиниц|кран|стенд|автомоб|лаборатор|персонал|працівн|"
             r"машин|механізм|технік)|"
             r"перелік\s+обов.?язков\w*.{0,200}не\s+менше)",
             re.IGNORECASE | re.UNICODE | re.DOTALL,
@@ -446,6 +447,16 @@ EQUIVALENT_RE = re.compile(r"або\s+еквівалент|чи\s+еквівал
 FUNCTIONAL_EQUIVALENT_RE = re.compile(
     r"не\s+гірш|допустим\w*\s+відхилен|мінімальн\w*\s+вимог|функціональн\w*\s+еквівалент",
     re.IGNORECASE,
+)
+DELIVERY_ANALOG_CONTEXT_RE = re.compile(
+    r"(компані\w*[-\s]?аналоги|Нова\s+пошта|Укрпошта|перевізник|перевезення|доставки).{0,240}"
+    r"(дата|датою|співпада|фактичн\w*\s+поставк)",
+    re.IGNORECASE | re.DOTALL,
+)
+EQUIVALENT_DEFINITION_RE = re.compile(
+    r"(тлумач\w*.{0,80}визначенн|під\s+терміном\s+[«\"]?еквівалент|"
+    r"словник\s+української\s+мови|рівноцінн\w*.{0,80}рівнозначн\w*)",
+    re.IGNORECASE | re.DOTALL,
 )
 PAYMENT_RE = re.compile(r"оплат|післяоплат|аванс|розрахунк", re.IGNORECASE)
 DELIVERY_RE = re.compile(r"поставк|доставк|місце\s+передач|строк\s+виконан", re.IGNORECASE)
@@ -705,6 +716,10 @@ def technical_precision_issues(parsed_documents: list[ParsedDocument]) -> list[I
 
 def should_skip_match(category: str, quote: str) -> bool:
     if category == "еквівалентність" and FUNCTIONAL_EQUIVALENT_RE.search(quote):
+        return True
+    if category == "еквівалентність" and DELIVERY_ANALOG_CONTEXT_RE.search(quote):
+        return True
+    if category == "еквівалентність" and EQUIVALENT_DEFINITION_RE.search(quote):
         return True
     if category == "бренд/модель без «або еквівалент»":
         if EQUIVALENT_RE.search(quote):
