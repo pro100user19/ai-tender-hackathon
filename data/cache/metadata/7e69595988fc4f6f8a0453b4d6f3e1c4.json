@@ -1,0 +1,427 @@
+{
+  "description": "Львівська обл., Закарпатська обл., Чернівецька обл., Волинська обл., Хмельницька обл., Вінницька обл., Житомирська обл.",
+  "criteria": [
+    {
+      "id": "5b2b9dfd3432414583298fd725190a8f",
+      "description": "Забезпечення тендерної пропозиції/пропозиції не повертається у разі: 1) відкликання тендерної пропозиції/пропозиції учасником після закінчення строку її подання, але до того, як сплив строк, протягом якого тендерні пропозиції вважаються дійсними; 2) непідписання договору про закупівлю учасником, який став переможцем тендеру/спрощеної закупівлі; 3) ненадання переможцем процедури закупівлі (крім переговорної процедури закупівлі) у строк, визначений частиною шостою статті 17 цього Закону, документів, що підтверджують відсутність підстав, установлених статтею 17 цього Закону; 4) ненадання переможцем процедури закупівлі (крім переговорної процедури закупівлі)/спрощеної закупівлі забезпечення виконання договору про закупівлю після отримання повідомлення про намір укласти договір про закупівлю, якщо надання такого забезпечення передбачено тендерною документацією/оголошенням про проведення спрощеної закупівлі",
+      "source": "tenderer",
+      "relatesTo": "lot",
+      "relatedItem": "777adbaaf3044fc0a21f41d5fc583a83",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.BID.GUARANTEE"
+      },
+      "title": "Забезпечення тендерних пропозицій",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.15"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1444"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "25"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "c7a4041e3c814b1e945d1f341c24fc67",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "fd587388bf6040ccbd53502913d2704b",
+              "title": "Розмір забезпечення тендерної пропозиції/пропозиції у грошовому виразі у % від очікуваної вартості закупівлі",
+              "dataType": "number",
+              "eligibleEvidences": [
+                {
+                  "title": "Банківська гарантія забезпечення тендерної пропозиції/пропозиції",
+                  "description": "Пропозиція учасника обов’язково супроводжується документом, що підтверджує надання забезпечення пропозиції, яке має бути подане у виді банківської гарантії в електронному форматі. У тексті (або колонтитулах) банківської гарантії має бути вказано посилання на програмний комплекс, яким накладено КЕП. При цьому, зазначений у тексті банківської гарантії підписант має співпадати з підписантом, який наклав КЕП. Забезпечення пропозиції повинне відповідати формі, затвердженій Наказом Міністерства розвитку, економіки, торгівлі та сільського господарства від 14.12.2020 року №2628 «Про затвердження форми і вимог до забезпечення тендерної пропозиції/пропозиції».  Разом з банківською гарантією необхідно надати копію документу, що підтверджує повноваження особи, яка підписала банківську гарантію. Повноваження особи, яка підписує банківську гарантію, повинні бути підтверджені відповідним документом з накладенням кваліфікованого електронного підпису особи, що видала такий документ (у випадку, якщо підписантом не є голова правління). Файл електронної гарантії подається у складі пропозиції у форматі, придатному для перевірки накладення КЕП уповноваженої службової (посадової) особи банку-гаранта на такий документ. Реквізити бенефіціара: Назва: Головний центр капітального будівництва, реконструкції та закупівель Державної прикордонної служби України.  Місцезнаходження: Україна, 02099, місто Київ, вулиця Ялтинська, будинок 11.   ЄДРПОУ: 23311317.  Строк дії банківської гарантії має бути не менше 90 календарних днів з дати кінцевого строку подання пропозицій Розмір забезпечення пропозиції: 95 325,00 грн. (дев’яносто п’ять тисяч триста двадцять п’ять грн. 00 коп.).   Пропозиції, що не супроводжуються забезпеченням пропозиції, відхиляються замовником.  Усі витрати, пов'язані з наданням забезпечення пропозиції, здійснюються за рахунок коштів Учасника.",
+                  "type": "document",
+                  "id": "aec94d8c4b494cbeaba47ebf99010634"
+                }
+              ],
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-01T14:15:45.111020+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b65aeba10ee04993b65c1c9acafb4451",
+      "description": "Забезпечення виконання договору про закупівлю повертається: 1) після виконання переможцем процедури закупівлі/спрощеної закупівлі договору про закупівлю; 2) за рішенням суду щодо повернення забезпечення договору у випадку визнання результатів процедури закупівлі/спрощеної закупівлі недійсними або договору про закупівлю нікчемним; 3) у випадках, передбачених статтею 43 цього Закону; 4) згідно з умовами, зазначеними в договорі про закупівлю, але не пізніше ніж протягом п’яти банківських днів з дня настання зазначених обставин",
+      "source": "winner",
+      "relatesTo": "lot",
+      "relatedItem": "777adbaaf3044fc0a21f41d5fc583a83",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+      },
+      "title": "Забезпечення виконання договору про закупівлю",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.16"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1483"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "27"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "3a81e1eec1604eb7bb3b25cc19e4e6e4",
+          "description": "При наданні забезпечення у формі банківської гарантії підтверджується, що",
+          "requirements": [
+            {
+              "id": "06c32ec4ac1248e8b54e2fb926556cb8",
+              "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю",
+              "description": "Переможець спрощеної закупівлі не пізніше дати укладення Договору про закупівлю надає забезпечення виконання договору (в паперовому або електронному вигляді).\n Вид забезпечення виконання договору про закупівлю – банківська гарантія.\n Розмір забезпечення виконання договору про закупівлю складає 1% від ціни договору.\n Інформація для оформлення банківської гарантії:\n Банківська гарантія має відповідати вимогам положення про порядок здійснення банками операцій за гарантіями в національній та іноземних валютах, затвердженого Постановою Правління Національного Банку України від 15.12.2004 №639, зареєстрованого в Міністерстві юстиції України 13.01.2005 за №41/10321.\n Реквізити бенефіціара:\n Назва Замовника: Головний центр капітального будівництва, реконструкції та закупівель Державної прикордонної служби України\n Місцезнаходження Замовника: 02099, м. Київ, вул. Ялтинська, 11\n Код ЄДРПОУ: 23311317\n IBAN № UA038201720343100001000009841 в ДКСУ м. Києві\n Гарантія повинна безвідкличною, безумовною.\n Банківська гарантія повинна діяти протягом всього строку дії договору про закупівлю та додатково 30 календарних днів.\n До банківської гарантії додаються копії банківських документів; документ, що підтверджує повноваження особи, яка підписала гарантію (витяг із Статуту, довіреність, тощо), завірені банком.\n Банк, яким видана гарантія, за офіційними даними НБУ повинен бути платоспроможним та не знаходитись в стадії ліквідації.\n Усі витрати пов’язані з наданням забезпечення виконання договору про закупівлю здійснюються за рахунок коштів Переможця.\n У разі якщо Переможець є нерезидентом, він може надати забезпечення виконання договору про закупівлю у національній валюті країни Замовника - гривні в еквіваленті, що перерахована на дату оформлення банківської гарантії за офіційним курсом Національного банку.\n Замовник повертає забезпечення виконання договору про закупівлю:\n 1) після повного виконання переможцем процедури закупівлі/спрощеної закупівлі договору про закупівлю;\n 2) за рішенням суду щодо повернення забезпечення договору у випадку визнання результатів процедури закупівлі/спрощеної закупівлі недійсними або договору про закупівлю нікчемним;\n 3) у випадках, передбачених статтею 43 Закону України «Про публічні закупівлі»;\n 4) згідно з умовами, зазначеними в договорі про закупівлю, але не пізніше ніж протягом п’яти банківських днів з дня настання зазначених обставин. \nЗамовник не повертає забезпечення виконання договору про закупівлю та має право вимагати платіж (повну суму гарантії):\n 1) при односторонній відмові від Договору з ініціативи Замовника у разі порушення Переможцем строків постачання Товару;\n 2) при односторонній відмові від Договору з ініціативи Замовника у разі поставки Товару неналежної якості;\n 3) при односторонній відмові від Договору з ініціативи Замовника у разі повідомлення Переможцем Замовника про неможливість виконання своїх зобов’язань за Договором, незалежно від причин їх виникнення.\n У разі невиконання або неналежного виконання зобов'язання, забезпеченого гарантією, бенефіціар має право протягом строку дії гарантії звернутися з вимогою до гаранта про сплату коштів відповідно до її умов. Підставою заявлення вимог до гаранта є настання гарантійного випадку, визначеного договором про закупівлю.\n Кошти, що надійшли як забезпечення виконання договору про закупівлю, якщо вони не повертаються учаснику у випадках, визначених Законом, підлягають перерахуванню до відповідного бюджету, а в разі здійснення закупівлі замовниками не за бюджетні кошти — перераховуються на рахунок таких замовників.\n У разі неподання переможцем спрощеної закупівлі забезпечення виконання договору відповідно до вимог оголошення про проведення спрощеної закупівлі учасник, який визначений переможцем спрощеної закупівлі вважається таким, що відмовився від укладення договору про закупівлю та його пропозиція підлягає відхиленню на підставі п.3 ч.13 ст. 14 Закону.\n Учасник у складі пропозиції повинен надати гарантійний лист про те, що у разі визначення його переможцем даної процедури закупiвлі, гарантує надання замовнику забезпечення виконання договору про закупiвлю у вигляді та у порядку вказаному у документації.",
+              "dataType": "number",
+              "eligibleEvidences": [
+                {
+                  "title": "Банківська гарантія забезпечення договору",
+                  "type": "document",
+                  "id": "7ad43b15e6294928bc80a3e8c2143fe3"
+                }
+              ],
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-01T14:15:45.111020+03:00"
+            },
+            {
+              "id": "5e08e6acc4ed4ffead749de40fbc4d1f",
+              "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на",
+              "description": "30 календарних днів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "DAY",
+                "name": "день"
+              },
+              "expectedValue": 30,
+              "datePublished": "2026-06-01T14:15:45.111020+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-09T00:00:36.586493+03:00",
+  "dateModified": "2026-06-09T00:03:18.458640+03:00",
+  "dateCreated": "2026-06-01T14:15:43.070832+03:00",
+  "tenderID": "UA-2026-06-01-007217-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "9d0e8c630880471385d503ab48ec1ecb",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:ed996ed75a497ab4dab1462a4474df37",
+      "title": "Оголошення_блоки із м'яса свинини.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/227bbc39556142a8a121c430f16ae3c6?Signature=8%2BzSsiPNPseZBbnVMXi%2Bw8rjU8YshFGZ7rD22Jc%2Ft%2B0wKNgCtupkvqVmtVaqA0rW5OweqVVhL6yWK0NaP48eAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "255ccb749a2f4ef8abb0c530a88cbea7",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:7c7c45b6f3755b758f1611f178843fe9",
+      "title": "Додаток 1.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/08720dab88c5453994c34ae6b1463607?Signature=KmbtRaGPtoo7DdwuhUYq31AIo7OtbBrq9y0yGR8HAR6e6I%2BNQDIq66q3%2Fe4fzShjdyBUafaiFW1KxrAFAJiFAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "4635cd7166324f2dad8d0aa8c0e4d9b4",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:8d0d5c826b8a92a19e47c476f269ad97",
+      "title": "Додаток 2.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/9b77f074176247e2909f1053a5d0f229?Signature=4m93%2BtMROPaGJxu2fBVmfilGSAbpqZ2mNODRvMHYy7%2BgIlQO%2FlJqpSFIMpJ99ioaRzcl1SGoJqrE7HPvDay%2BAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "b660af3bf4ce42e2939ab3d183ca3188",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:97e47ec6d19f71c1d7052277aa0fedde",
+      "title": "Додаток 3.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/cc1e2549c3dc4e818709d460f62ad553?Signature=av7gFk6FPq32mB39fIkV2apNkcWeEyKCpPsNU4jxFQbb3pvBwHeDUAd4CMZvYRRIKFWNslQ5%2BuZKArg5I0R%2BBQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "e0a594157e31443bb7b16ffac228d276",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:cbe03db39c7abf65190c4463f8bd6702",
+      "title": "Додаток 4.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/e8f218707c3d40e4a3890668dde5124a?Signature=ec3OwMW41iUOI955uOmzc3GITYq59n05bTABlB1%2FaTowWnTZl99zV7Z5pOb0WMQChkvJITuoggSERBvCdOv1Cg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "986928a0464b4c1bafc655187121c6ce",
+      "datePublished": "2026-06-01T14:15:44.903033+03:00",
+      "hash": "md5:db985dc5d73f5294c95e453713184d1d",
+      "title": "Додаток 5.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/65bf87a90e2449e38903fc3eafd8eb81?Signature=FXgnNe1P5Agr6iRqtahAZaM9d%2BJEI3XK5ncWzI3n%2BH2TNxZySZf%2FJXbOyGDXVSluBVA2TY269FIIuviQgINwBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:44.903033+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "93505f00dec749ac9f016ef66a90047d",
+      "datePublished": "2026-06-01T14:15:58.420995+03:00",
+      "hash": "md5:0fdf1d54ab63be8eb905072a0e53196b",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/aee7424566d64715aae9cce6ce3bbbbe?Signature=u%2FKSzt2pnmbwzxla745cG9bDb9FH%2FwVWlS31BNlp0X1hYj2%2FM0dyqlahy1EXu8nf%2BTBE71hKT2Yk4oWiUHeJBQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-01T14:15:58.420995+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.auction",
+  "owner": "it.ua",
+  "title": "Блоки заморожені із знежилованого м’яса свинини нежирні",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "8c752c5242e34643b10f1ac1a90ada45",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "777adbaaf3044fc0a21f41d5fc583a83"
+    },
+    {
+      "id": "db49f7a2b36f403783f56da48b1e401d",
+      "title": "submissionDateOfApplications",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 14,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "777adbaaf3044fc0a21f41d5fc583a83"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "ГОЛОВНИЙ ЦЕНТР КАПІТАЛЬНОГО БУДІВНИЦТВА, РЕКОНСТРУКЦІЇ ТА ЗАКУПІВЕЛЬ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "23311317",
+      "legalName": "ГОЛОВНИЙ ЦЕНТР КАПІТАЛЬНОГО БУДІВНИЦТВА, РЕКОНСТРУКЦІЇ ТА ЗАКУПІВЕЛЬ ДЕРЖАВНОЇ ПРИКОРДОННОЇ СЛУЖБИ УКРАЇНИ"
+    },
+    "address": {
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Петрова Інна Миколаївна",
+      "email": "Ipetrova@dpsu.gov.ua",
+      "telephone": "380445276644"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 9532500.0
+  },
+  "guarantee": {
+    "amount": 95325.0,
+    "currency": "UAH"
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-05T00:00:00+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Блоки заморожені із знежилованого м’яса свинини нежирні",
+      "status": "active",
+      "id": "777adbaaf3044fc0a21f41d5fc583a83",
+      "date": "2026-06-01T14:15:43.070832+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 9532500.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 95325.0
+      },
+      "guarantee": {
+        "amount": 95325.0,
+        "currency": "UAH"
+      },
+      "auctionPeriod": {
+        "startDate": "2026-06-09T11:39:37.565000+03:00",
+        "shouldStartAfter": "2026-06-09T00:00:00+03:00"
+      },
+      "auctionUrl": "https://auctions.prozorro.gov.ua/tenders/7e69595988fc4f6f8a0453b4d6f3e1c4_777adbaaf3044fc0a21f41d5fc583a83"
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-06-01T14:15:43.070832+03:00",
+    "clarificationsUntil": "2026-06-06T00:00:00+03:00",
+    "endDate": "2026-06-05T00:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "203e185c05214f5da6f002ef10978ef2",
+      "description": "Блоки заморожені із знежилованого м’яса свинини нежирні",
+      "unit": {
+        "name": "кілограм",
+        "code": "KGM"
+      },
+      "quantity": 61500.0,
+      "classification": {
+        "description": "М’ясо",
+        "scheme": "ДК021",
+        "id": "15110000-2"
+      },
+      "deliveryDate": {
+        "endDate": "2026-10-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "777adbaaf3044fc0a21f41d5fc583a83"
+    }
+  ],
+  "noticePublicationDate": "2026-06-01T14:16:01.986891+03:00",
+  "next_check": "2026-06-09T11:39:37.565000+03:00",
+  "id": "7e69595988fc4f6f8a0453b4d6f3e1c4"
+}

@@ -1,0 +1,1274 @@
+{
+  "date": "2026-06-05T00:00:16.343427+03:00",
+  "dateModified": "2026-06-09T07:57:43.263613+03:00",
+  "dateCreated": "2026-05-27T08:41:50.373483+03:00",
+  "tenderID": "UA-2026-05-27-000357-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "07ef252f3d4b4ba5aa49b66a1010e811",
+      "datePublished": "2026-05-27T08:57:54.176911+03:00",
+      "hash": "md5:7eb820d3191e230600e8dcd1083dc03a",
+      "title": "Проект договору про закупівлю основний.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/8e8553d8b1694802bd1c4c81f6f546c1?Signature=iDy%2BCAsa%2FoK0ywwVmAK0%2F9lTCQS%2BEH%2BYmPLidmP09FzDbgSpl7L%2F0wfZgSY39Z18hGd4ych1r%2B8DVFpLl3v3CA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-27T08:57:54.176911+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "dba1f08bda1b4e08a23497b0cebcddbb",
+      "datePublished": "2026-05-27T08:57:54.176911+03:00",
+      "hash": "md5:62160dcaf252165a768a7dd51541a99c",
+      "title": "Оголошення_насос занурювальний основне.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/518a6746d44b4a51b3934344eced1e33?Signature=%2B5P6idYbX8vOj92tOkjOxfF%2BniwocnOrcDIo5E7ZYq%2BAgpzueTRFvbEmtB%2Bx%2B5Lsa7Hz%2FrV6otyPH7kmMf46AQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-27T08:57:54.176911+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "b39f1b3810ea44f1a5b1b9d8906084ef",
+      "datePublished": "2026-05-27T08:58:23.354943+03:00",
+      "hash": "md5:354471a60ed05fb97b845da656db962f",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/e186bdca0ac441ef9cea2429793f49fc?Signature=uI2hdf%2BgvXum%2BUXXkr7W%2BF3oy9mcsstBQlBZZ19vklD6hkdlWnmFBYtvGlrP8nlhviinNpRV%2BTv18vlM3OtaBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-27T08:58:23.354943+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.qualification",
+  "owner": "e-tender.biz",
+  "title": "Насос занурювальний (2000 Вт, 170 л/хв.)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "1ea83f31930b40749f0d4c10facbbedf",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "bded844b401846a0bb2dfa9e6b0655fb"
+    },
+    {
+      "id": "0a6183d2e2ee40d09294c7889253270d",
+      "title": "submissionDateOfApplications",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 49,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "bded844b401846a0bb2dfa9e6b0655fb"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "Військова частина Т0910",
+    "name_en": "Viiskova chastina T0910",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "26632223",
+      "legalName": "Військова частина Т0910",
+      "legalName_en": "Viiskova chastina T0910"
+    },
+    "address": {
+      "streetAddress": "",
+      "locality": "",
+      "region": "",
+      "postalCode": "",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Рощук Андрій ",
+      "email": "3vdzt0910@dsst.gov.ua",
+      "telephone": "380930439533"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 66480.0
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-02T00:00:00+03:00",
+    "endDate": "2026-06-05T00:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Насос занурювальний (2000 Вт, 170 л/хв.)",
+      "status": "active",
+      "id": "bded844b401846a0bb2dfa9e6b0655fb",
+      "date": "2026-05-27T08:41:50.373483+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 66480.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 332.4
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-27T08:41:50.373483+03:00",
+    "clarificationsUntil": "2026-06-03T00:00:00+03:00",
+    "endDate": "2026-06-02T00:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "61628ed44c6b46e6bd3f743bef7675cd",
+      "description": "Насос занурювальний (2000 Вт, 170 л/хв.)",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 20.0,
+      "classification": {
+        "description": "Насоси та компресори",
+        "scheme": "ДК021",
+        "id": "42120000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "",
+        "locality": "Червоноград",
+        "region": "Львівська область",
+        "postalCode": "",
+        "countryName": "Україна"
+      },
+      "relatedLot": "bded844b401846a0bb2dfa9e6b0655fb"
+    }
+  ],
+  "noticePublicationDate": "2026-05-27T08:58:28.635733+03:00",
+  "bids": [
+    {
+      "lotValues": [
+        {
+          "value": {
+            "amount": 64745.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          },
+          "relatedLot": "bded844b401846a0bb2dfa9e6b0655fb",
+          "status": "active",
+          "date": "2026-06-02T15:58:56.628971+03:00",
+          "initialValue": {
+            "amount": 64745.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          }
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП ХРАПИЦЬКА ОЛЕНА ІВАНІВНА",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2164614862",
+            "legalName": "ФОП ХРАПИЦЬКА ОЛЕНА ІВАНІВНА"
+          },
+          "address": {
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Храпицька",
+            "email": "xo0677590033@gmail.com",
+            "telephone": "380677590033"
+          },
+          "scale": "micro"
+        }
+      ],
+      "status": "active",
+      "id": "a54b224495534680a80056cf9b99b40e",
+      "date": "2026-06-02T15:58:56.628971+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "465c1b49e4d64795a955cce2d7560816",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:693e133c50673e6af86226f4312bb376",
+          "title": "1. Виписка з ЄДР Храпицька О.І..pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/a08594cdb0de44d3844f2c83efcc40b1?Signature=nilfbRBCi%2FO6F7pYand8Fd%2Brky1J2TuNFyp9PDfPp75bao5CRsmHrZ5tvyyLe4AlqEtfINe2Y6Z%2B30%2FMUL0RDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "c24f418fadaf48259023f3b8677bab33",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:da2472eb9dd8ec92081e9625f5a109ca",
+          "title": "1. Виписка з ЄДР Храпицька О.І..pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0924b2e26abc40aa9059fbd8628edbd8?Signature=FgPagId2bjcHuFhAbPxmVwA2V4QzqOB19KTZNQGCVZCERwVV%2BPDjOTjOcrSONxIHEjQkSDG5hMkg%2BgbBuj%2B%2FBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "06da95307bfd474b884d1005abb8dc8d",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:83cea790fa4c6f28eb59b59b4e68809b",
+          "title": "1. Витяг з ЄДР Храпицька О.І..pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/835785d35634421696f8bf9beb540640?Signature=igI%2BA3FaD0nehFJ87aws%2Bt3KcnZl8anxoPxctHjMfJkVayjhENQz6dWuytK6KmdoGsL7vad%2FBXQ5XEHzKYZqCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "768b9a2df1774e4a8d882d3a5c70e816",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:0dc2dc5bf7a6d41f099b9d951122c1ad",
+          "title": "1. Витяг з ЄДР Храпицька О.І..pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9090ce2cb5d04ae9b21dc0a482c1aba8?Signature=QzKLdUgW7hwnmg9n%2FuBa6soJBvCJDtfbZYP2%2FUNZIcTXlQQeeawWeD3HbwazwfcBoUqoH37H%2BUKfBzfj%2BOajAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "388d0186a2ba41fc9665676d8e1b5162",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:ad48af8089037e35ac2470e70a2bc6ac",
+          "title": "2. Витяг з податкової ФОП Храпицька О. І 24,06,25р.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/68bbf7d77b4f49fcbc3d23d9b0fc0aef?Signature=1lsylhBfJdkaRX0f6MKJeNZjiiK9ISr5oJrD55%2FYz6YCawKlABWOXpKjRF6BXxUwWVEMkRCed8tWUZVcoTzkCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "41eab3aa72344aec94d19c68cce809ff",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:71cf321fb3d6a77b829b9ea10e7855e6",
+          "title": "2. Витяг з податкової ФОП Храпицька О. І 24,06,25р.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3f31007e614f46289cc4946100156685?Signature=I7TRxL80G%2FeWFESNQQHuY%2BDNeBXnXVp%2BaCSfrXj%2BKLWpxNeaGhbLqxWjCMcClg%2Bm8EfxUI2ZC%2BRvzyOahzXrAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "1cf0294a413c4491a049fc3e045d3409",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:f6be29f3ee6218c77e68666e4f0628df",
+          "title": "4. Відомості про учасника.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/2d686420c83246b9990507e19d736a54?Signature=X2hw1IIIKN1NfKFi0JUXoIIlD7rNyNlVaoPk86QGTd4z0nJ3kQOdb50utoTaTxZiBb1zcyT49QVKHE2VoKpFBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "f7076c06dcf241749785d5dbcd5ec822",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:30bdf15d42e21b7ab06a01ecc8de90cd",
+          "title": "4. Відомості про учасника.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/dce45c2efa5f4002bf8fb2ab04b2f9ab?Signature=aMPiuGnzgfblDg2AH7REXy3hVJAcm4J5doHaxusf0Lx7ZzPi%2FgH7844FjaNej3xfIFLF63PlBdauyC1TKBCGCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "51571dd2bb274be39c0858f8bf95a17d",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:95140457523c279b1dbdc386877f16fe",
+          "title": "5. Гарантійний лист не громадянин рф, рб, ірі.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/a2c476286e554862a9a181eb74454916?Signature=vNKSkgWA0xKm7%2Fb8JmmTxzMkOMwuGXkFlcpAmNLRKz4mGodPaus7CjllH02CoDqzUqMfpx%2FNa38pnkor5%2BB4BQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "f539abcf72654fbcb2a379a73bb0b8c0",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:78a8b92c4d47fc74942aa1f25e40f898",
+          "title": "5. Гарантійний лист не громадянин рф, рб, ірі.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/911e2c3d76e6491aa1f9794f01e514f5?Signature=yOlLkLJN14hEp3PWvmRRObL7RRBSDkcKm%2B6MeLjl94gMqpNA7Bue6tXqHDIgE0%2BBBE2vZpG7g0KqjYfdMjNUBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "e5bc1ee92fdc49e68bbae507a8ad43e6",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:179802a220f255cf9fa4ecf9e76e6993",
+          "title": "6. Витяг МВС 05.05.2026.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/dbed9f0c285f4dee8d56231f992a49b2?Signature=hmKoO2x%2FjhwxqgSDdYocGT8DEf8r6uvXbnWIpxt0HlaM3dVzh1d11ab2%2BQj8mygvF9jM2x0OU19fpKWwjOvlAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "2371c4bf645c4e28b24eb85619de1c23",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:788b10cbb639dd56c5650ecf08a16497",
+          "title": "6. Витяг МВС 05.05.2026.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/fd054e3461f44524916441c918a54133?Signature=o9Lqdh5%2FZSREpYNQtS9D0MX%2FiixzZYT9oCyBHIAl4sD8lS4drbYqba4%2B9oOblLazQZ8uUT%2BCqSoX5z0cG%2FN%2BCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "bb3b682b1af74190af24095fe2c41ec6",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:a58c86bb5acba5882d1a5b26dde6a249",
+          "title": "6. Витяг МВС 05.05.2026.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/35d2e6bc49ca416dbbe428edde1c71e4?Signature=Bhejix2ny1LMkTkg9cGUQ%2FtUgZdoka1iErEu%2Bo5HiZ7MYJuyLxMVpFB098ksSoGOUpZYC8Rp1PpXdr8RXlLKCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "dd093c69c73a4d47a20d1f07f28ce520",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:89ab77091d30b11fd50ec6c75a97c75e",
+          "title": "6. Гарантійний лист товар не рф, рб, ірі.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/e07ef23d9d87484e9d1459ca6014351d?Signature=HfgNqhqnYNAFMwgBfIguaE9k4tqLiXhDfzd8Nv8NZTHRJSJ3P0K0YfUuBE81W4c5hxB8zTSSeLXm1pLbfmiZDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "707716fc9908492b8879fc37d1222f69",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:1b8e3dbd3e99dc504b59c2ee29954b52",
+          "title": "6. Гарантійний лист товар не рф, рб, ірі.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f1933c0040934f9db0cf706203c738ca?Signature=1XZv4eoM1Yx594wrLEYR2zmx%2BYzOVWVgWrmazlrY2ruWPzaUJIL%2BliIAzk%2BaUmKWb64hBy5Htgr21ObDoPV9AQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "25a25b74bd4a49b7a9f0511e0f2f415a",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:fbd94c32e659a2755f4bb8dd491e6dd9",
+          "title": "7. Довідка бенефіціар.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/827350f80bbc4ff395e34517fb44f819?Signature=UzOlAWaasN3iwozaysS9dtx9W3xdOa0sG%2FBfqGDboO3wn4iAl2iM9Qwc9ksmgIZmFICFtC3ms4g99SCH0UPkBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "53613212a6f44348be8c6a38d05c811a",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:93899e29e8a6504b152008dbc93b6773",
+          "title": "7. Довідка бенефіціар.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/35e8e7e0cc304f9b9aa3aaf0b2009f33?Signature=psOjHRLO87QLVPkCEqas1Hx1V%2B13vUxledP6ZtLuAgbmaxFI6h02E3kgX6OlAcB6024tvZV5Sh9TSNXPmRlGDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "6c31e321dffb47eba8475d381db6f0fa",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:e7d94b5623e1426280cda0d5b661d910",
+          "title": "8. Довідка громадянство неперебуває на тимчасово окупованій тереторії.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/becaa8947048469a858a486cc1927228?Signature=VW7W9DRTpVTspP%2BIANYJOEhx9FOl82qV7HVrj0sm5Zytqe40GP6eizaijr4TDRKgriIfgrkH7J66Oad8yRorAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "84b2126090ca458c8f239a3d1f6c68fd",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:52e492054e0977ff08d2fb715d0b8274",
+          "title": "8. Довідка громадянство неперебуває на тимчасово окупованій тереторії.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/feed5cd005ec495db23c1cb6fc182364?Signature=LH111My%2BKUd2LuaVLr87hZH6xbDmhiHvKtFC3c3Cl5RLtxlwZdez2QOEBZVPCPF%2BDwMEn%2FJvudutOdor4r1WAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "98d53c9669a6438290b61177d82d12e6",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:96780ab1265e0517253c655d1c77a512",
+          "title": "8. Довідка НАЗК 05.05.2026.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/57e740388a36426e8624d5203bf2de63?Signature=q3RJ1CvWb7njvwc11i87zmI%2BIgJmjGgViF58hntFWvZZ9BTL1k3%2F8eGd3p6IKTTm6Ausyy15ZzXOVi5tho%2BMAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "4877e781ca13462ea7c4f867a3b70029",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:43d45f8613fb5aafa560407adaf898e5",
+          "title": "8. Довідка НАЗК 05.05.2026.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/99f724d034c6496182ef8735666ccc72?Signature=IeNpzYO6r6ZDi2k5dzZyCi6GS8vLYbSm4NT6jt3k2wXljxnJOMAqEVFeG3WDmFrJBlYkV5vfqwwH4jgOqdXEBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "eb4d2a40a17f44f1a8b3cf8d35369799",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:7d1ea642bb5896e01a2b0f2bbed60c72",
+          "title": "8. Довідка НАЗК 05.05.2026.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f70c1747e0194f20addc95060028514d?Signature=E9N3Jc6pemTjLGKSbRE2C0Tq4yQtuPt3FH9hPq2J1CFTTO%2BZ7P%2BlDQBqhm0Ct2ChgK2%2FV%2F0mf9BNWj3BIjhZDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "a7b535e935b04f6ba65686d477214511",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:70d4c9a7431f3d0cf1e8d24976c8d455",
+          "title": "9. Довідка дитяча праця.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/d6b96359110c41b78e998791f8a23649?Signature=DGonJeHCJdV8QYIN%2F%2F%2B4N8WNxV6DHQPTUdGsU3GePp3wP9vaKHq4%2BwVat5vbuUvdr7QPjIkg5U6uxLS6a90RBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "f1ec2f55da1a4d108841d6f657e0b3fb",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:fdd816e475d0ca7db4357b1ca8198b4e",
+          "title": "9. Довідка дитяча праця.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9307df41ee0f4d6bb37a4bd19b6190c8?Signature=IFLtsOQX9NJM0Qes%2Fgz53QNYA6kPofinvW4MyOEQG2wubas3LjOzdlYRTKQpy3me7WLpJz2eZhQZpmSE%2BgAACQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "c78631c4a74f422baa6ae8a558375efe",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:ee3ee14c0a5f82f83269747150754281",
+          "title": "10. Довідка ліцензування.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/8502b6b35f9f40079c79eae2eb323f41?Signature=qicOFDQ3u8D3Vkc3fvJWT7v24qjTIIMw0in02BNJWnSkZhvzMilCkuQwKaI6WhXM3lSwtSFSh3yK8rEm%2FKntBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "93ffacbaa7ed414c9e27a207e8982d66",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3c2291c64a40576a1237b6ebf2fd7741",
+          "title": "10. Довідка ліцензування.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/18673fd8c3084c1ab59ad156f4629859?Signature=5jOSEOL9XIx5J0q%2BHvDrFtxFhHQns15QgDM1C0wafxRoxPWq3NWPU205ErnjAbEG8Uy3mTbAOXudwmxd9xCJAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "92c353971dd446cebefbc5463284007c",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:b4f536044f5d8375369026dbcb43f49a",
+          "title": "12. Довідка про відкриття рахунку.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/97d36dab0e604eb08785a5adb14edda1?Signature=Oir3piS2GfbBnjOR14HntMi1c80hkt9yu%2BBdV2VW30YkoLl5V8lK4jI98YlH3yKe3%2BofrQWRxK%2BH04YSBDpxBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "3000402af97046de8af74b590f7aca4e",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:216cad1e04313122df319d781f42a92a",
+          "title": "12. Довідка про відкриття рахунку.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9f885f3445d74023a4ec9199ad6db7bb?Signature=iEuzyBsC4SUaRdx8%2FxZY8AzjWmSWvjZlL%2BNU%2ByBjhGbStPHqa9yuHeKa%2BIXZ44TE3lteToBxuubpkB9SHI2EDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "ea145411534e4f089123e7010631e711",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:1fb064bdb1f1be83774c018fee294e7a",
+          "title": "13. Довідка ст.236.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/3ae0631d96f542d68c6a2ef3465945f1?Signature=oGBNaU6pXsHAwyChzAFEZZE0Pw%2FsGgjKpzKfEFtszuEvQ0%2FmNnk7M03VV92Pytil8AjxA8kQTd8zvdVaP0LSDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "078ee80373f4408eaf520166f0a3de68",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3b98f58ddd2dfab74c88f266c5e6f621",
+          "title": "13. Довідка ст.236.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/29ad7f456eea4ced91814f51d0f5691b?Signature=6lePWcUCEsNlO2pNLF0k22hj%2FZlkw3O%2FfT5%2F3kLyrwxtqAlr1%2FBTRWk5lcdEH3jls5XChm5TTWZ6oUVoQ7QOAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "4b085c54668243359b56921525f09e6b",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:4de8c836585391163bbfe706a12f7e09",
+          "title": "14. Довідка довкілля.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/eae193dc4a76451bb9364d4c82d249ef?Signature=GmUPoqQTB%2BcxOFjWxcUAeMVEpsJj3YqiSxvBvZW32sejeTuIPT4zJOYBT8ZLBuIz%2Blv0t6AwxD%2BSR4GA9qplDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "c412fce2601c430ab74b459b3ab6f2ab",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:1a2b704b487c782ce71253bbced5f7be",
+          "title": "14. Довідка довкілля.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/8189b61fc2424066848474afd1ce6da3?Signature=0nYHUufJ2rOOhD2i%2BzEXQ7gKL0Zks9mBkn%2BlwTppVOQAb3k%2FrkEtg%2B%2BpPFGDpLbgZ3Rjv3e5kw%2FyEtg8eWXrAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "dab49132d2e6456bbdf1a167f230b26c",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:1aedefb005a395d4ea69ff5035625009",
+          "title": "15. Довідка санітарно-епідеміологічної експертизи.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/592ea2ff82bd4958b425b4c804f3b073?Signature=NsDVgkSziPLKCPrrJouOJ2vzSxeS7mCUyWWL7EA1s%2B%2FUZLO3Noiys7F3TGOrrrKEzIWavChJsKUarJcfS0dfAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "7b4fbd98632d43bda6704e2b529b9309",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:b1c5294efe5c8a5209e5650ab4ff78e8",
+          "title": "15. Довідка санітарно-епідеміологічної експертизи.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/efff3740f0e74f33ab68b37c47dbbfd4?Signature=He0A%2Bs4%2F752ycT9yKg2IFUi6vL9csnuF7bBwQgE18Nue1IS3LU7XPC9AZWAFB65encPnOBvNVHObgy0XdTNqBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "abfc2d1f0fa048fb8ef47515e884fed8",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:74ed5cde2f9495ed87aaa6800ac13990",
+          "title": "16. Довідка товар не РФ, РБ, ІРІ.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/29dae948834540e49591ce21d1317e03?Signature=QLT2JDikh4Y2EQURryKrIiXe%2FUQxBAlKMR1%2FGZg3iU6FUUSpWin0GJuHr7YpjWTFeJpR1hoIVoliUZ5lTFyCDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "6fd9bc05490c4bf8a65b1d3c552a2f4d",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:c6a9ba48f056c28d7d002d8218706872",
+          "title": "16. Довідка товар не РФ, РБ, ІРІ.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/988d13e3b76543fa990adece67f00307?Signature=LHnqr7NRdYTFSqvOpmgjkiytjAFOYSoCeT2Ksm5pW%2FkRZBq8ifx2khNQesX91BJj5mB%2FNZoExHzXe4MZ%2FnUKDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "00f724e67821427a9ba9ad9635211207",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3d79ff04be1d7d61ed8418ef524378f8",
+          "title": "17. Згода персональні дані.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/09561cfa4b8b4f88859abe409b9036cd?Signature=2IAPEEtEN0WtoaT%2BM%2BffZcGAe%2BtTPpZUTVZOQm2XCne4q4Lvsiaoz965kdvzDI755MQ%2FHIiSYABeFuDy%2Flv%2BAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "b8874d1f5e1f492fa61ff38e6ea3952e",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:718d9376c061206f9c61e3161c548e64",
+          "title": "17. Згода персональні дані.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/8395a8bba630428a8b53abdc57916ffe?Signature=yWUWv3U5wli7n4vZsFW1ZL%2FsFi%2FtTnPVmSnBOFctt0Zp8HBUNjPR7ND912TrpeJO%2BZmmYdXnnEAxUM9doHQdBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "9639c1179d8b494ea6d1c4ea24502897",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:956a064ffbbf3d61f88c2948f594f433",
+          "title": "18. Лист гарантія 1644- VII , 426, 187, 1147, 1207-VII.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/7610b4d905574b16968f4be2ef28bf60?Signature=KVrXhx5p3GgCtPajGCiaNjFkNgcl2uZ7IiL%2BHHlorFBy8m3VoCvFUHOo%2B5d2KuKsgwsTuCBRkA8AnHV1znPSCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "7cf9ffb8bff243e5942d991f87d0e5f0",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:4cea3bdf61f4a045609cf92a4a46332c",
+          "title": "18. Лист гарантія 1644- VII , 426, 187, 1147, 1207-VII.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ad6acde1096447aca5fe26ecc89ebec7?Signature=Q1jGi5nIQZ2DUgkSCLr0LvWDWGsHAD6YtkW5b4sTQO188o3vtF8Gjzv3yNzwFwEhjdLJqq6c%2BFqcdw9W4vnFCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "9defdce3a2474f6b9515946eebde72b1",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:a01cadf3d5b5bce3f61da3a257ce3a16",
+          "title": "19. Лист з погодженнями умовами договору.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/2736dcb4067140c3ac2dc8e17aa2aec1?Signature=NqrkJON2x9SPdAjFDyYnijHu8WRQIGwAfm4xSRq4WL4gNUAUw7unJba6BF6LG5fY01ipXlWAkyV%2FrFfDf92eDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "2f01dd09a4eb47e8b564e3df69fdd638",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:2e9477035c09235f4807af98c39c4f2b",
+          "title": "19. Лист з погодженнями умовами договору.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9b9e6f35a8c24c558d62549a89b0d314?Signature=%2FysHcOjeAuihAa3ZibHoPPStupQoO6qry9b6VY64RExiBjc8g2ShAKUI2QUIqCEuXhkwUo7iqayFjh5%2BYf8GCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "756b36cd162549bdbb0e5b60182c58b4",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:35a8488a8b2967bf2ac7d350f5217a1d",
+          "title": "20. Лист неповязана з РФ та Білорусь.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/ebc5ff2fc14747e6b9e087da7413febe?Signature=C6pDDYrGgKHNvJE4IEpNqjyJm9UAvWMniRH4WPDAiIA8AUkoBeGhTijdyhhn%2FAje2GOBU9BeorE2ios2TC0zCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "2751e71cb4ca446ea44cb99a159c485a",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:419040c092bab313e66a018bd7a7318d",
+          "title": "20. Лист неповязана з РФ та Білорусь.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3755f5d4f6fa452a85bb00fc17837469?Signature=VFxs3Yutep1wVo%2F9iKVipOlEWTdqIWfbsuvD7gRJlnFw7QKtZiHqkMDAO4RE39AyCjMXVSra33jBD9aUuBYiCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "447e4d69a49c4002b52604c7c7500bbe",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:cabf547aa266e173b055b323f85190dc",
+          "title": "21. Лист право підпису.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/f5f2a177586a4ab3bb318965d225ecfc?Signature=rZ8IIqG9NeNPMk63IUO7mAJGe8aIhrFl562lFypsN1NMmA%2Fd0VSa%2BhgZaVTCZQimFoss2JMnEEBIiCbzdjR0DA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "707ab14ec7af4a7db1c88e7be897c660",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3ef9f54cd59ecc0161e1026951698cd8",
+          "title": "21. Лист право підпису.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3f14ee29fa464a6f85675b2c0f6f830d?Signature=WXGDq2s5M8Ip4KRUCSWaLvwNE8vg2lmJw5dg3gUJLEu%2B68K6nd4aWEBU%2Bge0eXnUfXNO%2F%2Bl6H%2Fq47RBejb53BA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "84826a0c0c774045900d35070e25f5b0",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:2ecde5be497aa16a8eb9c4ba3a6195bd",
+          "title": "22. Лист щодо несертифікації.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/4ef70bd2f75848338cc60c69f15a8adc?Signature=BXpU0HUDYgRtk29a%2BWSIbUIsIHKBDwbKLb1Xuj2Ooqdd8msbSYCR8Zz0aJGqHqKLkS6k1tG5bmvs%2BGFv6tlYDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "cf2071b851ab45b08dafe432c3f7b014",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3bb0271d601931f8ed84378fe6aa6150",
+          "title": "22. Лист щодо несертифікації.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/800fdc25a3474466a017a3b70853e9ae?Signature=Fylgy906sD7D3snPSKdz4WXJpqlgprO7YPUsvb9%2FUG7FCwrpyjRFTo3Hjb60UbUxJHKPuB9yZMGSHKuGz9ypCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "35c644347f614a5eb7464256422c815b",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:4d929570c0ef69de2175a30a6786d859",
+          "title": "23. Лист щодо повноважень.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b45c84a1c1a44cb388464301256ec30c?Signature=AdjzqTjsQSl3lrG3qfWQLJD8m6x0hK5Bra%2BcWNBK1ihhIl%2BxltV%2F6Si0TtcFmJweInxpgdScpZQ7q1Ji%2BUUlAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "8b1fa9be763f40cb82833af4da8c7cb9",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:787f53b8aff7abbba48f7a5a27d0ff30",
+          "title": "23. Лист щодо повноважень.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c7e5b8184ffe4825ba5b833bfab6aecf?Signature=MTmU%2BVCN6GDrAEFkibvayWvSGhuwkGgX8WS2ddjrEcJMAq6PS5GYWPrXnV6wRdVCDQo3qOIMcKbsFAHm6keTAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "07efe502999748a8a9301226e704de5b",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:95e8b291c8501bee43e30328212a40e9",
+          "title": "24. Наказ на директора.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/3bda3cf6dec44c619b10f4d57a3d8120?Signature=opHYVlBDfGxcEMUzS%2Bw8hJVGHYVqC5WZtldV1%2FYYDaKgT4dY7AJntqWMX39Wa5TgX6o9rSg2mXl0C0rEEW6kBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "d92f5f0c67d348baa9c7175997928beb",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:65df204441fdfc09701740fda9db302f",
+          "title": "24. Наказ на директора.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9a2740cc09004497b97a0b54a9fe14e7?Signature=6dvpPUSJD%2B5HnncnwFBnwCk%2Fd8iOyMU4w2KsQ2%2BLuClDn%2FiT23dARq21bGmpxvb4r911RGZYV4VHTZ9ClXioAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "2ce4ccdcd1814b3c8c6e7770e254cd18",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:df440280580371e1f89c8583309458f8",
+          "title": "25. Паспорт-код Храпицька О.І.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/63d18064a8b54c9d94c4cb1796640e2d?Signature=c6an1bK5sswmMAB9goWYMt0pvUiZl2sd06tPWV%2FqUv0Pg97w3ZyzjGdhlSP8Dp19tC4tzP2XBYqSl7YK86R6Bw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "ffb08ed6807e4f41a4d8563c7fd56992",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:e544092edad3461d352e380a1f186f0f",
+          "title": "25. Паспорт-код Храпицька О.І.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/cc39db107fb24d64b04dd1655b846922?Signature=5k%2BQmlQ5DLbiiYS6OOVdMXhZp9BLHTbR3dMRmDP8DjV5Yfem55DGYH0SFmgzlINykMIf0AbtDzXDRBfsR5wrCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "ebb5329770c44c6792c6ac3623a6a471",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:e509824116ff86ba3fcbb5e6f1a54648",
+          "title": "Гарантійний лист.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/9e3502156c3e44328bbc6a82630267c5?Signature=mCW6AoqGdzLrjeCMs3%2Fx2WXQBTVvpdhWJk76iiDrddHBdSPsEWtukWaMv6fbWjMiAkZNpc8K5DcdR34OMVAQAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "594eb1fd322a4da885c1c116c235eeb4",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:2a1e44a6796edb9186d130273fdc084b",
+          "title": "Гарантійний лист.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/d403e32c68de4963a4ac681f83b90517?Signature=Doe10uR04%2F2liS%2BEpRKDey1V4mPQLTcIVK%2ByyriKaXV82WJoZdVmAFO6CTX4iQwQJjD3cukiYUL48Ktx%2BtWhAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "3f2aead19b66413c88064f4f9d26bc0c",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:49453ed3f2002825d84afa27226a2bb8",
+          "title": "Гарантія п. 47 Особливостей.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b2eb4e1745244c5e84b76fc945b8c7e9?Signature=AHlnfLvLe5cSJrYIAKB3hJwbGDkib8j%2BBbL0yjc49r11F9gfclH61jlRLO3A0zl3Qhche3XrEs1fvhN8Tj2kDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "50eaeb921a5f484fa9ce6a7e32dbb8ec",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:6ab19d65b03f161d70054e6a7fa13543",
+          "title": "Гарантія п. 47 Особливостей.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/e029ec09e5564f20a988503e9d512d28?Signature=%2F8216YzVj3LIutzKTBufbQC%2BJJI6hhgQntX4eQyyAUUb%2FoitQF3TIoKmwSgWjH0foV9w9vwBLZRWKH068IugBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "749c0a4870004d94ab420646c7779a19",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:1a89b0191661e60983acdb8facef38c3",
+          "title": "Інформаційний лист.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/91a56aa8cf614a78b2cdc4bfc9b65403?Signature=%2BVSmXHhnpjhFCTllRcWaS0L8FjGiDoHPHtUIMQ5Uy6t%2BJR0N1Dz5HpH0apqFkpDxxjOyHdUiB8sARX6pBty6Ag%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "a1d349668c3e446cbd7da5739137b9ec",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:84f766cc76d4d88969a80eacf5cff8b0",
+          "title": "Інформаційний лист.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f53b776ba2c3401dba518b52878011e9?Signature=IAaZ18yLio8fog7nQ%2Fluvzz%2FbOdzf%2BN%2B%2B9D4NTVjzEJ9QbX4cRX1npaK0nXhCTbiJKgt0%2F3BTQ2PYhH3uJxaBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "8588e87ee93a45fb9bbb092b16524bb7",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:2ccd7ec6d6c311de7843c44fcd3d5ca1",
+          "title": "Лист гарантія  учасника про санкції.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/fd536149f57540a69b14a4093a771fc5?Signature=PxwbArVxBDPYyiXkbNZEvrXGE%2FOzeK0PnqtLi2F4K8Zlbrw9vq19ZILxWsVKo8GJTlMrPM1uYAUBVyllcS4lCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "dffa0a6249074116ab46da4aeb58e197",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:06ac78dd2096129902861d645f083547",
+          "title": "Лист гарантія  учасника про санкції.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/7b7343489e144419bf00c4be5908c3c5?Signature=UF6Wwd3CwPCx8Ed5p5v72Ah3080GOgbmQ6OkabS%2FoU%2BVSW%2FWusFheCddiCIcBfYE1gneJlkLu%2B1lM9q1T2ojCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "24c508a9ca0344d5a53e530a23f955c9",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:e0578f8eda561a0b7f86f1c8b74b2303",
+          "title": "Лист гарантія товар не відновлений.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/dbd1eb24f2324f08ad09c5c18207bcb4?Signature=9aLx3TCLanuppMKDb8pt6eIjb9wI0jYzFbvpwamkXOQmq7%2BuLYLIOUlcmZRxkeB9GJpyuL1d8anhHS77SVbECA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "9fc3baf20f5b4c4d99434640432a044c",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:ba079262fa04b6f843e37b562a55c71a",
+          "title": "Лист гарантія товар не відновлений.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/a2be6489cbdf4341827d712df2cb4b63?Signature=fIRW0IGmlrs6J1E12X0R3vHs9YLJOWV5B9swyonCIiK2H8kDykA%2BAx7GeLe6bbfcc57MsdmlgEaiAghO5snwCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "caeecd782b4e480d89668aebc2f9c3e4",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:6c0379f82ff49cfef51c8ae363543d4f",
+          "title": "Лист-гарантія про гарантійний термін.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/a2b14b48f96846dba9d7ab639dea8df5?Signature=DSGXbDTO67gJiVRcyM50nY0W4wGgeQdCGaIf%2F%2F%2BBdXWN8ou9WoDVcv1%2FhF0tAkKOaXVHUBrDLxnGL9XuIv6qAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "id": "7db1a32c5adf4989ace68efc9224ac53",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:27bf255373193741b3dd38d9e9afc0d7",
+          "title": "Лист-гарантія про гарантійний термін.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/e7e1ee05820c4db6b81f310e1cb170d6?Signature=OZo%2F0WmcgXm9HzvWofAMg5t3%2FQsXfJyaf92O3t3Hho8ULvmU9rPNck7E%2FMLu%2F5bVMiLAQTAW%2B%2BAg5V9KwoUkAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "technicalSpecifications",
+          "id": "57c1188b8d7b43dc9c2b33d9ccccb3e1",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:5dd65afd30c09f3bf8bb16e682843155",
+          "title": "ТЕХНІЧНА СПЕЦИФІКАЦІЯ.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b147d1dbfb194acb9472862878184700?Signature=oWuDe8G2tIo3vLS9Aa7pA7P9vK3aeMgO05Vt0gu2ZMV03a92NBUXEKdzmFWzIgh7%2BFJCeVPuHJkCowkCffaUDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "technicalSpecifications",
+          "id": "cc44688cf1af4bb5aa7465f60dd421ce",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:f98f056d89664554f8a1cfa9b3ac45f3",
+          "title": "ТЕХНІЧНА СПЕЦИФІКАЦІЯ.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/398244a531a244328a230a5d0508108e?Signature=VP5FjCY3bkWkUAeGyDB26hNwr42TSYX1rrx90Ejnb0%2BbqZxEq2hyY7KjynAbA19TArCHa2eoD3C4Mqy3KmJfBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "c3eca7dbf59b457898ae123321036c57",
+          "datePublished": "2026-06-02T15:58:56.521363+03:00",
+          "hash": "md5:3c0da33423e0aa3e2a7a6cd56ba55e69",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/531ea8d76be246aea7924a38812507f8?Signature=Dd0k1SC7E5Pe5ueyDUi61L4VIl100ZEtDT0pfh9vZPxQjMDxYi%2FIVEiFsiiDHKerw%2BRYSjTFir%2BoYFElqZP4Ag%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:56.521363+03:00",
+          "language": "uk"
+        }
+      ],
+      "financialDocuments": [
+        {
+          "confidentiality": "public",
+          "documentType": "commercialProposal",
+          "id": "84d80d38db484f208fb0a05ae7dec967",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:3cb4563e19d33e52bcd2c29473c25c87",
+          "title": "ЦІНОВА ПРОПОЗИЦІЯ.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b676191165ae407da18db252c20fd27a?Signature=dHZIs19WoClFdPOnxTKxeDZx%2FLmKrSf4cnB8yzAhbesQSyusKtSD4UHoT%2F8hJTGzQMRUFs8M3f6hpexVO7x6Dw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "commercialProposal",
+          "id": "0f8beb92468049a79aeb6b069132f6e8",
+          "datePublished": "2026-06-02T15:58:30.585247+03:00",
+          "hash": "md5:4c6a804427cc4604004cdf7e984aba86",
+          "title": "ЦІНОВА ПРОПОЗИЦІЯ.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/219ff7772e3a4be6aed55f7eaec1e4b2?Signature=GMHAN4jkJuUA0HT0p%2FEEFJicO5a1Gu4iglTJAwvugZyJe0fZMQigfPvtLOqd67PV5opJRyGh84Kt61enlPM1AQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:58:30.585247+03:00",
+          "language": "uk"
+        }
+      ],
+      "items": [
+        {
+          "id": "61628ed44c6b46e6bd3f743bef7675cd",
+          "description": "Насос занурювальний (2000 Вт, 170 л/хв.)",
+          "unit": {
+            "name": "штука",
+            "code": "H87"
+          },
+          "quantity": 20.0,
+          "relatedLot": "bded844b401846a0bb2dfa9e6b0655fb"
+        }
+      ],
+      "submissionDate": "2026-06-02T15:58:56.628971+03:00"
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-05T00:00:16.343427+03:00"
+  },
+  "awards": [
+    {
+      "id": "ac48fb6d9ad24a3198a9760891f3b25a",
+      "status": "pending",
+      "date": "2026-06-05T00:00:16.343427+03:00",
+      "value": {
+        "amount": 64745.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП ХРАПИЦЬКА ОЛЕНА ІВАНІВНА",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2164614862",
+            "legalName": "ФОП ХРАПИЦЬКА ОЛЕНА ІВАНІВНА"
+          },
+          "address": {
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Храпицька",
+            "email": "xo0677590033@gmail.com",
+            "telephone": "380677590033"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "a54b224495534680a80056cf9b99b40e",
+      "lotID": "bded844b401846a0bb2dfa9e6b0655fb",
+      "period": {
+        "startDate": "2026-06-05T00:00:16.343427+03:00",
+        "endDate": "2026-06-13T00:00:00+03:00"
+      },
+      "milestones": [
+        {
+          "description": "ВІЙСЬКОВА ЧАСТИНА Т0910\nВЧ Т0910\nПРОТОКОЛЬНЕ РІШЕННЯ (ПРОТОКОЛ) №633/2026\n\n«09» червня 2026 року                \t\t\t\t              \t \t    м. Шептицький\n\n1.\tНайменування замовника: Військова частина Т0910\n2.\tКод згідно ЄДРПОУ: 26632223\n3.\tМісцезнаходження: 80100, Львівська область, м. Шептицький, вул. Промислова, буд.3\n\nПорядок денний:\n1. Про розгляд та затвердження вимоги про усунення невідповідності  в інформації та /або документах, що подані учасником ФІЗИЧНА ОСОБА - ПІДПРИЄМЕЦЬ ХРАПИЦЬКА ОЛЕНА ІВАНІВНА код ЄДРПОУ (РНОКПП) 2164614862 (далі - Учасник) у складі пропозиції та/або подання яких передбачалося документацією щодо закупівлі Насос занурювальний (2000 Вт, 170 л/хв.) згідно коду ДК 021:2015: 42120000-6 — Насоси та компресори (далі - Закупівля). \n2.\tРозміщення в електронній системі повідомлення з вимогою про усунення невідповідностей.\n\nЗакупівля зареєстрована за ідентифікатором: № UA-2026-05-27-000357-a\n\nПід час розгляду першого питання порядку денного:\nВідповідно до абзацу 6 пункту 8 постанови КМУ №1275 від 11.11.2022 «Деякі питання здійснення оборонних закупівель на період дії правового режиму воєнного стану» (зі змінами) (далі – Особливості № 1275), у разі проведення закупівлі в порядку проведення спрощених закупівель, визначених Законом України “Про публічні закупівлі”, державний замовник під час розгляду пропозиції учасника спрощеної закупівлі у разі виявлення невідповідності в інформації та/або документах, що подані учасником спрощеної закупівлі у складі пропозиції та/або подання яких вимагалося оголошенням про проведення спрощеної закупівлі, повинен розмістити у строк, який не може бути меншим, ніж два робочих дні до закінчення строку розгляду пропозицій, повідомлення з вимогою виправити невідповідності в інформації та/або документах, що подані учасником спрощеної закупівлі у його пропозиції, шляхом завантаження через електронну систему закупівель уточнених або нових документів в електронній системі закупівель протягом 24 годин з моменту розміщення державним замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей.\nПід невідповідністю в інформації та/або документах, що подані учасником спрощених закупівель у складі пропозиції та/або подання яких вимагається оголошенням про проведення спрощеної закупівлі, слід розуміти невідповідність інформації та/або документів у значенні, наведеному в пункті 43 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України “Про публічні закупівлі”, на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування, затверджених постановою Кабінету Міністрів України від 12.10.2022 р. №1178.\nНевідповідністю в інформації та/або документах, які надаються учасником процедури закупівлі на виконання вимог технічної специфікації до предмета закупівлі, вважаються помилки, виправлення яких не призводить до зміни предмета закупівлі, запропонованого учасником процедури закупівлі у складі його тендерної пропозиції, найменування товару, марки, моделі тощо. Визначення невідповідностей здійснюється замовником самостійно. При цьому Особливостями встановлено обов'язок замовника розмістити повідомлення з вимогою про усунення невідповідностей, крім випадків відсутності забезпечення тендерної пропозиції, якщо таке забезпечення вимагалося замовником, та/або інформації (та/або документів) про технічні та якісні характеристики предмета закупівлі, що пропонується учасником процедури в його тендерній пропозиції.\nПід час детального розгляду пропозиції Учасника спрощеної закупівлі виявлено наступні невідповідності, а саме згідно умов \"Оголошення та документації для проведення спрощеної закупівлі через електронну систему закупівель\" товару: Насос занурювальний (2000 Вт, 170 л/хв.) згідно коду ДК 021:2015: 42120000-6 — Насоси та компресори, затвердженого протокольним рішенням (протоколом) уповноваженої особи від 26.05.2026 №597/2026 (далі - Оголошення):\n\n1. Згідно з умовами Оголошення Учасник повинен надати у складі своєї пропозиції: «Копію довідки про відсутність заборгованості з платежів, контроль за справлянням яких покладено на контролюючі органи, видану контролюючим органом за основним місцем обліку платника (учасника), дійсну на момент подання пропозиції та/або в період кваліфікації пропозицій».\nВодночас, Учасник НЕ НАДАВ у складі своєї пропозиції копію довідки про відсутність заборгованості з платежів, контроль за справлянням яких покладено на контролюючі органи, видану контролюючим органом за основним місцем обліку платника (учасника), дійсну на момент подання пропозиції та/або в період кваліфікації пропозицій.\n\nОскільки у пропозиції учасника ФІЗИЧНА ОСОБА - ПІДПРИЄМЕЦЬ ХРАПИЦЬКА ОЛЕНА ІВАНІВНА код ЄДРПОУ (РНОКПП) 2164614862, виявлені недоліки у вигляді невідповідності документів, які не призводять до зміни предмета закупівлі, запропонованого Учасником процедури закупівлі у складі його тендерної пропозиції, (найменування товару, марки, моделі тощо), а також наявні усі документи про технічні та якісні характеристики предмета Закупівлі, що пропонується Учасником процедури в його тендерній пропозиції, вимагаємо усунути такі невідповідності в електронній системі закупівель протягом 24 годин. \n\nПід час розгляду питання порядку денного:\nВідповідно до абзацу 6 пункту 8 Особливостей № 1275 замовник розміщує у строк, який не може бути меншим, ніж два робочих дні до закінчення строку розгляду пропозицій, повідомлення з вимогою виправити невідповідності в інформації та/або документах, що подані учасником спрощеної закупівлі у його пропозиції. Строк розгляду пропозицій у Закупівлі № UA-2026-05-27-000357-a закінчується не раніше, ніж 11.06.2026. Отже повідомлення з вимогою про усунення таких невідповідностей підлягає розміщенню в електронній системі закупівель. \n\nВИРІШИВ:\n1.\tНадати 24 години на виправлення невідповідностей  у пропозиції Учасника щодо Закупівлі.  \n2. Оприлюднити інформацію та розмістити в електронній системі повідомлення з вимогою про усунення невідповідностей.\n\nУповноважена особа військової частини Т0910 \nстарший солдат                                   \t\t        КЕП           \t           \t\t   Андрій РОЩУК",
+          "code": "24h",
+          "id": "12fb6e2c24564dcab67083b10af4e042",
+          "date": "2026-06-09T07:57:20.725768+03:00",
+          "dueDate": "2026-06-10T07:57:20.725768+03:00"
+        }
+      ],
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "deviationReport",
+          "hash": "md5:22b80167fcbf3ba4358e331dc4596828",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/7fb9d83eceba40819c73dff05deccf09?Signature=62nWgYdSZySfV62VhZJkwIRDWhL5VTrsrjK0dtfzkVwzCxGazOQEY3hK%2FxZ1ewj6sLEPNKW%2FnqsSFmY3bFlkAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "language": "uk",
+          "id": "56a0909f258f4b14a2cd3e865ed35253",
+          "datePublished": "2026-06-09T07:57:43.263613+03:00",
+          "dateModified": "2026-06-09T07:57:43.263613+03:00",
+          "author": "tender_owner"
+        }
+      ]
+    }
+  ],
+  "id": "e5ec5f9f7242499e8717310e5b398b5e"
+}

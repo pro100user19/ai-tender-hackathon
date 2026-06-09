@@ -1,0 +1,1309 @@
+{
+  "description": "",
+  "date": "2026-06-09T00:00:34.125975+03:00",
+  "dateModified": "2026-06-09T00:03:12.946979+03:00",
+  "dateCreated": "2026-05-30T08:40:45.363867+03:00",
+  "tenderID": "UA-2026-05-30-000035-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "technicalSpecifications",
+      "id": "e8e03fbab6e841e1b5a90ef4f6390438",
+      "datePublished": "2026-05-30T08:40:47.578923+03:00",
+      "hash": "md5:99ecde1e3752872c5e6e29475d10bf82",
+      "title": "Додаток 1. Технічна специфікація.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/490210c7ce79431a89bf37a1adf78d59?Signature=FtUwl4OrWL%2BjC5oxpwB4BIqxBWs9Ke%2B%2F3W27JrVfsnJiAn1wuRV7zoTzR4jEJ7YhnxnIBrXXprnrsUPkEYfaCg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T08:40:47.578923+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "evaluationCriteria",
+      "id": "68ef61f1f1714d2ea530035c5b2a92e9",
+      "datePublished": "2026-05-30T08:40:47.578923+03:00",
+      "hash": "md5:7340261d5e19f4561113660aacb988a4",
+      "title": "Додаток 2. Цінова пропозиція.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/9e325976014a499caa7ff9d8d4b54bce?Signature=VB0ZjW%2B0fJfC7j8vWAnnOtdxMXLLihnFFAQYyksm7kvKds%2FygGqjuCNfdrYVDv9%2BU5zZsn3eTz9JhK7j0XlTAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T08:40:47.578923+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "5925fab3acb948aba5ae6c6f8d26dfca",
+      "datePublished": "2026-05-30T08:40:47.578923+03:00",
+      "hash": "md5:a5043b5efbd335b638e34e00196b7988",
+      "title": "Додаток 3. Проєкт договору.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/113ca2da276346e58def5b52cd6156cc?Signature=MBl0qQFT33sfIyjTxiP%2BlHgm0rePazjfqDh55I8WYXpq7eq4Hz55xRck6KsOtcMRLFKdnvnZqJymSciDy%2BP0CA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T08:40:47.578923+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "f9d0942c4a664358930debb7111bfdc1",
+      "datePublished": "2026-05-30T08:40:47.578923+03:00",
+      "hash": "md5:98ad4e96cceab63f5724b117ca3b229e",
+      "title": "Оголошення.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/05f97ab8ef844150a7db6062292aa9e8?Signature=ymt2VpJCeYSCqpxntoAZi83XLV1H8YKXsm377dxcL6kL0ogKf%2F4sEhC8I1IIgm0PBve81Pb9x%2Fmyx6DqzZ9%2BBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T08:40:47.578923+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "c712ea4f84fa458dbc93ac58c0304b31",
+      "datePublished": "2026-05-30T08:40:56.979583+03:00",
+      "hash": "md5:28348b49621023b2e93515b740f57ce8",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/74e99251555d40d18ed1814ff6b46edb?Signature=lrwxu6Da1iPkAXxh8YvcwopOaCqW6BIgebjTei4ri7BBGbZgQuWewJM3Teqk%2Bs7IgL9bhVeacQpLqOlAnPmkBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T08:40:56.979583+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.auction",
+  "owner": "it.ua",
+  "title": "Автомобільні запасні частини",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "321c617fb07e4b5d8f0e05e3198caee0",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "75de4541eaea45a78f31416a860a8f18",
+      "title": "submissionDateOfApplications",
+      "description": "Поставка товару здійснюється Постачальником, відповідно до потреб Замовника, без обмежень мінімального обсягу кількості Товару в межах однієї поставки (одного замовлення) Товару, в обсягах та у строк визначений замовленням (заявкою) Замовника, протягом 5 (п’яти) календарних днів з моменту отримання (заявки) Постачальником від Замовника. Замовлення (заявки) на постачання партії товару Постачальник отримує від Замовника (уповноваженого представника Замовника) в письмовій або усній формі за допомогою засобів зв’язку.",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "ВІЙСЬКОВА ЧАСТИНА 2382",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "14321883",
+      "legalName": "ВІЙСЬКОВА ЧАСТИНА 2382"
+    },
+    "address": {
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Іванцова Анастасія Вікторівна",
+      "email": "KRepryntseva@dpsu.gov.ua",
+      "telephone": "380930525293"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 611083.0
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T21:00:00+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Лот 1. Автомобільні запасні частини",
+      "status": "active",
+      "id": "b11229ee46e7490a8aec7f61e6049eaf",
+      "date": "2026-05-30T08:40:45.363867+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 611083.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 6110.83
+      },
+      "auctionPeriod": {
+        "startDate": "2026-06-09T14:39:00.235000+03:00",
+        "shouldStartAfter": "2026-06-09T00:00:00+03:00"
+      },
+      "auctionUrl": "https://auctions.prozorro.gov.ua/tenders/a8f729cd480348989f60be0abd8dc945_b11229ee46e7490a8aec7f61e6049eaf"
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-30T08:40:45.363867+03:00",
+    "clarificationsUntil": "2026-06-06T00:00:00+03:00",
+    "endDate": "2026-06-04T21:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "828869fef59f43909e5498b70b97e597",
+      "description": "Амортизатор підвіски, задня вісь (2H0513029J) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "2d25b7c6e9444fb9b88081f7c1111f19",
+      "description": "Амортизатор підвіски, передня вісь (2H0413031K) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "289dbe3d5b424bdfa4304d4332b7d094",
+      "description": "Барабан гальмівний, задня вісь (2H0609617) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 4.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "b851bb6c365c45c797bef5061ce99c7a",
+      "description": "Вал привідний (2H0407271D ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 4.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "4e70ebf0a44340d5942c61c44c16f43a",
+      "description": "Втулка стабілізатора, передня підвіска (2H0411313C ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 10.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "47c59af0a1a84289ab58dd451c638a0e",
+      "description": "Диск гальмівний, передня вісь (2H0615301A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "58676c993d594c66b0c216346c2f8fd7",
+      "description": "Зчеплення комплект (з маховиком та муфтою) (600020100 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "6c35e3ba01d846798c198bc5bc431dde",
+      "description": "Колодки гальмівні, задня вісь (барабанні) (2H0698525 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "dcce39f9c0ba472288e53a374b8cc24e",
+      "description": "Колодки гальмівні, передня вісь (дискові) (2H0698151A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "6981cab7318f40d9a5b9b877df3f3cc1",
+      "description": "Комплект пружин гальмівних колодок (2H0698545B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "15aa799e53e8429fa44869c0472a20e9",
+      "description": "Наконечник рульової тяги лівий (2H0422817 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "2fa9f07e596f4baa97a6ea738764f053",
+      "description": "Наконечник рульової тяги правий (2H0422818 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "4b8f75a756e643da86839897ed06e751",
+      "description": "Насос ГПК (2H0422154A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "b48f1a5cd60545689919f122b2c5de81",
+      "description": "Опора амортизатора, передня підвіска (2H0412331B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "b3a3cc13133d45ec871c3e0e715e6dcd",
+      "description": "Опора кульова верхнього важеля, передня вісь (63086 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 10.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "23cfb0587b204e0eb483e24ddf28418a",
+      "description": "Опора кульова нижнього важеля, передня підвіска (VO-BJ-13733 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 10.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "b3b77394248d48689bf69c383e91be9e",
+      "description": "Пильовик амортизатора з відбійником, передня підвіска (комплект на вісь) (2H0412303D ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "e91e362ec1884c429f267fc95bf8cd12",
+      "description": "Пильовик тяги рульової (з кріпильними матеріалами) (2H0422831 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "639a295bd00043269d27dd62c43b6aad",
+      "description": "Підшипник маточини, задня вісь (з ущільнювачем та кріпильними елементами) (185950 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "8e661fac294e47d9a21c5e744f281e77",
+      "description": "Підшипник маточини, передня вісь (з кріпильними матеріалами) (2H0498627A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "c039dc235373469cb3e7c08c76851498",
+      "description": "Пружина ходової частини, передня вісь (2H0411105F ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "d48b7f538da342e1b447e3dbc45322c0",
+      "description": "Рейка рульова (2H1422061J ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 1.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "75bbffd9b19f4de1b935df915be104d5",
+      "description": "Ресора листова, задня підвіска (у зборі) (6195012 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "af6b710da8b545fdbede789c525db38a",
+      "description": "Сайлентблок підвіски верхнього важеля, передня підвіска (2H0407077A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 12.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "6af394c9afe04b79a8a02bbc9ae7419f",
+      "description": "Сайлентблок підвіски внутрішній нижнього важеля, передня підвіска (2H0407183A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "020e8d48f6cc4dfd8636a9a1cb5cee6f",
+      "description": "Сайлентблок підвіски зовнішній нижнього важеля, передня підвіска (2H0407182A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "60e6c878ba2745279bc7afd30fe5f653",
+      "description": "Сайлентблок підвіски середній нижнього важеля, передня підвіска (2H0412333A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "942017e1fa2f425191304849cf2e3b81",
+      "description": "Сайлентблок рейки рульової (2H0422405 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "2585f3fc6c4a47c385be9cffaed8f200",
+      "description": "Сайлентблок ресори задний, задня підвіска (2H0511414A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "8b7f50d4fcd54abdb531031dc0867093",
+      "description": "Сайлентблок ресори передній,  задня підвіска (2H0511413A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "73aefac71e2147dc875fe9945b609f5c",
+      "description": "Стійка стабілізатора права, передня підвіска (2H0411317B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "01e7949b0eb04f998117185520d4b527",
+      "description": "Супорт гальмівний лівий, передня вісь (2H0615123B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 2.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "180a9c9b2a214843aba71148ddd9d604",
+      "description": "Супорт гальмівний правий, задня вісь (2H0615124B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 2.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "37ee5a34701d484285e3bfc07c33a65b",
+      "description": "Трос стоянкового гальма (2H0609721D ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "4ba960b1725442b9b3944cf42c2ef392",
+      "description": "Тяга рульова (CR0824 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "ba0f87bcb1c44690b13e914f5d03514c",
+      "description": "Циліндр гальмівний, задня вісь (2H0611053 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "745f4a100c794a8fbbfe875922fdd6fe",
+      "description": "Шків насоса ГПК ( 06H145255F ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "4fc62cb6528e428cb809724742b07c12",
+      "description": "Шланг гальмівний, задня вісь (2H0611775B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "71966088c89f4b2aafeb893ce167a7d2",
+      "description": "Шланг гальмівний, передня вісь (2H0611701B ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "cdcf7e03598d4a92b8f76cbe518b9e9a",
+      "description": "ШРКШ внутрішній, передня вісь (зі змазкою в комплекті) (7L0498103A ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "bccfa9993bdc4d149236a125a5d67e97",
+      "description": "ШРКШ зовнішній, передня вісь (зі змазкою в комплекті) ( VKJA5779 ) Volkswagen Amarok VIN: WV1ZZZ2HZEH015831",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 6.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "82d3cba17ac74599b6bc9d394b9fe489",
+      "description": "Зчеплення комплект (з маховиком та муфтою) (600 0201 00 ) Volkswagen Amarok VIN: WV1ZZZ2HZFH014134",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 1.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "d7396afb733a4a18b5d7ddc035b89ecf",
+      "description": "Вал привідний лівий, передня вісь (у зборі) (7H0407271AS ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "ea06191da69343fb9382f4d452a32728",
+      "description": "Вал привідний правий, передня вісь (у зборі) (7E0407272T ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "987f2dc74ae444088dad58f58ae7a57b",
+      "description": "Вал проміжний лівий привідного валу, передня вісь (0A5409343B ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "b054e38086ec40d9aec18a7b370e216c",
+      "description": "Вал проміжний правий привідного валу, передня вісь (0A5409343A ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "e078f482816945f1a3683b75f3585577",
+      "description": "Зчеплення комплект (з маховиком та муфтою) (600032100 ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "комплект",
+        "code": "KT"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "0c43f6ed58d54ca1a9d92da1671d3a6e",
+      "description": "Підшипник підвісний правий привідного валу, передня вісь (7H0407181B ) Volkswagen Transporter VIN: WV1ZZZ7HZBH002987",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    },
+    {
+      "id": "9da60a6c259e4319b9b5bb75cd4702f8",
+      "description": "Підшипник підвісний правий привідного валу, передня вісь (7E0 407 181 A ) Volkswagen Transporter VIN: WV1ZZZ7HZDH028030",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 3.0,
+      "classification": {
+        "description": "Механічні запасні частини, крім двигунів і частин двигунів",
+        "scheme": "ДК021",
+        "id": "34320000-6"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "b11229ee46e7490a8aec7f61e6049eaf"
+    }
+  ],
+  "noticePublicationDate": "2026-05-30T08:40:59.113512+03:00",
+  "next_check": "2026-06-09T14:39:00.235000+03:00",
+  "id": "a8f729cd480348989f60be0abd8dc945"
+}

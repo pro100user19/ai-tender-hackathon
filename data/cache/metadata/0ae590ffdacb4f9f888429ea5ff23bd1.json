@@ -1,0 +1,4702 @@
+{
+  "description": "",
+  "date": "2026-06-09T08:12:27.699222+03:00",
+  "dateModified": "2026-06-09T08:12:27.699222+03:00",
+  "dateCreated": "2026-06-04T10:59:06.159767+03:00",
+  "tenderID": "UA-2026-06-04-003647-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:83ed1bf0d5a70b3f4dbf8078158d97e72790cc75;SHA2-384:10728a79bd821f1f9662633307bfc1181254e9b62ebbae9acfab582eddf6be6049f0c92aef7844920d7b7af544ce1dd1;Antivirus: ESET Antivirus",
+      "relatedItem": "0ae590ffdacb4f9f888429ea5ff23bd1",
+      "id": "f3730936be8749be8a908f2e78d9fa2c",
+      "datePublished": "2026-06-04T10:59:07.651385+03:00",
+      "hash": "md5:f56e4f01a2a87972dd5331df25738309",
+      "title": "Проект договору рукавички хірургічні 2026 – М.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/338d7529446c438f8cbab42a04a45e87?Signature=BnUXso%2BVWS%2FB95JVY6f5DAw60IpPaI3Pa3Mu3RezywJ0HMYw%2F1kBrlkvgtmCTrHj7PsdLJY%2BK42WA%2Bx13odICQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:59:07.651385+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:0b89abb08972d8243e8b2216e756ff09a24351ff;SHA2-384:53c4c37589f97b30c735e47ad6f4a361522bcf0ce559a8fb9061808099ece998db6862bb77f27c60605cfb7e8d257677;Antivirus: ESET Antivirus",
+      "id": "a6da2e356eff476db8082f98385536e9",
+      "datePublished": "2026-06-04T10:59:58.041464+03:00",
+      "hash": "md5:e5d103073dd9b86139191c1d8a13cf08",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/aac8a3f4bd9b4256a18e806f4204e3a6?Signature=%2BRTEBDvyYs1mIIFxj3R4zSm26BDxq1DoNO%2B7G3CZ7vZNBgHhHwC3P7Zs8fhip%2FYQSfKwwhlT8jGGYVpWbyBECg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:59:58.295129+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Рукавички медичні хірургічні",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "34e0148865b9466b8c6c0035630f4d3c"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "6613eba1b96c4766a5d64435565bd1ed",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "449cacd47fbf4574a8d7b421f22d1119",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.awarded",
+  "agreement": {
+    "id": "d028398176044f749b5dca67479c0af8"
+  },
+  "value": {
+    "amount": 170000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T10:59:58.617733+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Військова частина А1028",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "07910219",
+      "legalName": "Військова частина А1028"
+    },
+    "address": {
+      "streetAddress": "вул. Героїв Майдану, 41 Б",
+      "locality": "м. Чернівці",
+      "region": "Чернівецька область",
+      "postalCode": "58001",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Вадим Олійник",
+      "email": "oliinuk1028@ukr.net",
+      "telephone": "+380372553504"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "100045-33140000-511202-42574629",
+      "category": "33140000-511202-42574629",
+      "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+      "description": "Рукавички медичні хірургічні: стерильні, матеріал виготовлення: латекс, з пудрою, розмір (ДСТУ EN 455-2:2015): 7.5",
+      "quantity": 6000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-20T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Героїв Майдану 41 Б",
+        "locality": "Чернівці",
+        "region": "Чернівецька область",
+        "postalCode": "58001",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "profile": "100038-33140000-511202-42574629",
+      "category": "33140000-511202-42574629",
+      "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+      "description": "Рукавички медичні хірургічні: стерильні, матеріал виготовлення: латекс, з пудрою, розмір (ДСТУ EN 455-2:2015): 7",
+      "quantity": 3000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-20T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Героїв Майдану 41 Б",
+        "locality": "Чернівці",
+        "region": "Чернівецька область",
+        "postalCode": "58001",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "profile": "100041-33140000-511202-42574629",
+      "category": "33140000-511202-42574629",
+      "id": "a00add083bdf424ca51267e56554854b",
+      "description": "Рукавички медичні хірургічні: стерильні, матеріал виготовлення: латекс, з пудрою, розмір (ДСТУ EN 455-2:2015): 8",
+      "quantity": 6000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-20T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Героїв Майдану 41 Б",
+        "locality": "Чернівці",
+        "region": "Чернівецька область",
+        "postalCode": "58001",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "profile": "100047-33140000-511202-42574629",
+      "category": "33140000-511202-42574629",
+      "id": "ee42303757e148bd8a248c55ae024cd1",
+      "description": "Рукавички медичні хірургічні: стерильні, матеріал виготовлення: латекс, з пудрою, розмір (ДСТУ EN 455-2:2015): 8.5",
+      "quantity": 2000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-20T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Героїв Майдану 41 Б",
+        "locality": "Чернівці",
+        "region": "Чернівецька область",
+        "postalCode": "58001",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "1d4b36ebfa804efb8724253946920bff",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "53f3b88ed21f424e9bf0437b729c0c0c",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "b33584a7d1f044c99da08b7cc936e682",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "d1012ac52dbf4ae195e06779eaed2084",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8adde4e179084ce58e78f933bfd99756",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "421a9c7e53a34725a94a3a939e541849",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        },
+        {
+          "id": "6b57e49a9a514d588710d8a017425bad",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "03fae19e25044698876eeed0082c4dab",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44c849b07a594cfb9055517346dbf09a",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "7cf6a6bde3a647e09b630f69bd1d968f",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "6ed7e6c06d654821a2a36f205fce11d5",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "300f16af914141aeb1796f52cf9d40be",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Латекс"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "058f5f7d31b947db842e6ef819270628",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "f96181608d5142af888351c2f3c02ba9",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "expectedValue": 7.5,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8de72858c3da4c358cdd846c617ac86b",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "405eb06a6dff4daeaec1944c9a0f8be7",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "ecefd3991f19440b89376f6a602a558d",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Латекс"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "f73eaecd869847d6a046f5108deda83e",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "expectedValue": 7,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c233712da8564618a7f0148739c321a5",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "a00add083bdf424ca51267e56554854b",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "5234f04e2dfb4f86807aafc1ce102236",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "68b2dcf7a1974cbab36569416e19e72c",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "0125c40c27ce48f79ad2d08a43b8f196",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Латекс"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "19d6455c89854ac3b8451b82453b00e4",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "expectedValue": 8,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c963d3be694e4410a871e8aa25923dfb",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "ee42303757e148bd8a248c55ae024cd1",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1f72a4a169f34724bd915d41bd8bd936",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "aef95db6cbf64ab190e594bd2c217b51",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Латекс"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "2f7b6661364a4a7c87f99ee1311f6089",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            },
+            {
+              "id": "370da67afe58468abcb3c5854fcbfe7c",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "expectedValue": 8.5,
+              "datePublished": "2026-06-04T10:59:08.145306+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T10:59:58.617733+03:00",
+  "bids": [
+    {
+      "id": "820c2e0c20a5499597117e4239fde3f7",
+      "date": "2026-06-04T11:12:19.696867+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "103b0204586b4c13a7cecfa2ffa9dc8f",
+          "datePublished": "2026-06-04T11:12:19.444939+03:00",
+          "hash": "md5:4fb913cbc041b3aecdfc19bc68db8fe2",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/4daec92762aa4d5fa41880deea859cde?Signature=qzxK2jt018dQ4hJuNrLyRCEdRvlDilXLShNRbVyDMEJe%2Bo0GTJEQBnB1ceoXzyL01C7IxPbpJsZn6C%2BE1773Aw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T11:12:19.444939+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЗАХІДНА ФАРМАЦЕВТИЧНА КОМПАНІЯ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "36452580",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЗАХІДНА ФАРМАЦЕВТИЧНА КОМПАНІЯ\""
+          },
+          "address": {
+            "streetAddress": "вулиця. Богдана Хмельницького, будинок 12",
+            "locality": "Луцьк",
+            "region": "Волинська область",
+            "postalCode": "43025",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Бондарук Валерій",
+            "email": "vstepanyuk@ukr.net",
+            "telephone": "380332770144"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 145520.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "ccce5f2616eb4bb4b0eefad297f4abc8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "1eafc9e8246b4f42b33c9c11d8661a6a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "54e5b89045574d42b05e8f163464e9c9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "1acafd4bc83246dda2c2bab796df48a7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "e4cc54f97d5e4fb496d09d0bb095c64c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "39bf6bf929bf4f709f8b1a01d4e6cd56",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "92048754d0d544999d33d3ac7aafa9cd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "25c6a73484d649c3b0de030b685b0581",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "a758290d32ea482892f35080175a6cb6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "9afd2c5861854aa7803c1bad62b78fb6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "1f289bb1d7d04a70a439adfb1c00449d",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "62e8064136204d3d848ce3c4bf8e0555",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "31d802c14bbb4af9a3806ca760b4f66d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.0,
+          "id": "1358cc6251b44e6bb93ad8791d3f5bae",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "2b3932791b694a73bfc6d63969f22064",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.0,
+          "id": "101974c412884b7dbade1202d1d62dd2",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "166ea518e2b04853baee95c68b13d797",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "e78a1c5c727b4ceebb5a3de4a106559d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "f2e9243e97eb4f0c860865dee3e8779a",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "7256f452bb7648e4ab1d8eaf0f5779ff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 8.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0be7b219480641f190b26593fabe157a"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 8.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "17d8041faf964e48a9aa00a70f25adeb"
+        },
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 8.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "48dcc8d0f9ab449e86129c49bb756373"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 8.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "c265fb8191ae41ce849d604e6001bd2c"
+        }
+      ],
+      "submissionDate": "2026-06-04T11:12:19.696867+03:00",
+      "initialValue": {
+        "amount": 145520.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "c221e2e610a1413d8fad1ca494e45e2f",
+      "date": "2026-06-04T13:44:37.034813+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "5fb25b0b15ca4d4bbfd66aabccd10b5d",
+          "datePublished": "2026-06-04T13:44:36.871288+03:00",
+          "hash": "md5:a8858a8c97ad98a1cdac6db40fe5f3a0",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2191822f39a34e6882b0a9455ddc0624?Signature=Fgn5dsi4h8AhbA2dmo4%2Bz9DIMehOjjXo7i%2FeGYXdZQQQe8yBLJpiJ8YnHCWcxZe9enr%2BVKknYlLPPt9bsTF5AA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T13:44:36.871288+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕДКОМ МВ УКРАЇНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44024667",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕДКОМ МВ УКРАЇНА\""
+          },
+          "address": {
+            "streetAddress": "04073, місто Київ, пр.Бандери Степана, будинок 21, офіс 455",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04073",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Марія Захарчук",
+            "email": "mz@medkommv.com.ua",
+            "telephone": "380950096913"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 163710.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "344104d6b38b48d699dfee5a3aad4f50",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7899975c0cf548caa012ce0f740e3cda",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "775e989af37d443389430e232248f8ed",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "ed3617e2a80c4c5593cf944ebda56b9b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "a12c38183e0b49d3840b357624567c25",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "44a1d7b956bc489a9a5200c9c8a921a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "b564601331874f42b17bbfbff1db4364",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "b9221a6efb3a424ba89ebbfbd5c26e46",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "3de486b214924f8697051ea7ce4e2ae7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "30ff7f1a5b074c1d8719b3ea265d3fbb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "30a9f23fe6b04428aeffde668dfc2593",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.0,
+          "id": "843a72e7b140442982706209955bdd11",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "30d25f8932d843feb4f6ec253e6e5ede",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "1cf6966b6d5b48929da18292ac116263",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "e0752797565d43fa9c40763cc948b68d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.0,
+          "id": "de14ab3700334658a0faa086b16b6bc8",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "0e54c4038ffd442abba6b3dd46397fdb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "fab8fa1bd99942209ac183e26f282340",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "b006bc7c4c26414e9a4591e06dbe774e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "4d0287ebe12c42f8ad21424da9f8bc97",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0be7b219480641f190b26593fabe157a"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RIVERGLOVES торгової марки IGAR",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "225c7e5e00fc4fca8d18b10e9b0054eb"
+        },
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "48dcc8d0f9ab449e86129c49bb756373"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "894de724a2e748728df349a8e269b66e"
+        }
+      ],
+      "submissionDate": "2026-06-04T13:44:37.034813+03:00",
+      "initialValue": {
+        "amount": 163710.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "555561e317544592b122cca7ff479f59",
+      "date": "2026-06-04T16:25:38.984929+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:0ca8996563d130897f9227d58de564f8d71db5d4;SHA2-384:4a57e094d42d313466b7c2d7899c0ef7b7b752e3f255b37bc36520dcaa2dc274d6ed978948c9bc7c435e35f59692dfe0;Antivirus: ESET Antivirus,fids:36eaaaf38dfd443dbd605f3a058af044:fide",
+          "id": "86a68b64288a45a0bb388c00bad51d24",
+          "datePublished": "2026-06-04T16:25:38.597486+03:00",
+          "hash": "md5:ea561a00133f64a757c0cf2f0a85a762",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/bee0fcf13d8d418590d277c48131e985?Signature=rjIcRQbOH7B1ASq88Wojbkf1ghWR%2FPQ4FT1zIcmXrzrkf7Fry%2BiGB6MhcFz6u9pTd%2Fxvc7YdCu%2BFiMJPB64XDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T16:25:38.597486+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"МЕРКУРІЙ ВЕСТ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "38738625",
+            "legalName": "ТОВ \"МЕРКУРІЙ ВЕСТ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ І.ФРАНКА, будинок 107, квартира 7",
+            "locality": "місто Львів",
+            "region": "Львівська область",
+            "postalCode": "79011",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Валерій Шевкіс",
+            "email": "info.mercurywest@gmail.com",
+            "telephone": "+380673745952"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 142791.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7f1be6f864d342b2b8b2fe87c7854db3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "c6f495b30c5e45139422de60f2fc050a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "e807f6ac7b1646b58c133d6893eeb26a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "158898c5b7654951afecfa4922e84a3c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "8dc26df9608341cdaf83499ff14abfa2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "8f24908dab264c808b0f3754e22c6d41",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "b3e1776f980746a7b7847b913ceb61cb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "82a6a8e36ad148e3be49cd3efc5514d2",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "4f43bafd3c2c4741880aa7fa88bd0f74",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "3eb38ebc47344dd3b16de31af8195359",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "a1b176c04c7a433eb8a7030a689946f4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7,
+          "id": "7763238be7d44d3d9c6c3d47220d58ee",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "5e06840838cb415dba35de8943ba5edc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "9953668432714b119f9337b2ff00edd1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "d03bf5748b894bcbaf7ba79c735fdd78",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8,
+          "id": "48b8545990714637943f8387b80f54b0",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "f979cd0fd44d4a06a4c07115612af728",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "c7c8b6543e434dc98526c317b480e04f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "a407977283e84c50b0d78f5cc2d5c51f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "af814903ece640b7aa5f8ae002f1c70e",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.85,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0eb8714b0e5240d7a8931a593fa4fb5b"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.85,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "894de724a2e748728df349a8e269b66e"
+        },
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.85,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0be7b219480641f190b26593fabe157a"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.85,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "17d8041faf964e48a9aa00a70f25adeb"
+        }
+      ],
+      "submissionDate": "2026-06-04T16:25:38.984929+03:00",
+      "initialValue": {
+        "amount": 142791.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "3a9a96bf64c64ed1b15219834c0485b7",
+      "date": "2026-06-04T17:43:50.120785+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:7a9347be42727363bb6b97f3395008b83f431012;SHA2-384:42500b8717f948a505adf4047cc93c976c8c9e320091e446253f10dbedfaa813ca7ff6e1092f1a0c7d64ac72b0a60039;Antivirus: ESET Antivirus,fids:d01420d2adef4dfda7f965212f80f908:fide",
+          "id": "74a5709ccd944b1b8df9893a8043bc40",
+          "datePublished": "2026-06-04T17:43:49.790528+03:00",
+          "hash": "md5:9372b0d138cdf1d29eeb905418007957",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/26ef13ddd2a7479b8bff78ef37aaf9e4?Signature=8hwHpoNVa90s9EsTODHilNj1wrY4mnlXD2vTGk7m7ndDmBMR%2FxSxlIXHUuKBpcS9g%2F8VdEGjSftNh%2F4t9lM0CA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T17:43:49.790528+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ТЕТАФАРМ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "37443639",
+            "legalName": "ТОВ \"ТЕТАФАРМ\""
+          },
+          "address": {
+            "streetAddress": " ВУЛИЦЯ ШЕВЧЕНКА, будинок 313",
+            "locality": "місто Львів",
+            "region": "Львівська область",
+            "postalCode": "79069",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Денис Остафі",
+            "email": "tender.buk@tetafarm.com.ua",
+            "telephone": "+380676758290, +380506056284"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 135515.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "750706986dc64969ad3ec546e56248b5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f778e0351f9f44b2a3ce630b0495f4b5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "9205ae8cd4b6436792021cde810dd9d6",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "23335bd798ea4dd4aeed90e32ddc0717",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "811b1f9427f64f1bbe5e301ce22fa6a1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "8dd5158b8a1e4f0f8bd78a76aad09bb9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "9665a167d9c1454a8374fca611fc15a6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "87dc0ed8b86b4957924a31787cdf604f",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "6182eb3e6b684a80835eff2e204a585d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "10319516481a4966b8ad46261f734dc5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "4f1264f28306454382e38e153f870f13",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7,
+          "id": "7d5b65149d4249119bff025473d280dc",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "8a0d35c7f032499bb3c1626e5b612721",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "42533edfe4344123905c5f8843e8412a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "1bb99d9648814753805fd6386681b301",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8,
+          "id": "fb5499c47ef24d089e7c3eddc8e4ca94",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "1cadde4ab02a45039d1e24272d0a1290",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "e3dfd23fe1a049538caea9f3f7046aff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "feb0e7c93559423991a61d03f4578685",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "172af3e05e8f48c99558e555dabd87cc",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички хірургічні латексні стерильні припудрені, Soteria® (розмір 8,0)",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "08213b29382343e39bfc73ae754287cd"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички хірургічні латексні стерильні припудрені, Soteria® (розмір 8,5)",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "245de379b66f45398beb6f2855224fee"
+        },
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички хірургічні латексні стерильні припудрені, Soteria® (розмір 7,5)",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "3514aa3674b84d6f8edc4e84d27d1855"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички хірургічні латексні стерильні припудрені, Soteria® (розмір 7,0)",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "26c4b5a2fb7c46bd838c6856999bddbd"
+        }
+      ],
+      "submissionDate": "2026-06-04T17:43:50.120785+03:00",
+      "initialValue": {
+        "amount": 135515.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "d3a087ecd79d472893aaa67bdc586efe",
+      "date": "2026-06-04T19:50:55.094386+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "d80fb5bab2e24c8bba35f74030f0f1cf",
+          "datePublished": "2026-06-04T19:50:54.932604+03:00",
+          "hash": "md5:f5ce1197db471674c6310987bbb318a1",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ffa2d8417b994984b9d8a54ca9b6f98e?Signature=nxWp%2FBr2CHMJgk%2Fd6dbdL3PR0cHurg5%2Bz%2BNQJp1nGaxQsj43M%2FaRV77jeSr3DyE88rnoT89FGXaU6RveEfv4AQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T19:50:54.932604+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕД КОМФОРТ ПЛЮС\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42008269",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕД КОМФОРТ ПЛЮС\""
+          },
+          "address": {
+            "streetAddress": "03061, м.Київ, ПРОСПЕКТ ВІДРАДНИЙ, будинок 95-Є",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "       ",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Романюк ДмитроРои",
+            "email": "MEDCOMFORTPLUS@GMAIL.COM",
+            "telephone": "380975701260"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 136243.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "8368cde31f584357b541cc1f24ea4155",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c80da88a8e594c1a9f20aa091c2dcf32",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "648045a4f3c644eab153191d081e8570",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "0c5da95576634967b7c0ea677da1e31c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "b63d2d3100574452b2932449371cc5de",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "769865ea1705423fa0fc474ae1ba441e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "ae166cb4878c4a699eb489dbc8e5f1b3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "2febe70318bf4b50b560f800095bb658",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "1f253db91b8243ee9fe0d25f8b6e4c13",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "42ece19e08c64110a54c58279c8a2c38",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "88e2768985f44fc78a4440fb4400595c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.0,
+          "id": "da9e1f7afd2a4ec0b7a3ce8bd5e40c01",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "778253faebea424197533a94aa675e0c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "44b87daf506544c292553afca85e623f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "5815829411e44ab2aa42b6e14811e262",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.0,
+          "id": "c01ed61cf3104db6b6c94b89b84e9c67",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "d5b57cb50cc544b98fbd2727a836ef75",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "0f8ff1b1efad44aa947e8a5a9908355a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "d9ff001f88a74b4bbf14221f91fd08d6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "9c7050a506814d32b94de64cedf46dd7",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.49,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "e6a2b9f317494f0fbbc19136f474142a"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RIVERGLOVES торгової марки IGAR",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.49,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "225c7e5e00fc4fca8d18b10e9b0054eb"
+        },
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.49,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0eb8714b0e5240d7a8931a593fa4fb5b"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.49,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "894de724a2e748728df349a8e269b66e"
+        }
+      ],
+      "submissionDate": "2026-06-04T19:50:55.094386+03:00",
+      "initialValue": {
+        "amount": 136243.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "a3da9330489f4497acebba2cbd9e8405",
+      "date": "2026-06-05T14:18:25.442921+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:f48352bc172e4ab6b97f708e18596cf1c1f26367;SHA2-384:90b7b8c9ad0701db744f4c30080faa440ea18d83cf1fd42fe66c1c88ff412e7bbc4cac21a0b71bceb06b6e56f8623660;Antivirus: ESET Antivirus,fids:bba73f003b744edb95d8fad04af01318:fide",
+          "id": "8bcfd110632f473797e9fceff9e6225e",
+          "datePublished": "2026-06-05T14:18:25.091006+03:00",
+          "hash": "md5:1f352640fd97fbbb2922878c08aa400f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/46072c5c5d984915a0254043de55f5c5?Signature=cLJqfKLZtP%2BicWP7UXzwQkNvLX7vv9qKM757%2BZavtEHxXx3MvJVt%2BVn%2FxYhAm%2FSMWz83MMhXQB6qiqESklIfAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T14:18:25.091006+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПП \"ТЕНДЕРМЕД\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44353997",
+            "legalName": "ПП \"ТЕНДЕРМЕД\""
+          },
+          "address": {
+            "streetAddress": "вул.Філософська, будинок 21",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олександр Дюдя",
+            "email": "tender-med@ukr.net",
+            "telephone": "+380660003110"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 131449.99,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "b044844fc5c04e98bd4e388413853acb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "08273208bf9f44fdaa1b330a47900098",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "b01bab7213574de8a1e66c1ca9e48e1b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "b72c0ccb41be44d497ee4ee0c5305844",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "ec96b7ed3fba426ab6a41c966825d7fb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "7c9e7b899e0f4743ae838397c56a8d8e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "396ea2ce150b4e8d9c1cbfa36c3400b4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "070762bdc1ae4842b2488abca19c2ba7",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "b2c9cc6c7a4b4bd198f3d82f1060173a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "da55986a0d4e418e8950532116267225",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "f155dac44e6e42d08ed4722a23a62ec3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7,
+          "id": "87f4763b360d453aac9afd256c446029",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "b55cc82f475b466a96e3a649b71b94d0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "954ef5abd7df4a9682827406000a0501",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "efae1af15ca64c6181fe71a21e25d13d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8,
+          "id": "fee8bbe133364362ba0e328019e0e2c5",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "f89e0f773b714ad1a36e4431b1a11644",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "2aaa21f95421430cbf20bf5806fe4069",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "588f311e664d48908b2cb80d3687c57b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "025f79b9788c40f99c0ec5a9e78221ac",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички хірургічні латексні опудрені стерильні  MP MedPlast, розмір 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.205607,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "020d79702a5041b1806453da0930acb5"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.383178,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "c265fb8191ae41ce849d604e6001bd2c"
+        },
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички хірургічні латексні опудрені стерильні  MP MedPlast, розмір 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.205607,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "915a99a40fae4b91a0ceeb20a0a820d4"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички хірургічні латексні опудрені стерильні  MP MedPlast, розмір 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.205607,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "e643125906314c6d90838bc7c9ba9002"
+        }
+      ],
+      "submissionDate": "2026-06-05T14:18:25.442921+03:00",
+      "initialValue": {
+        "amount": 131449.99,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "354eec59091b40c582d9c761d1f3d9e2",
+      "date": "2026-06-05T15:03:51.610726+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "7f422e39ef7e45e48b8e7778d43b4a4c",
+          "datePublished": "2026-06-05T15:03:51.419997+03:00",
+          "hash": "md5:912381a5f675eb53e32d842063b17c33",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/370668799eeb42ad83d980f89bd40b2c?Signature=yx8gipv1vnaddaIdlSLoRJuTvJ1QzgwifPfqeWpewQXrJca6h9APizkRMU5sppe%2FpQA9ZGr0nvu3SKnQJkblBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T15:03:51.419997+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Центр медичних закупівель\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "46005827",
+            "legalName": "ТОВ \"Центр медичних закупівель\""
+          },
+          "address": {
+            "streetAddress": "Україна, 76009, Івано-Франківська обл., Івано-Франківський р-н, місто Івано-Франківськ, вул. Хмельницького Б., будинок 57, корпус Б, офіс 4",
+            "locality": "Івано-Франківськ",
+            "region": "Івано-Франківська область",
+            "postalCode": "76009",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олександр Пустовойтенко",
+            "email": "medzakupivli.center@ukr.net",
+            "telephone": "380684844574",
+            "url": "https://cmz.com.ua/"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 169167.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "7f6915a787eb4f65a09ac903ef83432f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "b7ce36f7e345472481e7f6ce30f422ce",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "180088eb28244d0c8113e457f8369318",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7054c774b99643269c055774558d07f7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "9d42c8a344b94b49b7ddc4a824f1f714",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "de9d6918b792460eb3469f013ef9be4f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "56149d08a0ca4d249b20929b2646f945",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "e4544420bd9642cda2f3ec3a8bfd1d39",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "332898572a704e22a8afa21b6d08aac4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "f3b9c3e631d342b99d302467eb4a8468",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "aa660895f97544ada0e7564391dfeadc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.0,
+          "id": "896a55545f1f4519ba127edb3f3324a5",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "c9ec4b5b784c4e49a63f4432de69d2b7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "fbb97f256694464d9cf624cf0d3a994b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "160ffb23ec0d426a85ce8adb77f3957a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.0,
+          "id": "bd8358058fae413fa42d908e5b0972f4",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "6eacabcb13ab4db1aa441cde5dc27e27",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "f311b9cf6b2b445e85a88e108387c8f8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "9b09dada4f674edeb8edfc048be8aa2e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "1900992b5d8b499d9ad62d05ae9eb7c1",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рук. латек. мед. хірург. \"ALEXPHARM\", припудрені, стерил., р. 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "28c93a6d507e446ab5fa706c8673f03f"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рук. латек. мед. хірург. \"ALEXPHARM\", припудрені, стерил., р. 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "a64e421fbce9490b9a9e760c44576b4d"
+        },
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рук. латек. мед. хірург. \"ALEXPHARM\", припудрені, стерил., р. 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "ed6c74af4baf43d89b9199f89f638678"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рук. латек. мед. хірург. \"ALEXPHARM\", припудрені, стерил., р. 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "5d13b58d999d4e20bd50d1fa30fea94b"
+        }
+      ],
+      "submissionDate": "2026-06-05T15:03:51.610726+03:00",
+      "initialValue": {
+        "amount": 169167.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "98b7cd88c9934ff3961d984717f42295",
+      "date": "2026-06-08T10:47:33.981167+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:012e7636f74919b323aff60ee98c12b3ee641215;SHA2-384:08f7b5346faca3d0d8d742cd7fc54a260c052726bf1e5599460bc5160f5132761a5677f7142f9d68531b494a6612c1c1;Antivirus: ESET Antivirus,fids:fcad1b932b8e4de5bf4703f1330356f9:fide",
+          "id": "3d86eeafea0248d9b26cec63ca490fcc",
+          "datePublished": "2026-06-08T10:47:33.604064+03:00",
+          "hash": "md5:e23899aa75e920a3b5da97bede660f8d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/38608aa4e89c49fbba460addbe3f494a?Signature=fLIOmQu7jZvHm6TWKgoQ7IvxdBmEKCt93h9rbms7cKeogAF9H1UIuA2QqBelb5Q2NuQG29qHvgZdy8zBVEXhCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:47:33.604064+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Монобіа Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45936997",
+            "legalName": "ТОВ \"Монобіа Фарм\""
+          },
+          "address": {
+            "streetAddress": "вул. Здолбунівська будинок 7-Д корпус Г офіс 702",
+            "locality": "м. Київ",
+            "region": "м. Київ",
+            "postalCode": "02081",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Артем Бодрий",
+            "email": "info@monobia.com.ua",
+            "telephone": "+380970516599"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 165529.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "39341caa499b4b2d87024d7cb60ae8e1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "6d4104fcbe404811a751d61a6608ede4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c2e550f378774492a4aef8ec34a33edb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "2ac04761741d4433be732f1adf9d1a7e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "b8c7ebd826924fb39d4ffff45eb6ee22",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "eb4e1b143a5d44f585fde760328e952f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "25111058cc8b4ce69b6839a07439b8e2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "d240514ba04e4d25afdb8632627c98a1",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "194936062c7d4ca0a8e9c4952c72a74c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "702053b9e2b548a3b7d7262b0641d8a8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "62a53ff7e8d8443f849987d338d8b3e5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7,
+          "id": "9167449734de4ba7b9cb87ba5177fa52",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "bd1f8574c8db440fba40bb23c8275994",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "6e4acecb247c4080bac4408098ff67c4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "23cbee89f6c841efb8e2ad0be7885958",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8,
+          "id": "fa51f0df46a3487f867f99c610eff447",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "0ac7e3ee8b0b4d3c8440f921a0b80fc4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "dc77f05f397741d9bcce0733e00afb0c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "04241c1d8fd645f988eb83ad385d0c57",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "4cc92d6d313348f0bfc2cdd627c9a451",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.1,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "65d4ee1a453746d5aef3372116e61563"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.1,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "9d0b4048bff1483a85dfe20225350f17"
+        },
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.1,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "87cd3fbe545946ffb0bd628333649850"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 9.1,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "4373910f98c0429295c1a95dcc528e2d"
+        }
+      ],
+      "submissionDate": "2026-06-08T10:47:33.981167+03:00",
+      "initialValue": {
+        "amount": 165529.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "44f7cc5690864ae18725a6b94db3965b",
+      "date": "2026-06-08T19:03:10.947763+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:a7e74df22c05d33af3953ad4d766c5a05ff94ce2;SHA2-384:c57e2ad837adcce75c2f56f25042456f22c5e481eeab0e683c5cdd24eb72b608a43d1204707b4f77b30b65d171e3c091;Antivirus: ESET Antivirus,fids:343514b4d9cf405a8e4e85d79d61df88:fide",
+          "id": "b197b175587f4a69b3d232b4d046ecaf",
+          "datePublished": "2026-06-08T19:03:10.659021+03:00",
+          "hash": "md5:6bde34e8b425431cd5e287f569729bff",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/cb8002a9312043c5982f58ab16a7b378?Signature=tLMKk1OaMa01%2B99QlM042HrFAMA6lEUDNUWUPgbhRM5IvZXwOFfvygZ3dGQlyAMp1%2F4vV1TEB1LvOxLHn1JLBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T19:03:10.659021+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ІГАР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "19243202",
+            "legalName": "ТОВ \"ІГАР\""
+          },
+          "address": {
+            "streetAddress": "вул.Михайла Бойчука,18-а",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "01103",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Руслан Владимирович Клименко",
+            "email": "ruslan@igar.com.ua",
+            "telephone": "+380445853455, +380504429995"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 123510.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7e5322786512478394b3c53ee784e238",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "8c520dc73eb5425e9faa7e10ae19768d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "8b172d0a746c4d8fb31b1756b6bc15ed",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "93017494abfb439b92e1a7d35b3ddac3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "049868da51854cb1a6f34f59a3d238ff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "490ff9e975c745f1b3396624df6ab1f6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "ff15207884394ea6ab839f092feb27d2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "421c4c0e734d4107817b0c9dc1aba4e3",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "79e6042e18974bf78c2e8d86ad882b4c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "2332ea77e7cd4c97bdd653139c511f4c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "c9381347c95a471987cd11cc7f71962c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7,
+          "id": "0f7909318c6241f1b5fdf7a941b35b68",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "8fd84b939c5c497ebd1b44951c8b9b4d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "cf74dd7e6786473fabaab614494854b7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "8b0ff35bd56746038c4bda3bb9e8f7af",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8,
+          "id": "2ed02a1902b045f1ad3efeb27d3098e0",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "87bac4d79d19423bae5a2f3bb62b4c03",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "0fe30e4a406f4199a1e84533b64e8347",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "d37399048a114be49156b777f83ecb1d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "158b8115a66d437e80265ce6592b5989",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 6.79,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0eb8714b0e5240d7a8931a593fa4fb5b"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 6.79,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "894de724a2e748728df349a8e269b66e"
+        },
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 6.79,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "0be7b219480641f190b26593fabe157a"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички медичні латексні хірургічні припудрені стерильні RG ТМ IGAR 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 6.79,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "17d8041faf964e48a9aa00a70f25adeb"
+        }
+      ],
+      "submissionDate": "2026-06-08T19:03:10.947763+03:00",
+      "initialValue": {
+        "amount": 123510.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "0ec4334506864a1a9220796c2a3b2570",
+      "date": "2026-06-08T21:59:29.293375+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "e701bc8253a949fbb9a6698b1430d497",
+          "datePublished": "2026-06-08T21:59:08.970417+03:00",
+          "hash": "md5:5991235da4897771d2ab083921b8bb60",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/4590f900764846dc8cc4d33179f74e72?Signature=i0rQUv56c4hDIIKycY8gWVf1GklH7HL1eMjtDnaasB%2BsOzSbdBRcGaRd87z%2Fsh7BzV9Ct20FEuMk39H2aojdBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T21:59:08.970417+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФІ-МЕД\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42717957",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФІ-МЕД\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ КИРИЛІВСЬКА, будинок 152-А, офіс 2",
+            "locality": "",
+            "region": "м. Київ",
+            "postalCode": "04073",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Якубович Марія Романівна",
+            "name_en": "Yakubovych Mariia",
+            "email": "sofimed.ltd2018@gmail.com",
+            "telephone": "380662687541"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 130968.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "66bbe91ca94d4a359a6a41503b8f41d3",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "efffa2a332654a8db4cfbfc5af388a25",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbda86eeb6d94b3e979d45d592e5fee9",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "7e08f69ca5bd48e5aeb0f2aa62697948",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0125c40c27ce48f79ad2d08a43b8f196",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "07c37b9909fc4927a6a0e5a85c144299",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cfcde24c9a9442c8b62ea1d1b6711ffd",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Латекс"
+          ],
+          "id": "d81c0aac4a8a4c638af46dc09a119b1a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f96181608d5142af888351c2f3c02ba9",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.5,
+          "id": "05879f4fc8d04dbc97d9b375c6bb71f7",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "300f16af914141aeb1796f52cf9d40be",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "dc164f2b5cbb470888121fee5b9227f7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "058f5f7d31b947db842e6ef819270628",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "f717d78bd89549bbb06ad69a6ca2b62f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecefd3991f19440b89376f6a602a558d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "8b6fab9205ec487f8bc5b836efd58e80",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f1ce28daaff40d5ad3067b5d8d8e880",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 7.0,
+          "id": "aa7a76d6279d461484398ad97b959fca",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f73eaecd869847d6a046f5108deda83e",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "1363fcce71a244918212a823872bddf3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e6e7b074dfc4e338a4b826a87912bd9",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "7669db13e76141b786dc733318650cca",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19d6455c89854ac3b8451b82453b00e4",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.0,
+          "id": "4b79dcac529f4f328355d2d8fed4a2dd",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "68b2dcf7a1974cbab36569416e19e72c",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "4068fc2279d84bcf9a9d9c5814e970be",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aef95db6cbf64ab190e594bd2c217b51",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "143079f43f924adca3ab94595a3a4c94",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2f7b6661364a4a7c87f99ee1311f6089",
+            "title": "Наявність пудри"
+          },
+          "value": true,
+          "id": "0bacf73931f042bfa7aa6b9158d1b642",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "370da67afe58468abcb3c5854fcbfe7c",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "value": 8.5,
+          "id": "19acc52e35f6417c8acba83ed72479f3",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33584a7d1f044c99da08b7cc936e682",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "b8319e9518f740b7b965a0302beca59a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2934d6a1b3a54719b044fd9b2a43ff70",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d888455939054f749f55304b771e5563",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1012ac52dbf4ae195e06779eaed2084",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "f91764c2818942b197d8d365a5e35b2e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e304e18d8cb4e46a75aee41c4f01bb9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "f2d2cb6bfa3440b3bab40b286188a841",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7cf6a6bde3a647e09b630f69bd1d968f",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "e7090665b4234e119c68a2138775c59c"
+        },
+        {
+          "id": "b0b5fb2c7e9d4ca8ac4094aedfa87e02",
+          "description": "Рукавички хірургічні латексні MEDICARE, стерильні, з пудрою, текстуровані, з валиком на манжеті, розмір 7,0",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "6ae37a2ad49a44c6a0ba002e712112fe"
+        },
+        {
+          "id": "a00add083bdf424ca51267e56554854b",
+          "description": "Рукавички хірургічні латексні «MEDICARE» (стерильні, з пудрою, текстуровані, з валиком на манжеті) розмір 7,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 6000.0,
+          "product": "4ab462d2e8ec4a05a525c495615d2541"
+        },
+        {
+          "id": "ee42303757e148bd8a248c55ae024cd1",
+          "description": "Рукавички хірургічні латексні «MEDICARE» (стерильні, з пудрою, текстуровані, з валиком на манжеті) розмір 8,5",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 7.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 2000.0,
+          "product": "ff2469174d664374a4599d7266f24d88"
+        }
+      ],
+      "submissionDate": "2026-06-08T21:59:29.293375+03:00",
+      "initialValue": {
+        "amount": 130968.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T00:00:21.483596+03:00",
+    "endDate": "2026-06-09T08:12:27.699222+03:00"
+  },
+  "awards": [
+    {
+      "id": "188ee8b752734b37bb1dbe46a3fd450b",
+      "status": "active",
+      "date": "2026-06-09T08:12:27.699222+03:00",
+      "value": {
+        "amount": 123510.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ІГАР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "19243202",
+            "legalName": "ТОВ \"ІГАР\""
+          },
+          "address": {
+            "streetAddress": "вул.Михайла Бойчука,18-а",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "01103",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Руслан Владимирович Клименко",
+            "email": "ruslan@igar.com.ua",
+            "telephone": "+380445853455, +380504429995"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "44f7cc5690864ae18725a6b94db3965b",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "dfdd02ec6dd54efe9e02e834fc017d85",
+          "datePublished": "2026-06-09T08:12:27.382415+03:00",
+          "hash": "md5:450e7fd6923ca87f34eae7cf42b4825a",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/48434a4586014249b4b795ff19dbc159?Signature=Ei%2B5yUo%2BtTgJi1YJfp6Bv8IujATPA75ugchvgZ5PPxqcnoCKuNY8oXcaCPy8Iz5%2BJav%2Bk2BGHbNO%2FgFpE9%2FJBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T08:12:27.382415+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T00:00:21.483596+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "2e641dd8535b44edb0860c9ec1d1f24a",
+      "status": "pending",
+      "awardID": "188ee8b752734b37bb1dbe46a3fd450b",
+      "date": "2026-06-09T08:12:27.699222+03:00",
+      "contractID": "UA-2026-06-04-003647-a-a1",
+      "title": "Рукавички медичні хірургічні",
+      "title_en": null,
+      "description": "",
+      "description_en": null,
+      "value": {
+        "amount": 123510.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 123510.1
+      }
+    }
+  ],
+  "id": "0ae590ffdacb4f9f888429ea5ff23bd1"
+}

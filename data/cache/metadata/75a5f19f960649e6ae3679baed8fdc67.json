@@ -1,0 +1,663 @@
+{
+  "date": "2026-06-05T16:51:19.025398+03:00",
+  "dateModified": "2026-06-09T00:55:21.004069+03:00",
+  "dateCreated": "2026-05-25T21:04:01.893784+03:00",
+  "tenderID": "UA-2026-05-25-014433-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "0527cd4440db499eb534751ce9a9b5ad",
+      "datePublished": "2026-05-25T21:04:02.679073+03:00",
+      "hash": "md5:bf41af3147a3334678e32e28acf0a96d",
+      "title": "Вимоги до закупівлі_Зарядний пристрій 5 В USB.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/7d6d77a2e1cf411ab6942a67cedcfde1?Signature=vWiJQ3IXZzVIwAd96baOC0SSrwwb5sGCYcDgb4oyYOxhmKTOedxs4si2gCM5XGgNZujn9yAJmYbardweDUXbDA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-25T21:04:02.679073+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "3cbb3e1196bc447496266b044f92e6fb",
+      "datePublished": "2026-05-25T21:04:44.129798+03:00",
+      "hash": "md5:fe5becd73cd0ad7d0dfddf23baa575ca",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/53be515294504416a9f8be0b23c9db2c?Signature=g2rTu%2FYyVrkajX0AZIMB4FrFTlNhEgMGgLcO5qVBCI35uIr9wYHnvDJCTX3lHGE8WYALaC2zBYnxX%2BRGdszADA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-25T21:04:44.129798+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.awarded",
+  "owner": "public-bid.com.ua",
+  "title": "Зарядний пристрій 5 В USB",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "71167a688ae54412a3b15a891fd053bf",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "banking"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "498d59b8e83945aa828e6bab4188ad3d"
+    },
+    {
+      "id": "014d6e2fef744855ad90981fb8d335c1",
+      "title": "signingTheContract",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 15,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "498d59b8e83945aa828e6bab4188ad3d"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "Військова частина Р 9000 СБ України",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "20002001",
+      "legalName": "Військова частина Р 9000 СБ України"
+    },
+    "address": {
+      "streetAddress": "вул. Володимирська, 33",
+      "locality": "М.КИЇВ",
+      "region": "м. Київ",
+      "postalCode": "01601",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Шумар Олександр",
+      "email": "r9000gov@ukr.net",
+      "telephone": "0634696917"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 24660.0
+  },
+  "tenderPeriod": {
+    "startDate": "2026-05-29T11:01:00+03:00",
+    "endDate": "2026-06-03T11:02:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Зарядний пристрій 5 В USB",
+      "status": "active",
+      "id": "498d59b8e83945aa828e6bab4188ad3d",
+      "date": "2026-05-25T21:04:02.054041+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 24660.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 246.6
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-25T21:04:01+03:00",
+    "clarificationsUntil": "2026-06-02T00:00:00+03:00",
+    "endDate": "2026-05-29T11:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "b46ff7ba6a6238f039e2bbb5e622e3a3",
+      "description": "Зарядний пристрій 5 В USB",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 45.0,
+      "classification": {
+        "description": "Зарядні пристрої",
+        "scheme": "ДК021",
+        "id": "31158000-8"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-15T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "498d59b8e83945aa828e6bab4188ad3d"
+    }
+  ],
+  "noticePublicationDate": "2026-05-25T21:04:45.784168+03:00",
+  "bids": [
+    {
+      "lotValues": [
+        {
+          "value": {
+            "amount": 22140.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          },
+          "relatedLot": "498d59b8e83945aa828e6bab4188ad3d",
+          "subcontractingDetails": "",
+          "status": "active",
+          "date": "2026-06-03T00:53:51.369600+03:00",
+          "initialValue": {
+            "amount": 22140.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          }
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30256061",
+            "legalName": "ТОВ \"ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ\"",
+            "uri": "https://diawest.com/uk"
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ АВІАТОРІВ, будинок 62",
+            "locality": " Бучанський район, село Петропавлівська Борщагівка",
+            "region": "Київська область",
+            "postalCode": "08129",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Балюк",
+            "email": "sales@diawest.com",
+            "telephone": "+380672342640, +380445619835"
+          },
+          "scale": "sme"
+        }
+      ],
+      "status": "active",
+      "id": "8729645bc3b7466bace443f7e41aaa9f",
+      "date": "2026-06-03T00:53:51.369600+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:4a7f8e5cbcf2637db2f4898ef9e9bd9a3905e7e4;SHA2-384:702d156a4c9005af63c3e96f3ae397e111229ef125c0e004a294b9dc836dc6a0a67f1946273d3e1069c50149ae729d74;Antivirus: ESET Antivirus,fids:755de518ee614b7b8cd7f53a1ddbe40a:fide",
+          "id": "22a6bb48ee5c47d6b4044edc5daf9eb4",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:112ea74375e79d2df39e3e125cc13092",
+          "title": "Документація Діавестенд комплексні рішення.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/a27690e0001b4959a2e181caad6a9d62?Signature=u8MzyOwhcnJbmAUtbTorIJWXSv4AXOexTJ7VZ%2BA9MTuhB5hPxQeo314FC5EHvosniNgd6BfbPZcL9PjIhjB0Aw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:44fe7f29fc8c405dfcf443d87c52af6d3c675a03;SHA2-384:1f22a26b8f4db6062765c64d68625dddd25c2a50c7493f3c47f05dbed5eb2cbb84c5084d4d760bab6e07bbc1a2c7e51e;Antivirus: ESET Antivirus,fids:ad7fd017dac84716aeacfe981e100e47:fide",
+          "id": "e9704a7dde1f4908a59b4d80922c4c41",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:33e835870742e14496937dc56fe7b2c7",
+          "title": "Кваліфікаційні довідки та листи.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/795aa5223e0e4a1d8972821984ebe92f?Signature=QJOAZvojkXlTeS1Tl%2FUMWk9BIkkO6LBiWo0yyX35SrBXzMjgCEdDxvmTBT6U362HXL8BQ3k1gkOKiQ7cKmOlAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:edee100693629fd3f5979b417627c26c3b3398bd;SHA2-384:62e31bdf2a9df0588635def62ed599c4e1756f628459c2d3e7533276444e8488343dc7131bbf663755582415877dcc06;Antivirus: ESET Antivirus,fids:5f32da25a97a4fdda2a4da5f44f77c94:fide",
+          "id": "fc44f60ca4c248c9a2c69f8d3a1d7ab3",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:2268f9e9317ecd9b3c1cd548f4242ae2",
+          "title": "технічні вимоги.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/01e17c0804524fc2a00cddef89ead054?Signature=1vGArgdgjvCKCfdMvUhH15KHZpIc4N7c%2BNbxbGB%2Bc%2BNHDzDwFXpg%2Fe6A7xFY9f2lC7W16yGyTKlYeBAmvJy6CQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:da598bff32448b9cb798060f3c9c966819ac064a;SHA2-384:c9c45d95d648ee79234e114d258fb9f3932f9b0df283a864db9583b9a987d082ebcd9b54bf4a7fb789adc81d3c681b42;Antivirus: ESET Antivirus,fids:c306f8441bc24b1d8d9a5b47ec38287c:fide",
+          "id": "178afdce369e46b99d3fd1c0289457a3",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:b6bf1e45cdd43a918e827f4a27cf5b05",
+          "title": "ЦІНОВА ПРОПОЗИЦІЯ .pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/700044ee7e3845cba4fd99a98600fc4c?Signature=LBY%2BlCLGfzYimBmR8PEckUsKmP6KmkD34jmiHa73q7jShmG%2FLiJTgx%2F%2F8h2GLVRkRmgXwH8rYSEPMDuMUId%2BDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:f449c017fba8a69af2243b946056cad577bf2122;SHA2-384:e5c3ede1c7cfff3d94625ffbe557915ac6c19f0f5ea5091119970e38ed95868d5be726942ba36fa1a330e318dd1c779d;Antivirus: ESET Antivirus,fids:4281d7714f2d476e8057a4ee43387a5e:fide",
+          "id": "693c9f0246234bdc90d096fda73e7f57",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:90d35381814300d8bec94058f21f16dc",
+          "title": "Гарантійний лист.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b904e6f677704f79bbe262d0881791ce?Signature=arHQPzo4LbHhWd26WnGCrT34fLrzNm2i9zdzpOX4TIxSF8S2UcGj4TsfjkKKRFYfdQH0xrEP8WTRnw1KwrArAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "description": "SHA1:36c930785f2916c1c59bd84ea2c205b023b8a9fb;SHA2-384:a6acc14b9f411e7bb4eeeccb14e8476c4eeb6d22b18a133937d9d21707bfd248de4b4d78de50c658b5c2e8a247297377;Antivirus: ESET Antivirus,fids:111913d49d8d45a1a789a4d179d5ea89:fide",
+          "id": "c397ed7d874649e0a51a7bed62bfebaf",
+          "datePublished": "2026-06-03T00:52:54.611565+03:00",
+          "hash": "md5:99bed01c5f98d41439c8a7487390683c",
+          "title": "Лист згода з умовами договору.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/c6563461cb994433a3ddee7869ab220f?Signature=IVXHFwHNSO7QGY0yYgMZsIpTig1UdzbUZZFMnX1%2BmiptKc%2B9xyoTMf7EPnyESxaCjSpnmikEUdMorWptXGaNCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:52:54.611565+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:d5df165925361e7be69e586ff539a5c90cf46cfc;SHA2-384:a9d50968703d21d115499ccf1cdece23e73b9f81d8572acee279fb6af394036adc67649969c68ad9c358ffdbaaaf0a77;Antivirus: ESET Antivirus,fids:9f5a6eb23df1475587b3bd4d1ca74087:fide",
+          "id": "ea76c5971dd248db98c703ce291c8696",
+          "datePublished": "2026-06-03T00:53:51.092762+03:00",
+          "hash": "md5:b184d27e7705848b1dcbe443c851e998",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/36877180d951492da474c7a4a051533f?Signature=tGr2SZ2TYFA%2B9DezJkqo8BHW%2FWQ4sxq%2FXX1dn16O5baxb%2Fl1%2FTn4hHYAZJ2sw9Z6DGmB2zESHzbgHDNTEwAzCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T00:53:51.092762+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9c078018aa3e36ec28ed07eea6db376c1b845fe7;SHA2-384:e6e0e343ba81d730deaecf1a65409f4fa225a85ce28c8d292ab1c2875f848080fc27b57ed3ed7d54293856ae40eb7383;Antivirus: ESET Antivirus,fids:2d6bd00b45a94fe88378deb0791ace57:fide",
+          "id": "ea76c5971dd248db98c703ce291c8696",
+          "datePublished": "2026-06-09T00:55:21.004069+03:00",
+          "hash": "md5:e6f305c79a2831a61011e5495e1d27d9",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/a220faa9753d4ad4bafc29a2c17ddd8c?Signature=1Mlpy9FA7jho86iD%2FxZS1CAwoxXK7qnlFebuwfbfsR773YOARlKVHE0Ohbvka2DLA2Qmaec31Il%2Ffb%2Bq4UMwDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:55:21.004069+03:00",
+          "language": "uk"
+        }
+      ],
+      "items": [
+        {
+          "id": "b46ff7ba6a6238f039e2bbb5e622e3a3",
+          "description": "Зарядний пристрій 5 В USB",
+          "unit": {
+            "name": "штука",
+            "code": "H87"
+          },
+          "quantity": 45.0
+        }
+      ],
+      "submissionDate": "2026-06-03T00:53:51.369600+03:00",
+      "eligibilityDocuments": [
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:39fd1dd9e50dfc72f80719ec974bb17b4092c3cc;SHA2-384:9fe670d1b56592839c7cc9a49e2861045cabae3e1c81456c809b540637647fdd3b5f1da253bcbaa542b861b837e25357;Antivirus: ESET Antivirus,fids:3e37a0efc819437281e7436368099ef0:fide",
+          "id": "c391957bfca84f28a598f61f7cf4141a",
+          "datePublished": "2026-06-09T00:54:49.818995+03:00",
+          "hash": "md5:d26c6ab6fc1a7889add5fe64236801dc",
+          "title": "Довідка пп2 юр.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/446b0f6050674a7e953c8e95ef74e071?Signature=KBhIF0frssI6yQdjSmESx1wMWsopWTOc6oT4RgMYh8ULJ0unfUsoVVsj52%2Bj3wiLPlv1sCKxrwfEuOOMMcW1DA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:49.994648+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:794678736465e21c2e6590436f39a50f0dd4de7a;SHA2-384:3ee96c9524f7cd2bb2f1a00e294992c24a85280c08b21d8de5aa3d56e0e0eb9453b8bff64025e8554b563a8cbcf1a58d;Antivirus: ESET Antivirus,fids:d0e645ce644d4650b3295e80bf53c529:fide",
+          "id": "a32636d74f36400d9c1b6eb1b3f5a037",
+          "datePublished": "2026-06-09T00:54:50.501186+03:00",
+          "hash": "md5:b5e37979ef18eb91c022f03b10376bf7",
+          "title": "Довідка пп2юр.підпис.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/4ebab0afd6514d21a89d6ae268fd8770?Signature=UGHPfuuA%2F05TjlPzOeVxuXlDItvXO2PiSvE1G%2BCEgE82PgN76Ibs5KusiwRNwZ%2BcyA%2FlBHexqny9fwN%2BhSynBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:50.671755+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:081f83b2e7beaaf3e3df4bf92460407a2e8f1899;SHA2-384:d69da6ebac3c6470dd3ce4586230e5ce210bebc2cede98036680f9c38eb3a2a69c568dca80e07ff59f91ab2841b97706;Antivirus: ESET Antivirus,fids:7bbb1775815e46b89df8d878c977730a:fide",
+          "id": "bbbbbabaeb364ba6afc40495e52d9dc5",
+          "datePublished": "2026-06-09T00:54:51.202814+03:00",
+          "hash": "md5:9e71ed4f02d88bb2dc75c65deab2efc3",
+          "title": "Довідка пп3 фіз.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/af2acd3c1c1f47629b0a717d05cb912f?Signature=EfxRIJcYgoXDgiRt4HhVSj5VwlPA%2Fsx7s1oGCqkGvDcK7ggOifI5%2BiFec1HfFoAClkIxFpAmNefe05JVVC4TCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:51.370041+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:ef725a3e4fd1309176d70a73a4d0da047672a194;SHA2-384:4a6e76d271809fb89acdbf49225c1cc950bfdd8c856abb80a35be70e69f98dc3504bdd00a09d8825eff5b087ea7d1f36;Antivirus: ESET Antivirus,fids:d3fdb9ec4bbe4168a06420d5a5e3f367:fide",
+          "id": "a2edfe35c1f54f62b207c8eec2092a08",
+          "datePublished": "2026-06-09T00:54:51.926493+03:00",
+          "hash": "md5:7e7863dd47810b25a2b906441ea6ab66",
+          "title": "Довідка пп3фіз підпис.pdf.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/fd5227969f214052ba3fa79916359817?Signature=sDx%2Fe2IMpRL0LiMxw5wqPH72fEQIsCW%2BpIiU7vtQpGu30umZEWtAajcq2XO9tn84nq%2BrL0vCdqAyiAzkDR3tCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:52.096047+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:64d0b787995e822d8c9dcb9eac71e232d7028c42;SHA2-384:8efc149738e08c8eb095289f029421ced957da15e893a3a20b829947b56027b22ef27c489d102dee34e3b832e28bf2e6;Antivirus: ESET Antivirus,fids:d29593ff9e9e4bbcb4911e8d447f3901:fide",
+          "id": "7a56b483a3e541ab9fce719d247ffd72",
+          "datePublished": "2026-06-09T00:54:52.595272+03:00",
+          "hash": "md5:1defb166b1323664ff68c9944e200c2b",
+          "title": "ВитягМВС (10).pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/1cf71d3374744c5fa2a0603f73f568b5?Signature=nUQn3gTbu99igkveyzwUcFP%2F%2F%2FlG7qSlpU2yxXPgQauQQ5gya4dHyd0PYZHreO%2BDKW34H%2FSdVz1t6ixYfoxtDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:52.765005+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:152b5a21496a973bacfa2cf92475dc8418bee108;SHA2-384:2b8fdf18923f2654f5af7ae2537ff0f35b593b241c9d12412a67511c58c000b992d0790b5a4621087ca802b41637c7cd;Antivirus: ESET Antivirus,fids:79a60e7b65c942ae8258290b060d1f32:fide",
+          "id": "e33300644d7949c28e15424192ad8f0a",
+          "datePublished": "2026-06-09T00:54:53.293949+03:00",
+          "hash": "md5:e11767b5510f32bdc62b60fd47fbadeb",
+          "title": "ВитягМВСФайл підпису (7).p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/cf69bc3d42564ddfb2193960eab7361b?Signature=%2BnDqXDs%2F9roehtx97MUlv3pIX9h3lsth8znVHRhpiEbogpyDgy3f1RrB0RPIcoKfNIR3XHqJI4Ipv4%2BqFbQqCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:53.470555+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:083ca7f3c57b2d468f69ee4492c86d6723eb4f3e;SHA2-384:d885651fe9397ff6838ce9bdedb5f6fa489ff06bb161f3802ce181dc5a946a5f7b2832639bd0e452c333344fac1af4b9;Antivirus: ESET Antivirus,fids:62f47aa09ac84b689561d6cce11724a6:fide",
+          "id": "ea16baeabb334eef8c9646dc4fd9d50b",
+          "datePublished": "2026-06-09T00:54:54.011098+03:00",
+          "hash": "md5:0e207f9f97d73effcb9aaf48efe93ba2",
+          "title": "Довідка_пп.12 п.47 Особливостей.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b6aefb80f74342fa97bd70351291c820?Signature=RJENz1m%2F2fy4TqxEGfBNKOIUcTouUDvovGKyOnlml5xTmuLm89vjmjzc6VZDTiKDRcz0UpTA2iu24E3vv9ImBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:54.186250+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:b9012eab67d879bb8b53b62ad9ef4c6c26324ee4;SHA2-384:15e94d1361f2e167245b4b5143f56ddc3f2badf12c2d228501a805850168e5d503fae1b4b32223c67ff8d8ef289c8774;Antivirus: ESET Antivirus,fids:63918056a1ee47fd8703027380e44bf3:fide",
+          "id": "af0563c8067044848ad596e229b7a257",
+          "datePublished": "2026-06-09T00:54:54.648003+03:00",
+          "hash": "md5:98890bcdb69b2b9c121d47d1b1a20939",
+          "title": "Довідка відповідності п.47 Особливостей.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/00246a11be5043eb8f8409d6b139dddd?Signature=xfsvm6Tduz%2BeOTNd9fYVB%2FKWaRAoczM3oo6VnnOtdtN3yi5fXP5MIvp6bXM6GbslrVbVYPN7715bPeAB3OMyBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:54.821924+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:1a844c418c5d9b182db3c6a4c6ae13a384ecb77d;SHA2-384:24e724b89c91ed52dd91d6e8ac189c3abf3944f331779d680349c015d97a5217b8ca49a43ef8ff35dd40ab0b639e49cd;Antivirus: ESET Antivirus,fids:23fbbe316cad4421aec766ee449fc496:fide",
+          "id": "1b5f8441bbbf4058af15ef7c2e18127b",
+          "datePublished": "2026-06-09T00:54:55.256906+03:00",
+          "hash": "md5:d78393188f963a869444dce6dafa546e",
+          "title": "Довідка щодо резидента.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/575d522765714a568fb71e0eb265c1c8?Signature=TkBIoxGn%2BAq1Pg7mDlvuPgfddeuazqYpcF3WYyuplc5J2rkia%2Byyk3aVpEqyuQb7QHzJubNcEjrvCm%2F%2FV5SwBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:55.430329+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:9888a0601db870063143cccd730c7234c02be9a1;SHA2-384:2ce57788345ba864d31f9d0ec679a4b0d77f04a42643714de4736d4c4a6dd8f651c140a072a505e3cb5e6adfb3c4aad6;Antivirus: ESET Antivirus,fids:816217933a36468a95aae6e3dbe56e4e:fide",
+          "id": "8351ce87693149fd8fce2ae56002a3e9",
+          "datePublished": "2026-06-09T00:54:55.938804+03:00",
+          "hash": "md5:434683e733c95081844d59fa7bf063a7",
+          "title": "Довідка щодо ліцензії.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/6abbb7e066ba40f8b65d063740ab8e34?Signature=TgnSZhKC4T%2B3Itx9ZgDeZxpQxluIrARWPW3k97ryxP5hLB9pLJdY9ewBKwTyCyWzDIgSpTZlvBsZwDbUn1TJCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:56.116879+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:1ee35ccb6bc483d841b36511d205b4186963c03c;SHA2-384:65618ca90313c3a9238c294794d060a019d7f428e115ce4b416b98f81642b4cf69b1d661f87effef777bc6b556e5d91c;Antivirus: ESET Antivirus,fids:103e32ce993945bfa19cbe0a771acf68:fide",
+          "id": "ae70b8ef52ee49db93f8df12cf5528fb",
+          "datePublished": "2026-06-09T00:54:56.656256+03:00",
+          "hash": "md5:3c22fcfa4ce09a56be1c981c73ed12e3",
+          "title": "Довідка повноваження.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/5e175b1964044b949a343690797d49a6?Signature=kxLXi2E0k2OwJjV7nxyOWXbfd2xNBhFzEmNVpnik4YbqiHv92B8d58tOj0i%2FDcbYN7QCXQGERXC8o5eRFGeADA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:56.839894+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "eligibilityDocuments",
+          "description": "SHA1:c43de7e844a44c82b736240482f31154c35c2435;SHA2-384:c81c1c9b74ceaf5f4de0d2cdb15183dd78245073fbb4e264b3d46891d7efc3a003208441f87d3e07f0df3375d98ec211;Antivirus: ESET Antivirus,fids:f62fa948cc574ba9bb90e9216b9e5933:fide",
+          "id": "b95317f29fe045d08d207091a4df59f1",
+          "datePublished": "2026-06-09T00:54:57.624112+03:00",
+          "hash": "md5:96e7627523a4dfc4c385cc806735fb47",
+          "title": "Информація на право підписання договору. (1).pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/a953f6ccc0114ea1a8cc273af2ed9158?Signature=K5r6hJtLrwowOBKukENcGkvTFJMV1oZ2XfT2T0tnZ5ufDlscVHXycAFjWOU3XsIW5BUtZD5eeQOA%2FbAAerU3CQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T00:54:57.799118+03:00",
+          "language": "uk"
+        }
+      ]
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-03T11:02:00.058733+03:00",
+    "endDate": "2026-06-05T16:51:19.025398+03:00"
+  },
+  "awards": [
+    {
+      "id": "8a843199b07242eea26bb583f765ed87",
+      "status": "active",
+      "date": "2026-06-05T16:51:19.025398+03:00",
+      "value": {
+        "amount": 22140.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30256061",
+            "legalName": "ТОВ \"ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ\"",
+            "uri": "https://diawest.com/uk"
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ АВІАТОРІВ, будинок 62",
+            "locality": " Бучанський район, село Петропавлівська Борщагівка",
+            "region": "Київська область",
+            "postalCode": "08129",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Балюк",
+            "email": "sales@diawest.com",
+            "telephone": "+380672342640, +380445619835"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "8729645bc3b7466bace443f7e41aaa9f",
+      "lotID": "498d59b8e83945aa828e6bab4188ad3d",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "id": "90b2151ca52b43a9a5d3a7ff9493fd0f",
+          "datePublished": "2026-06-05T16:50:53.891716+03:00",
+          "hash": "md5:dbefac74445ed5e6a821bdeca2f557ed",
+          "title": "Протокол кваліфікація_Зарядний пристрій 5В USB.docx",
+          "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "url": "https://public-docs.prozorro.gov.ua/get/e039bea9340e4bd6a01af5e693e68a74?Signature=CkPr90pjPeU6GepuSeSBPQtDm%2BuFhAhGz89%2B0czfJyPX%2FWcHJTZNrsf%2F4S6LlzwiZthTfHcTVqtKpDeYYGEqBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T16:50:53.891716+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "f317c77c51c34466912fb214c0bc1627",
+          "datePublished": "2026-06-05T16:51:13.174996+03:00",
+          "hash": "md5:98bb09af99836e29bdfe4d7fc6c9b774",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1a673987993b4b41978d970a93f37a02?Signature=uUBT60oY5XlsRY%2Fn84alsMgkTHJSXVa6t2n5N5YrAK4lx50xGmqk8c4fVD7bPM2T0x5cWKWnnPderc42tH8XCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T16:51:13.174996+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-03T11:02:00.058733+03:00",
+        "endDate": "2026-06-11T00:00:00+03:00"
+      },
+      "qualified": true,
+      "complaintPeriod": {
+        "startDate": "2026-06-05T16:51:19.025398+03:00",
+        "endDate": "2026-06-10T00:00:00+03:00"
+      }
+    }
+  ],
+  "contracts": [
+    {
+      "id": "c371062887a04165931e5066f9a0cd82",
+      "status": "pending",
+      "awardID": "8a843199b07242eea26bb583f765ed87",
+      "date": "2026-06-05T16:51:19.025398+03:00",
+      "contractID": "UA-2026-05-25-014433-a-a1",
+      "title": "Зарядний пристрій 5 В USB",
+      "title_en": null,
+      "description": null,
+      "description_en": null,
+      "value": {
+        "amount": 22140.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 22140.0
+      }
+    }
+  ],
+  "id": "75a5f19f960649e6ae3679baed8fdc67"
+}

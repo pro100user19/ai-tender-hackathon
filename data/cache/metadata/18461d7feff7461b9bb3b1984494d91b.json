@@ -1,0 +1,2735 @@
+{
+  "description": "",
+  "date": "2026-06-09T07:30:00.249449+03:00",
+  "dateModified": "2026-06-09T07:30:00.249449+03:00",
+  "dateCreated": "2026-06-04T11:25:40.204134+03:00",
+  "tenderID": "UA-2026-06-04-004485-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:8bb05aadc7567d70e6b3fac5e640fdad788e0198;SHA2-384:a2ed8955d2a08c4b945ac43386c5e355840ed2dde7ff3267643cc220f86b56887d59c55b4ac767f3df93fac0f3b4af91;Antivirus: ESET Antivirus",
+      "relatedItem": "18461d7feff7461b9bb3b1984494d91b",
+      "id": "f61533f0cbe444e2a0ce65d96fa98cd5",
+      "datePublished": "2026-06-04T11:25:41.223528+03:00",
+      "hash": "md5:680e3b796bba735593d14480f50c7604",
+      "title": "ПРОЕКТ договору сумки.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/550827cac82c4600a63d1bfc70915b4f?Signature=l2R9dFZFCX0s1cIO5loDjv5Kzth%2FzIfA%2BoxQHGbSNuLypTqaM5s%2FKpqCYMv9%2BBgTl1Z3prGKNVWkaCwe5eGxAA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T11:25:41.223528+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:3b6e7f6299907c5a8d5269d43f69dda73092b2e5;SHA2-384:a5c9cf92e8b711eec2c8729a30c2454349b46e43d85690c054c54222730bd6e3a1489bbc44654818ad27c9e33fc81054;Antivirus: ESET Antivirus",
+      "id": "76770ad38bad4e0187aac11918e109c3",
+      "datePublished": "2026-06-04T11:32:08.820405+03:00",
+      "hash": "md5:e71ec021e40e3d8cb0913db510bda70e",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/5cfde10d4bc9471f9a0ad67f254ceda8?Signature=jGN6BoUYcfwi%2Fho01%2BU9gVQy1gwutH4jAHeXsRqrue0RvGuMc07KScLdOA%2BDyl9Em8pLP3NYjfb3q%2BzCjSbgBw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T11:32:09.034354+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Сумки медичні",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "778fb93c13a1441dbf46aa547940f63b"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "78c29b47ad5649faac0e86e850ddf3c2",
+      "title": "signingTheContract",
+      "description": "",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "working"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "aa96d3ad57ee44e7b11e87434471821c",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "banking"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.awarded",
+  "agreement": {
+    "id": "b5a43f580ffd47fc90e8834b1fa17a92"
+  },
+  "value": {
+    "amount": 55000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T11:32:09.281653+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Військова частина А4302",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "07914393",
+      "legalName": "Військова частина А4302"
+    },
+    "address": {
+      "streetAddress": "Військова частина А4302",
+      "locality": "селище Десна",
+      "region": "Чернігівська область",
+      "postalCode": "17024",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Олександр Субботін",
+      "email": "agent14302@post.mil.gov.ua",
+      "telephone": "+380931375756"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "category": "33190000-381229-42574629",
+      "id": "50b4df37b60b4ae19891f8085afa33b0",
+      "description": "Сумки медичні",
+      "quantity": 4.0,
+      "classification": {
+        "description": "Аптечки першої медичної допомоги",
+        "scheme": "ДК021",
+        "id": "33196000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-11-30T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Захисників України 2",
+        "locality": "селище.Десна",
+        "region": "Чернігівська область",
+        "postalCode": "17024",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "category": "33190000-381229-42574629",
+      "id": "b2b74832c27e4adaa761e31fbffccc28",
+      "description": "Сумки медичні",
+      "quantity": 2.0,
+      "classification": {
+        "description": "Аптечки першої медичної допомоги",
+        "scheme": "ДК021",
+        "id": "33196000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-11-30T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Захисників України 2",
+        "locality": "селище.Десна",
+        "region": "Чернігівська область",
+        "postalCode": "17024",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "category": "33190000-381229-42574629",
+      "id": "1243c93c0c074b769a628d921e74734e",
+      "description": "Сумки медичні",
+      "quantity": 3.0,
+      "classification": {
+        "description": "Аптечки першої медичної допомоги",
+        "scheme": "ДК021",
+        "id": "33196000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-11-30T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Захисників України 2",
+        "locality": "селище.Десна",
+        "region": "Чернігівська область",
+        "postalCode": "17024",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "9057f12d06714881a39a9f0e6473dab2",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "a113c3642c8342609feab82c63f72eaa",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "e503b25cba4d4d9eac7c2006ca3400ef",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "032d03f8f6834650a0874e6532bd1ea1",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "9910c9dc904f4df89252404f32befa2f",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ecb56541a494f76a89493579c45414e",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "3eb50bf0147c4e4ea1dd4c9fea578d99",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "ca772c3aa43d42eb88e2cfcc2d6c9542",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        },
+        {
+          "id": "32a3ac6e49744e4b8dc53b674771e076",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "e63a5836453f486da70c292c1692d21f",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b06c8deca444ddca25455874b6840e9",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "50b4df37b60b4ae19891f8085afa33b0",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "b77516e0665f4d95bf2e2cd319882865",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "89dde56800c74c5aa66b92d795b41da2",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Поліестер"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "ef00effaa3ce49e7884d680a4fdf46fa",
+              "title": "Висота",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 41.0,
+              "maxValue": 41.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "687ee72cf7f74e4e9358aafed0b51d9b",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 23.0,
+              "maxValue": 23.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "d3077549c9374197a39dcfcc871a65c4",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 35.0,
+              "maxValue": 35.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "389cfaec85584a74a9d3f2b89c0c344c",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 20.0,
+              "maxValue": 20.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "9482681e16024844b3080c86eb203801",
+              "title": "Вага",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KGM",
+                "name": "кілограм"
+              },
+              "minValue": 1.5,
+              "maxValue": 1.5,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "4604f05bbfdc45b0a0a5545985c92686",
+              "title": "Кишені для лікарських засобів",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "2cf7b1cb55b9460bb0b6c830d89e1e81",
+              "title": "Кількість об'ємних карманів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 1,
+              "maxValue": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "930ad1484c49457197d36d78eb333d37",
+              "title": "Ремінь з регулюванням та плечовою накладкою",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "573fe3fbd01e44caa72a07553474df62",
+              "title": "Можливість коригувати розмір",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "de4f459a61ef4ef08d6b819e7071a31d",
+              "title": "Еластичні тримачі",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "ce9dd0370c204846b145242bc28d6e5a",
+              "title": "Світловідбивні смужки",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "e349c04c8f0b45aebec1dd017b0a41ea",
+              "title": "Лямки для носіння як рюкзак",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "f909d390f46548e8a131e3f7e81852d1",
+              "title": "Наявність ампульниці",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "44d91978d8a94106aa62dde7f30758c5",
+              "title": "Комплектація інструментарієм",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "3f0c96adbfde49cdbab19a61cd41f2b6",
+              "title": "Комплектація лікарськими засобами",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3198e2fb95d1401496a98b600f1fd559",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "b2b74832c27e4adaa761e31fbffccc28",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "9bd001fbda294f39a0aa453af2d8b10b",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "d3f728ce902e4a1b8bcb0aa3d93df88a",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Поліестер"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "6c993f42a16142b68db1a9026db34308",
+              "title": "Висота",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 41.0,
+              "maxValue": 41.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "09fbc2e1d71f4dc7803a8d2e46c508c3",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 31.0,
+              "maxValue": 31.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "8372ffa72fb94d1c81d669cf50d40ebf",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 40.0,
+              "maxValue": 40.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "33ad7441808e4e4e8fec63facc0b1d6a",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 30.0,
+              "maxValue": 30.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "8ed871fd0bd54c1994c1d0d0a1aac565",
+              "title": "Вага",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KGM",
+                "name": "кілограм"
+              },
+              "minValue": 3.3,
+              "maxValue": 3.3,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "3b95c926b113499d9ec7d62bc635efd8",
+              "title": "Кишені для лікарських засобів",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "db6c475786b24139ab5da2fc064c1cb5",
+              "title": "Кількість об'ємних карманів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 1,
+              "maxValue": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "494d165f4f804bb299775d6294bec526",
+              "title": "Ремінь з регулюванням та плечовою накладкою",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "23cc6ab143724fe291a89cbe9083e3c1",
+              "title": "Можливість коригувати розмір",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "89f43a22e7834a31988ce590509c826f",
+              "title": "Еластичні тримачі",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "bbdcc5512f4048c49806a4fa8bc8790e",
+              "title": "Світловідбивні смужки",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "3f692b086198490096a6acce2ca66c20",
+              "title": "Лямки для носіння як рюкзак",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "22dcbd420e774ecc9373f8f665de3af3",
+              "title": "Наявність ампульниці",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "caae6d43888a4ff388f1c244cf08d96f",
+              "title": "Комплектація інструментарієм",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "0dc61f1eb9c9460d804aae8b881f30d2",
+              "title": "Комплектація лікарськими засобами",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7c4c005278a4103847d49ab490430d0",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "1243c93c0c074b769a628d921e74734e",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "2d346a2bcaad4630a618989483cdcf62",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "140f72dfdcdd4b698768d3adf138b08f",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Поліпропілен",
+                "Нейлон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "6ae56dc97d4f406282dd9c10b668964f",
+              "title": "Висота",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 25.0,
+              "maxValue": 25.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "d1c95c937147421b9de0f52d96a5d5d6",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 25.0,
+              "maxValue": 25.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "144c65b473df4dd989a39e6e0a4c1308",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 30.0,
+              "maxValue": 30.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "1ebcfaa838be4051a18c210839eca6a4",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 10.0,
+              "maxValue": 10.0,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "031a3d1be1444415aa0511b84b8ed826",
+              "title": "Вага",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KGM",
+                "name": "кілограм"
+              },
+              "minValue": 1.17,
+              "maxValue": 1.17,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "b0c9fe2d934942a9ac68dd7a1c85f74c",
+              "title": "Кишені для лікарських засобів",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "c2f965a3bfe24afeb2e5c83400a82cca",
+              "title": "Кількість об'ємних карманів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 1,
+              "maxValue": 1,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "7dc0232042094439990aa1987c55ec3c",
+              "title": "Ремінь з регулюванням та плечовою накладкою",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "07dc62f8622643de95c91ec518d2e62d",
+              "title": "Можливість коригувати розмір",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "87efb4634a2448b3a0bf16ee4095f0f9",
+              "title": "Еластичні тримачі",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "6e28354631d4422faf932fc53989d60c",
+              "title": "Світловідбивні смужки",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "e72dd48f4cdb40229e62cc8f3ceb5e31",
+              "title": "Лямки для носіння як рюкзак",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "481340995c3a4422a581dcec0f4677fb",
+              "title": "Наявність ампульниці",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "d1c5cb3ef7b74456a903dee2a26ace3a",
+              "title": "Комплектація інструментарієм",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            },
+            {
+              "id": "99531e5253454721bc47663f5639d3e1",
+              "title": "Комплектація лікарськими засобами",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T11:25:41.827744+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T11:32:09.281653+03:00",
+  "bids": [
+    {
+      "id": "9921f47758ba4a76b748ee9c28990d27",
+      "date": "2026-06-08T11:24:58.930269+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "194453a3fd6e40be8cb1788a17bafdcf",
+          "datePublished": "2026-06-08T11:24:58.734206+03:00",
+          "hash": "md5:0a19646580258df7f62730402308544f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/6cfe053502be495f945814fca7022925?Signature=RFolA5Dn8KAsaLf0pGMeT9yrkyN%2BjciK3AAhyBX3UqBdCyqkoFJnfluQV1Tf9FgIkOPoUaTAkGH9gZkoRLODDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T11:24:58.734206+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП ШАТОХІН ДЕНИС ВОЛОДИМИРОВИЧ",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3028009938",
+            "legalName": "ФОП ШАТОХІН ДЕНИС ВОЛОДИМИРОВИЧ"
+          },
+          "address": {
+            "streetAddress": "Україна, 61089, Харківська обл., місто Харків, ВУЛИЦЯ ДВАНАДЦЯТОГО КВІТНЯ, будинок 36, квартира 48",
+            "locality": "Харків",
+            "region": "Харківська область",
+            "postalCode": "61089",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Денис Шатохін",
+            "email": "shatohin1denis@gmail.com",
+            "telephone": "380974256874"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 49850.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "e503b25cba4d4d9eac7c2006ca3400ef",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "66f5baeeae5f48c79b93e0871a2bd1b1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "032d03f8f6834650a0874e6532bd1ea1",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "f20fe6a1c2cf41eaaa3cda441a49d87e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9910c9dc904f4df89252404f32befa2f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "c8e7ccfdf9704cc4b85097cbd7f6fd1e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ca772c3aa43d42eb88e2cfcc2d6c9542",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "d418468a8a214324957939081831e731",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89dde56800c74c5aa66b92d795b41da2",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Поліестер"
+          ],
+          "id": "8f1f8ad6b92c4218993c5ebed9862a04",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef00effaa3ce49e7884d680a4fdf46fa",
+            "title": "Висота"
+          },
+          "value": 41.0,
+          "id": "20cee74ce5e345f5b24818d0a0a7173c",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "687ee72cf7f74e4e9358aafed0b51d9b",
+            "title": "Ширина"
+          },
+          "value": 23.0,
+          "id": "b53af7bd33f14e6e9ff904003ba995a1",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3077549c9374197a39dcfcc871a65c4",
+            "title": "Довжина"
+          },
+          "value": 35.0,
+          "id": "dbcd01d85d5c4f7ab8b7cfa3b79d4857",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "389cfaec85584a74a9d3f2b89c0c344c",
+            "title": "Об'єм"
+          },
+          "value": 20.0,
+          "id": "10f18d92e14540c2aed99b7d02789e2f",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9482681e16024844b3080c86eb203801",
+            "title": "Вага"
+          },
+          "value": 1.5,
+          "id": "7db513d8ebf94a20bd68f3a3dcbec09f",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4604f05bbfdc45b0a0a5545985c92686",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "2fd24c96bee74380ae09c8af6b281ed1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2cf7b1cb55b9460bb0b6c830d89e1e81",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "4432130d060f45059d7ba902f19b95b7",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "930ad1484c49457197d36d78eb333d37",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": true,
+          "id": "aaf5870303414a32af04ac5c42b38566",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "573fe3fbd01e44caa72a07553474df62",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "f7b88a6b12e14bf0932c09a8e40cea5f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "de4f459a61ef4ef08d6b819e7071a31d",
+            "title": "Еластичні тримачі"
+          },
+          "value": false,
+          "id": "8bfe441be76740dbbda119519f73728e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce9dd0370c204846b145242bc28d6e5a",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "6d91c0043313470e91168faf6faa2b3e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e349c04c8f0b45aebec1dd017b0a41ea",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "d9cc6f86be774a2da95268fcf710b0fe",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f909d390f46548e8a131e3f7e81852d1",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "d6361f7b3a54401fbd049d2188ca66f3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "44d91978d8a94106aa62dde7f30758c5",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "c9b468fa70a14d6795c0763fb40055ae",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f0c96adbfde49cdbab19a61cd41f2b6",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "256d85451c7541d78994604e493d0b60",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3f728ce902e4a1b8bcb0aa3d93df88a",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Поліестер"
+          ],
+          "id": "61bfdce88ee24549abbb1c56ae334493",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6c993f42a16142b68db1a9026db34308",
+            "title": "Висота"
+          },
+          "value": 41.0,
+          "id": "5006da0230e0469fbaf144a9e877d173",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09fbc2e1d71f4dc7803a8d2e46c508c3",
+            "title": "Ширина"
+          },
+          "value": 31.0,
+          "id": "5860afb1934745708c640da48eb9a9e8",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8372ffa72fb94d1c81d669cf50d40ebf",
+            "title": "Довжина"
+          },
+          "value": 40.0,
+          "id": "09030f98e722480c8a07e87666855081",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "33ad7441808e4e4e8fec63facc0b1d6a",
+            "title": "Об'єм"
+          },
+          "value": 30.0,
+          "id": "0ed79dbd891a413d99717c56ea4f09d6",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8ed871fd0bd54c1994c1d0d0a1aac565",
+            "title": "Вага"
+          },
+          "value": 3.3,
+          "id": "1d46d471cd3349e1bb3164b1c47bc22c",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3b95c926b113499d9ec7d62bc635efd8",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "a31e53bedddb43f484560e60698ef2d2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db6c475786b24139ab5da2fc064c1cb5",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "5b39de5e9e4d48f58360d78aaef1cfe5",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "494d165f4f804bb299775d6294bec526",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": true,
+          "id": "079d4a5e34fb4cc7ae2c4d698711ff7d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "23cc6ab143724fe291a89cbe9083e3c1",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "ec19398307474295a6c4218b1f1aa9b3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89f43a22e7834a31988ce590509c826f",
+            "title": "Еластичні тримачі"
+          },
+          "value": false,
+          "id": "70dc89b6bc274713a5ac890f0d8fa27e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bbdcc5512f4048c49806a4fa8bc8790e",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "85d4db73b10649ca9bbc4e9583dbd7a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f692b086198490096a6acce2ca66c20",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "d24736bf75ae4c7286fdd05c173907d6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "22dcbd420e774ecc9373f8f665de3af3",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "af59b791ec3e4deda656f7e99a6b856d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "caae6d43888a4ff388f1c244cf08d96f",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "0de58bed18664b6282031a9088ad8c31",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0dc61f1eb9c9460d804aae8b881f30d2",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "ab9cb3824c8e4182b09312dbb4b8ff96",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "140f72dfdcdd4b698768d3adf138b08f",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Нейлон",
+            "Поліпропілен"
+          ],
+          "id": "a923b20498574195a6030e44d6434fd4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ae56dc97d4f406282dd9c10b668964f",
+            "title": "Висота"
+          },
+          "value": 25.0,
+          "id": "b22e8b28f1734127a857b2299feb7e22",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1c95c937147421b9de0f52d96a5d5d6",
+            "title": "Ширина"
+          },
+          "value": 25.0,
+          "id": "e31af6167b90455c83887c3a20fde16c",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "144c65b473df4dd989a39e6e0a4c1308",
+            "title": "Довжина"
+          },
+          "value": 30.0,
+          "id": "91f3fd4f8d7b41d8be45322a2cd02deb",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1ebcfaa838be4051a18c210839eca6a4",
+            "title": "Об'єм"
+          },
+          "value": 10.0,
+          "id": "0f0e2e7bf8e24a1eb851e879cee4d9ec",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "031a3d1be1444415aa0511b84b8ed826",
+            "title": "Вага"
+          },
+          "value": 1.17,
+          "id": "d1714c0dafc64bb2884f63c5fa86677b",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0c9fe2d934942a9ac68dd7a1c85f74c",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "d21a14dc8ac54f8899bdd2f5c5e862e8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c2f965a3bfe24afeb2e5c83400a82cca",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "fb1748c3cd8e4bf692d9cf6257f2a308",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7dc0232042094439990aa1987c55ec3c",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": false,
+          "id": "0d0e95a9478d44a2a89ff632fb8eb1c7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "07dc62f8622643de95c91ec518d2e62d",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "6ea9fe6dc56e4b6580fee4191f3d4584",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "87efb4634a2448b3a0bf16ee4095f0f9",
+            "title": "Еластичні тримачі"
+          },
+          "value": true,
+          "id": "f1e1bc9d1cba47cfac6e92a3eed295d8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e28354631d4422faf932fc53989d60c",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "f8a1e605a18e4cd8937fe4bb694adcc0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e72dd48f4cdb40229e62cc8f3ceb5e31",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "37223163aaa84554896970941cb346c5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "481340995c3a4422a581dcec0f4677fb",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "836e6888e26e4007911cdbf404871895",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1c5cb3ef7b74456a903dee2a26ace3a",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "9ccabd343b10432cbec3c839ad6437df",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "99531e5253454721bc47663f5639d3e1",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "f692ca8754194418a4beaac84a6afe4c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "50b4df37b60b4ae19891f8085afa33b0",
+          "description": "Термосумка багаторазового застосування GLEWDOR® 5.020.100.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 5460.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4.0,
+          "product": "f5508ac1071443029c313b0bd684afd6"
+        },
+        {
+          "id": "b2b74832c27e4adaa761e31fbffccc28",
+          "description": "Термосумка багаторазового застосування GLEWDOR® 5.030.100.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 6400.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 2.0,
+          "product": "08fd261a371e47ae9c349665631bc486"
+        },
+        {
+          "id": "1243c93c0c074b769a628d921e74734e",
+          "description": "Сумка медична TМ Colder \"10\"",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 5070.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "75b27fe5563148a9938f6283104f0f51"
+        }
+      ],
+      "submissionDate": "2026-06-08T11:24:58.930269+03:00",
+      "initialValue": {
+        "amount": 49850.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "282b1c14bfa14daf868237ba3f947eac",
+      "date": "2026-06-08T14:36:36.820793+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "98866ae33a1b454895fc7d153eccf46a",
+          "datePublished": "2026-06-08T14:36:36.685396+03:00",
+          "hash": "md5:d7675a8465d5c9f898bd3ae86c34deba",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2b4a6c4eaaed42709570106d55b58586?Signature=ZCY9DpEJO8UWqpnz9Z8RYT3LveTorpp0Xdg6VEm4%2BTVCQ2zTJT0jpH32Qu9KY83vUy9QP6fzAOLnz0dhmk0pDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T14:36:36.685396+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ФАРММЕДАЛЬЯНС\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "38929750",
+            "legalName": "ТОВ \"ФАРММЕДАЛЬЯНС\""
+          },
+          "address": {
+            "streetAddress": "03170, м. Київ, вул. Скарбова, буд. 1.",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "03170  ",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "STANDARD.FMA@UKR.NET",
+            "email": "STANDARD.FMA@UKR.NET",
+            "telephone": "380953124585",
+            "url": "http://www.aptechki.in.ua"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 48042.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "e503b25cba4d4d9eac7c2006ca3400ef",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "ffec67f3e6f44475b9fed10d82ae5879",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "032d03f8f6834650a0874e6532bd1ea1",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d26eeec2cc784ea287bafbaf66e17eb4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9910c9dc904f4df89252404f32befa2f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "de9c309c9b6946aca0ceef016030dfd6",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ca772c3aa43d42eb88e2cfcc2d6c9542",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "43cd993c296a4dbd95205d2f0c81ca0f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89dde56800c74c5aa66b92d795b41da2",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Поліестер"
+          ],
+          "id": "222d63004ebe4f62bfe8d21e6bff43eb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef00effaa3ce49e7884d680a4fdf46fa",
+            "title": "Висота"
+          },
+          "value": 41.0,
+          "id": "9e610cb864cd48518f4cd3eec0aaef6a",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "687ee72cf7f74e4e9358aafed0b51d9b",
+            "title": "Ширина"
+          },
+          "value": 23.0,
+          "id": "d5231054d1a44f6b861f7e3023eb40a1",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3077549c9374197a39dcfcc871a65c4",
+            "title": "Довжина"
+          },
+          "value": 35.0,
+          "id": "77bd6a102d534767b80da204c3d236ea",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "389cfaec85584a74a9d3f2b89c0c344c",
+            "title": "Об'єм"
+          },
+          "value": 20.0,
+          "id": "744236132b2d4fd88dabdd4994f60a3e",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9482681e16024844b3080c86eb203801",
+            "title": "Вага"
+          },
+          "value": 1.5,
+          "id": "914d906d424d421ca9deba6da0f85f12",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4604f05bbfdc45b0a0a5545985c92686",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "abfca8a4a9284ca9a75c23980c93962d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2cf7b1cb55b9460bb0b6c830d89e1e81",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "7cb4d00bd16447bbb3232b52551b9db7",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "930ad1484c49457197d36d78eb333d37",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": true,
+          "id": "31e6db62479343bd840239263551b7ee",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "573fe3fbd01e44caa72a07553474df62",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "f3afa7b6f0ef4ba9b6874490ceaad4b1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "de4f459a61ef4ef08d6b819e7071a31d",
+            "title": "Еластичні тримачі"
+          },
+          "value": false,
+          "id": "f09906927e8d468bb08ffaaecec0c3b5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce9dd0370c204846b145242bc28d6e5a",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "020ea47e8c86463e8cd8413cb47f15f9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e349c04c8f0b45aebec1dd017b0a41ea",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "6b41170e48144b5ebff332cf7cd9b388",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f909d390f46548e8a131e3f7e81852d1",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "33919282adef4b0f92bf50035319d085",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "44d91978d8a94106aa62dde7f30758c5",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "24b4a47d15fb40b08a7e8da07993fc67",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f0c96adbfde49cdbab19a61cd41f2b6",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "b572f2a8c1a24e1f9a67d99450c5508e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3f728ce902e4a1b8bcb0aa3d93df88a",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Поліестер"
+          ],
+          "id": "63e06d1ddff241b8872eaea24e93d572",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6c993f42a16142b68db1a9026db34308",
+            "title": "Висота"
+          },
+          "value": 41.0,
+          "id": "15683ea314f6467e9c70fe5162c777ea",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09fbc2e1d71f4dc7803a8d2e46c508c3",
+            "title": "Ширина"
+          },
+          "value": 31.0,
+          "id": "1fd6375b4f15456b815ed90b866faf24",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8372ffa72fb94d1c81d669cf50d40ebf",
+            "title": "Довжина"
+          },
+          "value": 40.0,
+          "id": "9e3a2b638ada411fafad583470aa440c",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "33ad7441808e4e4e8fec63facc0b1d6a",
+            "title": "Об'єм"
+          },
+          "value": 30.0,
+          "id": "2e559ead2f2643958172645502d71158",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8ed871fd0bd54c1994c1d0d0a1aac565",
+            "title": "Вага"
+          },
+          "value": 3.3,
+          "id": "7ef25d264ad84477895ad857f4a329e4",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3b95c926b113499d9ec7d62bc635efd8",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "32ed0825434d407c90c47abca677fc90",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db6c475786b24139ab5da2fc064c1cb5",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "db57838ea4ea45d5a297d1261996c436",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "494d165f4f804bb299775d6294bec526",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": true,
+          "id": "c5b7916a38464547b52645b04757fa72",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "23cc6ab143724fe291a89cbe9083e3c1",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "11f3015d1eba4c92a929837832d903e2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89f43a22e7834a31988ce590509c826f",
+            "title": "Еластичні тримачі"
+          },
+          "value": false,
+          "id": "617a9dbba636442dbf74d7858e5d8b17",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bbdcc5512f4048c49806a4fa8bc8790e",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "aed41ef7741841f5beed821f025cf390",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f692b086198490096a6acce2ca66c20",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "c00e879caf8543808a400b903f2e53e9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "22dcbd420e774ecc9373f8f665de3af3",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "d2a44ae4c3a44c67964eb4860546ab29",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "caae6d43888a4ff388f1c244cf08d96f",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "653128e30d684280917f46d7a61d43e7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0dc61f1eb9c9460d804aae8b881f30d2",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "4c3a90f978984ca19d0dd396432efcc3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "140f72dfdcdd4b698768d3adf138b08f",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Нейлон",
+            "Поліпропілен"
+          ],
+          "id": "c26ab87af7b1447cb08ef3c72ca31742",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ae56dc97d4f406282dd9c10b668964f",
+            "title": "Висота"
+          },
+          "value": 25.0,
+          "id": "22aa9aa64e3d4f6983bbebef860c2534",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1c95c937147421b9de0f52d96a5d5d6",
+            "title": "Ширина"
+          },
+          "value": 25.0,
+          "id": "9fd511edee734fb1b6cbab9d40bd352f",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "144c65b473df4dd989a39e6e0a4c1308",
+            "title": "Довжина"
+          },
+          "value": 30.0,
+          "id": "8f457403e7a44a81a27db846551aef11",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1ebcfaa838be4051a18c210839eca6a4",
+            "title": "Об'єм"
+          },
+          "value": 10.0,
+          "id": "56c11c61e641422b80b16b5e2960ff21",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "031a3d1be1444415aa0511b84b8ed826",
+            "title": "Вага"
+          },
+          "value": 1.17,
+          "id": "dc63e182f1ef4d6581d645db650797d8",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0c9fe2d934942a9ac68dd7a1c85f74c",
+            "title": "Кишені для лікарських засобів"
+          },
+          "value": false,
+          "id": "39b14d72832643bc984270ffbb48e17a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c2f965a3bfe24afeb2e5c83400a82cca",
+            "title": "Кількість об'ємних карманів"
+          },
+          "value": 1,
+          "id": "052ec6780e7e4285b7a499af63a1c522",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7dc0232042094439990aa1987c55ec3c",
+            "title": "Ремінь з регулюванням та плечовою накладкою"
+          },
+          "value": false,
+          "id": "124988053c3247a4918ca818b5ea49bd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "07dc62f8622643de95c91ec518d2e62d",
+            "title": "Можливість коригувати розмір"
+          },
+          "value": false,
+          "id": "05e600b4ed8b4c9b9fc6b8ba2049d660",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "87efb4634a2448b3a0bf16ee4095f0f9",
+            "title": "Еластичні тримачі"
+          },
+          "value": true,
+          "id": "b0ea93b5e6a847c3b1942da0a5153ea2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e28354631d4422faf932fc53989d60c",
+            "title": "Світловідбивні смужки"
+          },
+          "value": false,
+          "id": "a944d9877d5d4db292d507a7b183c190",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e72dd48f4cdb40229e62cc8f3ceb5e31",
+            "title": "Лямки для носіння як рюкзак"
+          },
+          "value": false,
+          "id": "093fb3144ed24e8fb487f8a09929caab",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "481340995c3a4422a581dcec0f4677fb",
+            "title": "Наявність ампульниці"
+          },
+          "value": false,
+          "id": "120792ba737e4439be0cb5f01804d022",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1c5cb3ef7b74456a903dee2a26ace3a",
+            "title": "Комплектація інструментарієм"
+          },
+          "value": false,
+          "id": "d3635a8332ff4f7f90cab897d5358c37",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "99531e5253454721bc47663f5639d3e1",
+            "title": "Комплектація лікарськими засобами"
+          },
+          "value": false,
+          "id": "bfab2fc25c8343ff91d0957eb72c14c7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "50b4df37b60b4ae19891f8085afa33b0",
+          "description": "Термосумка багаторазового застосування GLEWDOR® 5.020.100.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 5692.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4.0,
+          "product": "f5508ac1071443029c313b0bd684afd6"
+        },
+        {
+          "id": "b2b74832c27e4adaa761e31fbffccc28",
+          "description": "Термосумка багаторазового застосування GLEWDOR® 5.030.100.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 6776.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 2.0,
+          "product": "08fd261a371e47ae9c349665631bc486"
+        },
+        {
+          "id": "1243c93c0c074b769a628d921e74734e",
+          "description": "Сумка медична TМ Colder \"10\"",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2550.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "75b27fe5563148a9938f6283104f0f51"
+        }
+      ],
+      "submissionDate": "2026-06-08T14:36:36.820793+03:00",
+      "initialValue": {
+        "amount": 48042.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T00:00:19.152562+03:00",
+    "endDate": "2026-06-09T07:30:00.249449+03:00"
+  },
+  "awards": [
+    {
+      "id": "0bcf3aabe0b14cd09ecafb1bfdf9b9e9",
+      "status": "active",
+      "date": "2026-06-09T07:30:00.249449+03:00",
+      "value": {
+        "amount": 48042.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ФАРММЕДАЛЬЯНС\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "38929750",
+            "legalName": "ТОВ \"ФАРММЕДАЛЬЯНС\""
+          },
+          "address": {
+            "streetAddress": "03170, м. Київ, вул. Скарбова, буд. 1.",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "03170  ",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "STANDARD.FMA@UKR.NET",
+            "email": "STANDARD.FMA@UKR.NET",
+            "telephone": "380953124585",
+            "url": "http://www.aptechki.in.ua"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "282b1c14bfa14daf868237ba3f947eac",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "5d9fb19b005f4e8fa8dcbb3470490bb6",
+          "datePublished": "2026-06-09T07:29:59.982786+03:00",
+          "hash": "md5:d1f7956f50886d3bec3cdeb9f0c4263f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/df6f263fbd004e0fa60e5854be0cc727?Signature=jF2NwBn9e64xAOHJw5pekcMPt7gn1MbKAPYE%2Bt0j6p2j6BJEAVNI8YmOhI5SZiWv8oU3D6Q1Ay0B23kl0p3GCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T07:29:59.982786+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T00:00:19.152562+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "fe4277fe4125479996514839eec42816",
+      "status": "pending",
+      "awardID": "0bcf3aabe0b14cd09ecafb1bfdf9b9e9",
+      "date": "2026-06-09T07:30:00.249449+03:00",
+      "contractID": "UA-2026-06-04-004485-a-a1",
+      "title": "Сумки медичні",
+      "title_en": null,
+      "description": "",
+      "description_en": null,
+      "value": {
+        "amount": 48042.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 48042.4
+      }
+    }
+  ],
+  "id": "18461d7feff7461b9bb3b1984494d91b"
+}

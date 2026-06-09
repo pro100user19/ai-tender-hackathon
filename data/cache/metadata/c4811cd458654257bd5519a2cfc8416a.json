@@ -1,0 +1,1641 @@
+{
+  "description": "Дизельне паливо (Євро 5), талон",
+  "date": "2026-06-09T07:59:16.484873+03:00",
+  "dateModified": "2026-06-09T07:59:16.484873+03:00",
+  "dateCreated": "2026-06-04T10:33:24.974695+03:00",
+  "tenderID": "UA-2026-06-04-002777-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:bff3f0fafa947bdacc36acc3de88239fcb3dbb39;SHA2-384:172530a98feb4bc986cd4ba63720dfbe817106d699cb518b9f6600cd6a8aa25b8532f2b1f01f6e1a1d2b6132556833fb;Antivirus: ESET Antivirus",
+      "relatedItem": "c4811cd458654257bd5519a2cfc8416a",
+      "id": "9411315f8d914cda97a1b840e987f8ed",
+      "datePublished": "2026-06-04T10:33:26.725905+03:00",
+      "hash": "md5:17b22b92f0666792240ecaff1f782ff0",
+      "title": "2026. Проєкт договору про закупівлю товарів.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/f5958fd1decc4c1b848ccaa8bbf241fe?Signature=E4KVSm3iMOOxkJBIZIAZXZXo4V%2F75plncYcXQLS0s6buzN4zTl6aZFQdin4yEYC11dAnvQpKhC6Q0ZKqK%2BDmBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:33:26.725905+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:00021d1519b54f77eb038e5c9b7a1942d1032ebd;SHA2-384:20411531934d20c670c5621989caead0cc7a99f7974550977eadc434bc83e81c311fd0c759709120bc0fc3d23ed08ea6;Antivirus: ESET Antivirus",
+      "id": "471aa8e858e44ebbb1716f3692c6d7da",
+      "datePublished": "2026-06-04T10:34:09.473264+03:00",
+      "hash": "md5:ccd7d38ab7d3f57753b7a9a2fe9ed5e1",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/3edf7837ee63433b8c516ed55cddbfce?Signature=3kfv0Za8DcbA%2FVsa8L%2BtbLcvuqVWIBZEoFWLcZ99kOLcfW3LI2J2KZSrZuppfFLzunefH%2BNIIw18Vb6lzjwWDg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:34:09.745702+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Дизельне паливо (Євро 5), талон",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "5a832441e9a44879a82a9d08d14c588e"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "5673356a935248ae9ca411168a6edf08",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "49f80b123eea45b6af50be257df527a0",
+      "title": "deliveryOfGoods",
+      "description": "Оплата згідно умов договору",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.awarded",
+  "agreement": {
+    "id": "67298ddab2a5414e9f288fe53ada7ba7"
+  },
+  "value": {
+    "amount": 100000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T10:34:10.049395+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "ВИКОНАВЧИЙ КОМІТЕТ ДМИТРУШКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "04410344",
+      "legalName": "ВИКОНАВЧИЙ КОМІТЕТ ДМИТРУШКІВСЬКОЇ СІЛЬСЬКОЇ РАДИ"
+    },
+    "address": {
+      "streetAddress": "ВУЛИЦЯ ПЕТРОПАВЛІВСЬКА, будинок 19",
+      "locality": "Уманський р-н, село Дмитрушки",
+      "region": "Черкаська область",
+      "postalCode": "20332",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Людмила Шмалько",
+      "email": "dmitrushkitender@ukr.net",
+      "telephone": "+380474496215"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "35f3bfd106614c8b8c80d0e7fe776ca3",
+      "category": "53b4b878159745b2ad4b3b9fb7f2e144",
+      "id": "2a2438596ecd485185f8d8f6d940f924",
+      "description": "Дизельне паливо (Євро 5), талон",
+      "quantity": 1100.0,
+      "classification": {
+        "description": "Нафта і дистиляти",
+        "scheme": "ДК021",
+        "id": "09130000-9"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-30T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Петропавлівська, 19",
+        "locality": "с. Дмитрушки",
+        "region": "Черкаська область",
+        "postalCode": "20332",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "літр",
+        "code": "LTR"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "6bad7b6d4a104049aa98e219286ac01a",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "48e069b8297b4022b5d6799e52ecd213",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "ad4b35ad1988432e9acbf4f4b0355412",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "023dbbf77da642499168039377ee9fa5",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "7ece81db375142c7a7e2ab7ab3d12934",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25a3ab830bf3476cb74b81bebe0f7140",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "df18fc4716fd4821a3d0f7c4e524b666",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "fc2a7c25a00f4def822350a6b12d49de",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            }
+          ]
+        },
+        {
+          "id": "a52eb9acb8974d8e81a7705e6d9f9768",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "599ca5157e9f4de79627262f157b75eb",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c81b1aa25ca4cf0a7db02acabbe7923",
+      "description": "Учасники процедури закупівлі повинні надати у складі тендерних пропозицій інформацію та документи, які підтверджують відповідність тендерної пропозиції учасника технічним, якісним, кількісним та іншим вимогам до предмета закупівлі, установленим замовником",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "2a2438596ecd485185f8d8f6d940f924",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмету закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Про публічні закупівлі",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#Text"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "315a0649e4fa44e681fe4369f24bb3f8",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "f9650b29ecf34a57b5be5f5e796d137c",
+              "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "2905a3bdee1549cea79528b553520753",
+              "title": "Спосіб реалізації",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "талон"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "645eb66b7c134028a9b4d67dac0614b1",
+              "title": "Мінімальне цетанове число",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "49"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "98425c1f61af44bb8c44e5285548dab6",
+              "title": "Вміст сірки — не більше 10 мг/кг",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            },
+            {
+              "id": "ddb699b6265444698876599eb398851c",
+              "title": "Відповідність ДСТУ 7688:2015",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:33:27.164290+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T10:34:10.049395+03:00",
+  "bids": [
+    {
+      "id": "536cc0b72f1a4558992c7b2f9b872e85",
+      "date": "2026-06-08T14:18:13.994229+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "ca93b83c53f44b28965db911d1582eb8",
+          "datePublished": "2026-06-08T14:18:10.801443+03:00",
+          "hash": "md5:25b8483ed7771f7aa2d9b2ab2dc68f9f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/04e02b52c4e24144aff6947946abb3bd?Signature=zcxFwCG4wY1cwWHoFwBRmhlwzHw8a1mMJnmLVsTk7wQBqFyXYfJKpkFc8VZe4umQJTZcB4P8KiZSHebZBvw8DQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T14:18:10.801443+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОРІОН НАВІТЕК\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45837721",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОРІОН НАВІТЕК\""
+          },
+          "address": {
+            "streetAddress": "вул.Калнишевського Петра, будинок 6, ПРИМІЩЕННЯ 65",
+            "region": "м. Київ",
+            "postalCode": "04202",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сьомін Юрій",
+            "email": "orionnavitek@gmail.com",
+            "telephone": "+380971438823"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 91344.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "6f9e5fe4f20744c1a8812e0731db59fa",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "e1c92e2867334993aea9ba5a53b89892",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "cb9f50bba17f4bae816e9eec85446a97",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "52b523bfd85d48ee80a72ac217f52b2c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "86e725c749904eb881d7a69988b0e9d7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "9fe7bf6607354716bf7f207aef3fb670",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "4f01306d71764910bec2bf5693665f2f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "d6fb73a2f53d4d0092d6a6c08921ccd6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "4d01cc15ed134b6fac8ea873ccee7b8e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 83.04,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "81b320d40ea9479991e9b41078025c5a"
+        }
+      ],
+      "submissionDate": "2026-06-08T14:18:13.994229+03:00",
+      "initialValue": {
+        "amount": 91344.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "e3ae3a7756f44ad7905febf722990795",
+      "date": "2026-06-08T14:28:52.443242+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "f03d285051bb4bb6a51df717e61dfcc9",
+          "datePublished": "2026-06-08T14:28:52.178214+03:00",
+          "hash": "md5:428e5534673ddd61f1c9a06c79fac5a0",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1ffdaa67d2e34d37bcfd9767cdfd1436?Signature=neXilYjeN%2FUrhiETG%2FGL%2FBbN9Me1juDKVfvzkxPcXnHKw9VMpsBnHuCLKrWoc45pQeU2U%2B07NnNaIeKAQaLJCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T14:28:52.178214+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"Параллель-М ЛТД\"",
+          "name_en": "Tovaristvo z obmezhenoyu vidpovidalnistyu \"Parallel-M LTD\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24316073",
+            "legalName": "Товариство з обмеженою відповідальністю \"Параллель-М ЛТД\"",
+            "legalName_en": "Tovaristvo z obmezhenoyu vidpovidalnistyu \"Parallel-M LTD\""
+          },
+          "address": {
+            "streetAddress": "вул.Соборності, будинок 66, кімната 703",
+            "locality": "Полтава",
+            "region": "Полтавська область",
+            "postalCode": "36014",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ващенко Єлизавета Олександрівна",
+            "email": "vaschenko@parallel.ua",
+            "telephone": "380937268869"
+          },
+          "scale": "large"
+        }
+      ],
+      "value": {
+        "amount": 89562.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "5a908a26eb1e40cf9475c0bacb6af41b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "94d62050618c441cb1104b08526df2e7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "c0000c75d5104dea9826d4030bdaf52c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c6ccfbae6d6845408a7e66b1a16c0cc8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "833d5521c83b4f2383dfd31d6c339243",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "cf06e3b971c14f61b76680e8443589f7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "9087277dfa634cd088bcc8b458f4ca25",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "10b08b2c79e440c3a94617775ec42211",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "18aea6e615824b5389e802f8df8fb8e4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо (Євро 5), АЗС PARALLEL, талон",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 67.85,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "d08d1c6d53f4477ba7c0c986cb8a1563"
+        }
+      ],
+      "submissionDate": "2026-06-08T14:28:52.443242+03:00",
+      "initialValue": {
+        "amount": 89562.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "539af7fdd75a428395af3aecfe1355bd",
+      "date": "2026-06-08T16:29:25.222794+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:7053e8cb541f8b495444e33855b28bb4f3b0297d;SHA2-384:a20ce0e7a732eae1d50f7d700a55ad112164a99e0785380c72d80df256e3a872163ecbbe6d847c3f0edae4761e6d09e9;Antivirus: ESET Antivirus,fids:355fc4b8f89143bba930a4727a8a172a:fide",
+          "id": "d1712bc4203d455d88b4c5d471feebe7",
+          "datePublished": "2026-06-08T16:29:24.922511+03:00",
+          "hash": "md5:93db9a0d36fda5f01f1c5c9b8e247fe1",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2f11290a60974b40898c69210f136f85?Signature=Ceok%2FdRh2zIyE0%2FujS0EKfyA5hh8SzC0QCmIiE2xbwh4y4Qj%2BWZ4%2FCGelky1CdbIAaUcECcmwIfeOufA9KVtDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T16:29:24.922511+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПП \"ОККО-СЕРВІС\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44838860",
+            "legalName": "ПП \"ОККО-СЕРВІС\""
+          },
+          "address": {
+            "streetAddress": "вулиця Франка Івана, будинок 14 А",
+            "locality": "Стрийський район, селище Славсько",
+            "region": "Львівська область",
+            "postalCode": "82660",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ростислав Бугель",
+            "email": "rbuhel@gng.com.ua",
+            "telephone": "+380932926720"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 92070.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "ca785349ebeb48e78ad658f2d12d7536",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "ec3df04e3679435a8bc31b94106fb976",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "b508e7f983764ae4a36e8f080044973b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "df917414550646628220d1193b68171d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "05cc50559316470881372bf673c17e4e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "3b0bc91aec5547d986804d3cf779fa86",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "0ba456d4000d4d1ca0f35f6b5cebd5d3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "3cd5ee4cadc24215b21cec4951a4ac29",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "6d1d992f371a4998a641539c39488a1b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо (Євро 5), АЗС ОККО, талон",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 69.75,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "b320170ebb214fc6871bf27d1f94c370"
+        }
+      ],
+      "submissionDate": "2026-06-08T16:29:25.222794+03:00",
+      "initialValue": {
+        "amount": 92070.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "eccb113fc7de4386a4da5cf248523798",
+      "date": "2026-06-08T16:36:41.295935+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "67327d5334a34d768309a4cb4a110406",
+          "datePublished": "2026-06-08T16:36:40.953821+03:00",
+          "hash": "md5:9e3031b7bca60bfbae822a45a84db2f3",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c2542eaa3b814b9986cb2ceaeaaaf28c?Signature=emYHQA4XFSevmjupm8jwLsKopW%2FO3DS6UICwBfXQfI6tVwviAbDUFTwSxKd2XxzKZAHHJb9dIDw%2BvYdL9MzVAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T16:36:40.953821+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРНАФТА-ПОСТАЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43012009",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРНАФТА-ПОСТАЧ\""
+          },
+          "address": {
+            "streetAddress": "ПРОВУЛОК НЕСТОРІВСЬКИЙ, будинок 3-5",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04053",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Корецька Анастасія",
+            "email": "anastasiia.koretska@postach.ukrnafta.com",
+            "telephone": "380952864508"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 93390.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "b0bad010a2444374bed62f8e8e9e89ea",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "12d395b8aa86492082ffe481b49968df",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "52573e5d2ddf4810a640998080ea145e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "2a56b1b461fc4fe2acf0171a2f60fab9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "e9e5eb9f53064d40bfab97826dea0f87",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "43af2fe3775f4e9a8f21b1fa0b5e0666",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "c6a6d6fdfd9646f69260a398e696878e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "50cf869366dd4595971b38c8f60fe16a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "f08844d168e24cafb6309fb2de8c63f7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо (Євро 5), АЗС УКРНАФТА, талон",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 70.75,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "c157b56651dc411faf80cd9157ad3577"
+        }
+      ],
+      "submissionDate": "2026-06-08T16:36:41.295935+03:00",
+      "initialValue": {
+        "amount": 93390.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "67c6f504558947db8671ad64bf402ea8",
+      "date": "2026-06-08T17:44:47.417251+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "1214092d683b46b29343cd9fb2d7f0e9",
+          "datePublished": "2026-06-08T17:44:47.234715+03:00",
+          "hash": "md5:620eba058239190618909ba5bf9ffee9",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/fc6ac308ff724ba5a8215089cfd54117?Signature=Knc68EpH7SJMHzUNOLTpedU9Vq7YvCHGhCb%2FISuEjm%2BjEwGF2nJkhi3fI8ujGUOsw4nc9AAMk5kBYv%2F4rgvmBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T17:44:47.234715+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПЕТРОЛ ПАРТНЕР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44763104",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПЕТРОЛ ПАРТНЕР\""
+          },
+          "address": {
+            "streetAddress": "вул.Яремчука Назарія, будинок 1",
+            "locality": "Луцьк",
+            "region": "Волинська область",
+            "postalCode": "43023",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Подухайло Тетяна Андріївна",
+            "email": "tetiana.podukhailo.zakupivli@wog.ua",
+            "telephone": "380673340781"
+          },
+          "scale": "large"
+        }
+      ],
+      "value": {
+        "amount": 89100.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "955f43c32a64425da4f73c88da8667a7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c7a24b655d4e49778b6b254172415ee3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "b31c9eff4aae4773af85711e9589aac3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "c9430f0631364b5baed3646d5c2df177",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "70db5a8af6b842428c992bcd54032a61",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "e3bec7229e674bf29c2ef0506be76dfc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "c0f6f13850be450bad463d1c6c091b68",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "882a58ee50ed479e8462e5b5734282ba",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "f1b2d7107024417ab1017fbc319c7b1b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо (Євро 5), АЗС WOG, талон",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 67.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "b24375000f0b4f0cb00e74821eb146e5"
+        }
+      ],
+      "submissionDate": "2026-06-08T17:44:47.417251+03:00",
+      "initialValue": {
+        "amount": 89100.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "1e327d277489482094803f3b4e2de90e",
+      "date": "2026-06-08T23:44:53.605746+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "b75bea56f4fa4561b4c5cb2cb529c080",
+          "datePublished": "2026-06-08T23:44:53.477622+03:00",
+          "hash": "md5:883a679764e1331cda54f872388a4931",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ff018baf71a7402288b84efd717c8689?Signature=sqJBJjTNb%2F3zuw1mrprWSpY6xHi9wDslexCEwEpBRNOCVXw0xMZ85BQz7Cpc9nhZ4Z%2B43Kmh2OeUhNFz2KfEDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T23:44:53.477622+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРПЕТРОЛЦЕНТР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43699122",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРПЕТРОЛЦЕНТР\""
+          },
+          "address": {
+            "streetAddress": "бульвар Марії Приймаченко, буд. 1/27, офіс 404",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "01042",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Максим",
+            "email": "ukrpetrolcentr.tender@gmail.com",
+            "telephone": "380678444135, 380678444135"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 92334.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ad4b35ad1988432e9acbf4f4b0355412",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "7c23129573f74fa1bb98067005081f3e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "023dbbf77da642499168039377ee9fa5",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "0516736f72b14208b0a950553cfaefe3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7ece81db375142c7a7e2ab7ab3d12934",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ee93ef6f15fd431ca0b407791782a7e9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc2a7c25a00f4def822350a6b12d49de",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "fef4a8f01f5c4264b8b4e6c4cf6c9354",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f9650b29ecf34a57b5be5f5e796d137c",
+            "title": "Відповідність сезонності дизельного палива згідно ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "d056b1083db34a559858d2d735a49c92",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2905a3bdee1549cea79528b553520753",
+            "title": "Спосіб реалізації"
+          },
+          "values": [
+            "талон"
+          ],
+          "id": "2ff609ecdd3a4ffbb55ee1459825c495",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "645eb66b7c134028a9b4d67dac0614b1",
+            "title": "Мінімальне цетанове число"
+          },
+          "values": [
+            "49"
+          ],
+          "id": "28556ee8ea674d0e86af5ea5316317b8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98425c1f61af44bb8c44e5285548dab6",
+            "title": "Вміст сірки — не більше 10 мг/кг"
+          },
+          "value": true,
+          "id": "c38bfb97285b400c95f2fec61299be56",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ddb699b6265444698876599eb398851c",
+            "title": "Відповідність ДСТУ 7688:2015"
+          },
+          "value": true,
+          "id": "5a130ebc86484dd28e328c30df9478fb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "2a2438596ecd485185f8d8f6d940f924",
+          "description": "Дизельне паливо (Євро 5), ALL AZS, талон",
+          "unit": {
+            "name": "літр",
+            "value": {
+              "amount": 69.95,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "LTR"
+          },
+          "quantity": 1100.0,
+          "product": "8b11ca0f56c84ec3ab12a65a6492f759"
+        }
+      ],
+      "submissionDate": "2026-06-08T23:44:53.605746+03:00",
+      "initialValue": {
+        "amount": 92334.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T00:00:19.089979+03:00",
+    "endDate": "2026-06-09T07:59:16.484873+03:00"
+  },
+  "awards": [
+    {
+      "id": "2c76de3962b74b1bb3cba92514ee5c01",
+      "status": "active",
+      "date": "2026-06-09T07:59:16.484873+03:00",
+      "value": {
+        "amount": 89100.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПЕТРОЛ ПАРТНЕР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44763104",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПЕТРОЛ ПАРТНЕР\""
+          },
+          "address": {
+            "streetAddress": "вул.Яремчука Назарія, будинок 1",
+            "locality": "Луцьк",
+            "region": "Волинська область",
+            "postalCode": "43023",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Подухайло Тетяна Андріївна",
+            "email": "tetiana.podukhailo.zakupivli@wog.ua",
+            "telephone": "380673340781"
+          },
+          "scale": "large"
+        }
+      ],
+      "bid_id": "67c6f504558947db8671ad64bf402ea8",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "369ad718168444b996f05d0658450d67",
+          "datePublished": "2026-06-09T07:59:16.255669+03:00",
+          "hash": "md5:8b0f67a59452ac4be49ef9873f185922",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ec2f778d94394ddf88486da55632d7c4?Signature=cR3MyQLnQvey7iQmHQJQa%2FUMXA2e2aeUpMQ81MI5XpHWBfAy1i%2B7dQ795NZei%2FKsSa78U2r8C%2Blv%2F5kM0i7LAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T07:59:16.255669+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T00:00:19.089979+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "99361922a2a749e89bf0e0bdc07a75c8",
+      "status": "pending",
+      "awardID": "2c76de3962b74b1bb3cba92514ee5c01",
+      "date": "2026-06-09T07:59:16.484873+03:00",
+      "contractID": "UA-2026-06-04-002777-a-a1",
+      "title": "Дизельне паливо (Євро 5), талон",
+      "title_en": null,
+      "description": "Дизельне паливо (Євро 5), талон",
+      "description_en": null,
+      "value": {
+        "amount": 89100.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 89100.0
+      }
+    }
+  ],
+  "id": "c4811cd458654257bd5519a2cfc8416a"
+}

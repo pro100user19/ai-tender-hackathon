@@ -1,0 +1,376 @@
+{
+  "description": "",
+  "criteria": [
+    {
+      "id": "c0c8560e252340a0a62dfb0ad6c0bbfa",
+      "description": "Забезпечення тендерної пропозиції/пропозиції не повертається у разі: 1) відкликання тендерної пропозиції/пропозиції учасником після закінчення строку її подання, але до того, як сплив строк, протягом якого тендерні пропозиції вважаються дійсними; 2) непідписання договору про закупівлю учасником, який став переможцем тендеру/спрощеної закупівлі; 3) ненадання переможцем процедури закупівлі (крім переговорної процедури закупівлі) у строк, визначений частиною шостою статті 17 цього Закону, документів, що підтверджують відсутність підстав, установлених статтею 17 цього Закону; 4) ненадання переможцем процедури закупівлі (крім переговорної процедури закупівлі)/спрощеної закупівлі забезпечення виконання договору про закупівлю після отримання повідомлення про намір укласти договір про закупівлю, якщо надання такого забезпечення передбачено тендерною документацією/оголошенням про проведення спрощеної закупівлі",
+      "source": "tenderer",
+      "relatesTo": "lot",
+      "relatedItem": "d07e018a791040239c83a3d2797e1a9f",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.BID.GUARANTEE"
+      },
+      "title": "Забезпечення тендерних пропозицій",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.15"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1444"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "25"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "7b4573d0806141089ab395a7508761f9",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "019fa1c86bea4a2bb56ed3e9d8189a82",
+              "title": "Розмір забезпечення тендерної пропозиції/пропозиції у грошовому виразі у % від очікуваної вартості закупівлі",
+              "dataType": "number",
+              "eligibleEvidences": [
+                {
+                  "title": "Банківська гарантія забезпечення тендерної пропозиції/пропозиції",
+                  "type": "document",
+                  "id": "4e896fd5c21745b296bab2688055621a"
+                }
+              ],
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "expectedValue": 3,
+              "datePublished": "2026-06-03T12:51:24.880228+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-03T12:51:39.426370+03:00",
+  "dateModified": "2026-06-09T08:03:18.990203+03:00",
+  "dateCreated": "2026-06-03T12:51:22.723579+03:00",
+  "tenderID": "UA-2026-06-03-006328-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "20c59454ac9b4c41a0f5eca78c7b4a50",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:7ff10e781f368a73ef94006fd57aa8fd",
+      "title": "Додаток № 1 форма Пропозиція.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/b7580290a85947798611362c8d68169d?Signature=Ho%2FeIXiGdNYgAG1aCoMp9VEpZ1wBRTxdQqw9iVxFma%2FrGgwZvo7eZ3mQGS3g8SZkr7F4YD43oSLKsoiQ74xiAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "c1491de3accc4ab8b6ae9030f67e5ac3",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:0cf0de4020496c4348be81c5441eefa3",
+      "title": "Додаток № 2 Технічні вимоги .doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/345358a463df4209a81e3aec17c23351?Signature=rXkBrBec4jJwBdIrdg6v%2BXodbqw37ItxLAHibbmT9Vryf%2BHcZ5U5tFIN7sbrlOifptAjsCQTJZqIX8A3AbmxBg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "315419f3fca141829e8f44f4f98bc6a4",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:ab74658aca9a5832fc1193c3da3f22da",
+      "title": "Додаток № 3 Вимоги до учасників.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/aac192e3d0e84ce181784be658e33c72?Signature=B4NPSPt70xBw48spj2R02%2B92Oy3Hd5eoAuAWkOLHpi%2B%2FtHL11%2BEgGfMyF8FAeiyBzfYxVvxeF6ZaBaliR9EcBQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "393991a573d44a9e9ab6f97c147ab0f2",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:0a19b085b111ed335fcad681400af5f6",
+      "title": "Додаток № 5 Форма забезпечення.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/fc0937f60d5a4c70887933833bfd06fc?Signature=hPUlVzdiG%2FmI7JT%2B%2Bd0STB09iawTjo7VVm%2FSw2i6m554ejoyy74yNbpmzpZqEITXmBE26%2FUKQsN6xCNiWeduAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "1282a3c6111b40d18e32391af39acf78",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:cff899521a3a01dbb53297cc54705d9a",
+      "title": "Додаток №4 Проект договору укриття .doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/00c0f4d42dbd4b62803d0abc0e6ab1ca?Signature=kWjCU98NGm4VQz0rGQhPhiE7gMMsKMEBBYXe5LzFjU1UHnsbXnS7cZYb%2BK%2F%2FpTYRj%2B%2F64eAmIo5rbx6FexA8BA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "2e91a8bb855f46039806ba408eb42af5",
+      "datePublished": "2026-06-03T12:51:24.736632+03:00",
+      "hash": "md5:fb11cf5dcbbc1578320aa5a6f1cb69c5",
+      "title": "ОГОЛОШЕННЯ.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/655a89fcc1044736bad9ffbc0e9a9b47?Signature=CdIXuk9H6WgPE879VI6%2FW3atTw62R59CA%2FmFdb0QP73sCrVa8tMhK%2FUNt26W4HYqoLTsX%2FqfV2svIcAd3UW%2BCg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:24.736632+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "b88e69ad52564a7ba10fda59f7157a6e",
+      "datePublished": "2026-06-03T12:51:35.639531+03:00",
+      "hash": "md5:c0d3e6dafac72d3bae8dd631954da176",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/282c32dfd48e49889bfb6df6ccd70ac0?Signature=nmZvhvW%2BitMhIiDM38hwm44%2FlRAnRZak8jIDS%2F8oji26inkYIWVaUPpBXMBjKzc%2F29fW3Z%2Fp9ptrgmKuJd1CAA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T12:51:35.639531+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.enquiries",
+  "owner": "it.ua",
+  "title": "Швидко-збірна споруди",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "f61d468050724d49af7a90d720c7b48e",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "d07e018a791040239c83a3d2797e1a9f"
+    },
+    {
+      "id": "a116b818f2b249859582664ccc5f9b90",
+      "title": "signingTheContract",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "d07e018a791040239c83a3d2797e1a9f"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "Військова частина 3054 Національної гвардії України",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "25575569",
+      "legalName": "Військова частина 3054 Національної гвардії України"
+    },
+    "address": {
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Бондаренко Анастасія Сергіївна",
+      "email": "prozorro3054@i.ua",
+      "telephone": "380980899341"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 3991200.0
+  },
+  "guarantee": {
+    "amount": 119736.0,
+    "currency": "UAH"
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-09T10:00:00+03:00",
+    "endDate": "2026-06-15T00:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Швидкоспоруджувана споруда цивільного захисту модульного типу (укриття)",
+      "status": "active",
+      "id": "d07e018a791040239c83a3d2797e1a9f",
+      "date": "2026-06-03T12:51:22.723579+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 3991200.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 19956.0
+      },
+      "guarantee": {
+        "amount": 119736.0,
+        "currency": "UAH"
+      },
+      "auctionPeriod": {
+        "startDate": "2026-06-15T12:45:29.458000+03:00",
+        "shouldStartAfter": "2026-06-15T00:00:00+03:00"
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-06-03T12:51:22.723579+03:00",
+    "clarificationsUntil": "2026-06-11T00:00:00+03:00",
+    "endDate": "2026-06-09T10:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "98b858f40d8944c9a820334ff8eac465",
+      "description": "Швидкоспоруджувана споруда цивільного захисту модульного типу (укриття)",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 2.0,
+      "classification": {
+        "description": "Конструкції та їх частини",
+        "scheme": "ДК021",
+        "id": "44210000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-31T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Дніпро",
+        "region": "Дніпропетровська область",
+        "countryName": "Україна"
+      },
+      "relatedLot": "d07e018a791040239c83a3d2797e1a9f"
+    }
+  ],
+  "noticePublicationDate": "2026-06-03T12:51:39.426370+03:00",
+  "next_check": "2026-06-09T10:00:00+03:00",
+  "questions": [
+    {
+      "id": "6301ae3d785d492ba171b535fe7d3fb3",
+      "author": {
+        "hash": "f0007fafd349a5fda5e3e7a047a39e94"
+      },
+      "title": "Документи Учасника",
+      "description": "Доброго дня, шановний Замовнику. Просимо надати роз`яснення щодо довідок, які має надати Учасник у п5 та п14 Додатку 3 Вимоги до учасників, а саме чим відрізняються ці довідки? Чи можливо Замовник мав на увазі Витяг та Довідку відповідно ? Дякуємо",
+      "date": "2026-06-05T13:10:47.936220+03:00",
+      "answer": "Оскільки довідки, передбачені пунктами 5 та 14, є тотожними за змістом та правовою суттю, Замовник прийматиме до розгляду будь-яку довідку, надану учасником відповідно до вимог одного із зазначених пунктів, як таку, що підтверджує відповідність вимогам обох пунктів",
+      "questionOf": "tender",
+      "dateAnswered": "2026-06-05T13:52:35.328622+03:00"
+    },
+    {
+      "author": {
+        "hash": "eb00c225489d75ab05b82de3a45c121c"
+      },
+      "title": "щодо скасування закупівлі та оголошення нового тендеру",
+      "description": "Шановний Замовнику!\nУ технічних вимогах виявлено грубі нормативні помилки, які роблять виконання контракту юридично та технічно неможливим. Пропонуємо скасувати поточний тендер та оголосити новий на придбання ПМУ за ДСТУ 9329:2025.\n\nСуть нормативних суперечностей:Ви вимагаєте поставити наземну конструкцію та посилаєтесь на ДБН В.2.2-5:2023 у частині вимог до «найпростіших укриттів» та на його пункт 6.1. Ці вимоги є помилковими з таких причин:У ДБН В.2.2-5:2023 взагалі відсутні вимоги до найпростіших укриттів. Сфера застосування цього ДБН поширюється виключно на капітальні споруди (сховища, ПРУ) та споруди подвійного призначення.Пункт 6.1 ДБН В.2.2-5:2023 регулює розміщення капітальних Сховищ. Він не має жодного відношення ні до найпростіших, ні до мобільних укриттів. За законодавством України найпростіші укриття не можуть бути «окремо розташованими наземними конструкціями» (це підвали чи цокольні поверхи існуючих будівель).Наземні готові споруди модульного типу класифікуються як Первинні мобільні укриття (ПМУ) та регулюються виключно профільним стандартом — ДСТУ 9329:2025.Така плутанина в нормативах унеможливить сертифікацію виробу та введення укриття в експлуатацію.\nПропозиція:На підставі ст. 5 Закону України «Про публічні закупівлі», просимо Замовника:Скасувати поточну закупівлю через неможливість усунення порушень у ТД.Оголосити новий тендер на закупівлю Первинних мобільних укриттів (ПМУ) у чіткій відповідності до чинного стандарту — ДСТУ 9329:2025.",
+      "questionOf": "tender",
+      "relatedItem": "58578dee243e49c0a8790d18c77514ab",
+      "id": "6a8d5318f464453d9bb7841f1cc46e0f",
+      "date": "2026-06-09T08:03:18.990203+03:00"
+    }
+  ],
+  "id": "58578dee243e49c0a8790d18c77514ab"
+}

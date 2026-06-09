@@ -1,0 +1,2969 @@
+{
+  "description": "",
+  "date": "2026-06-09T08:00:06.765990+03:00",
+  "dateModified": "2026-06-09T08:00:06.765990+03:00",
+  "dateCreated": "2026-06-04T13:38:29.013351+03:00",
+  "tenderID": "UA-2026-06-04-007521-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "80f12e7e67e64781af5161b9f4bd82c5",
+      "datePublished": "2026-06-04T13:38:29.337020+03:00",
+      "hash": "md5:b82f0dacf9d3b3f21550e19aa528d220",
+      "title": "Проєкт договору дрилі.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/0a99ee2e77424256938ac14dda0cba01?Signature=zkVSuD6RCQIBkxBtEjeY9r2JDUMUC7UH7ERUb5E8IPm7mutpuJ66j0eCW%2F2ds2bC6aOpLyq84sGnk4HubLj3Bw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T13:38:29.337020+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "d64727e9fdf541c69cbd9f872917a56a",
+      "datePublished": "2026-06-04T13:38:34.203414+03:00",
+      "hash": "md5:04a6adf158db298061202461680110e5",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/829302592e22495690f762068d9df7bb?Signature=Nt3KJLZz6U%2F4XIDvW4%2Bghukcr4P9Ad%2BkMi%2B2YujP3BDmhzlgrwA5AxolPgm6KH7x%2BifP3JGGLpqnrl%2FkybxcAw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T13:38:34.203414+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "e-lot.com.ua",
+  "title": "Дрилі",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "a4e461f17f3f4846afc2c14e18970c56"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "7d0617d604caed440491b606be5116bd",
+      "title": "deliveryOfGoods",
+      "description": "Покупець здійснює післяоплату у розмірі 100 % вартості Товару, що підлягає поставці, на підставі видаткової (видаткових) накладної (накладних) Постачальника, за умови наявності відповідного бюджетного фінансування, шляхом перерахування коштів на розрахунковий рахунок Постачальника протягом 50 (п’ятдесяти) календарних днів з дати поставки відповідної партії Товару.",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 50,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "2de446f283d27f3ac988e4487db5a6ff",
+      "title": "submissionDateOfApplications",
+      "description": "Постачання (відвантаження) Товару Постачальником Покупцю здійснюється партіями, у встановленій кількості щодо забезпечення виробничих потреб Покупця, згідно з його заявкою, направленою Постачальнику факсимільним зв’язком або електронною поштою.\nУ разі відсутності у Заявці зазначення строку поставки Товару, Постачальник здійснює поставку Товару протягом 5 (п’яти) календарних днів з моменту отримання такої Заявки.",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "8cf94edad7e547639679434c5e8b10a7"
+  },
+  "value": {
+    "amount": 66570.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T13:38:35.258264+03:00",
+    "endDate": "2026-06-09T08:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "КОМУНАЛЬНЕ ПІДРЯДНЕ СПЕЦІАЛІЗОВАНЕ ПІДПРИЄМСТВО ПО РЕМОНТУ І БУДІВНИЦТВУ АВТОШЛЯХІВ М. ХАРКОВА \"ШЛЯХРЕМБУД\"",
+    "name_en": "MUNICIPAL CONTRACTING SPECIALIZED ENTERPRISE FOR REPAIR AND CONSTRUCTION OF HIGHWAYS IN KHARKOV \"SHLYAHREMBUD\"",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "03359182",
+      "legalName": "КОМУНАЛЬНЕ ПІДРЯДНЕ СПЕЦІАЛІЗОВАНЕ ПІДПРИЄМСТВО ПО РЕМОНТУ І БУДІВНИЦТВУ АВТОШЛЯХІВ М. ХАРКОВА \"ШЛЯХРЕМБУД\"",
+      "legalName_en": "MUNICIPAL CONTRACTING SPECIALIZED ENTERPRISE FOR REPAIR AND CONSTRUCTION OF HIGHWAYS IN KHARKOV \"SHLYAHREMBUD\""
+    },
+    "address": {
+      "streetAddress": "вул. Москалівська, 20",
+      "locality": "м. Харків",
+      "region": "Харківська область",
+      "postalCode": "61004",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Шмакова Світлана",
+      "name_en": "Shmakova Svetlana",
+      "email": "tender.blago.kharkov@gmail.com",
+      "telephone": "380956201240"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "category": "42650000-444003-40996564",
+      "id": "df561075000904fa345248f6ee5a03d6",
+      "description": "Дрилі",
+      "quantity": 15.0,
+      "classification": {
+        "description": "Ручні інструменти пневматичні чи моторизовані",
+        "scheme": "ДК021",
+        "id": "42650000-7"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-01T23:59:59+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Кульчицького, 9",
+        "locality": "м. Харків",
+        "region": "Харківська область",
+        "postalCode": "61124",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "f58fe80efaae44f39b536fd37974932a",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "df561075000904fa345248f6ee5a03d6",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+        "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "c3c54959ef0c32d7c293e4f28535146b",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "7a852907a2190027d626d6f987e2b765",
+              "title": "Потужність",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "WTT",
+                "name": "ват"
+              },
+              "minValue": 680,
+              "maxValue": 680,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "cf467a25d97a61d7a148763a560458dc",
+              "title": "Діаметр патрона",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 13.0,
+              "maxValue": 13.0,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "60e4ad955cd3a00351897ca303d53676",
+              "title": "Вага",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KGM",
+                "name": "кілограм"
+              },
+              "minValue": 1.8,
+              "maxValue": 1.8,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+              "title": "Гарантія",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MON",
+                "name": "місяць"
+              },
+              "minValue": 36,
+              "maxValue": 36,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "0b7c22acca21229f74142520d7e7a334",
+              "title": "Швидкість обертання",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "RPM",
+                "name": "обертів на хвилину"
+              },
+              "minValue": 2800,
+              "maxValue": 2800,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+              "title": "Макс. діаметр свердління бетону",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 16,
+              "maxValue": 16,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "c66997ef3c9e3c20311217b1a23d25cb",
+              "title": "Макс. діаметр свердління сталі",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 13,
+              "maxValue": 13,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "bcb50368d844da1c80260f6fea0084e2",
+              "title": "Макс. діаметр свердління дерева",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 30,
+              "maxValue": 30,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "070beee6e8f531cef51c30f083d15bc8",
+              "title": "Джерело живлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "мережева"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "e39ac0e53ea4889bb4ffe643313c3405",
+              "title": "Регулювання обертів",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "9586536d53a354cb569d0d21e123f417",
+              "title": "Тип патрона",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "ключовий"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+              "title": "2 і більше швидкості обертання",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+              "title": "Бічне руків’я",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "2e6e21ea8a6eea96a459488dcbac0964",
+              "title": "Реверс",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "db14f32e5d796072327bd526b00f7557",
+              "title": "Кейс",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "ccf876397e7f66a590e8e9ee023ff096",
+              "title": "Ударний режим",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "399ddcf324fdb2c01345505b51b3f4b4",
+              "title": "Бренд",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "MAKITA"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a008b76c54c1410d84eba15e2863e3a8",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+        "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "26fb23b10d154749be1ab15881d7c4d9",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "dff402ab7b2743a29acfb688cdec29cb",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "description": "",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "813a8681ecb740a8a883d0e4a723d3a0",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "description": "",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            },
+            {
+              "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "description": "",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2bf586940224439fb1f9ddba4f321f45",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+        "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "a60067686e9e41cbb4b7dc2db33a6511",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "description": "",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            }
+          ]
+        },
+        {
+          "id": "6d7923c00813498c9ad39eb9cdbdccfd",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "cd4cbf1263b344e4b430d33a9960827c",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "description": "",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "title": "",
+                  "description": "",
+                  "type": "document",
+                  "id": "59512eb57b66ddbd306f9e3a917971d3"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T13:38:29.837403+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T13:38:35.258264+03:00",
+  "bids": [
+    {
+      "id": "77e4a8127d3e4dc8b9f8d448d44e053e",
+      "date": "2026-06-04T14:42:55.830375+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "7565bcb24aa64e2588ad98114ca4eadf",
+          "datePublished": "2026-06-04T14:42:55.686803+03:00",
+          "hash": "md5:e777c4e549116e52e2b70fcd2c493b6e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0e83dc4e1de04c7cbd7cd423d12cf690?Signature=a7Gllu7qBEwHNsfN0KdWci31fRUBXbPYNYqYuosKcnk6t0jvAHWohn71Mvjg%2FwmmyaLoLEVWQK%2FDY45xlkKWAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T14:42:55.686803+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПРОФІЦЕНТР КВІТКА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "32327296",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПРОФІЦЕНТР КВІТКА\""
+          },
+          "address": {
+            "streetAddress": "Україна, 79024, Львівська обл., місто Львів, вул.Промислова, будинок 47а",
+            "locality": "Львів",
+            "region": "Львівська область",
+            "postalCode": "79024",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Павло Ройко",
+            "email": "TENDER@KWITKA.COM.UA",
+            "telephone": "380679410079",
+            "url": "http://kwitka.com.ua/"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 53190.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "9234e635ff9f45b9864cb964e345f15e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "00a9671d84454e988c091cc24c2807e9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "af028622b64444c6949ddab1ac078852",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "b7dbd76c1ace48bfb3c1ada9854aa861",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "994033778f8c4e4a85e902052d4c4034",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13.0,
+          "id": "3cd721def86947498a7cc31f80169bfc",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "1d2b5e0ec8684714bb9782ee601d9d1a",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "5daa3f6733484bfa898c860883763256",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "130905600b5047aab29c1aa26d7f9f0b",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "27690809dc5d434db927e00cd7e993f7",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "0d4f7f2592034fefa5e7360ef75213e2",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "4fbfa62a1fd34294880f941a95c4c2e9",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "76d4320b151441329667846925fdb7d4",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "a3d11e1de2c041e6be8d00c679df1c87",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "e3d7d36eb95b48e0bd9344b6b2af074e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "226c8591e0f1485c82de9e07de2be416",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "bfebf7dc61fe4761878f1993e5e74b90",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "6d250f9c79224de1a4de3043b0cd82a7",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "4adc224ff2e247aeb470511ea7d72eca",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "177d6da82f9d4d6c8eff0099ac5abc50",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "c4c2a098286a42e691972b294bd09e6f",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2955.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-04T14:42:55.830375+03:00",
+      "initialValue": {
+        "amount": 53190.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "7c5100154bc442f2a62f3853910839b6",
+      "date": "2026-06-04T14:51:01.208681+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:ab1c2cae7e3b408c650a2951c901de38002cf09a;SHA2-384:701266ea3f919e2fb34e1b34d1c8bf4ad412d8172a818251a3a9c972c8b3b0d7ff719eddaa34ba290c12b6d98052ea7b;Antivirus: ESET Antivirus,fids:d48bc48bf8ef445d95eadf3a67e9e84b:fide",
+          "id": "7d4f62165d8a48b7bc449516074c6bdb",
+          "datePublished": "2026-06-04T14:51:00.942719+03:00",
+          "hash": "md5:86bb535f9d6df27ef7058409284e88c0",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1a6d5c24d7f249cda16910bef0dc8732?Signature=7GGmKAeSPdwAGayLKH6EZPUG46FgGfsyQkzbbRBPjAT87ns8z%2F4aPVqzHJh4yXPo%2FsReE8HOUx4HEeCSTf6ZBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T14:51:00.942719+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ІНСТРУМЕНТАРІУМ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "41129997",
+            "legalName": "ТОВ \"ІНСТРУМЕНТАРІУМ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ КИРИЛІВСЬКА будинок 126/2",
+            "locality": "м. Київ",
+            "region": "м. Київ",
+            "postalCode": "04080",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Андрій Винар",
+            "email": "o0995838159@gmail.com",
+            "telephone": "+380995838159"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 51265.44,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "659d9fdf2c5c466ba896a449a76d28ca",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "008c01195a974499ae10e02c234a68c3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "521b7d117b3e4d44ab7a4b505c792ed9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "3ea5163f96544c63a4cb8472c6280f7d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "6f754a22f3de4d53ae2e69df66969029",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "0786358527884465bcaca47b6c145e10",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "fb991a491645409c8abd8b10730bd6b8",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13,
+          "id": "e584500a895c45e59acab429c24ddd2b",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "83af0f010fed4e59939617a922b8a3d5",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "0eec3a32f24548eab24f8df17b8b6fb3",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "d4de198451104250bc26f87c44460d1e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "80a5bdb894cb4440a44d018f474e04fa",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "ec3fd59301804808ab20ad93756357ed",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "4bf84685f2184d6e8a493c54a0aa1b21",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "9eb26f01e5ba4ce0acf51a6c0acdd262",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "78edc407c7e84e8982889affae608b23",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "473bdbbb73b74510a99dd00f81ce4254",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "1742315c374b46f8838748c7ff2113a6",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "fed4450873484ffba70198b61841f5a7",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "00364f4cfa1043599a4d021d8a37286f",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "ca9cc761c2cb428d8e7b3bedf86958ad",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2848.08,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-04T14:51:01.208681+03:00",
+      "initialValue": {
+        "amount": 51265.44,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "b19f035d51024536ae0d42c1fd0ee951",
+      "date": "2026-06-04T16:56:31.773644+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "91b6287d902b4053ad0b8675912fcba9",
+          "datePublished": "2026-06-04T16:56:31.484136+03:00",
+          "hash": "md5:772de761aa8f27ecf94fb6d22ee6fb26",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c452b592bd2f410b94b03af6450a0275?Signature=p7FPv17%2BEAcdjEKPfe7qHaEJLgwr6YrFbyX5vwwE8dO1vLhCLlPhFncCbhhEER5BmhBpjKKcx2sTZ1TVCRqBBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T16:56:31.484136+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з Обмеженою Відповідальністю \"Інструкол\"",
+          "name_en": "Tovaristvo z Obmezhenoyu Vidpovidalnistyu \"Instrukol\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42576385",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІНСТРУКОЛ\""
+          },
+          "address": {
+            "streetAddress": "вулиця  Мазепи, будинок  91",
+            "locality": "Коломия",
+            "region": "Івано-Франківська область",
+            "postalCode": "78200",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Григорчук Ігор Петрович",
+            "name_en": "Grigorchuk Igor Petrovich",
+            "email": "instrukol@gmail.com",
+            "telephone": "380509887501"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 54450.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "636f3e1cc36a4426a6aeab169f93b864",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "4deb896ad32a400a898d2b73d0a30e34",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "9bb076221e7c458c9e896c5e09fe083b",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "6f10bc4948d6448383cd260d7097525a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "431f8938f50042218b9814e72193e9e4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "64a93a92b6934edfab91f4a9836636ed",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "2098113f71ae41a1805aa3833c026339",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "d7e71ef512544645bc1dd6aca17772c2",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "f373e663bbed474b8e5b3cdf2b115f47",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13.0,
+          "id": "cd7fbdfed42d487ea024d5a1c5b2d6d5",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "f7516e9123c4429387738e1db8becbca",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "43d61b666c234e639253501de894b447",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "2ccdbf017ab6404f884d17930b6cfab4",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "2650993cb2084275a587df8f02ee867a",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "0fb4a39979844229a5af463ca75e7a42",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "ea23258ed2994c77a9f030025ead797b",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "2ef332fc3d844edcb2981f7dabb788ad",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "b4d0da290b84460d87c6abc2fec0dbbc",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "e2e50db0f4e749c49bab5d7ebae0c03e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "03ee12ff14f34f5e97f5dcb7fb30f1cc",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "a2977848c74a4f16b1626299a5f7a2a8",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3025.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-04T16:56:31.773644+03:00",
+      "initialValue": {
+        "amount": 54450.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "0788979087c6498aa49398a2cb0e661c",
+      "date": "2026-06-05T08:25:36.631813+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9e9944d9ebce00bdf1982d8fbb0d54d1a0b3b3dd;SHA2-384:24d3a7e1f4f60682f43bf03d1825559a8369fca213e009b23d9a296b04f4a5124d5a2053fbc5d4e11a7238f180abb37d;Antivirus: ESET Antivirus,fids:1882f9f9f47243e4813de9b453ed98c3:fide",
+          "id": "6f2880e84d954bf6903e8c779bbda030",
+          "datePublished": "2026-06-05T08:25:36.385969+03:00",
+          "hash": "md5:ace3d00f04cca0087f7447f07edc376b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ec0e5e921d7a45fca83b8696cf46fbdd?Signature=sOWqK%2Fqp62SVci3NuwLCPMhIDj%2BNOkrMtyGGAnymLWjWnA6vxVwZ1Q3KljoJbZliyfU8dVQV8Pnz80fXFtW%2FCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T08:25:36.385969+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПП \"УКРІНСТРУМЕНТСЕРВІС-К\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "33679120",
+            "legalName": "ПП \"УКРІНСТРУМЕНТСЕРВІС-К\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ЯРМАРКОВА будинок 3",
+            "locality": "місто Біла Церква",
+            "region": "Київська область",
+            "postalCode": "09100",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Батрак Євгеній",
+            "email": "hjkl1974@ukr.net",
+            "telephone": "+380969550592"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 54720.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "ea00d54d58bf412988347e4cffefc005",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "3e0a2f221f014a80bf1085aac9df2707",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "1a94a9538fe347979e1d8945e603748b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "e718a51f6efd4ed680efa3833a51047c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "8c8de40d436b4472a1392227199100f0",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "a61c7c392855434c9265a8c85a1f352b",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "bef1369a903e42cf9cf9d2df0899cd33",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13,
+          "id": "8769a8ef68d948cca17b29a6b41fef11",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "dfb1e86acf2e47dda029904980aabf3e",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "3112f29d510e40ecaf607fb6a174913a",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "b581fbe61c17441fbed949fab87559b6",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "2f436879622644bf8e24988a2f6ff793",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "e784e08e0441432887e44f0c91c1f283",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "da8ef862db2d49e0ae1e74d25ceaa374",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "c31a6054e50d4eadad22e8e5bce4110f",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "9f22f3681c9d47b0b1fea57b404aa158",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "c20ff10bf08c47bf9dac1c8b12a1cb8c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "f6f90a1815a94cee8867462106626b59",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "a70b8312c7784b10ba6662bdc23235b0",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "d299c57057764eeca885e2d4a662318b",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "e32e71a84a604ef4ac13c2f6cdb6ee8a",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3040.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-05T08:25:36.631813+03:00",
+      "initialValue": {
+        "amount": 54720.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "ec35dd3717924257a541084296aa610b",
+      "date": "2026-06-05T09:37:27.680464+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "1e6ec2c6f9a345638986c691f6594593",
+          "datePublished": "2026-06-05T09:37:27.484475+03:00",
+          "hash": "md5:1bd1aab405d46cfc42849ce70d915679",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/228ae97b3ba242bf92841618e3d5a8cd?Signature=zZZ591YNao1qNtrLhRcI7irtEhLf%2Fq51zdaoN6Iu4B3x9cLJmFjPTCW70Xq36dZoPiToDJHKfXOLFN6J88WWBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T09:37:27.484475+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ТЕХКОМПЛЕКТ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "31114963",
+            "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ТЕХКОМПЛЕКТ\""
+          },
+          "address": {
+            "streetAddress": "03124, м.Київ, Солом′янський район, БУЛЬВАР ІВАНА ЛЕПСЕ, будинок 8",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "03124",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Собачко Михайло",
+            "email": "INSTRUMENT_MARKET@UKR.NET",
+            "telephone": "380503576624",
+            "url": "http://instrument-market.com.ua"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 51854.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "7f3b9efb142249b3ad58e6ec77b26fcd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "eb05c4bbea6c4cf7a48e371b6bb880de",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ff20ce865374463ea18fc773a5e82d93",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "8dbdf2b1f2f64ed680d3165f2c409598",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "460d893609984fd09aee1ab3152d846a",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13.0,
+          "id": "f691058b50cb4a7c86a57fb1e16f4dfd",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "cc7ea730bc2a4470aed6847ff2e03aa5",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "7b78dab8692146e19e1fcd9a63cdcae8",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "f7ef61bebc8046008c2052930f1ad634",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "49af3d042ec44285a02f5e41cde04ab4",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "3e9f000fc2584e2db3bcfbce92de475b",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "207818b469d74326a9882bc61c07bee9",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "ed9d5c92a7d1411fa43bac47e104bed0",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "fa0ef5d068fc4a57ae540bf7836dda55",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "41068bf6064e427d95a02d79074a138c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "5a0a35c829bc469db8ff2b44574bd65b",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "c53c63cb82df43f3b8c9696210238294",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "46c6e16e34c8430f849a0736294b8fe6",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "8804d831d27a445d8a1dca8072f09d0b",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "2e5e33c41ecb4336bd50e5bcc39cc61c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "a57783e219cc46bc9516137046bd3af0",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2880.8,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-05T09:37:27.680464+03:00",
+      "initialValue": {
+        "amount": 51854.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "ad9c441cedf24d8c9c7b26a0c796d5d0",
+      "date": "2026-06-08T10:53:39.902801+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "4792d9236f8c476582ce2b9721dfa8b5",
+          "datePublished": "2026-06-08T10:53:39.788081+03:00",
+          "hash": "md5:baeecff7da8bd2344e811d32d5ebf168",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f1e8efcebd104fa59a2a1bd29eb6b975?Signature=iadneDRCcz5mZmMuT6dLbRa4S9BOqDn4ucD0roYDSETSNeowr4M%2BwW%2F4NJIr6dMQy%2FJme3%2Fyz%2FiVvR40DQGDBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:53:39.788081+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ УКРСЕРВІС\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "23104972",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ УКРСЕРВІС\""
+          },
+          "address": {
+            "streetAddress": " ВУЛИЦЯ КИЇВСЬКА, будинок 10",
+            "locality": "Вінниця",
+            "region": "Вінницька область",
+            "postalCode": "21009",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Корольчук Ольга",
+            "email": "m4vpp@ukrservice.biz",
+            "telephone": "380674311816"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 57150.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "dff402ab7b2743a29acfb688cdec29cb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "083c0863442d4592abf6e6e3d25a535a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "813a8681ecb740a8a883d0e4a723d3a0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "1875fbe4f79748d68d3098a43f1567f3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2341ee18f0ae41d7b4d8f2d7ad798a00",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "53adaef0dea547e585b875122c64bf9a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES",
+            "description": "Вчинення правопорушень, повʼязаних із застосуванням санкцій"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5b7ded2e84f4c4bac6e11ba65581b0d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "03418eefe66d49c8863aec138ab8180d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION",
+            "description": "Наявність не виконаних зобов'язань за раніше укладеним договором"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a852907a2190027d626d6f987e2b765",
+            "title": "Потужність"
+          },
+          "value": 680,
+          "id": "50e3fa10af034caf95d1ab6d39438d7f",
+          "unit": {
+            "code": "WTT",
+            "name": "ват"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cf467a25d97a61d7a148763a560458dc",
+            "title": "Діаметр патрона"
+          },
+          "value": 13.0,
+          "id": "7ebdce4992504e3ba7650fdba58a5989",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "60e4ad955cd3a00351897ca303d53676",
+            "title": "Вага"
+          },
+          "value": 1.8,
+          "id": "a78a3ae7537d456e82f4649408cb6629",
+          "unit": {
+            "code": "KGM",
+            "name": "кілограм"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a25e105bf5ff0e8c066fc56e3cbc8ad",
+            "title": "Гарантія"
+          },
+          "value": 36,
+          "id": "100b2b4a02594e5490239daa8529183d",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b7c22acca21229f74142520d7e7a334",
+            "title": "Швидкість обертання"
+          },
+          "value": 2800,
+          "id": "074a9f78cee34811bed06fa1eca23b98",
+          "unit": {
+            "code": "RPM",
+            "name": "обертів на хвилину"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "464bccfb7bdf35c12617875c1b0cbbdc",
+            "title": "Макс. діаметр свердління бетону"
+          },
+          "value": 16,
+          "id": "f68e597e90be4d5f9ac03c50ee71d6a9",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c66997ef3c9e3c20311217b1a23d25cb",
+            "title": "Макс. діаметр свердління сталі"
+          },
+          "value": 13,
+          "id": "1b0535e223da46e1bde227395beaa5d1",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb50368d844da1c80260f6fea0084e2",
+            "title": "Макс. діаметр свердління дерева"
+          },
+          "value": 30,
+          "id": "eb5ac2eab8744d3b8fa6a1f3bb72b52c",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "070beee6e8f531cef51c30f083d15bc8",
+            "title": "Джерело живлення"
+          },
+          "values": [
+            "мережева"
+          ],
+          "id": "f8f30b133a234557b98a9d0daa0bfb96",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e39ac0e53ea4889bb4ffe643313c3405",
+            "title": "Регулювання обертів"
+          },
+          "value": true,
+          "id": "012a90f00e9749909e8e4bc192a65b04",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9586536d53a354cb569d0d21e123f417",
+            "title": "Тип патрона"
+          },
+          "values": [
+            "ключовий"
+          ],
+          "id": "17121ec1ba314cf4953a2ee17b7eaf5a",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0f1a00a171462d242f3cbba5ffcfa2d",
+            "title": "2 і більше швидкості обертання"
+          },
+          "value": false,
+          "id": "7f6062d621d04cefa46b4f80aab6caea",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5c231d574068fdd8f5bf7028d42a1e4e",
+            "title": "Бічне руків’я"
+          },
+          "value": true,
+          "id": "656bd9a2ec8c49be8822a4aefcda8f03",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2e6e21ea8a6eea96a459488dcbac0964",
+            "title": "Реверс"
+          },
+          "value": true,
+          "id": "c4ef94002c174e44b1763ec54248aa4d",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db14f32e5d796072327bd526b00f7557",
+            "title": "Кейс"
+          },
+          "value": false,
+          "id": "790caf97128e490ab5f3182bf5631555",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ccf876397e7f66a590e8e9ee023ff096",
+            "title": "Ударний режим"
+          },
+          "value": true,
+          "id": "4b8cfc8978f5422fa83501980f849a93",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399ddcf324fdb2c01345505b51b3f4b4",
+            "title": "Бренд"
+          },
+          "values": [
+            "MAKITA"
+          ],
+          "id": "227031c7a74241dbae51f80eb8403e56",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES",
+            "description": "Технічні, якісні та кількісні характеристики предмета закупівлі"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "df561075000904fa345248f6ee5a03d6",
+          "description": "Дриль мережева ударна MAKITA HP1640",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3175.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "dfff962ec3554ae7be6d0b5a772932a1"
+        }
+      ],
+      "submissionDate": "2026-06-08T10:53:39.902801+03:00",
+      "initialValue": {
+        "amount": 57150.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T08:00:06.765990+03:00"
+  },
+  "awards": [
+    {
+      "id": "53c50f2bede846a5a489013f58bc2476",
+      "status": "pending",
+      "date": "2026-06-09T08:00:06.765990+03:00",
+      "value": {
+        "amount": 51265.44,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ІНСТРУМЕНТАРІУМ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "41129997",
+            "legalName": "ТОВ \"ІНСТРУМЕНТАРІУМ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ КИРИЛІВСЬКА будинок 126/2",
+            "locality": "м. Київ",
+            "region": "м. Київ",
+            "postalCode": "04080",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Андрій Винар",
+            "email": "o0995838159@gmail.com",
+            "telephone": "+380995838159"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "7c5100154bc442f2a62f3853910839b6",
+      "period": {
+        "startDate": "2026-06-09T08:00:06.765990+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      }
+    }
+  ],
+  "id": "d6d1dc6ddc8e4c23a2971a5efc49c9f4"
+}

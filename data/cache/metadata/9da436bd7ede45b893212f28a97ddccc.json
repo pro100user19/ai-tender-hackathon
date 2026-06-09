@@ -1,0 +1,4003 @@
+{
+  "date": "2026-06-09T00:00:32.053581+03:00",
+  "dateModified": "2026-06-09T08:07:15.178734+03:00",
+  "dateCreated": "2026-06-04T16:34:10.798801+03:00",
+  "tenderID": "UA-2026-06-04-012933-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "8900c2e63ca246bbbc984a6b3748c54e",
+      "datePublished": "2026-06-04T16:34:24.695158+03:00",
+      "hash": "md5:068739cf751d735427c9331521ea8b17",
+      "title": "дог проєкт .docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/03d71dabd57344e585a77a2c77e25989?Signature=dyetcQ7UwDN7EWH34NM3A8Ml991LhU%2B%2BlTC0kmi%2B7AUs%2FfKvKeKkjjzd3VRJ%2FB4Fa0LUM%2FelrrsFSzf4oNq5BA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T16:34:24.695158+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "2db477765a644a9b9ebb9d01c538c2bb",
+      "datePublished": "2026-06-04T16:35:00.969387+03:00",
+      "hash": "md5:ceb4bc13f0fac7a2cdea887acce2f379",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/cb0cdc8cf4de4e4c94a0f15f47c67b9c?Signature=VXI9lie82xG5DpgheYYV%2BFC6w%2B3CDkjL45geHRFIOX2NI7%2F2EQ8Igje5WHV06vesDQ6vjDuOBgbx15MqgZQ%2FAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T16:35:00.969387+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "e-tender.biz",
+  "title": "Поліетиленові мішки та пакети для сміття",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "f2914514657a4b9baab0b483cfb2a43d"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "684c447140fe48c8a33736570438fb6d",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 180,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "ea64a05e1eb34785af61b22768560ca6",
+      "title": "submissionDateOfApplications",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "8c29adcc0acb45c083565c94eec019a8"
+  },
+  "value": {
+    "amount": 112790.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T16:35:05.747485+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КЛІНІЧНА ЛІКАРНЯ СВЯТОГО ПАНТЕЛЕЙМОНА\" СУМСЬКОЇ МІСЬКОЇ РАДИ",
+    "name_en": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"ST. PANTELEIMON'S CLINICAL HOSPITAL\" OF SUMY CITY COUNCIL",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "01981498",
+      "legalName": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"КЛІНІЧНА ЛІКАРНЯ СВЯТОГО ПАНТЕЛЕЙМОНА\" СУМСЬКОЇ МІСЬКОЇ РАДИ",
+      "legalName_en": "MUNICIPAL NON-COMMERCIAL ENTERPRISE \"ST. PANTELEIMON'S CLINICAL HOSPITAL\" OF SUMY CITY COUNCIL"
+    },
+    "address": {
+      "streetAddress": "вул.Марко Вовчок, будинок 2",
+      "locality": "Суми",
+      "region": "Сумська область",
+      "postalCode": "40007",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Жукова Марина ",
+      "email": "econom_klpanteleimon@ukr.net",
+      "telephone": "380997827549"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "782440-19640000-126762-40996564",
+      "category": "19640000-126762-40996564",
+      "id": "69402e26a74d41f79ad258e08b622a22",
+      "description": "Пакети для сміття 35л., 50шт., від 8мкм.",
+      "quantity": 718.0,
+      "classification": {
+        "description": "Поліетиленові мішки та пакети для сміття",
+        "scheme": "ДК021",
+        "id": "19640000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.Марко Вовчок, будинок 2",
+        "locality": "Суми",
+        "region": "Сумська область",
+        "postalCode": "40007",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      }
+    },
+    {
+      "category": "19640000-126762-40996564",
+      "id": "d6b3818146c843198ce3001921b42aee",
+      "description": "Поліетиленові мішки та пакети для сміття",
+      "quantity": 195.0,
+      "classification": {
+        "description": "Поліетиленові мішки та пакети для сміття",
+        "scheme": "ДК021",
+        "id": "19640000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.Марко Вовчок, будинок 2",
+        "locality": "Суми",
+        "region": "Сумська область",
+        "postalCode": "40007",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      }
+    },
+    {
+      "category": "19640000-126762-40996564",
+      "id": "5869e5d6949749bda496fef73c56533d",
+      "description": "Поліетиленові мішки та пакети для сміття",
+      "quantity": 212.0,
+      "classification": {
+        "description": "Поліетиленові мішки та пакети для сміття",
+        "scheme": "ДК021",
+        "id": "19640000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.Марко Вовчок, будинок 2",
+        "locality": "Суми",
+        "region": "Сумська область",
+        "postalCode": "40007",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      }
+    },
+    {
+      "category": "19640000-126762-40996564",
+      "id": "eb0488f6396449ba91d32c8cb2de78a6",
+      "description": "Поліетиленові мішки та пакети для сміття",
+      "quantity": 155.0,
+      "classification": {
+        "description": "Поліетиленові мішки та пакети для сміття",
+        "scheme": "ДК021",
+        "id": "19640000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.Марко Вовчок, будинок 2",
+        "locality": "Суми",
+        "region": "Сумська область",
+        "postalCode": "40007",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "1a1505f72cd2436ab7120eb907c8a4c9",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "69402e26a74d41f79ad258e08b622a22",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "0d373f61461b4b789bcf9631dec5559a",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "6538786a030245b0b5e54185f517ac8d",
+              "title": "Об'єм пакету",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "expectedValue": 35,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+              "title": "Товщина плівки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 8.0,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "f58b93b67cac437f84f3c1d168449e2d",
+              "title": "Кількість пакетів в пачці",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "expectedValue": 50,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a448e1c53ceb43e2a4f58b92276c6ac0",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "d6b3818146c843198ce3001921b42aee",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "d7a9e69f9c4f46da91513281b83919e0",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "0bb29c73af2747d38b8ac52295031550",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "HDPE"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "29baf9a8a28d48f9aa0d600206af01c2",
+              "title": "Колір",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "чорний"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "eb26fbe277e642e7984ad46cd3cbd306",
+              "title": "Бренд",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "TOP LINE"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "b080da31e55d4633a14f923321393be6",
+              "title": "Кількість пакетів в пачці",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 40,
+              "maxValue": 40,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "d6b77d1731294c25a43404bb6ddc1a47",
+              "title": "Наявність затяжок або ручок",
+              "dataType": "boolean",
+              "status": "active",
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+              "title": "Об'єм пакету",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 60,
+              "maxValue": 60,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "6ec9768087024d98a9376b94a70075cf",
+              "title": "Товщина плівки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 10.0,
+              "maxValue": 10.0,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4175a0b965bf44498d2439bbf36184b2",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "5869e5d6949749bda496fef73c56533d",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "5d3c93aea34e45aeb1829b0d04393233",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "41540031dff74034bf4baa41df460de0",
+              "title": "Колір",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "чорний"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+              "title": "Бренд",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "ТАКІ ПАКІ"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "684425f3daa948e095d61439c9f66d03",
+              "title": "Кількість пакетів в пачці",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 15,
+              "maxValue": 15,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "1a9e56759955491baa2af8f944ca0b89",
+              "title": "Наявність затяжок або ручок",
+              "dataType": "boolean",
+              "status": "active",
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "2647d3ad685747a79a7d7750de0d8425",
+              "title": "Об'єм пакету",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 120,
+              "maxValue": 120,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "753a554c524c4b9387572a1986e78b26",
+              "title": "Товщина плівки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 25.0,
+              "maxValue": 25.0,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05abb955c1874bf5b4b113bbce19a76b",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "eb0488f6396449ba91d32c8cb2de78a6",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "a12c962041614e62b272eb25279d1074",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "7f85507e0a554b1d998d60f05c2a374e",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "HDPE"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "91649352b65a450bafbaf0b913b019ab",
+              "title": "Колір",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "чорний"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "e9d234489f2a49aa8868c8c161c127de",
+              "title": "Бренд",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "SUPER LUXE"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "ce67688611b745309e0c94f5f4c398d3",
+              "title": "Кількість пакетів в пачці",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 10,
+              "maxValue": 10,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "34460d671f8c40d4ad9c80595b266291",
+              "title": "Наявність затяжок або ручок",
+              "dataType": "boolean",
+              "status": "active",
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "9e9a13b889d4454781db2ed3560be3a4",
+              "title": "Об'єм пакету",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "LTR",
+                "name": "літр"
+              },
+              "minValue": 160,
+              "maxValue": 160,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            },
+            {
+              "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+              "title": "Товщина плівки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 32.0,
+              "maxValue": 32.0,
+              "datePublished": "2026-06-04T16:34:12.460765+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "838f43bad144444cab67f8731b9438a6",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "e8f49091eed34e77a378ae1e8e41efc9",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "89fa65dd03624289bb845de823493d46",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T16:34:36.343714+03:00"
+            },
+            {
+              "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T16:34:36.343714+03:00"
+            },
+            {
+              "id": "1c3f8c6a03b7418391f90ce21c194179",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T16:34:36.343714+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "471a86f4cc034568a8c54f6dc843411a",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "be11917feca545079ed3865e0b209193",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "30d96db9efbe47d6b05600cce1565de9",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T16:34:36.343714+03:00"
+            }
+          ]
+        },
+        {
+          "id": "78ea283f297e48a794f29207fe35301d",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "8d249fa77e354095a151dde4d60a8995",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "type": "document",
+                  "id": "88ba24655dd747fa82291d036776e944"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T16:34:36.343714+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T16:35:05.747485+03:00",
+  "bids": [
+    {
+      "id": "353af2f6cfa84e3c9f9b37b69e91f136",
+      "date": "2026-06-05T15:17:16.684667+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:53b0e8fc6be6a9701374f2aeee9b49a6be4d5464;SHA2-384:3f9d034d085a958cee950f8bbf55fe4d9d53be61f9d50b02a6872e2e186d754a6d4d81e8903de329c284688f43bf2c44;Antivirus: ESET Antivirus,fids:4ccf674cb7a0405eb845185434cdbf8a:fide",
+          "id": "efd25504cefa48059bd14e4357d6ca53",
+          "datePublished": "2026-06-05T15:17:16.353663+03:00",
+          "hash": "md5:b08196744c987a7bea17bf05551d10be",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/4c1fc112dcf048b38538596d55adb5c3?Signature=MZSVPMkMT%2Bc8nItBi5nFKjuDntuMgQXXq3UjRbLvh5hLKUzTrYNyLVQ076DUoLwCgRWZAF3bDDINZxSNeyfCDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T15:17:16.353663+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"КОЛБАЯ ІРИНА ЯКІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2261922029",
+            "legalName": "ФОП \"КОЛБАЯ ІРИНА ЯКІВНА\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ПУШКІНСЬКА, будинок 56, квартира 4",
+            "locality": "місто Одеса",
+            "region": "Одеська область",
+            "postalCode": "65011",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Іріна Колбая",
+            "email": "kolbaya.irina61@gmail.com",
+            "telephone": "+380675573479"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 46285.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "32d0531028cf4456bfd24afbdf71255b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "077b3947393b40ff9af8d2fec5b9ccf8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "8a4749ee77c14ab586b3ec94c3d78cb0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "4a57ed785f424c59a22331f28502c366",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "5e3d388a1c1a4c5b883e1b8743cf79cf",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "00c04d7378d7486f90b1bff20fde06e9",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8,
+          "id": "cef68988dee34402b2e212c3bc8e1815",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "722490f0f5b64029a711390d3a13b693",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "c226db6d610348c8834896fab3eb2a98",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "2da77de4278f4035905a1e4174f00f8a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "f111cd8f3f1348f48d0af163bf255daa",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "45581c3c17b94ccf927b3391e7ff6055",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10,
+          "id": "2f4ab5f3204b437eb7d68d4698602104",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "f5ad7d89163c48b184d892fc9f30e760",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "5caad202a9eb480196f29c54691067b5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "101afd519adb4291bdd49020a777b5b8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "2ee87d6f19f14353bdcd2bacab32eaf2",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "cd3c1956bb0647a1baf21dffa5b53572",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25,
+          "id": "63737d68edc843d8bd6d1bd3e9a65511",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "c3d91e9b777a4c4fb92f04a175a784bf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "36862fde75034101a1d73610a5715387",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "355d73d9845447238333abc2cd00e493",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "81dffc761ed440ccae866a3cb90e0b28",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "b8469d185ec74d25a2881a68942b1650",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "617acf8e6f1c4588a686717da4a10874",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32,
+          "id": "ac1a2ce51d7741c59be906f9ef4fcd1e",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "ebeb32d310ee47a2b77b42bd381775c0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття TOP LINE, 35 л., 50 шт., 8 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 24.8,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "42910b70b2f7493bb64acaef070d9de0"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 46.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття ТАКІ ПАКІ 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 48.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "4a78227ee1f34a14a63aec270104d08a"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 59.8,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-05T15:17:16.684667+03:00",
+      "initialValue": {
+        "amount": 46285.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "e057e600f41047c48aaab76d92d8749f",
+      "date": "2026-06-05T15:40:25.267454+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:29c4423f76362df30f7e9e20e0d461c66a96d28f;SHA2-384:fc4877e80ab041c6412a553682ed4536899f24f542232f5fca0722017dff7fc34fa368b207be7ba53a7eba5c4215796f;Antivirus: ESET Antivirus,fids:7626373a6052498d9c3fe20e4e55535d:fide",
+          "id": "c4640525080e4a97bf88f8a81a7296b9",
+          "datePublished": "2026-06-05T15:40:24.950293+03:00",
+          "hash": "md5:44e75a9f34a8c5d009053b6b165f231f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/76ef1f6001d9484ea588f920c4cdf39a?Signature=2etxAqfXGviqQLj68jd7Ng3QePjr%2BtVoAHfltbs5wqnxCHlz0Og8UiuO%2FrX739z%2F9sRi3AuPioZa568gFPHTCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T15:40:24.950293+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Гладіков Ростислав Андрійович\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3960211974",
+            "legalName": "ФОП \"Гладіков Ростислав Андрійович\""
+          },
+          "address": {
+            "streetAddress": "вул. Жоліо-Кюрі, буд. 60, кв. 87",
+            "locality": "ОДЕСА",
+            "region": "Одеська область",
+            "postalCode": "65069",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ростислав Гладіков",
+            "email": "gladikovrostislav@gmail.com",
+            "telephone": "+380966311297"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 66134.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "5ee5a174220d4696b4d7396c15ac4aad",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "9258ae8f00b047248f17ee24349c403a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "33a02024b50e46f8926ea93b8dceef92",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ef74217aab894a72b1ce638c3b7504fd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "4ccea66b785e496dae58c96078b1bec0",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "cffef5765cf54ab4b1dd797819a05894",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8,
+          "id": "617341a42f41423780380a6abbb95740",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "f0b8c000c3734df8962fb6c5818cf1ec",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "5aa36c0c8bd34518a13e9d95e3338639",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "ca4256b8a33541c498c4de05a4888786",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "ff8d55cf57e94985a232618b40fb719b",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "f3feb8581ba64250bed915e60fb73f9c",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10,
+          "id": "4b650938694c4b56a6206a01e90a1b2a",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "7737b620f3c146e1bc014f927a1219f6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "aa335cf6b30041e784f93a3919b5b091",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "ef23446f29a0437698477d9dba8cdf9f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "26a0352b05d04a2bbe927ffecbfa6b82",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "b9f990d76ca8407eafee390b0fcad2ea",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25,
+          "id": "b0687bcffa374da0b95468c3aee8ad1b",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "a76e84b085dd41149f0447d355f8e676",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "d4515cc3f9e24303b005e914917c117e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "6b76f98db05147dc82c818b6d33c28af",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "a40a3b423d5b4e4fb3a357a9335c29ca",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "2810d428ca7e45848d65178400ecb2b9",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "cd884a983dd642c4b70203c72f22b523",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32,
+          "id": "d8c13e8a54a740168fc7a26ea1c6fb23",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "4f5a6e32f0974f0a9359ece8409316ed",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття TOP LINE, 35 л., 50 шт., 8 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 35.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "42910b70b2f7493bb64acaef070d9de0"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 66.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття ТАКІ ПАКІ 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 69.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "4a78227ee1f34a14a63aec270104d08a"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 85.8,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-05T15:40:25.267454+03:00",
+      "initialValue": {
+        "amount": 66134.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "c830a951d0304cc88ed33ea53b7eb362",
+      "date": "2026-06-05T15:42:33.159238+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:c1b0184e241ac98635f48727a027150e71115566;SHA2-384:186cebfaeacca32c3c2088ca3545134c0fbda4153d41cf06d04ada95d9fec65f97378bb94ecde8da44fb7d9778337879;Antivirus: ESET Antivirus,fids:480da994ad2c4f8e9dd96661e0d3c602:fide",
+          "id": "7f6c96db2e2449fb85d477ff2b095bab",
+          "datePublished": "2026-06-05T15:42:32.881788+03:00",
+          "hash": "md5:dec5457ec493f109a7db52d44682a098",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/aec1b82962f240caa14443b451d3e73f?Signature=aTdBhJo%2F4mg759tgjhwewRo%2FAh8AYHaAiPn2Wnh%2B1vDNOWk%2BT4TZB6dcv4uD2c3ooOP7z3fg2hD596bHWkEMDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T15:42:32.881788+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Мірось Сергій Валерійович\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2866500695",
+            "legalName": "ФОП \"Мірось Сергій Валерійович\""
+          },
+          "address": {
+            "streetAddress": "вулиця Літвака Бориса, будинок 4, квартира 1",
+            "locality": "місто Одеса",
+            "region": "Одеська область",
+            "postalCode": "65045",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Мірось",
+            "email": "max.upakovka.ukr.net@gmail.com",
+            "telephone": "+380683457674"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 80545.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "9130848aa4f642afb649398f7ee285e6",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "d3ce6f6b95914316bac39c40449cc684",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "e1a0f13998ad4c1089540adc48f8703c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "aeb3e147f2e44348bd20a53d073c8dd9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "55a96c20b3ea4ac3962e59d58501bfd0",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "b21a22737e474142988be132344fc65d",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8,
+          "id": "98c21048727048d7a1c1663026a1d322",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "af9a52ee768d4a89be5d4d52d1cdf9a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "bc1f38a65922416ba4a92e2f858fd3ec",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "438663c1f3794c8ea17932c672f9a9cb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "e36366850aec45e0ae6fb22c921c7cc6",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "e70c49d7452a44cfa5ef6a50f410c6cb",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10,
+          "id": "2dd29db3efb34cea9b167f78aa9b75f3",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "012fd13fcacc4e68b87132a6ee43a4f8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "d29be3553e8b443c830b0b4a24f44516",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "a1f7e0904cfc4407bab1613c255d9bcb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "c9e9778d12ba4925ac855ec9922873e5",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "0ff1d2349359430f9881ec009df4f026",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25,
+          "id": "e5bb38368ad34d00bd93243b71e940ba",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "dee5f3508ef7477ba03c9202b4e03a50",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "a2559988091641d6b8830ffcae6891b5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "d47ced4a5f3e480a896e3a5fa676dbe0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "badb8324bdf142b5a8eaf6b5b08da5fb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "66c1d87304d94a3395dfa1eb0387a649",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "e680a0c929f5484b8aceb45f58e5cf04",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32,
+          "id": "28a60b5791a44cbb9e0fab1b556cf48c",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "887b4ad5a0fc4d978cb4830bab351df7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття TOP LINE, 35 л., 50 шт., 8 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 43.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "42910b70b2f7493bb64acaef070d9de0"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 80.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття ТАКІ ПАКІ 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 84.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "4a78227ee1f34a14a63aec270104d08a"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 104.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-05T15:42:33.159238+03:00",
+      "initialValue": {
+        "amount": 80545.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "f49d78604d0b43d0abb7640a0f64b953",
+      "date": "2026-06-06T12:25:46.061931+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "3e783368142c4dbc9170fec5544d033f",
+          "datePublished": "2026-06-06T12:25:45.777407+03:00",
+          "hash": "md5:0eab06a75a40d30af50bb7b2f90b2aec",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/25c9ea219722448087a9f72e2e4d0e6e?Signature=eMzTKeN8FbpTGbfDexji5ulJ%2B%2BvF7RbO3%2FLRShnotibsVtkYkR%2FCDWROIXucV4zK1nxhUz6mNqJplyTQUio5BQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T12:25:45.777407+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП Клименко Вікторія Вікторівна",
+          "name_en": "FOP Klimenko Viktoriya Viktorivna",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2800618145",
+            "legalName": "ФОП Клименко Вікторія Вікторівна",
+            "legalName_en": "FOP Klimenko Viktoriya Viktorivna"
+          },
+          "address": {
+            "streetAddress": "Невельського 35",
+            "locality": "Харків",
+            "region": "Харківська область",
+            "postalCode": "61046",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Клименко Вікторія",
+            "email": "klm.vika@ukr.net",
+            "telephone": "380679774486"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 68843.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "e84cf7485ecd4ac882eacdd3afe15639",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "b552754b94ba4368b11fef2d2e525b98",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "aee961728b1246a294a4b757e6ca6db8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "c4c856a6146842d8a4345590b74b3032",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "d8013716f3ff47b3a6f656935329d001",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "3415db637ff24c1a9922bd9434d12f00",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "5ac71fd5b7844b4bae63100808ec3069",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "09e9c0fad80e476e970c143dcce4d142",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f861a83e6d0b4cd0a58cd6f40a0d004f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "98c2e32a1670456b91e2060bd6be25af",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "98dc17f1294644e398e9ff36cf9874a7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "75902228f7b4481eb51129e0cecd529b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "c5ff9ce097e84a8baecf85fb30e26711",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8.0,
+          "id": "10ada50673734122a7eb4a8a55dc2192",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "7f59449ebc024554830425f17b9d7b69",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "03e4481cf9f64342b86fa935c8d24ea8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10.0,
+          "id": "00fede704b24473d80af428a891d68a2",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "d36daf09ac8d41feb2fe02f6b92164e8",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "d4e650870eae45efa3c23f7a26ec8475",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25.0,
+          "id": "07a735866e4f498d95fd4e719c711421",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "07792bb9c12749bcaeb9680a2440bbb7",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "eff1e46066534d9e9e8d6b6b15c98128",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "044ae70f658e40a9b7f8aa41b847ca52",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "fa4a0c8803c243b9924e50e0c6b01d1d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32.0,
+          "id": "145ffa04f42a465f9fd5fb09c918205d",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "f18761f2e06f4532808d51663993a310",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "defe25ffbc3a4f67b8c1af7171053ca2",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття Бравий Кок 35л/50шт ",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 32.25,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "b228f34b892c4d77b6de289be9604bc3"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 49.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття ТАКІ ПАКІ 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 137.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "4a78227ee1f34a14a63aec270104d08a"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 44.8,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-06T12:25:46.061931+03:00",
+      "initialValue": {
+        "amount": 68843.5,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "41fe4467c0124581b84d77c2f8ef1976",
+      "date": "2026-06-08T14:04:29.172431+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:a92e361ee3122099d9649a9ba6058fe7edd42c7c;SHA2-384:6e2bb86e630098bb9ce0359d7dbf3e51edd3439db081b35c40312748cdace335cf80b7ca883191f73b798d637b7a9515;Antivirus: ESET Antivirus,fids:385922f90f7d4b109d67f6e323ae2075:fide",
+          "id": "2267e4005005405dae1602461680e703",
+          "datePublished": "2026-06-08T14:04:28.893759+03:00",
+          "hash": "md5:1065314dd1dceab86cb81c12c2d43481",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/35c243c2a2a94c11b4de1dabea6706d2?Signature=4V%2BNHBHyTH8WOEyQj6rAFHR1LjCLs4pW5w%2FtZmjunGYKQubQ%2FiEvEybzE0AVKZb4wgt7u31a%2ByjYygnxKhBJDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T14:04:28.893759+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ТОРГОВИЙ ДІМ АКАДЕМіЯ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "46099847",
+            "legalName": "ТОВ \"ТОРГОВИЙ ДІМ АКАДЕМіЯ\""
+          },
+          "address": {
+            "streetAddress": " вул. Кульпарківська, 93 офіс 39",
+            "locality": "Львівський р-н,  м. Львів",
+            "region": "Львівська область",
+            "postalCode": "79021",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Андрушевська",
+            "email": "akademia1178@ukr.net",
+            "telephone": "+380969720742"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 60354.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "6372d64bd48a49babc2255b65c0a40d8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "6df5b94a5bbc4eee95549dabf78ce3dd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d67bdb364de7491ea1fde09a596258d8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "612f397e176747e6849cf9c1ba3643c1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "71824893d4c74426aa49157a8097fe13",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "2a216da8b7f04eca8710c9bb507ff65d",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8,
+          "id": "d98d24a28e654b34b0f93f100cc93dcf",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "72354f5870ab4d1d96b143599a69bd70",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "654035e39c8040d0aafb04ac7333cf28",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "a2087aae3c3b42c2a9ace3d56e0ef510",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "23cd0ae0c3ec46a19661a66a11511e70",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "eea098daf715485ab0ffe848b6546201",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10,
+          "id": "9021cf5a1e344f5f98334518a2a3f509",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "9fb724481124482c8c3949fc34fdccb0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "9d5d8227e54747b4b51c72d96b788282",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "10ad3d82481b4a2b98a51e8e46423570",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "bdf7aa33e1ec4827bd8f1b688c61b31b",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "3acab7b9bd524a00a41f046bef968b29",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25,
+          "id": "f79dd5356361489b88b968350816f7c8",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "fce4cada0eca42ff9c7c62776ae3c3ac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "2f1171c2df4c40c98a4036f69473b9fc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "6afb5e9901684958bc3d959843556664",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "488deb6a58294d199ac61c2177e25259",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "9a076f069bf646f3af2ae44a5e9c75ad",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "e6736dc5e57b4508b2c14963ac1295d1",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32,
+          "id": "374dbd8770fc40ed824c39ed786e8229",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "f9b91a93c233403e86f3c53ec087cdf9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття Такі Пакі 35л/ 50шт 8мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 25.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "e595450b16704b18adc132adb06653ec"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 45.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття Такі Пакі 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 60.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "f33fc895feba41c4a0902997959876c7"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 70.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-08T14:04:29.172431+03:00",
+      "initialValue": {
+        "amount": 60354.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "760400704fe440c6b9ec5bfbaa97a9bb",
+      "date": "2026-06-08T20:25:17.545204+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:4a606a3f8546093c1effa9b98f1c65e1566e8c49;SHA2-384:569fc3d676698d890679d0e7b105685195a1a3788d0a017ae85f1afa199c3426074e94a17e92245a68edba9a34ff143a;Antivirus: ESET Antivirus,fids:d4ebfe628c0b47409a1ce0e6f56f6d17:fide",
+          "id": "58783f33edfb495e9ed0157fe5c3aa3f",
+          "datePublished": "2026-06-08T20:25:17.287069+03:00",
+          "hash": "md5:bddd6eb3df8a9f2f148096f31e87af2c",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9ded46aff1ef4c29a7c4ea70cb4c5aa5?Signature=6MbfBOvoHUm4%2FVW7kyYTwVwAgPVZXsS9Fm05b2%2FdmnMZw2sw6QIvLG02zFM%2F2jeD7PK9m0JwHZCAlbqBWl7SDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T20:25:17.287069+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"УКРПЛАСТЕКОЛОГІЯ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "34410050",
+            "legalName": "ТОВ \"УКРПЛАСТЕКОЛОГІЯ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ДАРНИЦЬКА, будинок 9 А",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49083",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тонконог Анатолій",
+            "email": "tonkonog.anatoliy@gmail.com",
+            "telephone": "+380686556385"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 54398.58,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "30d96db9efbe47d6b05600cce1565de9",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "4fe95ad008374d9a8581ea04740aa615",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "89fa65dd03624289bb845de823493d46",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f67a2210fdc0414cb1c28a333c5c98ac",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef26b19c7eda4d888039cc697a1bb3b3",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7374cb3d8a7f47ca9fa7c47034772d6f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3f8c6a03b7418391f90ce21c194179",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "7087380769ea48e49b8c969b823dc267",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6538786a030245b0b5e54185f517ac8d",
+            "title": "Об'єм пакету"
+          },
+          "value": 35,
+          "id": "a3bbad470343463fb29b707d0ec13f88",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f58b93b67cac437f84f3c1d168449e2d",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 50,
+          "id": "82a68794384e493fac3cf36327fe48af",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d93bc9e9d614f9183fc9459d633ca0a",
+            "title": "Товщина плівки"
+          },
+          "value": 8,
+          "id": "bf1259463cae41e28fa427db2a034375",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d6b77d1731294c25a43404bb6ddc1a47",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "ad15b98ae898432588a6601369c4d410",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb26fbe277e642e7984ad46cd3cbd306",
+            "title": "Бренд"
+          },
+          "values": [
+            "TOP LINE"
+          ],
+          "id": "bb79397651a34ee8b09b7cdcee320e34",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0bb29c73af2747d38b8ac52295031550",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "69308163c33c4273921d06d09b84a7f2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9431b2528f2e4ce293c9ab79fe4c9216",
+            "title": "Об'єм пакету"
+          },
+          "value": 60,
+          "id": "7559bf627d104556815aa3a9cb93b7bb",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b080da31e55d4633a14f923321393be6",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 40,
+          "id": "492842394e8d4f49a4403c61a59a80a3",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ec9768087024d98a9376b94a70075cf",
+            "title": "Товщина плівки"
+          },
+          "value": 10,
+          "id": "a79cb3569ec94a509fee6d2af0938360",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "29baf9a8a28d48f9aa0d600206af01c2",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "578acfcaaa984d77ae7e2f4cbf56f790",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1a9e56759955491baa2af8f944ca0b89",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "0e74b22f785c48aeaea729eb6e63e5b8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0b2f7763e3d844a3958c5f7e3a95f013",
+            "title": "Бренд"
+          },
+          "values": [
+            "ТАКІ ПАКІ"
+          ],
+          "id": "26d07a033c6948c5a25f20e3971ecbf8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2647d3ad685747a79a7d7750de0d8425",
+            "title": "Об'єм пакету"
+          },
+          "value": 120,
+          "id": "81ae4cd2b3f243d380ebdbe94b830d93",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684425f3daa948e095d61439c9f66d03",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 15,
+          "id": "2ecf43e95d4e44b3a6b70ae06c3663be",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "753a554c524c4b9387572a1986e78b26",
+            "title": "Товщина плівки"
+          },
+          "value": 25,
+          "id": "446579f0c44b45cdafa5e72537e24f12",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "41540031dff74034bf4baa41df460de0",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "1b07ff94a06549928352d510bdc2cb46",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9d234489f2a49aa8868c8c161c127de",
+            "title": "Бренд"
+          },
+          "values": [
+            "SUPER LUXE"
+          ],
+          "id": "3e1ea96d9bb347fbb6b5073da09e6501",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "34460d671f8c40d4ad9c80595b266291",
+            "title": "Наявність затяжок або ручок"
+          },
+          "value": false,
+          "id": "218b5d59e984498293b47fefd91ab2b5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f85507e0a554b1d998d60f05c2a374e",
+            "title": "Матеріал"
+          },
+          "values": [
+            "HDPE"
+          ],
+          "id": "4b5cdcf774f341fead1100a363ea8204",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9e9a13b889d4454781db2ed3560be3a4",
+            "title": "Об'єм пакету"
+          },
+          "value": 160,
+          "id": "f907b0dc96fe4b189277e1c671f28a51",
+          "unit": {
+            "code": "LTR",
+            "name": "літр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce67688611b745309e0c94f5f4c398d3",
+            "title": "Кількість пакетів в пачці"
+          },
+          "value": 10,
+          "id": "e81f7c5b8dc243e4bd82c06799d7c46b",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4f49dec84adb45d49bf6a4cb263b01f4",
+            "title": "Товщина плівки"
+          },
+          "value": 32,
+          "id": "1229cd692c1e4ae1b59c81d681064497",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "91649352b65a450bafbaf0b913b019ab",
+            "title": "Колір"
+          },
+          "values": [
+            "чорний"
+          ],
+          "id": "ef2fb059741a4789908bd025e83eadf0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "69402e26a74d41f79ad258e08b622a22",
+          "description": "Пакети для сміття ТАКІ ПАКІ, 35 л., 50 шт., 8 мкм.",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 28.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 718.0,
+          "product": "f66126b5d98e47f38304f16cf39bc3d2"
+        },
+        {
+          "id": "d6b3818146c843198ce3001921b42aee",
+          "description": "Пакети для сміття TOP LINE, 60 л., 40 шт., 10 мкм HDPE",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 48.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 195.0,
+          "product": "15f9463d702e49338d3ee09426e4ba4a"
+        },
+        {
+          "id": "5869e5d6949749bda496fef73c56533d",
+          "description": "Пакети для сміття Такі Пакі 120л/15 шт 25мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 71.34,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 212.0,
+          "product": "f33fc895feba41c4a0902997959876c7"
+        },
+        {
+          "id": "eb0488f6396449ba91d32c8cb2de78a6",
+          "description": "Пакети для сміття SUPER LUXE, 160 л., 10 шт., 32 мкм",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 60.6,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 155.0,
+          "product": "028d9536d1d7449bbc2664342857ff15"
+        }
+      ],
+      "submissionDate": "2026-06-08T20:25:17.545204+03:00",
+      "initialValue": {
+        "amount": 54398.58,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T00:00:32.053581+03:00"
+  },
+  "awards": [
+    {
+      "id": "718e550fa20b4f42bc77cf7aa01f7842",
+      "status": "pending",
+      "date": "2026-06-09T00:00:32.053581+03:00",
+      "value": {
+        "amount": 46285.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП \"КОЛБАЯ ІРИНА ЯКІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2261922029",
+            "legalName": "ФОП \"КОЛБАЯ ІРИНА ЯКІВНА\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ПУШКІНСЬКА, будинок 56, квартира 4",
+            "locality": "місто Одеса",
+            "region": "Одеська область",
+            "postalCode": "65011",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Іріна Колбая",
+            "email": "kolbaya.irina61@gmail.com",
+            "telephone": "+380675573479"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "353af2f6cfa84e3c9f9b37b69e91f136",
+      "period": {
+        "startDate": "2026-06-09T00:00:32.053581+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "id": "9da436bd7ede45b893212f28a97ddccc"
+}

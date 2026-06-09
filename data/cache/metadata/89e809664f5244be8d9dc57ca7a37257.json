@@ -1,0 +1,947 @@
+{
+  "description": "",
+  "date": "2026-06-09T08:00:04.114935+03:00",
+  "dateModified": "2026-06-09T08:00:04.114935+03:00",
+  "dateCreated": "2026-05-30T13:33:24.682477+03:00",
+  "tenderID": "UA-2026-05-30-000319-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "15113226d1854081bb582e670b805955",
+      "datePublished": "2026-05-30T13:33:25.566208+03:00",
+      "hash": "md5:709f3efc1c0f3c8dd657cc8264f2e3a3",
+      "title": "Оголошення лікарські засоби ЗФ.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/507dc2b9071247bd811d2752f602728a?Signature=Q4YJq0xb94YzY%2BU4rttI6Kx1Q%2BRvHw52yzRCIBEqHp0g27z2jfJVE2mVcY3YQ7D2S6w4FnguZathoffbZjLqDA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T13:33:25.566208+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "fcd828ba1bfb460fa3ae9fd9143bd476",
+      "datePublished": "2026-05-30T13:33:25.566208+03:00",
+      "hash": "md5:803adadb43c0943cad4420bf6d8856c6",
+      "title": "Проєкт договору мед..doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/4c4a9abf7ed34c3db155a4b12889d8c3?Signature=NPBGR8S%2BfO%2FS6tgozsJaP%2FF53PmFCsTQCXjZHMPxddP1DHqElW0z%2F2tLULLL0eDepu%2BwnffkL3qAbqDfmZ0sAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T13:33:25.566208+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "5094b2731bb54b8e9b3f23ad980527ff",
+      "datePublished": "2026-05-30T13:33:33.529537+03:00",
+      "hash": "md5:9f1c5d9067b5aeb9a0f3ca349b5e5d63",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/0eab8ebf2f1049d4819f4c9958a48ee6?Signature=%2F4tDhX8gbPU%2F8v1tqfOs6Nk%2Bzbr%2BVChbKF6kCWYYNQqcKp0yWbLlaU2Pdb0MLVHd%2F3UlxTm%2Bhu8b9EnbimhUAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-30T13:33:33.529537+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.qualification",
+  "owner": "it.ua",
+  "title": "Лікарські засоби різні",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "2c90579fe40649c08dc0dc424cd5365a",
+      "title": "deliveryOfGoods",
+      "description": "Розрахунки проводяться у безготівковій формі в національній валюті шляхом перерахування Покупцем на розрахунковий рахунок Продавця вартості Товару протягом 10 (десяти) календарних днів з моменту його отримання на підставі видаткової накладної, за умови наявності бюджетного фінансування відповідних видатків на рахунку Покупця згідно зі ст. 49 Бюджетного кодексу України.",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "07f9b66ad72944649c09030202917fda",
+      "title": "signingTheContract",
+      "description": "Кінцевий строк поставки - 10.12.2026. Поставка Товару здійснюється в пункт відвантаження Покупця згідно з Правилами ІНКОТЕРМС в редакції 2020 року на умовах поставки «Зі сплатою мита» (англійською мовою скорочено – DDP) (Україна, Київська обл., м. Славутич*) згідно з міжнародними правилами тлумачення комерційних термінів «Інкотермс» у редакції 2020 року. Строк календарних днів у полі «Період (днів)» є технічним і розрахований від дати оприлюднення оголошення до кінцевого строку поставки.",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 195,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "ВІЙСЬКОВА ЧАСТИНА 3041 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "08803678",
+      "legalName": "ВІЙСЬКОВА ЧАСТИНА 3041 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ"
+    },
+    "address": {
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Наталія Неводниченко",
+      "email": "n.nevodnychenko@ngu.gov.ua",
+      "telephone": "380955293710"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 69636.18
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T09:00:00+03:00",
+    "endDate": "2026-06-09T08:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Лікарські засоби різні",
+      "status": "active",
+      "id": "cfb986ea177b4c2ab4f2c9f905a90594",
+      "date": "2026-05-30T13:33:24.682477+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 69636.18
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 348.18
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-30T13:33:24.682477+03:00",
+    "clarificationsUntil": "2026-06-06T00:00:00+03:00",
+    "endDate": "2026-06-04T08:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "886050688f134728a420311be61ad69e",
+      "description": "Віаль краплі оч. 0.5 мг/мл по 10 мл у флак.",
+      "unit": {
+        "name": "флакон",
+        "code": "VI"
+      },
+      "quantity": 20.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "tetryzoline",
+          "description": "Tetryzoline"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "02b88dbf2a15455bbc3b5df8f7f09ce2",
+      "description": "КОРВАЛМЕНТ капсули м'які по 100 мг № 30",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 50.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "validol",
+          "description": "Validol"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "a426a98e2e184a6e8ed781ba4be80b44",
+      "description": "Каптопрес таблетки № 20",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 20.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "captopril and diuretics",
+          "description": "Captopril and diuretics"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "5a4e66e904324042ab90186c26b7b9fc",
+      "description": "Ісла-моос пастилки по 80 мг № 30",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 41.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "comb drug",
+          "description": "Comb drug"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "3c6a6676116d43b3b7b827eb48dfc803",
+      "description": "Назо-спрей спрей наз. 0.5 мг/мл по 15 мл у конт.",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 50.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "oxymetazoline",
+          "description": "Oxymetazoline"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "621ca5a9668947c0adaa534e26be8b15",
+      "description": "Амоксил-К 1000 таблетки, в/плів. обол. по 875 мг/125 мг № 14",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 50.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "amoxicillin and beta-lactamase inhibitor",
+          "description": "Amoxicillin and beta-lactamase inhibitor"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "5de8f2f583fa4ad38f3f1a95c0c162bf",
+      "description": "Анаприлін таблетки по 40 мг № 50",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 18.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "propranolol",
+          "description": "Propranolol"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "65e11def000440ebb2add476ad046f16",
+      "description": "Корнерегель гель оч. 50 мг/г по 5 г у тубах",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 20.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "dexpanthenol",
+          "description": "Dexpanthenol"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "8cf27d15f3f94db28a4bf07450e0dbd0",
+      "description": "Бісопролол-КВ таблетки по 5 мг № 30",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 30.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "bisoprolol",
+          "description": "Bisoprolol"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "94121164972d486c9689c895cf18b832",
+      "description": "Шавлії екстракт з вітаміном С Др Тайсс таблетки д/смок. №24",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 40.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "comb drug",
+          "description": "Comb drug"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "11617c82fc9f416fb00c0fcbb6de8677",
+      "description": "Солпадеїн таблетки розч. №12",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 38.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "paracetamol, combinations excl. psycholeptics",
+          "description": "Paracetamol, combinations excl. psycholeptics"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "a0642498b14e4fe9bac84ac8f9f19691",
+      "description": "Псило-бальзам гель 1 % по 20 г у тубах",
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      },
+      "quantity": 30.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "diphenhydramine",
+          "description": "Diphenhydramine"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    },
+    {
+      "id": "168dd894f8064e88adbb1749f87770b8",
+      "description": "Фармазолін з м'ятою та евкаліптом спрей наз., р-н 1 мг/мл по 10 мл у флак.",
+      "unit": {
+        "name": "флакон",
+        "code": "VI"
+      },
+      "quantity": 80.0,
+      "classification": {
+        "description": "Фармацевтична продукція",
+        "scheme": "ДК021",
+        "id": "33600000-6"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "xylometazoline",
+          "description": "Xylometazoline"
+        }
+      ],
+      "deliveryDate": {
+        "endDate": "2026-12-10T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул.*",
+        "locality": "Славутич",
+        "region": "Київська область",
+        "postalCode": "07101",
+        "countryName": "Україна"
+      },
+      "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594"
+    }
+  ],
+  "noticePublicationDate": "2026-05-30T13:33:34.667984+03:00",
+  "bids": [
+    {
+      "lotValues": [
+        {
+          "value": {
+            "amount": 67943.3,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          },
+          "relatedLot": "cfb986ea177b4c2ab4f2c9f905a90594",
+          "subcontractingDetails": "",
+          "status": "active",
+          "date": "2026-06-05T12:47:44.714970+03:00",
+          "initialValue": {
+            "amount": 67943.3,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          }
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"СТМ-Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43808856",
+            "legalName": "ТОВ \"СТМ-Фарм\""
+          },
+          "address": {
+            "streetAddress": "вул.Панікахи будинок 2 кімната 405",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49040",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Іванченко Юлія",
+            "email": "yuivanchenko@stm-farm.biz",
+            "telephone": "+380664623349"
+          },
+          "scale": "mid"
+        }
+      ],
+      "status": "active",
+      "id": "3ec35b9c94b04ab8b320c92a40d49893",
+      "date": "2026-06-05T12:47:44.714970+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:7fd90f83866350ebd8ea6a1d58880c9a05d6b5b1;SHA2-384:f481f914a92199de6598fa6d3adfbb5bc28938b4d437c5d30a64799e9a2c7c2b8dbb97e583aff30f2dd7f21a7e9f8144;Antivirus: ESET Antivirus,fids:3f8ee650c1ab4cbc82f8fde97854f27b:fide",
+          "id": "756d23bd47904341bb4790563689ae01",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:ad73ddd212e68f8ea0b0618eeb7519a3",
+          "title": "КОМ_p001-038.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/e840663a6a2645fb8c8135cdf2e9c808?Signature=a%2BXHE91ryQOc%2BC8nwZtx%2BwcE%2B407XLpR2WMFOqZRwDhitpEH3mr1CRS2LBVSTAjfSmQxM5oCZt%2BqylDRc15FBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:2754bf4faf2b1cb70fb1e08ddf1992100bab8392;SHA2-384:d9868e5be688e2466555bd626b3d8a6b724b667dc28ae1cad096a7bad458f8160adb22b7fdb4918f2efaa32e31746c40;Antivirus: ESET Antivirus,fids:aff1d56c0b8c4b71a7965227c9df3739:fide",
+          "id": "76162892fdac4f1380de124a1558a97a",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:fa1f561a1065074bcf90de7f58c3232c",
+          "title": "КОМ_p039-076.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/462d1b36d6b14cb984eecd03a3a76b0c?Signature=0igQqPl%2FL1Nyvry10kFLlyyQcu84QKKDZnFxJM%2BVAvXJPKiZDGzne9h%2BsSbIWqouznaR1GtklQnmO%2FJ7UTQ5BQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:0fa1bd3254aa95dd297a9abc830e205ad7087732;SHA2-384:64b0f9d8efd0cab35cb496b10460fea142a650f9e90967b3dc92de639edf772e63bdaa3f42632e14aa7418a074991000;Antivirus: ESET Antivirus,fids:f94cf9f337e94b9fb1e12f87a80a447d:fide",
+          "id": "5682aa37c27a4a7db3b74f2fbdc5c68c",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:16b09667cb3eb870b57bdf347e65c43d",
+          "title": "КОМ_p077-114.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/58afdb59016145c28a64193b15d337c4?Signature=XEdMlYV%2FzNku1RndX8f0auohdkVJtqXZEe5AFcKxUNqigPh1TB6CQNwN8dCb2wQoe7qxUWFMWSzddKQ0nRmyAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:a13dfe847e6a4f72f9af0bb1f9a8f9fd36b529b5;SHA2-384:61560631f3da7b01c8e38da9f7eed0ff4127317a77f71189cb842ef2b181d7b70b6f20d86f8e61152ed93c9fde5b877d;Antivirus: ESET Antivirus,fids:5e4d55423aed4ae1969f2e6a256a11ed:fide",
+          "id": "b1410cab6b3a4436b8e3dc63b8929315",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:98a4443ac3964f4187e3ca8c165424ba",
+          "title": "КОМ_p115-152.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/eab637853a974856a981d0db32d3d464?Signature=32QwPkTuS9%2FchfaBfUxd3qyobxU3LkrghhWd8g2KT06cpzMza4tJWPrGqw0MVcPf2jVRRGGUE8tWuP%2BiprTCCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:e9211c3ebf7bc1ebe7198e359dbda8ef4c88acda;SHA2-384:76f122c99abb25ecf14f3df20acf56460e821572ad674ecf51d066759d8ee65a62874f7d542f36f8d2f229aaf405e024;Antivirus: ESET Antivirus,fids:bbffe7cfb18c467b93c7c9e62afc24a7:fide",
+          "id": "77b846fe5c3744938c70d091a3a718ba",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:4edefa89656a6e202c71d6c558c4bdf5",
+          "title": "КОМ_p153-190.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/f2645b57a16344b4a5b51d89ba58b0da?Signature=8HxSmL7iJeQ%2F%2FDkp%2BDAg1mfI1G4vi6A%2Brz%2BQsTB%2BKjfL8uMPQDS6ch0KwPrAeB5jx1WoBHpQuuYib%2BlDNOXMDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:578e1d503ae26f4aa10bb255057f876acf135c46;SHA2-384:ee9b6b3d1df1542a8a93c790bc7a67bcbe2cfff5f6b41a8e5ba92a465a58dedc17683134b671cdee3f9075dfde2f9f77;Antivirus: ESET Antivirus,fids:710d6a944e814e9d91421650b3b5e7f3:fide",
+          "id": "0e784180080e468fa734adbba4823c8e",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:659301e0dcda7ad35c5018088cbc742d",
+          "title": "КОМ_p191-228.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b9572af74e7f426aaca1129ac9219c73?Signature=kUMqsk2qbeD8xTS0uAVSUBjLRZ2eobFurZefGYxAZ1s3hrq%2FcBbAIG67IzligcKcMdItLLo7y0LefN9wxBJ8Bg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "confidentialityRationale": "",
+          "documentType": "qualificationDocuments",
+          "description": "SHA1:a256682bf4474b295f8be6675003761e55f48d94;SHA2-384:160bbd741ef73242dce58727ba3d6153656b92ab160dc336590bccf312234b821a757570d486d9fcffe95b0ae2acfa30;Antivirus: ESET Antivirus,fids:83f1e95c8d4d403887caee29d04efec4:fide",
+          "id": "297351efda984cb38c13342825d13ce0",
+          "datePublished": "2026-06-05T12:43:30.423423+03:00",
+          "hash": "md5:9f0559cb611ed060427428d78469efa8",
+          "title": "КОМ_p229-263.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/83991a9981a5465093e69aa6ee337799?Signature=bz2BoP55LAXlLTgCna57zJiIUSZOOuRCfxJESp7UKnWAktBdo61xOYgFNgy4IJ%2Ba3Dy0Lfty8fS6Ah2s6eLOAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:43:30.423423+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:1d730c29fd4b4728d83e77977900eb2a3468459f;SHA2-384:44dcb5ff365daec94a8f2da21a843fd47decb29c498525711774b3d50bb6375e5ae594baa4f2ed3239c4ca33d9674992;Antivirus: ESET Antivirus,fids:27334ce2a95744e582c7dbf4ab936abd:fide",
+          "id": "c28404fac2024f6d9faafd17f161fce5",
+          "datePublished": "2026-06-05T12:47:44.410222+03:00",
+          "hash": "md5:1d68a23e04451a79ebd047525412a561",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/75fd98b43457413188d7a8b6a92b56cf?Signature=%2Bhw4rdBkANjydkxLOfr66tWlYiZaVFRGS%2Bu%2BAjd1UnlE2kfnWLadSH4GK6Dzo0Qze46SREXesOQaYvcBouawCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:47:44.410222+03:00",
+          "language": "uk"
+        }
+      ],
+      "items": [
+        {
+          "id": "886050688f134728a420311be61ad69e",
+          "description": "Віаль краплі оч. 0.5 мг/мл по 10 мл у флак.",
+          "unit": {
+            "name": "флакон",
+            "code": "VI"
+          },
+          "quantity": 20.0
+        },
+        {
+          "id": "02b88dbf2a15455bbc3b5df8f7f09ce2",
+          "description": "КОРВАЛМЕНТ капсули м'які по 100 мг № 30",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 50.0
+        },
+        {
+          "id": "a426a98e2e184a6e8ed781ba4be80b44",
+          "description": "Каптопрес таблетки № 20",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 20.0
+        },
+        {
+          "id": "5a4e66e904324042ab90186c26b7b9fc",
+          "description": "Ісла-моос пастилки по 80 мг № 30",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 41.0
+        },
+        {
+          "id": "3c6a6676116d43b3b7b827eb48dfc803",
+          "description": "Назо-спрей спрей наз. 0.5 мг/мл по 15 мл у конт.",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 50.0
+        },
+        {
+          "id": "621ca5a9668947c0adaa534e26be8b15",
+          "description": "Амоксил-К 1000 таблетки, в/плів. обол. по 875 мг/125 мг № 14",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 50.0
+        },
+        {
+          "id": "5de8f2f583fa4ad38f3f1a95c0c162bf",
+          "description": "Анаприлін таблетки по 40 мг № 50",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 18.0
+        },
+        {
+          "id": "65e11def000440ebb2add476ad046f16",
+          "description": "Корнерегель гель оч. 50 мг/г по 5 г у тубах",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 20.0
+        },
+        {
+          "id": "8cf27d15f3f94db28a4bf07450e0dbd0",
+          "description": "Бісопролол-КВ таблетки по 5 мг № 30",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 30.0
+        },
+        {
+          "id": "94121164972d486c9689c895cf18b832",
+          "description": "Шавлії екстракт з вітаміном С Др Тайсс таблетки д/смок. №24",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 40.0
+        },
+        {
+          "id": "11617c82fc9f416fb00c0fcbb6de8677",
+          "description": "Солпадеїн таблетки розч. №12",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 38.0
+        },
+        {
+          "id": "a0642498b14e4fe9bac84ac8f9f19691",
+          "description": "Псило-бальзам гель 1 % по 20 г у тубах",
+          "unit": {
+            "name": "пачка",
+            "code": "PK"
+          },
+          "quantity": 30.0
+        },
+        {
+          "id": "168dd894f8064e88adbb1749f87770b8",
+          "description": "Фармазолін з м'ятою та евкаліптом спрей наз., р-н 1 мг/мл по 10 мл у флак.",
+          "unit": {
+            "name": "флакон",
+            "code": "VI"
+          },
+          "quantity": 80.0
+        }
+      ],
+      "submissionDate": "2026-06-05T12:47:44.714970+03:00"
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T08:00:04.114935+03:00"
+  },
+  "awards": [
+    {
+      "id": "1bdeb4df31ca4293a928679796e2c6e4",
+      "status": "pending",
+      "date": "2026-06-09T08:00:04.114935+03:00",
+      "value": {
+        "amount": 67943.3,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"СТМ-Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43808856",
+            "legalName": "ТОВ \"СТМ-Фарм\""
+          },
+          "address": {
+            "streetAddress": "вул.Панікахи будинок 2 кімната 405",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49040",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Іванченко Юлія",
+            "email": "yuivanchenko@stm-farm.biz",
+            "telephone": "+380664623349"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "3ec35b9c94b04ab8b320c92a40d49893",
+      "lotID": "cfb986ea177b4c2ab4f2c9f905a90594",
+      "period": {
+        "startDate": "2026-06-09T08:00:04.114935+03:00",
+        "endDate": "2026-06-17T00:00:00+03:00"
+      }
+    }
+  ],
+  "id": "89e809664f5244be8d9dc57ca7a37257"
+}

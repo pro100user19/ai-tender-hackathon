@@ -1,0 +1,1591 @@
+{
+  "description": "Тест-смужки для визначення вмісту кетонових тіл",
+  "date": "2026-06-09T07:00:00.799115+03:00",
+  "dateModified": "2026-06-09T07:00:00.799115+03:00",
+  "dateCreated": "2026-06-04T10:56:57.023246+03:00",
+  "tenderID": "UA-2026-06-04-003583-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:71383aecd008d36fbd68195fba68958da4a70f9f;SHA2-384:1722b349e0c65b632c4c2c39d6438ffb84cf0fb087f328b5b6ac6dcf8fceef5205e6ee00bca770bfd4cfbae5256db6c1;Antivirus: ESET Antivirus",
+      "relatedItem": "adad48ea745b4700b694a51e0a0ffc16",
+      "id": "289a5fe77f5c4f7386a9668bebdcf70c",
+      "datePublished": "2026-06-04T10:56:59.651608+03:00",
+      "hash": "md5:38c1004a01f88eeb894a8460dc6a9462",
+      "title": "Договір 3312.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/9a6e1635705a49ad970b4d094e423074?Signature=Kxndtjx47I%2Be3URk2Pxt6VEgOfZym8JY4xn4PUYfkRGHEknxymoZwDn4IHp3dAYdda745P5IBgaHABqfb7%2BZCQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:56:59.651608+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:60d559f4bc1e96fc3975005b80573644a5b1fee9;SHA2-384:1ba8016085a797460dc67ad3238c54f56d922febf5f09cd2abb8ba7e84c241d5224f352da57e5c9eea061e0348cdf709;Antivirus: ESET Antivirus",
+      "id": "7b3a0e20c3804304a84e6809795e4462",
+      "datePublished": "2026-06-04T10:58:12.703457+03:00",
+      "hash": "md5:1c965c32629dac5ca466e8b3ea3d6435",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/bc97fc3c9aa048549d7fce2ebd988579?Signature=AtCHHlftdB6cIdOKVII%2FO5wxCMkRDJa4VMOP4hWyju%2BQX3rGG956vcDnTewPV25TSAPFm5Z%2BEo%2BxuuGkG%2BpbCg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T10:58:12.966933+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Тест-смужки для визначення вмісту кетонових тіл ( кетон/ацетон)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "2cd2a6b8f63d48b9abc061c65616a020"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "9bb443732e4441bba7332ca4e58619a3",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 2,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "86bf21d734634ff49253857bb126d368",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "e9bc79894c434ccd9b3418856a52b5ab"
+  },
+  "value": {
+    "amount": 1000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T10:58:13.327072+03:00",
+    "endDate": "2026-06-09T07:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Комунальне некомерційне підприємство \"Решетилівська центральна  лікарня Решетилівської міської ради Полтавської області\"",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "01999483",
+      "legalName": "Комунальне некомерційне підприємство \"Решетилівська центральна  лікарня Решетилівської міської ради Полтавської області\""
+    },
+    "address": {
+      "streetAddress": "вул. Грушевського, буд. 76",
+      "locality": "м. Решетилівка",
+      "region": "Полтавська область",
+      "postalCode": "38400",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Лариса Шапаренко",
+      "email": "inforeshetylivkacl@gmail.com",
+      "telephone": "+380934049044"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "5255eaee6f264b65a94873571959a3dc",
+      "category": "33120000-327562-425746299",
+      "id": "7fc537d3af144e1eb1b0729cb3815c98",
+      "description": "Тест-смужки для визначення вмісту кетонових тіл ( кетон/ацетон)",
+      "quantity": 500.0,
+      "classification": {
+        "description": "Системи реєстрації медичної інформації та дослідне обладнання",
+        "scheme": "ДК021",
+        "id": "33120000-7"
+      },
+      "deliveryDate": {
+        "startDate": "2026-06-10T00:00:00+03:00",
+        "endDate": "2026-06-30T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Грушевського 76",
+        "locality": "Решетилівка",
+        "region": "Полтавська область",
+        "postalCode": "38400",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "acdc79ab6e884980ba6c8edf95f4f72c",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "347ec481074e4ea6ab2caffd68aef52d",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "e3867685b67d4728be3e395db73291cd",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "8926abd115c94f8185a2990a6419065a",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "90a43d0e39bb45d68c576f698ed228ce",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "119e362d67614189bcccf5d6f9bfec15",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "7b6623f3f09f401499661b38863b3936",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "6d1eb78977f44e48bd4dcef3b33386b4",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            }
+          ]
+        },
+        {
+          "id": "43bb4196fe394989b0be5a58d0940499",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "b138810c27444db38f0fbbc19267c6a6",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7e297e920f74c1980144e8e22c27072",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "7fc537d3af144e1eb1b0729cb3815c98",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "570f6d533ba84e94bd1bf616d6673e1a",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "35e1be2f563a46f4a805f48ab775690e",
+              "title": "Формат тесту",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Тест-смужка"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "8408721351784a3cbe443c753bdd86a7",
+              "title": "Аналіт ацетон",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "795d405433d54922b35e256e89ac638a",
+              "title": "Аналіт мікроальбумін",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "ff03b7ff1dd044c482c9c4c540a61295",
+              "title": "Аналіт лейкоцити",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "e22cb9be4dcc426ea4665dab6b3ab03e",
+              "title": "Аналіт нітрит",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "b35c313abffe4fb9acaa3e037d5c0223",
+              "title": "Аналіт уробіліноген",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "0d8848f5e9b04b43a4414d2f0e1f0ba4",
+              "title": "Аналіт білок",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "b33b655abfd645ab8ac3e2e7af7e4548",
+              "title": "Аналіт pH",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "d1deae69cfed4af885d5b857182e1e78",
+              "title": "Аналіт кров",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "306968db719c4aa6afd020ceca87dbc2",
+              "title": "Аналіт питома вага",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "ef2e695cde784babae7eb70985dce3ac",
+              "title": "Аналіт кетон",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "63d7b1ef6c094c4ebc7e6e86f90233be",
+              "title": "Аналіт креатинін",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "adc509965dd44bdb83effa98ca2f9d92",
+              "title": "Аналіт білірубін",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "4cc37926a5a842969aca357098ab25a6",
+              "title": "Аналіт глюкоза",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "c78694cc3c0340fca755b3ac47a81276",
+              "title": "Аналіт аскорбінова кислота",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "30c004b6f859424e9a02b4cb7dba7a49",
+              "title": "Аналіт кальцій",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            },
+            {
+              "id": "fe175b61f2b14ecd94315818085872e5",
+              "title": "Матеріал дослідження",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Сеча"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T10:57:00.102869+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T10:58:13.327072+03:00",
+  "bids": [
+    {
+      "id": "f5425d9f6daa42188c7adde5b83292c3",
+      "date": "2026-06-04T17:08:49.080346+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:369bd568643df7da2b5c8e2348146f20d2129108;SHA2-384:2ef8e335f5f76c0bb6483dab0259e39dd7b4068e2a1bc322f702b85b44d692dcd0fd7cbbf406e8f853d03f4276bc7740;Antivirus: ESET Antivirus,fids:1a0f146435b6480b86408b56004923ef:fide",
+          "id": "059c47f94f654d78982ae7ad3f3f4b8f",
+          "datePublished": "2026-06-04T17:08:48.776757+03:00",
+          "hash": "md5:f3a682340391719d0ae3516f73e56146",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/261b78506964441b90dcd319d9fae400?Signature=sfjuIZ87SGM3uhYN3TOGDfk%2FPqjARJXuTj1FEdYkAq3sNRRJDsXYxlDZ3N1s73bY54NOGg7YkCI0W4DEwS2%2BCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T17:08:48.776757+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Дяченко Олександр Олексійович\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2630815011",
+            "legalName": "ФОП \"Дяченко Олександр Олексійович\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ГОЛЬДБЕРГІВСЬКА, будинок 64, квартира 5",
+            "locality": "м. Харків",
+            "region": "Харківська область",
+            "postalCode": "61010",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олександр Дяченко",
+            "email": "diachenko_zakupki@ukr.net",
+            "telephone": "+380665968021"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 990.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "6d1eb78977f44e48bd4dcef3b33386b4",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "516bcdd80e0749d883415e98b6b3999f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e3867685b67d4728be3e395db73291cd",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "0861448a937d4479b1e07e515fc0f1f5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8926abd115c94f8185a2990a6419065a",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "8e8f4958f2214dd8b5bbc7e2481bac51",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "90a43d0e39bb45d68c576f698ed228ce",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "0fef53b1fea04f96a2004cca69b655d0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fe175b61f2b14ecd94315818085872e5",
+            "title": "Матеріал дослідження"
+          },
+          "values": [
+            "Сеча"
+          ],
+          "id": "3749b27475a9497280faab8ea77a57cb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c004b6f859424e9a02b4cb7dba7a49",
+            "title": "Аналіт кальцій"
+          },
+          "value": false,
+          "id": "3202b251ec8a48ec9ee5ff85e85f21b4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c78694cc3c0340fca755b3ac47a81276",
+            "title": "Аналіт аскорбінова кислота"
+          },
+          "value": false,
+          "id": "cb643636e4e34882b384d40398bcb695",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4cc37926a5a842969aca357098ab25a6",
+            "title": "Аналіт глюкоза"
+          },
+          "value": false,
+          "id": "b9d6a35b15724bc19b2d04bcbe97bb01",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "adc509965dd44bdb83effa98ca2f9d92",
+            "title": "Аналіт білірубін"
+          },
+          "value": false,
+          "id": "8086b87828964849afce084adce7f3f1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "63d7b1ef6c094c4ebc7e6e86f90233be",
+            "title": "Аналіт креатинін"
+          },
+          "value": false,
+          "id": "f8622dccb595466fa9686f575b36debd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef2e695cde784babae7eb70985dce3ac",
+            "title": "Аналіт кетон"
+          },
+          "value": true,
+          "id": "26904e73182a46a08809edeb0b3f878b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "306968db719c4aa6afd020ceca87dbc2",
+            "title": "Аналіт питома вага"
+          },
+          "value": false,
+          "id": "207993699e794e26ac133e9deb9b0b01",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1deae69cfed4af885d5b857182e1e78",
+            "title": "Аналіт кров"
+          },
+          "value": false,
+          "id": "9a1bd69642034bf590869c114684ba11",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33b655abfd645ab8ac3e2e7af7e4548",
+            "title": "Аналіт pH"
+          },
+          "value": false,
+          "id": "9176098b8bb342629d02b546c67a7814",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d8848f5e9b04b43a4414d2f0e1f0ba4",
+            "title": "Аналіт білок"
+          },
+          "value": false,
+          "id": "72bd35a2efd5427fbeae2c4310ad3549",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b35c313abffe4fb9acaa3e037d5c0223",
+            "title": "Аналіт уробіліноген"
+          },
+          "value": false,
+          "id": "fc72d53bb0f848c28d6a3bdcf581e2f1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e22cb9be4dcc426ea4665dab6b3ab03e",
+            "title": "Аналіт нітрит"
+          },
+          "value": false,
+          "id": "0adec3d54b634939a04e621d57fe7e72",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ff03b7ff1dd044c482c9c4c540a61295",
+            "title": "Аналіт лейкоцити"
+          },
+          "value": false,
+          "id": "01302e4efe234027a59c21dfe6d1d238",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "795d405433d54922b35e256e89ac638a",
+            "title": "Аналіт мікроальбумін"
+          },
+          "value": false,
+          "id": "f468b1c2193f4ff983abd4f1b51bca38",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8408721351784a3cbe443c753bdd86a7",
+            "title": "Аналіт ацетон"
+          },
+          "value": true,
+          "id": "2af44bcaa34645d3bbdbf0da3b6847fa",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35e1be2f563a46f4a805f48ab775690e",
+            "title": "Формат тесту"
+          },
+          "values": [
+            "Тест-смужка"
+          ],
+          "id": "3bfe4dc67193493d985e9021416f189d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7fc537d3af144e1eb1b0729cb3815c98",
+          "description": "Смужки індикаторні Ацетонтест №50",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.98,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 500.0,
+          "product": "8356578764c549459178f9cc2a005715"
+        }
+      ],
+      "submissionDate": "2026-06-04T17:08:49.080346+03:00",
+      "initialValue": {
+        "amount": 990.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "7ead2a86b7954c0c968fddbfb76cf82d",
+      "date": "2026-06-05T13:49:19.786080+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "1d21de55ba1b483ea7b27b057764cc12",
+          "datePublished": "2026-06-05T13:49:19.459691+03:00",
+          "hash": "md5:36092dfd5deb960753d5bb7c5d36a56f",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/36c269793818445689becb26fa54f8f8?Signature=M5RciuS%2BglVU%2BY%2FcyaXE9YCdL9s9F9m1RchGGJUs%2Bp2%2F4FJp1Lw0BVGT%2BAzTWBWgDoQD3PpRPWY6hw8wavKRAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T13:49:19.459691+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"Виробничо-комерційна фірма \"Фарм-Лайн\"",
+          "name_en": "FARM-LAIN",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "19299605",
+            "legalName": "Товариство з обмеженою відповідальністю \"Виробничо-комерційна фірма \"Фарм-Лайн\"",
+            "legalName_en": "FARM-LAIN"
+          },
+          "address": {
+            "streetAddress": "вулиця Космонавтів, будинок 124-А",
+            "locality": "Миколаїв",
+            "region": "Миколаївська область",
+            "postalCode": "54028",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Полторак Алла Йосипівна",
+            "name_en": "Poltorak Alla",
+            "email": "farmline2011@meta.ua",
+            "telephone": "380512444325,380674159388"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 920.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "fe175b61f2b14ecd94315818085872e5",
+            "title": "Матеріал дослідження"
+          },
+          "values": [
+            "Сеча"
+          ],
+          "id": "8e2ca4459a8345dc9d794e466343f194",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35e1be2f563a46f4a805f48ab775690e",
+            "title": "Формат тесту"
+          },
+          "values": [
+            "Тест-смужка"
+          ],
+          "id": "7c0e1100949d4ea69c4e209acd41f4b5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e3867685b67d4728be3e395db73291cd",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "4525f4a98f584a99b0c371ef0eef5fef",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8926abd115c94f8185a2990a6419065a",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "313b7b0e7d6b4a9892b161feb4890348",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "90a43d0e39bb45d68c576f698ed228ce",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ef231beffef94fa1a644a6d4160a7b81",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6d1eb78977f44e48bd4dcef3b33386b4",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "68425eb1423648959bb557bbf361c817",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e22cb9be4dcc426ea4665dab6b3ab03e",
+            "title": "Аналіт нітрит"
+          },
+          "value": false,
+          "id": "13b1db94a78e41aea3b079e294d35178",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1deae69cfed4af885d5b857182e1e78",
+            "title": "Аналіт кров"
+          },
+          "value": false,
+          "id": "3db0403ffe00402d830be8cb1430f355",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c004b6f859424e9a02b4cb7dba7a49",
+            "title": "Аналіт кальцій"
+          },
+          "value": false,
+          "id": "c90edae754884f278ece97b4d31770a5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "306968db719c4aa6afd020ceca87dbc2",
+            "title": "Аналіт питома вага"
+          },
+          "value": false,
+          "id": "8750f03399d94ae9b4c2d99737bef5d1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8408721351784a3cbe443c753bdd86a7",
+            "title": "Аналіт ацетон"
+          },
+          "value": true,
+          "id": "b0be0708582f4f96917306498d68ef54",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c78694cc3c0340fca755b3ac47a81276",
+            "title": "Аналіт аскорбінова кислота"
+          },
+          "value": false,
+          "id": "82a19647927c4a7799de92a57de1417f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "795d405433d54922b35e256e89ac638a",
+            "title": "Аналіт мікроальбумін"
+          },
+          "value": false,
+          "id": "ba4d740b0eb345f4929b4433cdebccde",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ff03b7ff1dd044c482c9c4c540a61295",
+            "title": "Аналіт лейкоцити"
+          },
+          "value": false,
+          "id": "ec5cf61910a14d87b6d58fba34e2ddf4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "63d7b1ef6c094c4ebc7e6e86f90233be",
+            "title": "Аналіт креатинін"
+          },
+          "value": false,
+          "id": "84e8369219fb45da9150af252ff6436a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33b655abfd645ab8ac3e2e7af7e4548",
+            "title": "Аналіт pH"
+          },
+          "value": false,
+          "id": "eaec186cf2404d23844989b3123b2f2a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "adc509965dd44bdb83effa98ca2f9d92",
+            "title": "Аналіт білірубін"
+          },
+          "value": false,
+          "id": "120aecc5257d417bbc95d6fe023e425a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef2e695cde784babae7eb70985dce3ac",
+            "title": "Аналіт кетон"
+          },
+          "value": true,
+          "id": "b4ffa03d51794547a045011347036447",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b35c313abffe4fb9acaa3e037d5c0223",
+            "title": "Аналіт уробіліноген"
+          },
+          "value": false,
+          "id": "47a64c884a4d403c9dabe643d11bfaec",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d8848f5e9b04b43a4414d2f0e1f0ba4",
+            "title": "Аналіт білок"
+          },
+          "value": false,
+          "id": "c105eaa2b27f4776a8dc11d879556ea1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4cc37926a5a842969aca357098ab25a6",
+            "title": "Аналіт глюкоза"
+          },
+          "value": false,
+          "id": "e53acda307b3420a974468377d723e83",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7fc537d3af144e1eb1b0729cb3815c98",
+          "description": "Смужки індикаторні Ацетонтест №50",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.72,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 500.0,
+          "product": "8356578764c549459178f9cc2a005715"
+        }
+      ],
+      "submissionDate": "2026-06-05T13:49:19.786080+03:00",
+      "initialValue": {
+        "amount": 920.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "4533ccf8b0c148959557e41e3a04977a",
+      "date": "2026-06-07T21:56:35.465792+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:f56f85db1d6e7775478bbccabf21cdf5ce1f0b15;SHA2-384:b633357621b6021e0ad0c2b75bd6309e7d25b5d4263fab0eaafa47b9eac1558c3908dfba6d5ba2d2e22dce555c43029e;Antivirus: ESET Antivirus,fids:db89d3e0acc749d0a5f3031b557ccdce:fide",
+          "id": "5576d607dcd040dabd71d085b4b6761c",
+          "datePublished": "2026-06-07T21:56:35.193596+03:00",
+          "hash": "md5:cf369095ee1fbedb374e0001f2126486",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/aa790e7197144e2c86833e9cefdbf401?Signature=uyVZHUFzhYij1VkHf9%2FHusiYgs3ZI7Y%2Fk1KTBVYz1u5xjBw7%2FTdAc2tk0ngsItfS%2F1IHjGkc7nScu8A9YmccBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-07T21:56:35.193596+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ВІРО ТЕСТ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42844961",
+            "legalName": "ТОВ \"ВІРО ТЕСТ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ХАРКІВСЬКЕ ШОСЕ, будинок 56, квартира 77",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "02091",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тамара Крук",
+            "email": "viro_test@ukr.net",
+            "telephone": "+380674505002"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 920.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "6d1eb78977f44e48bd4dcef3b33386b4",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "2cdf818a5da84e15bb6016f5594a6e9d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e3867685b67d4728be3e395db73291cd",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "66142da270154a9d8c4083b480402323",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8926abd115c94f8185a2990a6419065a",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "3d53e317256340569118dbbe734d0a18",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "90a43d0e39bb45d68c576f698ed228ce",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "e37253a63b2d49e7ac6e8ec40acba889",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fe175b61f2b14ecd94315818085872e5",
+            "title": "Матеріал дослідження"
+          },
+          "values": [
+            "Сеча"
+          ],
+          "id": "8f2a547cd7ed4ddba15ffcb48fd44e62",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c004b6f859424e9a02b4cb7dba7a49",
+            "title": "Аналіт кальцій"
+          },
+          "value": false,
+          "id": "7fc522a176da42ef861b30dfcc9bb77a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c78694cc3c0340fca755b3ac47a81276",
+            "title": "Аналіт аскорбінова кислота"
+          },
+          "value": false,
+          "id": "40d0d7e011dd469a874081c6b16e54c7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4cc37926a5a842969aca357098ab25a6",
+            "title": "Аналіт глюкоза"
+          },
+          "value": false,
+          "id": "6135d35091714cc792c2d3112ed5e3ea",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "adc509965dd44bdb83effa98ca2f9d92",
+            "title": "Аналіт білірубін"
+          },
+          "value": false,
+          "id": "919f268ed397435fade5017435f35dad",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "63d7b1ef6c094c4ebc7e6e86f90233be",
+            "title": "Аналіт креатинін"
+          },
+          "value": false,
+          "id": "0886c9785f6349d1829d9ad201decc9a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ef2e695cde784babae7eb70985dce3ac",
+            "title": "Аналіт кетон"
+          },
+          "value": true,
+          "id": "9ffd692bf0f747a9889b9776847de9bf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "306968db719c4aa6afd020ceca87dbc2",
+            "title": "Аналіт питома вага"
+          },
+          "value": false,
+          "id": "4a99999b04b64226b18d6c9315c4f3b0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1deae69cfed4af885d5b857182e1e78",
+            "title": "Аналіт кров"
+          },
+          "value": false,
+          "id": "630a2fcc530e45f9838f50dc1d08ee9d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b33b655abfd645ab8ac3e2e7af7e4548",
+            "title": "Аналіт pH"
+          },
+          "value": false,
+          "id": "43dbc386acca46c0afae381fe7ca0f90",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d8848f5e9b04b43a4414d2f0e1f0ba4",
+            "title": "Аналіт білок"
+          },
+          "value": false,
+          "id": "2e4a610ed4f744389f8f0166d24d5027",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b35c313abffe4fb9acaa3e037d5c0223",
+            "title": "Аналіт уробіліноген"
+          },
+          "value": false,
+          "id": "a081679cafc84af3b4e04bb5243dfa5c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e22cb9be4dcc426ea4665dab6b3ab03e",
+            "title": "Аналіт нітрит"
+          },
+          "value": false,
+          "id": "7a2085224cc643cd88dd0eed9b805086",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ff03b7ff1dd044c482c9c4c540a61295",
+            "title": "Аналіт лейкоцити"
+          },
+          "value": false,
+          "id": "045351de0f6f47f4b111b73c2ce310ce",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "795d405433d54922b35e256e89ac638a",
+            "title": "Аналіт мікроальбумін"
+          },
+          "value": false,
+          "id": "dc4728e8a2574dbcbe6e608e5a93b8ed",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8408721351784a3cbe443c753bdd86a7",
+            "title": "Аналіт ацетон"
+          },
+          "value": true,
+          "id": "6f742b72dd5442679eda577461db7f33",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35e1be2f563a46f4a805f48ab775690e",
+            "title": "Формат тесту"
+          },
+          "values": [
+            "Тест-смужка"
+          ],
+          "id": "10bedd1af9eb4323b7cb3419e5e7db1f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7fc537d3af144e1eb1b0729cb3815c98",
+          "description": "Тест-смужки для аналізу сечі на визначення кетону (№50, Boson, 1M02S2)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.72,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 500.0,
+          "product": "00b440b0ad874fcd9e4e13ca0398712a"
+        }
+      ],
+      "submissionDate": "2026-06-07T21:56:35.465792+03:00",
+      "initialValue": {
+        "amount": 920.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T07:00:00.799115+03:00"
+  },
+  "awards": [
+    {
+      "id": "994e2f8318634c9691b9694995c899fc",
+      "status": "pending",
+      "date": "2026-06-09T07:00:00.799115+03:00",
+      "value": {
+        "amount": 920.2,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"Виробничо-комерційна фірма \"Фарм-Лайн\"",
+          "name_en": "FARM-LAIN",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "19299605",
+            "legalName": "Товариство з обмеженою відповідальністю \"Виробничо-комерційна фірма \"Фарм-Лайн\"",
+            "legalName_en": "FARM-LAIN"
+          },
+          "address": {
+            "streetAddress": "вулиця Космонавтів, будинок 124-А",
+            "locality": "Миколаїв",
+            "region": "Миколаївська область",
+            "postalCode": "54028",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Полторак Алла Йосипівна",
+            "name_en": "Poltorak Alla",
+            "email": "farmline2011@meta.ua",
+            "telephone": "380512444325,380674159388"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "7ead2a86b7954c0c968fddbfb76cf82d",
+      "period": {
+        "startDate": "2026-06-09T07:00:00.799115+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      }
+    }
+  ],
+  "id": "adad48ea745b4700b694a51e0a0ffc16"
+}

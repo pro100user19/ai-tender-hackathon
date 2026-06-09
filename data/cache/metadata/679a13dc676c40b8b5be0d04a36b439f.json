@@ -1,0 +1,2595 @@
+{
+  "description": "Товар постачається  за заявкою Покупця, протягом  5  календарних днів з дня отримання заявки (за допомогою будь-яких засобів зв’язку). Поставка товару здійснюється на умовах DDP (Delivered Duty Paid) (Інкотермс-2020) склад Покупця. В ціну Товару включаються витрати на транспортування, розвантаження Товару у місцях, зазначених Покупцем, сплату податків і зборів (обов’язкових платежів), а також інші витрати пов’язані із виконанням Постачальником обов’язків за Договором.\nЗакупівля здійснюється відповідно до норм постанови КМУ від 12.10.2022 № 1178 (зі змінами) та постанови  Кабінету Міністрів України від 14.09.2020 № 822 «Про затвердження Порядку формування та використання електронного каталогу» (зі змінами). \nПостачальник не пропонує товари походженням із Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран.\n Розрахунки здійснюються на умовах післяоплати, у безготівковій формі, шляхом перерахунку коштів на рахунок Постачальника протягом 30 календарних днів з дня підписання видаткової (-их) накладної (-их) та/або акту (-ів) приймання-передачі Товару, при наявності коштів на рахунку Покупця та по мірі надходження фінансування.",
+  "date": "2026-06-09T08:00:06.129006+03:00",
+  "dateModified": "2026-06-09T08:11:26.318438+03:00",
+  "dateCreated": "2026-06-04T12:02:40.045272+03:00",
+  "tenderID": "UA-2026-06-04-005620-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "4cd8735903e948559b671d64c796a86a",
+      "datePublished": "2026-06-04T12:02:40.952069+03:00",
+      "hash": "md5:c0fa0f82f65a4dd8634b08b8cb3f211e",
+      "title": "Договір (проєкт).docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/1f300805de0143ef84e116bcf45a4930?Signature=HCV4gUUePa9HyCBhLSeS5jBdBjI5EF98HlED%2BV9JTPN2roeXDxJ1ul1XZR%2BtnP4faaRENg6X78y9M7tV4gs0Bg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T12:02:40.952069+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "3dd012cf40ad4f46b20bdfd90cc88d70",
+      "datePublished": "2026-06-04T12:02:53.934193+03:00",
+      "hash": "md5:ee1d4e3000800fa662f3d09e78f40444",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/ee75dae59ea040409af4f81efdcf8c11?Signature=0dyJkLdQwftjri2ZW%2FfC33NUqB5LR9KI2Nv5pQRQol9AKka4coJp91pM4GSI5afvCE9s9lRLWuNlkLGpzttvDA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T12:02:53.934193+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "it.ua",
+  "title": "Папір для друку, А4, 80 г/м², СIE 150%, 103 мкм, 91%, 500 арк., білий",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "887bc19c9e4347e298c99e388649ca1b"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "e58245abbd1941faa9a2be95bdfb9b3c",
+      "title": "deliveryOfGoods",
+      "description": "Розрахунки здійснюються на умовах післяоплати, у безготівковій формі, шляхом перерахунку коштів на рахунок Постачальника протягом 30 календарних днів з дня підписання видаткової (-их) накладної (-их) та/або акту (-ів) приймання-передачі Товару, при наявності коштів на рахунку Покупця та по мірі надходження фінансування.",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "9b0759fb20a149cc82d4c00a3de625f0",
+      "title": "submissionDateOfApplications",
+      "description": "Товар постачається  за заявкою Покупця, протягом  5  календарних днів з дня отримання заявки (за допомогою будь-яких засобів зв’язку). Поставка товару здійснюється на умовах DDP (Delivered Duty Paid) (Інкотермс-2020) склад Покупця.",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "1d820207a90e4b5dbededc66b89b6439"
+  },
+  "value": {
+    "amount": 252504.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T12:02:56.641846+03:00",
+    "endDate": "2026-06-09T08:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ТОВАРИСТВО ДРУГЕ ВІННИЦЬКЕ ТЕРИТОРІАЛЬНЕ МЕДИЧНЕ ОБ'ЄДНАННЯ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "01982749",
+      "legalName": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ТОВАРИСТВО ДРУГЕ ВІННИЦЬКЕ ТЕРИТОРІАЛЬНЕ МЕДИЧНЕ ОБ'ЄДНАННЯ"
+    },
+    "address": {
+      "streetAddress": "ВУЛИЦЯ КИЇВСЬКА, будинок 68",
+      "locality": "Вінниця",
+      "region": "Вінницька область",
+      "postalCode": "21032",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Мосійчук Лілія",
+      "email": "mklshmd@ukr.net",
+      "telephone": "380432664039"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "35f4f5322ddb470f86d102d282877f1f",
+      "category": "92a5d85dc5294eb5b86957ebffdee921",
+      "id": "019c8a2abc3841568af4ec784b1f6bd3",
+      "description": "Папір для друку, А4, 80 г/м², СIE 150%, 103 мкм, 91%, 500 арк., білий",
+      "quantity": 1400.0,
+      "classification": {
+        "description": "Офісне устаткування та приладдя різне",
+        "scheme": "ДК021",
+        "id": "30190000-7"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "ВУЛИЦЯ КИЇВСЬКА, будинок 68",
+        "locality": "Вінниця",
+        "region": "Вінницька область",
+        "postalCode": "21032",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пачка",
+        "code": "PK"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "e4639c4b432c453d9a9f6b1187903e74",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "810ae5c7d59d45d1b6c78e82d94bfb67",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "dd38d935f5574e36bc545472df82a9e8",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "30cddbe1790542258819fa95df4dc1d0",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "3efa001f9a4345f48e5d40cdf4c249be",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b26c706629dc42feb9597afa44df20be",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "2068d293055f4e98bca34bb1f9d52896",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "316ec966807e4a4abe2c3f44096dfb16",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            }
+          ]
+        },
+        {
+          "id": "0b618d7557274a319c800214ab469a7a",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "542cf92f43dc4d1dbf52d84a0e581b93",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "type": "document",
+                  "id": "a2f6b8a3316d43089b6c2e7a2d71f793"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00bf7df45dbb48b9ad05d98c7f0a9f45",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "019c8a2abc3841568af4ec784b1f6bd3",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "33b742a8d48a408ba8a182648b725f2d",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "cee0e77625aa461a9df6b4dc6f43abae",
+              "title": "Обов'язкове маркування щільності паперу на пачці",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "6e24e22f67334c73a1d888932ae06c56",
+              "title": "Recycling (з вторинной сировини)",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "19f36d7cc84a4c658f4464f136f9f5df",
+              "title": "Колір",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "білий"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "684a36b1268b43b6b7fca5e6539ff27e",
+              "title": "Кількість аркушів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "expectedValue": 500,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "2984104e28e14dac8a217a46ce0261f9",
+              "title": "Непрозорість",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "minValue": 91,
+              "maxValue": 96,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "ce5a43d93c4c4250bedb09810b3af848",
+              "title": "Товщина",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 103,
+              "maxValue": 110,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+              "title": "Білизна CIE",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "minValue": 150,
+              "maxValue": 170,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "184231b33bdb40f691a046227d4f1153",
+              "title": "Щільність паперу",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "GM",
+                "name": "грам на квадратний метр"
+              },
+              "expectedValue": 80,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            },
+            {
+              "id": "ecfcaa15e74649e4863f7b8facb126dc",
+              "title": "Формат",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "A4 (210х297 мм)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:02:41.169418+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T12:02:56.641846+03:00",
+  "bids": [
+    {
+      "id": "698094bdbae34ea6a23016c358b7c094",
+      "date": "2026-06-04T17:34:15.449487+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:d98c1bf17305037077787c16af9d699acb27418c;SHA2-384:77e383d442cfa8d760122636e61b694196d068037169b6c5e4fd0c4c37a456ef5f2e5b104f236b93e55e41bb8902ae8f;Antivirus: ESET Antivirus,fids:a1752a2b1f8d49f8adede460ec630721:fide",
+          "id": "fbc1fe70bd024ae9831b43c8666b7c2e",
+          "datePublished": "2026-06-04T17:34:15.207059+03:00",
+          "hash": "md5:20ced69aff77445775709ad6bc690132",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c0830fc91cc14ccabb12c01b6087dc3f?Signature=IRfcGvKOZPIZmgJ0yt32jKVXUKaYqAQyc0xjO15EtwWMfGX0DLOGn%2BsNk9UCv9Ok1kCITlmr6A6WiHKUPGXYDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T17:34:15.207059+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"КОРВЕТ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "21337459",
+            "legalName": "ТОВ \"КОРВЕТ\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ПОДІЛЬСЬКА, будинок 93",
+            "locality": "місто Хмельницький",
+            "region": "Хмельницька область",
+            "postalCode": "29013",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Маргарита Шевченко",
+            "email": "m.shevchenko@ofis-centr.ua",
+            "telephone": "+380957857313"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 195300.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "c04c855c365f4de6a05c156f1635c359",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "18df64f632aa4eb8a740b1b507312490",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "6ef0ef91dd43447fbc0bf778d3ddff62",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ba80a722c57a43c9a321b12f173ce1bf",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "360cd2cfa0dc4b7cb2b1645dd4682811",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 161,
+          "id": "1aa41aa99df04fd993461fb9b38af661",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "f07325709fd24434bc7b739c7f9b4f81",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "e45f07d92b1347299e07311d9346aa8f",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "62d070996d4341a79e47995828b2e970",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 107,
+          "id": "2ffbcaea17254ce88fcddb815fa7baa6",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "9c1a793aa71248d298c92b3191f750e3",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "4617201c02e44a0a998688ef2fa0c526",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "5f7a6955444f487cae0ef8c301c18404",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку PP Lite A4 80 г/м2, 500 листів APRIL",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 116.25,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "60e03b79b17a4622851a7ed8fa79c278"
+        }
+      ],
+      "submissionDate": "2026-06-04T17:34:15.449487+03:00",
+      "initialValue": {
+        "amount": 195300.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "cc770737f0c14fe8ad282a53d84a2a80",
+      "date": "2026-06-05T10:19:55.612430+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:214a5bf14a30bcec8f8a3d78459f2c7cf6d23942;SHA2-384:125ca8518bbbdbdcf0ee92d2c1960703ea772680c5f7a0754e72492652144f5c5df4215944b9e531987645f245299cb4;Antivirus: ESET Antivirus,fids:3a95107c185b45e9ae2854640fca1d58:fide",
+          "id": "d1e53381156d48fca77a42f73f1523e6",
+          "datePublished": "2026-06-05T10:19:55.342357+03:00",
+          "hash": "md5:8d9de3e9da0dc123c38b4bf07983f284",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/abf46171d9e942bfa8c7dca0949d9768?Signature=j7vk%2BIEJZbs9C2mNx1V6eyV%2B%2Bh92yugeQf16%2BGPH%2BY1Q3U%2FRb9RyU890SA9%2BHFf%2B2129njuz4iYsI7yEpyt0AQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T10:19:55.342357+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ФЕДЧЕНКО ОЛЕГ ВАСИЛЬОВИЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2997913694",
+            "legalName": "ФОП \"ФЕДЧЕНКО ОЛЕГ ВАСИЛЬОВИЧ\""
+          },
+          "address": {
+            "streetAddress": "ПРОВУЛОК ГОГОЛЯ, будинок 2",
+            "locality": "Тиврівський район, місто Гнівань",
+            "region": "Вінницька область",
+            "postalCode": "23310",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олег Федченко",
+            "email": "oleg@bravopap.com.ua",
+            "telephone": "+380932619851"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 214452.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "abd49350207c46aa8cb9d1c4cc0fc443",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "fd963d53a8eb41329b08626da4cc2e69",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "a0f957fc8cea488eb5f9d0e7908326b0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "34bf2de26ccc4044a32cffc263ccb566",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "a45b7c5b52794657af561b9b6acafbcb",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 153,
+          "id": "15159fb8edce4394982736bd8ff315d4",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "2b867d4b847d4114b1d99843fea5a6df",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "4cca5d953d034fb8b67e74aadf4680b9",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 95,
+          "id": "f0997ac6be044a3b86a6ac67941b9c3d",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 107,
+          "id": "c075f73d621349278de69b3f0bfaf423",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "d30746361775457c8154b23169483854",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "10af4b6c94444e35815497df9a5a3df1",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "17c0d615ad194d3a88baf0719341229e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір офісний 360 EVERYDAY А4 80г/м2 500арк. клас C MC18545",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 153.18,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "1a53091f86cd41c9b9bcb4fab5739fbc"
+        }
+      ],
+      "submissionDate": "2026-06-05T10:19:55.612430+03:00",
+      "initialValue": {
+        "amount": 214452.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "2dcd0c3502d3427f95e1dc2a2c9bcb79",
+      "date": "2026-06-05T10:21:31.140208+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "d8417971a8bf42a79d9403127f5b20e3",
+          "datePublished": "2026-06-05T10:21:30.915706+03:00",
+          "hash": "md5:b669c197ee72e0e94dbee180adeaeb02",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c082a421404f4289b1f45842a9acf129?Signature=9UD3QSm0N40yOYRkLWN5EFQoiWEE8CDUHyqtUP%2Fx2kLmMY9npDpPNNI46IQkJ%2Bi1BoBeAW1gjdX4FkHuA%2F4mCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T10:21:30.915706+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Ромус-Поліграф\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "25551379",
+            "legalName": "ТОВ \"Ромус-Поліграф\""
+          },
+          "address": {
+            "streetAddress": "вулиця Хмельницького Б., будинок 119а",
+            "locality": "Львів",
+            "region": "Львівська область",
+            "postalCode": "79019",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Холод Ігор Орестович",
+            "email": "ROMUS.POLIGRAF@META.UA",
+            "telephone": "0676710411",
+            "url": "http://www.romus.ua"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 193536.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "2c0723055063417cad309ad036e9b94d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "8881e00d6b8a458a99fcc688edffe0e4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "7f4c15509390444d9f08f74c3e6c7f6e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "93792f68747949f59e8a7d2490a461b6",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "1a97e6173780482b8c829585046a7d3b",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "fdb8b6572b6846efa2de070e8feaf267",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "ebf256c0ae1346aaa612fb01afefa730",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "d92288c866da49fc843b29d1e0557aa1",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "eef50c8d0e594de5995b8647207101b5",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 105,
+          "id": "60d8e4042dcf40bd8ffec0fb0441ac46",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 150,
+          "id": "fc02a95ae53045c789dcc78a28b0088a",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "d1fe11ab953b4b35aba06367c8f23ef9",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "b6928607af2a40319e0e5f977baeda83",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку SMART LINE Office A4, 80 г/м2, 500 арк., білий",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 115.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "15404bf4cc8a429aaee3456ba7f85278"
+        }
+      ],
+      "submissionDate": "2026-06-05T10:21:31.140208+03:00",
+      "initialValue": {
+        "amount": 193536.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "6a0ce87406e74fe6b418f4c3a69e3026",
+      "date": "2026-06-05T15:36:11.861468+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:883a9ff61b06726ccc6454c70a96c315639ff089;SHA2-384:89fb71de066a5dab362f2fbfb521a9aa672901010820dad095d945bd6408a62fc1d337ca512491ca5bfdd65ae7363d51;Antivirus: ESET Antivirus,fids:bdca4f822d34466d8fda735300854d1c:fide",
+          "id": "50e88feed9684827a80188fc183eab16",
+          "datePublished": "2026-06-05T15:36:11.571769+03:00",
+          "hash": "md5:bf0b462bd6bd077bcd8bd28287154778",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/147cdb819aee46c182b409708d04dfa9?Signature=OOBAKXjYRFQbtPXrJirX4MVUdLgq2kVOo3bA1tj4HsDtP63Jai4MT0ShC8uJtfVW4JZfCgWFpuGOY0fbkPDABw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T15:36:11.571769+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ВИЛАЙН ГРУП\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "38295925",
+            "legalName": "ТОВ \"ВИЛАЙН ГРУП\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ СТАРОПОРТОФРАНКІВСЬКА, будинок 117",
+            "locality": "місто Одеса",
+            "region": "Одеська область",
+            "postalCode": "65007",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Наталія Середницька",
+            "email": "manager3@klyaksa.biz",
+            "telephone": "+380991151404"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 215460.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "27a13910a32b4d3eb790ad8c4ee4d656",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "9fb46db06174421497c107def6d8b7c1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "ceae16ec767f465e97183bb62d1d0850",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "95ae996bfc9c49a5973a3bbc3cf8300a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "8d9f40a3b7054b23bf69a6b83136ff81",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "a8e639f5ac0f4946b97d0ef6b7dbfb95",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 169,
+          "id": "ecacc4edb83a4c47bfd5779466dd17a5",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 110,
+          "id": "378f9acd49594559a54e231f992fd2a7",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 95,
+          "id": "b5863a3375724b1aa7191e464b83130e",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "d0def8da7c72461eac68b69dcaefe304",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "777ec38cdcc6426ab1aaa5782ddddda3",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "7f16a29dc67748c5a11989529bc34946",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "b76a3381bddb4e27b2702195c357c65e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку EMERALD, 80 г/м2, 500 арк., білий(6951476310688)",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 128.25,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "b9a600bdbcac4e0d8f54c89fe71550d4"
+        }
+      ],
+      "submissionDate": "2026-06-05T15:36:11.861468+03:00",
+      "initialValue": {
+        "amount": 215460.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "f3ee53beb1894e3c9e727386cf00b892",
+      "date": "2026-06-06T09:18:11.482033+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:ef4069d7836cfb01d3edf35dde97f9698ef0098c;SHA2-384:2b130661f7814fff0f2bb42e46090c02c30877c8d455257aa6a7dd1f21b39f9595b793198b4bfc02a7cc5cba2a291331;Antivirus: ESET Antivirus,fids:2a0eb6cc6541433d9586a12449287091:fide",
+          "id": "6fd880792ab8434ebe645d7a6b58dac3",
+          "datePublished": "2026-06-06T09:18:11.232107+03:00",
+          "hash": "md5:99ddbca9d4f8655982dfa3f3616edb8b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2a00445c7864413aae56ec6d3385555f?Signature=vSqi3c3eXdLrKNtCKZOLrCikIvIiW7ZJaGphrUGAhQo3yCfmrmBUr%2FKcHtzVGRMHGZQF9LzXiHbcPobOsG1GDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T09:18:11.232107+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ХОНДАРОВА ВАЛЕНТИНА ІЛЛІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3033120440",
+            "legalName": "ФОП \"ХОНДАРОВА ВАЛЕНТИНА ІЛЛІВНА\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ВАТУТІНА, будинок 137 В, квартира 188",
+            "locality": "місто Вінниця",
+            "region": "Вінницька область",
+            "postalCode": "21011",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Валентина Хондарова",
+            "email": "d_firer@ukr.net",
+            "telephone": "+380673374228"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 207760.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "fa4a4099c33f4010a51b94e940453764",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "0d10cb69873b4654ae7ec287a1e48879",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c3f86d3c21f447ca8192858eae5b3c4e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "e5a6a64ab2a64e9db776b5950823cf5c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "1d9528deef2d454c8053d332f7c54604",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 150,
+          "id": "633a537ec13644028dc290b47f213512",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "934095346d8e4e5a82035739152a5f8a",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "731de755a02e4c0abdf599381a8556a0",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "b9366e156d1a4c3f85216d2f8d290935",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 104,
+          "id": "bdea791569be4e7c852ce31b1c5afcb4",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "57a9032b627249a6b9cdd3ae6fca505c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "a90a05ae44bd4bb599eb5ff1790e7ed8",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "f922e6d39bad4290906f2aded7cba90e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку CRYSTAL Pro A4, 80 г/м2, 500 арк., білий",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 148.4,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "ce2c95df9eb54c408d63c2aed9b3c6e2"
+        }
+      ],
+      "submissionDate": "2026-06-06T09:18:11.482033+03:00",
+      "initialValue": {
+        "amount": 207760.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "ba053111324f4bc4b5e72bded0145036",
+      "date": "2026-06-08T10:44:47.833230+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:a71790fab37c3fd86589c021043b9c328950287b;SHA2-384:5f5ccaf2e804ba6f946b12af19e922dddc051a5af3c873cdd765d085eb5a886c054213c6300dc8bb76b117fa01f2f77c;Antivirus: ESET Antivirus,fids:4608f494755b4a6f88d6ef36d0327deb:fide",
+          "id": "ccb8c7d9066f48fe955bdef8cd548ba2",
+          "datePublished": "2026-06-08T10:44:47.532981+03:00",
+          "hash": "md5:bf42e38b6aa45efe982d8b71956384c4",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/b786a4d520684f468cad98d3dcd4bfd3?Signature=2WUVppYEsDKoY2bqsfKQc5iVdRSMDNGbW%2FR409vgsXIUeMiOU4DRaZ2lSeaprnEYM%2FLGHlahQGBMQQn2Y22xDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:44:47.532981+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ТЕХНОЮГ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "23863399",
+            "legalName": "ТОВ \"ТЕХНОЮГ\""
+          },
+          "address": {
+            "streetAddress": "вул.Муратової Кіри будинок 30",
+            "locality": "місто Одеса",
+            "region": "Одеська область",
+            "postalCode": "65020",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тетяна Попова",
+            "email": "popova.t@tu.od.ua",
+            "telephone": "+380503929425"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 212688.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "055ad055c9c44795965b7617b2f76c6f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "41f7b95113f440b3bee269ded6a3952b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "ff13d2592d134f639cce1c3b4ff977eb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "58fb94172e604a9d82488acc4a912c24",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "bac8d9d0a4e14483abc7ccaa09eb8466",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 150,
+          "id": "22e722cf93ed458eb9242ca1cb7572fc",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "79164cb19b3d473a855adbf55a4afa92",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "b7eda0f5a9ff4b97b93392828f0425c9",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "115421560e38405fb64ca994ced5c4be",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 105,
+          "id": "0b8821ded0e742f5991536191f733daf",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "24ee95e01856408fb5409d0d87ea1014",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "14859ff6414649b8adf539db0d174cb1",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "2e3ffc41a5ad47c09497e0eb6d8e0543",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку SMART LINE Office A4, 80 г/м2, 500 арк., білий",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 126.6,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "15404bf4cc8a429aaee3456ba7f85278"
+        }
+      ],
+      "submissionDate": "2026-06-08T10:44:47.833230+03:00",
+      "initialValue": {
+        "amount": 212688.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "81b6c00e60d9462aac0f1e253afe0fce",
+      "date": "2026-06-08T11:42:13.267606+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "6155389b068d43f8b5e1d9449719b746",
+          "datePublished": "2026-06-08T11:42:13.009903+03:00",
+          "hash": "md5:31d71dffffdb1c509e6dcc69af8319bd",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/687fb3e220454a0c961894bc2a779096?Signature=pgHdpEp6Z%2F29TRALn9dQVu27hgiF0ss4Uwn89Qy19PtOGYaVo75zhbB2uPaSMf8DPYxHkG3tG7gFeOLModJ%2BDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T11:42:13.009903+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ТВГ УКРАЇНСЬКИЙ ПАПІР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43977041",
+            "legalName": "ТОВ \"ТВГ УКРАЇНСЬКИЙ ПАПІР\""
+          },
+          "address": {
+            "streetAddress": "вул.Куренівська, будинок 2-Б",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04073",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Матвій",
+            "email": "corptender1@ukrpap.com.ua",
+            "telephone": "380673873633"
+          },
+          "scale": "large"
+        }
+      ],
+      "value": {
+        "amount": 195804.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "a859af8715994de48f83b8858e08c865",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "e49c00a1f31246b2a7f32119ed6a21b2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "688b4feb13ba4fd48fd4744d117125cf",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "c598970e45104e179dac8d5553ce225f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "ee45742306044c15a6e84f59f8198e43",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "892e23bcf30b435ba789a3746e4a7669",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "32e38dab1ed24b0d9215a374ded84b76",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "981dde711e6b42a39719a75fbd5b6664",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "a932781ff7264095891eaba6ccf940d4",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 106,
+          "id": "9e2c9a9093ae41c7aee0a93f34392424",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 150,
+          "id": "756d1f9a37c24df894ba718619b6f313",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "2038527fe9f7417c8956d4329454acd1",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "0162d131728b45d0bd13a75511362c65",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір А4 80 г/м2 500 арк. MM BLOOM SMART",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 116.55,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "dd0aff0bd3fd4127b388e217a3fecb9c"
+        }
+      ],
+      "submissionDate": "2026-06-08T11:42:13.267606+03:00",
+      "initialValue": {
+        "amount": 195804.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "25ec9717d91a43cdb28620834efb52fb",
+      "date": "2026-06-08T22:20:12.893472+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "004c7ee1e88043638bfdcd56c295ebaa",
+          "datePublished": "2026-06-08T22:20:12.720905+03:00",
+          "hash": "md5:b504415c9aa97dd19d45e79f2b42b800",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0eee11a199f64d99b55e9a3713cbcd05?Signature=aC6PYSy5yTtqQUl1o634rQoAAL5X4zOhlpFabNnxeoaj9b6x7Ac94EhPKHIa6Nv6T%2FjenIEoK2VUpPcuiSCUCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T22:20:12.720905+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП БИЧКОВСЬКА ІННА МИКОЛАЇВНА",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2673607421",
+            "legalName": "ФОП БИЧКОВСЬКА ІННА МИКОЛАЇВНА"
+          },
+          "address": {
+            "streetAddress": "вулиця Прохоровська, будинок 30, квартира 25",
+            "locality": "Одеса",
+            "region": "Одеська область",
+            "postalCode": "65005",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Бичковська Інна",
+            "email": "lio.odessa@gmail.com",
+            "telephone": "380674844664"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 191800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "19f36d7cc84a4c658f4464f136f9f5df",
+            "title": "Колір"
+          },
+          "values": [
+            "білий"
+          ],
+          "id": "e1b7ec1e589e47718ed4930070e72bcf",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecfcaa15e74649e4863f7b8facb126dc",
+            "title": "Формат"
+          },
+          "values": [
+            "A4 (210х297 мм)"
+          ],
+          "id": "4671f026911743a7897ef36dce224a54",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd38d935f5574e36bc545472df82a9e8",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "0c83676160194a7dba5ccd44969a66a3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30cddbe1790542258819fa95df4dc1d0",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "81d55d56223a4f4c85870a52e98b3248",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3efa001f9a4345f48e5d40cdf4c249be",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "672bbbb6e5af4c22bc99a00b51b3c0a9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "316ec966807e4a4abe2c3f44096dfb16",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "65ad428b778348058cf8a3aecac8c06d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cee0e77625aa461a9df6b4dc6f43abae",
+            "title": "Обов'язкове маркування щільності паперу на пачці"
+          },
+          "value": true,
+          "id": "24e8244acae943bfb6310e6bd686d7d8",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce5a43d93c4c4250bedb09810b3af848",
+            "title": "Товщина"
+          },
+          "value": 105,
+          "id": "4bb72f5a71cd4f50a9d5c2954e67a9a0",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6e24e22f67334c73a1d888932ae06c56",
+            "title": "Recycling (з вторинной сировини)"
+          },
+          "value": false,
+          "id": "ba7068e043f74230b5dbefaa1a064358",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a5d33c2ec9874939844c8c4b40ef64f7",
+            "title": "Білизна CIE"
+          },
+          "value": 150,
+          "id": "e4c4ff5ba16a4cb88506f89a2457fd32",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "684a36b1268b43b6b7fca5e6539ff27e",
+            "title": "Кількість аркушів"
+          },
+          "value": 500,
+          "id": "86899c1387b5428d8424f934cb3437fe",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "184231b33bdb40f691a046227d4f1153",
+            "title": "Щільність паперу"
+          },
+          "value": 80,
+          "id": "13b5440e0b97456ea04ce3a75252c88e",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2984104e28e14dac8a217a46ce0261f9",
+            "title": "Непрозорість"
+          },
+          "value": 93,
+          "id": "31c88acfa3704a1bbed5ad00ed34174a",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "019c8a2abc3841568af4ec784b1f6bd3",
+          "description": "Папір для друку SMART LINE Office A4, 80 г/м2, 500 арк., білий",
+          "unit": {
+            "name": "пачка",
+            "value": {
+              "amount": 137.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PK"
+          },
+          "quantity": 1400.0,
+          "product": "15404bf4cc8a429aaee3456ba7f85278"
+        }
+      ],
+      "submissionDate": "2026-06-08T22:20:12.893472+03:00",
+      "initialValue": {
+        "amount": 191800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T08:00:06.129006+03:00"
+  },
+  "awards": [
+    {
+      "id": "29032c1ecea14d62adb8e58ecdc243ba",
+      "status": "pending",
+      "date": "2026-06-09T08:00:06.129006+03:00",
+      "value": {
+        "amount": 191800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП БИЧКОВСЬКА ІННА МИКОЛАЇВНА",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2673607421",
+            "legalName": "ФОП БИЧКОВСЬКА ІННА МИКОЛАЇВНА"
+          },
+          "address": {
+            "streetAddress": "вулиця Прохоровська, будинок 30, квартира 25",
+            "locality": "Одеса",
+            "region": "Одеська область",
+            "postalCode": "65005",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Бичковська Інна",
+            "email": "lio.odessa@gmail.com",
+            "telephone": "380674844664"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "25ec9717d91a43cdb28620834efb52fb",
+      "period": {
+        "startDate": "2026-06-09T08:00:06.129006+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "Визнаний переможцем",
+      "description": "Пропозиція Учасника повністю відповідає вимогам щодо предмета закупівлі, та потребам Замовника"
+    }
+  ],
+  "id": "679a13dc676c40b8b5be0d04a36b439f"
+}

@@ -1,0 +1,2512 @@
+{
+  "description": "Заклади замовника місто Могилів-Подільський та Могилів-Подільський район",
+  "date": "2026-06-09T06:36:34.369277+03:00",
+  "dateModified": "2026-06-09T06:36:34.369277+03:00",
+  "dateCreated": "2026-06-04T12:53:37.199134+03:00",
+  "tenderID": "UA-2026-06-04-006654-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:290dcd5802f38024a57e5a3d2be67aa660c1602c;SHA2-384:9c7cc7ee242bd7a95d8b579447522a8254db99186d07202794de083671911e392bc6e9f784fcb0d4ad6fe7652602b988;Antivirus: ESET Antivirus",
+      "relatedItem": "0af3356606ae42d9836513a96aafaef8",
+      "id": "bbb55fba7ea049ac8134928974f0a811",
+      "datePublished": "2026-06-04T12:53:38.414214+03:00",
+      "hash": "md5:9ee3f3764be18cdf2ad08316b9617a5d",
+      "title": "ПРОЕКТ ДОГОВОРУ.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/a41b2e583c2d4a4ea2bf3f195e75b5f8?Signature=fWiTpa7pASWcp%2BIKdBfhd8aUwUf2%2FsC5CfqOZCEyxOffKAKUprj%2BUiav8CLYZO%2Bey%2BdUTbl%2FKGjfyZSihLoIBA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T12:53:38.414214+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:24a75fa52c650ade1c780d7bc0cd38596c223af1;SHA2-384:405b6c7fc8aacd547f96acdb1be8b5ca06cecf6a31192809214d338d9665ea3eff0482ebfb323ed52251a43cb8bbecfd;Antivirus: ESET Antivirus",
+      "id": "96dad170be7f4f27afdabc8313f60382",
+      "datePublished": "2026-06-04T12:56:35.919251+03:00",
+      "hash": "md5:275c0a876610ad5c50ef84f58f807d12",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/b0623a4766014fdc91c7dbf0800dc382?Signature=gk34CtzPz3k3QVZ%2BxtkTMTYw7J2t03kAU7knxMM6EfC4tmxRbQ7Vp5jZmFoxlpyyrmcFgjJMXWvun6cWMT7LDQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T12:56:36.217638+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Фарби",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "5518ed72f0004834bf3fedd019633700"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "57594bcb9ea94d758401295f93b0d65d",
+      "title": "signingTheContract",
+      "description": "",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 7,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "5903d3712f5a4e2c8a9ceb95a19a1a61",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.awarded",
+  "agreement": {
+    "id": "30d6701527c94912b1736377980a2dad"
+  },
+  "value": {
+    "amount": 885089.85,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T12:56:36.590215+03:00",
+    "endDate": "2026-06-09T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Управління освіти Могилів-Подільської міської ради",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "02141578",
+      "legalName": "Управління освіти Могилів-Подільської міської ради",
+      "uri": "https://uompmr.wixsite.com/uompmr"
+    },
+    "address": {
+      "streetAddress": "вул. Полтавська, 23",
+      "locality": "м. Могилів-Подільський",
+      "region": "Вінницька область",
+      "postalCode": "24000",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Михайло Ткач",
+      "email": "zakupivli.osvita.mp@gmail.com",
+      "telephone": "+380433762627, +380433762965",
+      "url": "https://uompmr.wixsite.com/uompmr"
+    },
+    "kind": "authority"
+  },
+  "items": [
+    {
+      "profile": "ff37dae27a6d4da9ac3bfe8393990407",
+      "category": "6febf8874c9143a4ad811e148d8c8ca1",
+      "id": "50614149eda14a0697dd1e9af0dc6b2a",
+      "description": "Фарба акрилова, матова, для внутрішніх робіт",
+      "quantity": 1476.3,
+      "classification": {
+        "description": "Фарби",
+        "scheme": "ДК021",
+        "id": "44810000-1"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-16T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Заклади замовника м.Могилів-Подільський та Могилів-Подільського району",
+        "region": "Вінницька область",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "кілограм",
+        "code": "KGM"
+      }
+    },
+    {
+      "profile": "a7bf11493b564e1793f12c1ab9197d58",
+      "category": "6febf8874c9143a4ad811e148d8c8ca1",
+      "id": "935353e0a40c4ac9a28ddd0be759f12d",
+      "description": "Фарба акрилова, матова, для зовнішніх робіт",
+      "quantity": 387.5,
+      "classification": {
+        "description": "Фарби",
+        "scheme": "ДК021",
+        "id": "44810000-1"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-16T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Заклади замовника м.Могилів-Подільський та Могилів-Подільського району",
+        "region": "Вінницька область",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "кілограм",
+        "code": "KGM"
+      }
+    },
+    {
+      "profile": "e24c7de2bd5340c38e474188b2815339",
+      "category": "de8d6402bf444358b733d9269b00ce7b",
+      "id": "bd0d08c778e443fd822b6945e0c59fa2",
+      "description": "Емаль алкідна, ПФ-115, глянцева, інші кольори",
+      "quantity": 4542.9,
+      "classification": {
+        "description": "Фарби",
+        "scheme": "ДК021",
+        "id": "44810000-1"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-16T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Заклади замовника м.Могилів-Подільський та Могилів-Подільського району",
+        "region": "Вінницька область",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "кілограм",
+        "code": "KGM"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "8b1b7b3cdd8443abbf7bf6499d0f64c2",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "919a5522c4fd4f2995e33330d749a9a6",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "d56cac94d3ed44a6b4132948a8e86beb",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "5248b571505542c0b4a2ec56b33d88fe",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "3a13b2dcb06e480f85a34702a57b3f9a",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109316974d94496a829b5d51ad8f3200",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "575fdf3aefcf451a973afb31dcb35c98",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "55663cdf45fc47cb94142ebca68c72c5",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        },
+        {
+          "id": "4d59d78037a84271bf5d28bf507f45fa",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "31888efe6e654fe0a03f341b0c01042e",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "477c427d96324bb7aa07b5d9a1d1ed35",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "50614149eda14a0697dd1e9af0dc6b2a",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1be73bc196494fefa44f0c422988f9be",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "a8da79b0806647ecb55e81b60651e64a",
+              "title": "Відповідінсть ДСТУ EN 13300",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "7490503a4f434c0d9b2ff8c0260394a0",
+              "title": "Колір визначається в проєкті договору",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "так"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "e6e023d911d24f878d5390f8d364606a",
+              "title": "Основа",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "акрилова"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "a4b33ef473ee4cafbbf937cd0ebdd5f6",
+              "title": "Блиск (G)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "G4 (Глибоко матовий)",
+                "G3 (Матовий)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dfaad6f3857f4a0598ea5da87c09c71d",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "935353e0a40c4ac9a28ddd0be759f12d",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "7bdcc290fc1543cbad27ef888a565d52",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "8236b7522a1c40fa8926c3cddd35141c",
+              "title": "Колір визначається в проєкті договору",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "так"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "45f845547e224dfcbdce9fa934f6ace7",
+              "title": "Основа",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "акрилова"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "0e1cc0375eb44161acf0e04fa12a98b3",
+              "title": "Блиск (G)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "G3 (Матовий)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "02399613db2946e59aa20c536faff00a",
+              "title": "Відповідінсть ДСТУ EN 1062-1",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a532ab65e094adca48d2a6e05f67913",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "bd0d08c778e443fd822b6945e0c59fa2",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "39be7f3502b74df8b8321f16866314e8",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "6d5ce3d4939e490aa05ea2e7acf60654",
+              "title": "Колір визначається в проєкті договору",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "так"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "da3822b2a4364ce6b4e5086a04da3284",
+              "title": "Блиск покриття (60°)",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "minValue": 50,
+              "maxValue": 100,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "9eb1478ee18c4c6284a0f0704cf92a58",
+              "title": "Мінімальна температура експлуатації",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "CEL",
+                "name": "градус Цельсія"
+              },
+              "minValue": -100,
+              "maxValue": -50,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "128abcb3ac09486bb5209dd7f7127a71",
+              "title": "Максимальна температура експлуатації",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "CEL",
+                "name": "градус Цельсія"
+              },
+              "minValue": 60,
+              "maxValue": 100,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "01c87c480a8741ae9937dc22bdbc35f6",
+              "title": "Еластичність плівки при вигині",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.1,
+              "maxValue": 1.0,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "c1573c85b5a84478a32edffc7abde88d",
+              "title": "Стійкість покриття при температурі 20±2° С до статичного впливу трансформаторного мастила",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "HUR",
+                "name": "година"
+              },
+              "minValue": 24,
+              "maxValue": 72,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "9ec5d5f6f3284052a87226fba76e731a",
+              "title": "Стійкість покриття при температурі 20±2° С до статичного впливу води",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "HUR",
+                "name": "година"
+              },
+              "minValue": 2,
+              "maxValue": 100,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "3f10748c35a845f3bd31dc1644c15217",
+              "title": "Стійкість покриття до статичного впливу 0,5% розчину миючого засобу",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MIN",
+                "name": "хвилина"
+              },
+              "minValue": 15,
+              "maxValue": 50,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "e9bab9e160b04c878c0b80c2fd4ab312",
+              "title": "Міцність плівки при ударі на приладі типу У-1",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "minValue": 40,
+              "maxValue": 100,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "11759612047e48b0bc4c7db84f409d76",
+              "title": "Умовна в’язкість, при t (20 ± 5)°C по віскозиметру з діаметром сопла 4 мм, с, в межах",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "80-120"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "2dd60f53ae374fbcabbbe0b6b908c13c",
+              "title": "Твердість покриття по маятниковому приладу (маятник Кеніга)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "minValue": 0.1,
+              "maxValue": 1.0,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "af7db6003ef64f08a22fe398a98388a7",
+              "title": "Ступінь перетирання",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "4H",
+                "name": "мікрометр"
+              },
+              "minValue": 10,
+              "maxValue": 25,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "be0d5a535154408b942305dd40bac962",
+              "title": "Адгезія, бал",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "minValue": 0,
+              "maxValue": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "39e61cc6d5984b4ab7527e2534e3256f",
+              "title": "Час висихання до ступеня 3 при 20°C год не більше",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "HUR",
+                "name": "година"
+              },
+              "minValue": 0.1,
+              "maxValue": 24.0,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "54bc9d5e46334520b900cd202edbc2e0",
+              "title": "Застосування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "універсальна"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "7f0c4220a4b74ec1a69d92af7d72c507",
+              "title": "Призначення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "універсальна"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            },
+            {
+              "id": "5def9a1d163843b286b1e765f28e6709",
+              "title": "Тип емалі",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "ПФ-115"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T12:53:38.970360+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T12:56:36.590215+03:00",
+  "bids": [
+    {
+      "id": "8b7ee91221d44297953128797be89c40",
+      "date": "2026-06-04T19:34:56.518561+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:7a5613b2610457595ac2a5ab16ee7fd5d87d29b0;SHA2-384:e97af5dd2cdbf9070660bc78b789671429c2039638899bad0e8d836a2ad70a024a2369e07a2894ff0789c981eb283fa0;Antivirus: ESET Antivirus,fids:d956d295ece74540b55de57adc7bba29:fide",
+          "id": "8a09917084534b98a379eeb84e384d31",
+          "datePublished": "2026-06-04T19:34:56.229663+03:00",
+          "hash": "md5:065a18066bec1618bc1d6e6c55c8e087",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/438f80442f92412db2ffcf11e62db2f4?Signature=C5coCtLvIvjSiMhYtMhREzS50Ng%2BXNjwubt%2B%2B4%2BzWShgrj6wsaHO2rGTAV1e7i48BAZp7U%2BKVEL%2BhSYWIJHUDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T19:34:56.229663+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"УКРГОСТ ГРУП\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44842704",
+            "legalName": "ТОВ \"УКРГОСТ ГРУП\""
+          },
+          "address": {
+            "streetAddress": "вул. Межигірська, буд 82А",
+            "locality": "місто Київ",
+            "region": "м. Київ",
+            "postalCode": "04080",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Євген Стешак",
+            "email": "ukrgostgroup@gmail.com",
+            "telephone": "+380672140289"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 657203.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "55663cdf45fc47cb94142ebca68c72c5",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "db069a3847a54871929535ba57d081b5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d56cac94d3ed44a6b4132948a8e86beb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f7ec466b3c01445fa3ab6ed6f64d3e9b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5248b571505542c0b4a2ec56b33d88fe",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d2a1fd1b281e4ad7aebd0d70f6c51e3a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3a13b2dcb06e480f85a34702a57b3f9a",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "fd65d0326252436ab3a850a266cf7a10",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "39e61cc6d5984b4ab7527e2534e3256f",
+            "title": "Час висихання до ступеня 3 при 20°C год не більше"
+          },
+          "value": 24,
+          "id": "f839af2c14514386944f511bb522c0b7",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "11759612047e48b0bc4c7db84f409d76",
+            "title": "Умовна в’язкість, при t (20 ± 5)°C по віскозиметру з діаметром сопла 4 мм, с, в межах"
+          },
+          "values": [
+            "80-120"
+          ],
+          "id": "fe400e546c0c408ab66f486e09bebde3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5def9a1d163843b286b1e765f28e6709",
+            "title": "Тип емалі"
+          },
+          "values": [
+            "ПФ-115"
+          ],
+          "id": "bf1a3b1ffab747f78ce77961e4741c2c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2dd60f53ae374fbcabbbe0b6b908c13c",
+            "title": "Твердість покриття по маятниковому приладу (маятник Кеніга)"
+          },
+          "value": 0.3,
+          "id": "d88d76f8a5084b759682583f888de2e4",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af7db6003ef64f08a22fe398a98388a7",
+            "title": "Ступінь перетирання"
+          },
+          "value": 25,
+          "id": "7ff4a52b13054565b2fc5edecffe94fe",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c1573c85b5a84478a32edffc7abde88d",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу трансформаторного мастила"
+          },
+          "value": 24,
+          "id": "2430edb93c0a4a73bf3b11d67ce78df8",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9ec5d5f6f3284052a87226fba76e731a",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу води"
+          },
+          "value": 2,
+          "id": "5a6043a8a9534f2783aefa433c6cac1f",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f10748c35a845f3bd31dc1644c15217",
+            "title": "Стійкість покриття до статичного впливу 0,5% розчину миючого засобу"
+          },
+          "value": 15,
+          "id": "4c6f2195bd344abe822eff98dc26d36b",
+          "unit": {
+            "code": "MIN",
+            "name": "хвилина"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f0c4220a4b74ec1a69d92af7d72c507",
+            "title": "Призначення"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "f831fb84772d48e2bf26ffbba8338347",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9bab9e160b04c878c0b80c2fd4ab312",
+            "title": "Міцність плівки при ударі на приладі типу У-1"
+          },
+          "value": 40,
+          "id": "ad5b9d0a7ef342ccb4bb028a8e212cb6",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9eb1478ee18c4c6284a0f0704cf92a58",
+            "title": "Мінімальна температура експлуатації"
+          },
+          "value": -50,
+          "id": "b80d7cc2c2df42c1bdb837ef1a0c3c93",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "128abcb3ac09486bb5209dd7f7127a71",
+            "title": "Максимальна температура експлуатації"
+          },
+          "value": 60,
+          "id": "3b1bb547fef647428ece4e0f9f590fa1",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6d5ce3d4939e490aa05ea2e7acf60654",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "325096b659ce486fb66599dca3734ca5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "54bc9d5e46334520b900cd202edbc2e0",
+            "title": "Застосування"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "237453221de4465eb95b38b262630f14",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "01c87c480a8741ae9937dc22bdbc35f6",
+            "title": "Еластичність плівки при вигині"
+          },
+          "value": 1,
+          "id": "d7059436c0e9444bb626dda8a8f0307a",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da3822b2a4364ce6b4e5086a04da3284",
+            "title": "Блиск покриття (60°)"
+          },
+          "value": 70,
+          "id": "c7d1f327dd3e4af0a71e68d30de38935",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be0d5a535154408b942305dd40bac962",
+            "title": "Адгезія, бал"
+          },
+          "value": 1,
+          "id": "7d0a2c925bff424489a0303aec52418c",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8236b7522a1c40fa8926c3cddd35141c",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "1439294be41549e9867a36c730606953",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "45f845547e224dfcbdce9fa934f6ace7",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "b225b0fe20534a92adf8a749e4965f62",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e1cc0375eb44161acf0e04fa12a98b3",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G3 (Матовий)"
+          ],
+          "id": "9f7aa0ffd6834585831c40bd217674b1",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "02399613db2946e59aa20c536faff00a",
+            "title": "Відповідінсть ДСТУ EN 1062-1"
+          },
+          "value": true,
+          "id": "2e88a0e502504860b43cf80384f97ace",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7490503a4f434c0d9b2ff8c0260394a0",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "5759f9fdb46543509be09f67481628b4",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e023d911d24f878d5390f8d364606a",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "bf8af95ca31a45b596ca952de4fcb306",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a4b33ef473ee4cafbbf937cd0ebdd5f6",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G4 (Глибоко матовий)"
+          ],
+          "id": "9a6fbfd3ee7148c88a8715c6d8121a63",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a8da79b0806647ecb55e81b60651e64a",
+            "title": "Відповідінсть ДСТУ EN 13300"
+          },
+          "value": true,
+          "id": "227a09943cb1434cb3b7fae80270b664",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "935353e0a40c4ac9a28ddd0be759f12d",
+          "description": "Фарба фасадна акрилова FACAD EXTRA Atmosphere \"FLORA COLOUR\" 14 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 44.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 387.5,
+          "product": "0114b3e519f1409a8bd4cbea7b843a6d"
+        },
+        {
+          "id": "50614149eda14a0697dd1e9af0dc6b2a",
+          "description": "Фарба інтер’єрна KOMPOZIT INTERIOR 5",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 85.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 1476.3,
+          "product": "94c5d04bd71e4955a7c56746f38e63a2"
+        },
+        {
+          "id": "bd0d08c778e443fd822b6945e0c59fa2",
+          "description": "Емаль алкідна UlTRATONE ПФ-115, глянец 2,8 кг.",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 89.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 4542.9,
+          "product": "9fc29ba2accc4fd7a0970d8aed53dc2d"
+        }
+      ],
+      "submissionDate": "2026-06-04T19:34:56.518561+03:00",
+      "initialValue": {
+        "amount": 657203.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "ef0bfbf7003847d4a926248b4cd42ccc",
+      "date": "2026-06-05T10:23:05.159225+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:988a0e9167eff7f1d48eb1f86640137b896af1ea;SHA2-384:0530468eabd83617cb9dce5c1bf241001b4f853ac8446d7faa45a7fa4d218f0f5739e76484fc731544fce53967072e33;Antivirus: ESET Antivirus,fids:5c5f389907be425e826cac452fc9ea21:fide",
+          "id": "3fc8fa15565042b2ac45afce63ed691f",
+          "datePublished": "2026-06-05T10:23:04.886476+03:00",
+          "hash": "md5:ac711f19c9b9aca23e52c611df78bdf6",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f7a20413c77d4be089e44f2a1c3e42c4?Signature=9nemkyBb5dpouA0xILjj3fnTb%2BVBaGMxqtzqsuveQsIi7p0Zw3BGCW8UoWvCDftJOLu%2FnRFiTc0T%2Bx7YXAlzAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T10:23:04.886476+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ШАПОВАЛ ВАЛЕРІЙ МИКОЛАЙОВИЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2770500032",
+            "legalName": "ФОП \"ШАПОВАЛ ВАЛЕРІЙ МИКОЛАЙОВИЧ\""
+          },
+          "address": {
+            "streetAddress": "ПРОСПЕКТ БАЙРОНА, будинок 5, квартира 29",
+            "locality": "місто Харків",
+            "region": "Харківська область",
+            "postalCode": "61105",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Валерій Шаповал",
+            "email": "akrilika-fantazia@ukr.net",
+            "telephone": "+380660365235"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 734740.8,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "55663cdf45fc47cb94142ebca68c72c5",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7b6c14df69cc4caea6fd635c4efc02ad",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d56cac94d3ed44a6b4132948a8e86beb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "3f89cb1699d04ea58ad4441bc95ea8bc",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5248b571505542c0b4a2ec56b33d88fe",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "815f114d7adb4afb980becab8c77628c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3a13b2dcb06e480f85a34702a57b3f9a",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "75c1cf2fcb4e401ca64dbdb23dec9cb7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5def9a1d163843b286b1e765f28e6709",
+            "title": "Тип емалі"
+          },
+          "values": [
+            "ПФ-115"
+          ],
+          "id": "ca5f3475ee8343619d0573edaa75d537",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f0c4220a4b74ec1a69d92af7d72c507",
+            "title": "Призначення"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "b080e357354b4c4db4d06e60874d8c05",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "54bc9d5e46334520b900cd202edbc2e0",
+            "title": "Застосування"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "886438d3adc94bc8970ade37dd5298be",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "39e61cc6d5984b4ab7527e2534e3256f",
+            "title": "Час висихання до ступеня 3 при 20°C год не більше"
+          },
+          "value": 24,
+          "id": "453b1f8bb0f84793afc83a3475ea2086",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be0d5a535154408b942305dd40bac962",
+            "title": "Адгезія, бал"
+          },
+          "value": 1,
+          "id": "0b0ae2fa1d6d4bb995975768256f9021",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af7db6003ef64f08a22fe398a98388a7",
+            "title": "Ступінь перетирання"
+          },
+          "value": 25,
+          "id": "57aa837c89e746f6b3fb70ef789e90aa",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2dd60f53ae374fbcabbbe0b6b908c13c",
+            "title": "Твердість покриття по маятниковому приладу (маятник Кеніга)"
+          },
+          "value": 0.3,
+          "id": "9df7a69271814a0ca5655c96218afea3",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "11759612047e48b0bc4c7db84f409d76",
+            "title": "Умовна в’язкість, при t (20 ± 5)°C по віскозиметру з діаметром сопла 4 мм, с, в межах"
+          },
+          "values": [
+            "80-120"
+          ],
+          "id": "36ac63f42ef14e6ebc019184b7ea32d3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9bab9e160b04c878c0b80c2fd4ab312",
+            "title": "Міцність плівки при ударі на приладі типу У-1"
+          },
+          "value": 40,
+          "id": "aa18156e899e4868a67ed4ff9e659f41",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f10748c35a845f3bd31dc1644c15217",
+            "title": "Стійкість покриття до статичного впливу 0,5% розчину миючого засобу"
+          },
+          "value": 20,
+          "id": "8fccd192fd6e49e1975693da73042dac",
+          "unit": {
+            "code": "MIN",
+            "name": "хвилина"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9ec5d5f6f3284052a87226fba76e731a",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу води"
+          },
+          "value": 12,
+          "id": "aa67ff8399ea4e7cb8791b83c43f8da4",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c1573c85b5a84478a32edffc7abde88d",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу трансформаторного мастила"
+          },
+          "value": 24,
+          "id": "1cfce5f37bad4057b2ce73f42c53cfb6",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "01c87c480a8741ae9937dc22bdbc35f6",
+            "title": "Еластичність плівки при вигині"
+          },
+          "value": 1,
+          "id": "59981443a3b449eea3d8e1ab68fcb490",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "128abcb3ac09486bb5209dd7f7127a71",
+            "title": "Максимальна температура експлуатації"
+          },
+          "value": 60,
+          "id": "079319f555ba4954bfee0622127b2b5f",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9eb1478ee18c4c6284a0f0704cf92a58",
+            "title": "Мінімальна температура експлуатації"
+          },
+          "value": -50,
+          "id": "9af78f65e84041b1a8647a29d48695cd",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da3822b2a4364ce6b4e5086a04da3284",
+            "title": "Блиск покриття (60°)"
+          },
+          "value": 65,
+          "id": "4f5805678435446694fdf0c6587585cf",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6d5ce3d4939e490aa05ea2e7acf60654",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "cb9d3a9172414dcea435ff749b0b22bf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8236b7522a1c40fa8926c3cddd35141c",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "5cb54d47a285455d9ac8be42c245db01",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "45f845547e224dfcbdce9fa934f6ace7",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "8b49b3a230a44956a9a580bc5fcdd1ed",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e1cc0375eb44161acf0e04fa12a98b3",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G3 (Матовий)"
+          ],
+          "id": "948dc606f38947ef82970c1476efd99d",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "02399613db2946e59aa20c536faff00a",
+            "title": "Відповідінсть ДСТУ EN 1062-1"
+          },
+          "value": true,
+          "id": "287f0407ab8343369775a0b5279a0772",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7490503a4f434c0d9b2ff8c0260394a0",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "19164e97f7c448eebea4043ed95ca34c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e023d911d24f878d5390f8d364606a",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "28f7e02d31d04e979e7412879c873814",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a4b33ef473ee4cafbbf937cd0ebdd5f6",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G3 (Матовий)"
+          ],
+          "id": "46e46d30d3d84398b3c76ae180c2998e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a8da79b0806647ecb55e81b60651e64a",
+            "title": "Відповідінсть ДСТУ EN 13300"
+          },
+          "value": true,
+          "id": "e86b259cbe1544859fb9c5f2ce7c88b8",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "935353e0a40c4ac9a28ddd0be759f12d",
+          "description": "Фарба фасадна акрилова FACAD EXTRA Atmosphere \"FLORA COLOUR\" 14 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 100.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 387.5,
+          "product": "0114b3e519f1409a8bd4cbea7b843a6d"
+        },
+        {
+          "id": "50614149eda14a0697dd1e9af0dc6b2a",
+          "description": "Фарба водоемульсійна для стін і стель Akrilika 14 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 50.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 1476.3,
+          "product": "3becd14b072f4e768a52bc9c9d19ab1c"
+        },
+        {
+          "id": "bd0d08c778e443fd822b6945e0c59fa2",
+          "description": "Емаль алкідна ПФ-115 Fantazia",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 110.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 4542.9,
+          "product": "aedfc1cdc96d46aebe3ae3c07c1b9185"
+        }
+      ],
+      "submissionDate": "2026-06-05T10:23:05.159225+03:00",
+      "initialValue": {
+        "amount": 734740.8,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "7300ca62c4d04d9fb50e87d697f278f8",
+      "date": "2026-06-05T17:31:56.162680+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "10ef22d8f3f6463f8127717b888f60ba",
+          "datePublished": "2026-06-05T17:31:55.915719+03:00",
+          "hash": "md5:f03a6d19d4e7a6cb13bad8c66808235a",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0d1563e3216a47f6ab62dac2866bab25?Signature=kxqcaLJHe1Moa67Oq30tRGAGK1R8TF3BVqhddYqi4r3DmyvQc8CjG3oP3br6FY%2BbvQuHcauR%2BKftNsjhg2fjAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T17:31:55.915719+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю ПРОТОР-ЛТД",
+          "name_en": "TOV PROTOR- LTD",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "13323621",
+            "legalName": "Товариство з обмеженою відповідальністю ПРОТОР-ЛТД",
+            "legalName_en": "TOV PROTOR- LTD"
+          },
+          "address": {
+            "streetAddress": "вулиця Академіка Янгеля, будинок 4",
+            "locality": "Вінниця",
+            "region": "Вінницька область",
+            "postalCode": "21015",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Колос Руслана Володимирівна",
+            "name_en": "Kolos Ruslana Volodymyrivna",
+            "email": "protorrus@gmail.com",
+            "telephone": "380673021441"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 610368.43,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a4b33ef473ee4cafbbf937cd0ebdd5f6",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G3 (Матовий)"
+          ],
+          "id": "263e9cc155ba465b9eacadc373763e56",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e023d911d24f878d5390f8d364606a",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "8fc8e5ce6abf4a10a23ee89bfd0cfb1e",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7490503a4f434c0d9b2ff8c0260394a0",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "b287965deea240a8a8c62e31e21c38b6",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8236b7522a1c40fa8926c3cddd35141c",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "714528c256a743f5b06514b94be85cf7",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "45f845547e224dfcbdce9fa934f6ace7",
+            "title": "Основа"
+          },
+          "values": [
+            "акрилова"
+          ],
+          "id": "c604114d917e40d891112dadb8912288",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0e1cc0375eb44161acf0e04fa12a98b3",
+            "title": "Блиск (G)"
+          },
+          "values": [
+            "G3 (Матовий)"
+          ],
+          "id": "e834f13566584a7d98ccaee567cc341c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7f0c4220a4b74ec1a69d92af7d72c507",
+            "title": "Призначення"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "24ac586960574f7aacf767796c7b4736",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5def9a1d163843b286b1e765f28e6709",
+            "title": "Тип емалі"
+          },
+          "values": [
+            "ПФ-115"
+          ],
+          "id": "2335a77cb4e246f8a0f2d3348312ed2d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "11759612047e48b0bc4c7db84f409d76",
+            "title": "Умовна в’язкість, при t (20 ± 5)°C по віскозиметру з діаметром сопла 4 мм, с, в межах"
+          },
+          "values": [
+            "80-120"
+          ],
+          "id": "b68a69e839c142fe8dcfaca0f18ed5e1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6d5ce3d4939e490aa05ea2e7acf60654",
+            "title": "Колір визначається в проєкті договору"
+          },
+          "values": [
+            "так"
+          ],
+          "id": "c85b55d69c2845ee8dd2cf47c0bc306b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "54bc9d5e46334520b900cd202edbc2e0",
+            "title": "Застосування"
+          },
+          "values": [
+            "універсальна"
+          ],
+          "id": "d4d456318cfd4536804e7836b9acc1ba",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d56cac94d3ed44a6b4132948a8e86beb",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "883738cb87294cbc8bf0f6e2c71d2934",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5248b571505542c0b4a2ec56b33d88fe",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "47eb4b6b10c24caa95942518c2092b3a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3a13b2dcb06e480f85a34702a57b3f9a",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "ee37315f96ab43ed839d86f9594aa8b8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "55663cdf45fc47cb94142ebca68c72c5",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "eaf1b3ea5d0a4f4ea0512f699baee70d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a8da79b0806647ecb55e81b60651e64a",
+            "title": "Відповідінсть ДСТУ EN 13300"
+          },
+          "value": true,
+          "id": "0fd7ee93dc4f4e90ae35ca49c80d9267",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "02399613db2946e59aa20c536faff00a",
+            "title": "Відповідінсть ДСТУ EN 1062-1"
+          },
+          "value": true,
+          "id": "7f867a4c7f6e44c7b53b30e0ad885086",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e9bab9e160b04c878c0b80c2fd4ab312",
+            "title": "Міцність плівки при ударі на приладі типу У-1"
+          },
+          "value": 40,
+          "id": "5177b5ab46c64bea8ff6a973762361e2",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "01c87c480a8741ae9937dc22bdbc35f6",
+            "title": "Еластичність плівки при вигині"
+          },
+          "value": 1.0,
+          "id": "88219837bc7a4ac5bce1b5301937e9e5",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "128abcb3ac09486bb5209dd7f7127a71",
+            "title": "Максимальна температура експлуатації"
+          },
+          "value": 60,
+          "id": "772614f7650c4fdb93696761cafa254e",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af7db6003ef64f08a22fe398a98388a7",
+            "title": "Ступінь перетирання"
+          },
+          "value": 25,
+          "id": "6be119f3577243c0a416d2cdebf7cd93",
+          "unit": {
+            "code": "4H",
+            "name": "мікрометр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9eb1478ee18c4c6284a0f0704cf92a58",
+            "title": "Мінімальна температура експлуатації"
+          },
+          "value": -50,
+          "id": "10ad5ce1b39d436f9ba87c16681909a6",
+          "unit": {
+            "code": "CEL",
+            "name": "градус Цельсія"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be0d5a535154408b942305dd40bac962",
+            "title": "Адгезія, бал"
+          },
+          "value": 1,
+          "id": "0d08715f889a4cf9b9ca761370565722",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2dd60f53ae374fbcabbbe0b6b908c13c",
+            "title": "Твердість покриття по маятниковому приладу (маятник Кеніга)"
+          },
+          "value": 0.1,
+          "id": "c71664e0d1054cd48428d5d6d28684ee",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f10748c35a845f3bd31dc1644c15217",
+            "title": "Стійкість покриття до статичного впливу 0,5% розчину миючого засобу"
+          },
+          "value": 15,
+          "id": "404b4bff88df46a597be858647eb9dff",
+          "unit": {
+            "code": "MIN",
+            "name": "хвилина"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c1573c85b5a84478a32edffc7abde88d",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу трансформаторного мастила"
+          },
+          "value": 24,
+          "id": "58357473e93248cbbe3aae5f0f90eb75",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da3822b2a4364ce6b4e5086a04da3284",
+            "title": "Блиск покриття (60°)"
+          },
+          "value": 50,
+          "id": "7448ce2bf4dc4f6697ae6d808657e274",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9ec5d5f6f3284052a87226fba76e731a",
+            "title": "Стійкість покриття при температурі 20±2° С до статичного впливу води"
+          },
+          "value": 2,
+          "id": "d71671cadc3e4492ae9b4e4df1874943",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "39e61cc6d5984b4ab7527e2534e3256f",
+            "title": "Час висихання до ступеня 3 при 20°C год не більше"
+          },
+          "value": 24.0,
+          "id": "3f7f06f4b63943a5b4111732d3b605e2",
+          "unit": {
+            "code": "HUR",
+            "name": "година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "50614149eda14a0697dd1e9af0dc6b2a",
+          "description": "Фарба водоемульсійна для стін і стель Akrilika 14 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 37.01,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 1476.3,
+          "product": "3becd14b072f4e768a52bc9c9d19ab1c"
+        },
+        {
+          "id": "935353e0a40c4ac9a28ddd0be759f12d",
+          "description": "Фарба фасадна акрилова FACAD EXTRA Atmosphere \"FLORA COLOUR\" 14 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 47.24,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 387.5,
+          "product": "0114b3e519f1409a8bd4cbea7b843a6d"
+        },
+        {
+          "id": "bd0d08c778e443fd822b6945e0c59fa2",
+          "description": "Емаль алкідна ПФ-115 ПОЛІКОЛОР, глянцева, 50 кг",
+          "unit": {
+            "name": "кілограм",
+            "value": {
+              "amount": 118.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "KGM"
+          },
+          "quantity": 4542.9,
+          "product": "479372702e534447b712fe730725c726"
+        }
+      ],
+      "submissionDate": "2026-06-05T17:31:56.162680+03:00",
+      "initialValue": {
+        "amount": 610368.43,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T00:00:24.383153+03:00",
+    "endDate": "2026-06-09T06:36:34.369277+03:00"
+  },
+  "awards": [
+    {
+      "id": "357d8212b14e455e8be13481749891e3",
+      "status": "active",
+      "date": "2026-06-09T06:36:34.369277+03:00",
+      "value": {
+        "amount": 610368.43,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю ПРОТОР-ЛТД",
+          "name_en": "TOV PROTOR- LTD",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "13323621",
+            "legalName": "Товариство з обмеженою відповідальністю ПРОТОР-ЛТД",
+            "legalName_en": "TOV PROTOR- LTD"
+          },
+          "address": {
+            "streetAddress": "вулиця Академіка Янгеля, будинок 4",
+            "locality": "Вінниця",
+            "region": "Вінницька область",
+            "postalCode": "21015",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Колос Руслана Володимирівна",
+            "name_en": "Kolos Ruslana Volodymyrivna",
+            "email": "protorrus@gmail.com",
+            "telephone": "380673021441"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "7300ca62c4d04d9fb50e87d697f278f8",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "8a1b4ebec5984de1bc2bfa963c12b84a",
+          "datePublished": "2026-06-09T06:36:34.105815+03:00",
+          "hash": "md5:deaa2f028b18357f09ceb93bd132abc1",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0ff4efab39824f7e9557dfe35c491e5b?Signature=3iB5tFiaAEm%2BIjdv6Yo9N%2Baq09DKss8A%2BYk2rPFziUeoZBWXsKAYH8vnMFr88tpsqaUedPbmzgeQRk3uRZaQDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T06:36:34.105815+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T00:00:24.383153+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "188aa9bff51d44c5bc236f5885b8e602",
+      "status": "pending",
+      "awardID": "357d8212b14e455e8be13481749891e3",
+      "date": "2026-06-09T06:36:34.369277+03:00",
+      "contractID": "UA-2026-06-04-006654-a-a1",
+      "title": "Фарби",
+      "title_en": null,
+      "description": "Заклади замовника місто Могилів-Подільський та Могилів-Подільський район",
+      "description_en": null,
+      "value": {
+        "amount": 610368.43,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 610368.43
+      }
+    }
+  ],
+  "id": "0af3356606ae42d9836513a96aafaef8"
+}

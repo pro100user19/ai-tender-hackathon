@@ -1,0 +1,2928 @@
+{
+  "description": "Фактом подання цінової пропозиції учасник підтверджує, що запропонований товар не є походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+  "date": "2026-06-09T08:00:09.162541+03:00",
+  "dateModified": "2026-06-09T08:00:09.162541+03:00",
+  "dateCreated": "2026-06-04T14:26:09.683000+03:00",
+  "tenderID": "UA-2026-06-04-008777-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:d50c7b2ae60dc55ab38567e696566923b4e8449e;SHA2-384:b95792387cf499cf6cb04f569bf7ee2a493b8248675e30ef8f0a5cd66bc62ce13634d006d5e1b7033324a5f97e2bed4d;Antivirus: ESET Antivirus",
+      "relatedItem": "3f646a4ce828448583ab3be7aef8d884",
+      "id": "eb8260ef7ff64b869f6bd95c79e98b77",
+      "datePublished": "2026-06-04T14:26:11.448905+03:00",
+      "hash": "md5:055366300c7772f24b0a6bbae88fb3ca",
+      "title": "Проєкт договору Медикаменти.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/5cf6b91963864b94af399b4411a3a30c?Signature=8rP%2BHQa%2F3mEYPEKP5jymd0TeV4SVdnAfFYWFM1Su73o82LZuJyZfvWjIknwo%2F7vW9jotumDpnV4F6%2BM7fMLTDg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T14:26:11.448905+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:05b6781b4062cdd21b64e6349ccff502177c1a03;SHA2-384:593b9a8b183e90a4a18dca597ab427201c7d8fc89ce8d51299e46723d70358c2809e374c37dc6349cb8d70a4d4f54cef;Antivirus: ESET Antivirus",
+      "id": "b271164134fc43689d656586269fc02e",
+      "datePublished": "2026-06-04T15:07:44.270752+03:00",
+      "hash": "md5:88986b00bee5a7cba1b02d2bcdcf30f9",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/d621f3c25f46467c94703db17316ce8a?Signature=2OlsXp%2BOMQCrrBI5lbBoXVy6vO7Ro9r3S9%2FJwLpSZe2ziRe7WAlcL6YkqMW1EmE%2FTvrHt4LKJzoic9jrAexYDA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T15:07:44.512997+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Фуросемід, розчин для ін'єкцій, 10мг/мл, по 2 мл; Фуросемід, таблетки, по 40 мг; Цефтриаксон,порошок для ін'єкцій по 1 г; Декскетопрофен розчин для ін'єкцій 25 мг/ мл по 2 мл; Диклофенак гель/мазь 50 мг/г по 50 гр; Галоперидол, розчин для ін'єкцій, 5 мг/мл, по 1 мл; Німесулід, таблетки, по 100 мг",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "b980a8fa1f7b40359800d3a816f4b50f"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "2c7a97ed185d4d5289eb1dc5d595ff17",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 2,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "6b58f71654eb463b92c6757b15dfc34f",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 20,
+        "type": "banking"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "cb2a499a1945401bb54ebebe2d90988d"
+  },
+  "value": {
+    "amount": 24780.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T15:07:44.836067+03:00",
+    "endDate": "2026-06-09T08:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "ЦЕНТР НАДАННЯ КОМПЛЕКСНИХ СОЦІАЛЬНИХ ПОСЛУГ ТА РЕІНТЕГРАЦІЇ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "23578747",
+      "legalName": "ЦЕНТР НАДАННЯ КОМПЛЕКСНИХ СОЦІАЛЬНИХ ПОСЛУГ ТА РЕІНТЕГРАЦІЇ"
+    },
+    "address": {
+      "streetAddress": "вул.Лобківка будинок 22",
+      "locality": "Білоцерківський р-н село Чернин ",
+      "region": "Київська область",
+      "postalCode": "09511",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Наталія Кареліна",
+      "email": "tbip@i.ua",
+      "telephone": "+380679214979"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "100002-33620000-259877-42574629",
+      "category": "33620000-259877-42574629",
+      "id": "823e422e00414546a3607dd303ee56ea",
+      "description": "Фуросемід, розчин для ін'єкцій, 10мг/мл, по 2 мл",
+      "quantity": 150.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування захворювань крові, органів кровотворення та захворювань серцево-судинної системи",
+        "scheme": "ДК021",
+        "id": "33620000-2"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "furosemide",
+          "description": "furosemide"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "100001-33620000-259877-42574629",
+      "category": "33620000-259877-42574629",
+      "id": "9d564ef3962b4df3a4c59a260921dd78",
+      "description": "Фуросемід, таблетки, по 40 мг",
+      "quantity": 1000.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування захворювань крові, органів кровотворення та захворювань серцево-судинної системи",
+        "scheme": "ДК021",
+        "id": "33620000-2"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "furosemide",
+          "description": "furosemide"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "115876-33650000-737247-42574629",
+      "category": "33650000-737247-42574629",
+      "id": "b80cefffdc1d404f936f5ae4ac7ca444",
+      "description": "Цефтриаксон,порошок для ін'єкцій по 1 г",
+      "quantity": 500.0,
+      "classification": {
+        "description": "Загальні протиінфекційні засоби для системного застосування, вакцини, антинеопластичні засоби та імуномодулятори",
+        "scheme": "ДК021",
+        "id": "33650000-1"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "ceftriaxone",
+          "description": "Ceftriaxone"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "115881-33630000-907202-42574629",
+      "category": "33630000-907202-42574629",
+      "id": "3d8734bc5d054259bd1983a8688a2da4",
+      "description": "Декскетопрофен розчин для ін'єкцій 25 мг/ мл по 2 мл",
+      "quantity": 25.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування дерматологічних захворювань та захворювань опорно-рухового апарату",
+        "scheme": "ДК021",
+        "id": "33630000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "dexketoprofen",
+          "description": "Dexketoprofen"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "112657-33630000-135642-42574629",
+      "category": "33630000-135642-42574629",
+      "id": "acfc20fb0a11449bbf014fdc7f9bc7ac",
+      "description": "Диклофенак гель/мазь 50 мг/г по 50 гр",
+      "quantity": 30.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування дерматологічних захворювань та захворювань опорно-рухового апарату",
+        "scheme": "ДК021",
+        "id": "33630000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "diclofenac",
+          "description": "Diclofenac"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "100001-33660000-073067-42574629",
+      "category": "33660000-073067-42574629",
+      "id": "bbe06f10112c4509bfc31f58e91dbdb5",
+      "description": "Галоперидол, розчин для ін'єкцій, 5 мг/мл, по 1 мл",
+      "quantity": 25.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування хвороб нервової системи та захворювань органів чуття",
+        "scheme": "ДК021",
+        "id": "33660000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "haloperidol",
+          "description": "haloperidol"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "100002-33630000-073050-42574629",
+      "category": "33630000-073050-42574629",
+      "id": "8208431ee16441f2859c386a3a1ab934",
+      "description": "Німесулід, таблетки, по 100 мг",
+      "quantity": 100.0,
+      "classification": {
+        "description": "Лікарські засоби для лікування дерматологічних захворювань та захворювань опорно-рухового апарату",
+        "scheme": "ДК021",
+        "id": "33630000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "Лобківка, 22",
+        "locality": "с.Чернин",
+        "region": "Київська область",
+        "postalCode": "09511",
+        "countryName": "Україна"
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "INN",
+          "id": "nimesulide",
+          "description": "nimesulide"
+        }
+      ],
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "401219789ec84366863e0473386c5996",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "fd226370d0604db194d5c7ec8cfdf959",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "f36dd00a4e314284b416ef7a1658e508",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "56aa6e9fe8244c5aa3308db5affa3237",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "3524b5c13c6f4da58a4396bc03c1d35f",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1daf937ac94443e18a0e0db94b4d870f",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "d7a316f8a448449faeb25a507c6c1f72",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "c6a8b5d87af94b6b9b34bae2819516c1",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        },
+        {
+          "id": "14a1d6cb22e648499d9a20942f52ef3e",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "af72d4f6bdd5431d8ae63cb33dd3567e",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee21c978630147388537ef19d97eccc3",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "823e422e00414546a3607dd303ee56ea",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "e0787fc1891e41a88dfd09acd820e8d0",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "7e691e8d1d37490e8694bf670a86e07c",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "C03CA01"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "e562ed898a81453da673e7eb9e619910",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Furosemide"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "947ef649d8bd4b77b4601b447eff2071",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Розчин для ін'єкцій"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "537e3bc26a5a4d1e82f87e2150e71db9",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "10 мг/мл"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "ff9301dd2f0d435c81e7f8adb02aa087",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Ампула"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "8d56dc87a2a64efa8a735ab4f754f9a3",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MLT",
+                "name": "мілілітр"
+              },
+              "expectedValue": 2,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f3f77a99e614ae585d41308bd130393",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "9d564ef3962b4df3a4c59a260921dd78",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "32b6fec9061d4c5c85cb3da1c64678cf",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "2d0197f86ed34340acce90d15727e836",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "C03CA01"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "86f2607889cc496da5159f7946dacc50",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Furosemide"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "04f5c615216a4457aab6e838a7eb314b",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Таблетки"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "48e9a06850074e1a911ac9b37c8ef3a4",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "40 мг"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "e575b17a5a064124a3db03e5082c1fb8",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Контурна чарункова упаковка",
+                "Стрип",
+                "Блістер"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14b5dd2f6ec74e9d8f33f977564a9469",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "b80cefffdc1d404f936f5ae4ac7ca444",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "42705d25fc494d76a678ef7f1a58e3ca",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "14a3d202d0494ec293f0c3eef8200e2a",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Ceftriaxone"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "cb88c317d1cf402ab9ab01b6450954a1",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "J01DD04"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "86fa0ac51a2546f6b0c1f19e412202f0",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Порошок для розчину для ін'єкцій"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "de46c02c27ae40fca291aaf3fe57d632",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "1000  мг"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "3ac0b33bfb9c42948290e1ddf41da5e2",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Флакон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26d36bce6897447cb1c57c03f2942a75",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "3d8734bc5d054259bd1983a8688a2da4",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "92fea50f0b624dec96ad80797757b376",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "92c630245a7b44dc9d649cba31f15075",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "M01AE17"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "9aa44c5ba62e480cb2dd7442a638f28d",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Dexketoprofen"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "df51ebf36f0741e98c77ffa8bacc7b11",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Розчин для ін'єкцій"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "7eedcbb5546b48b883310e5615fe16de",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "25 мг/мл"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "ac1c5388f9d6420ab0b8692ade6ccc34",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MLT",
+                "name": "мілілітр"
+              },
+              "expectedValue": 2,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "4238c724f3e04f53845b06b5d72eb4df",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Ампула"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f231248373b4aafacdecc7e7cd858c4",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "acfc20fb0a11449bbf014fdc7f9bc7ac",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "f065783f6b9a45c685471f4626c03b8b",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "0277dc5ab5f645f999134ada9af0803b",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "M02AA15"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "3743a66901b14a5db316181009f47f3f",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Diclofenac"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "f84b00c7dc8048fc898b3056b5d977bb",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Гель",
+                "Мазь"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "724cdf1a92d948c18af6b2d01f4b8ab0",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "50 мг/г"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "722734fa00da474db24f90b7a561f219",
+              "title": "Вага",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "GRM",
+                "name": "грам"
+              },
+              "expectedValue": 50,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "0822d83d466944f3bb156fc3f3074835",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Туба",
+                "Контейнер",
+                "Туба алюмінієва"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc1994692a304b488b2b7089e36bd024",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "bbe06f10112c4509bfc31f58e91dbdb5",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "550242dc0e034f87a53e357d26372608",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "399bf43a642a4668a4890c6bdf38a254",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Haloperidol"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "6bee419b559b47c484dd2bc51d87af01",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "N05AD01"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "302c1997fd97458692d826056d0a4393",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Розчин для ін'єкцій"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "76c0e01c4e164283bae23e55119106d4",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Флакон",
+                "Ампула"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "0dbf42aea57446c7abc2e75c6e12107c",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "5 мг/мл"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "0685e2597454423cac9f872b547efe63",
+              "title": "Об'єм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MLT",
+                "name": "мілілітр"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45257be2254044a0a09844985c58b8e5",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "8208431ee16441f2859c386a3a1ab934",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "babfe8dd0e874883a0a9f8785c3bcbcf",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "bbab480a8b78413f875731135c2ba641",
+              "title": "Класифікація згідно АТХ",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "M01AX17"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "386a26d81edb418ab7e8837fe2a11708",
+              "title": "Класифікація згідно МНН",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Nimesulide"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "dd760739d7594408a83eb59c741da1f1",
+              "title": "Форма випуску",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Таблетки"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "ec52b17aa96c4c708957658991cfcd21",
+              "title": "Доза діючої речовини",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "100 мг"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            },
+            {
+              "id": "ecf1b4404687468bbe5e3fa2830bd677",
+              "title": "Тип пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Контурна чарункова упаковка",
+                "Флакон",
+                "Контейнер",
+                "Блістер"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:26:11.929645+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T15:07:44.836067+03:00",
+  "bids": [
+    {
+      "id": "eb504ceb5861460ca86af1502e4482e4",
+      "date": "2026-06-05T12:01:39.393116+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:7322a1c99e4122de735007b907ee50909a24624b;SHA2-384:f302b0e40b36a6458ef4e582b0693dc91e7a59d28e9f1a8311e5bc0fd44c7d55d4390e7e6c870adddcb61f8145ecce25;Antivirus: ESET Antivirus,fids:49fab34f4e1a4cecbfd4b750292a65b6:fide",
+          "id": "56bd914d38404ddda18a500175b686c4",
+          "datePublished": "2026-06-05T12:01:38.826193+03:00",
+          "hash": "md5:67b667dad3c75d7393dfc53cb10e2e27",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/535070ae8c474b4780f0baa1e0f4bf3c?Signature=ozohVylT5mGQBt1Gq8Sm20PkZvi19sND2J6%2Bh5CfnHIsU0bknJT%2Bd8mVDtaL8LL34B8sDX%2Be%2FRa9u%2B6YK62GCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T12:01:38.826193+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"СТМ-Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43808856",
+            "legalName": "ТОВ \"СТМ-Фарм\""
+          },
+          "address": {
+            "streetAddress": "вул.Панікахи будинок 2 кімната 405",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49040",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Найдьонова Марина",
+            "email": "mnaydenova@stm-farm.biz",
+            "telephone": "+380672358270"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 20060.63,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "c6a8b5d87af94b6b9b34bae2819516c1",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "69833528b0474c19aeb53e408aaa470d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f36dd00a4e314284b416ef7a1658e508",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "c7d5990562044732b982e7c0760dfbfe",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "56aa6e9fe8244c5aa3308db5affa3237",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "8fc43df1dd8741d6a0bcc71db788b4a4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3524b5c13c6f4da58a4396bc03c1d35f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "a7b1516997024adfbcb107791a20d304",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7e691e8d1d37490e8694bf670a86e07c",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "C03CA01"
+          ],
+          "id": "53e07c5869eb4593a3e984be49b5ff49",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e562ed898a81453da673e7eb9e619910",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Furosemide"
+          ],
+          "id": "a3ef561674eb45d6b2869cb1275757ce",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "947ef649d8bd4b77b4601b447eff2071",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "a8c1febd4e4c40fb9a6af7fd0aea6bfd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8d56dc87a2a64efa8a735ab4f754f9a3",
+            "title": "Об'єм"
+          },
+          "value": 2,
+          "id": "1d7e33dd0af6434b91907b31bc80bfdd",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ff9301dd2f0d435c81e7f8adb02aa087",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "a67ee9154f3e472881c6247c9aefd665",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "537e3bc26a5a4d1e82f87e2150e71db9",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "10 мг/мл"
+          ],
+          "id": "415de59b10a942269aab6e9094ed835c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2d0197f86ed34340acce90d15727e836",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "C03CA01"
+          ],
+          "id": "5c5b182b296e443f85d68140e1d62035",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86f2607889cc496da5159f7946dacc50",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Furosemide"
+          ],
+          "id": "b289c1b2862a4b10a55fa698997d11f9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "04f5c615216a4457aab6e838a7eb314b",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Таблетки"
+          ],
+          "id": "e2cf9f2963c24931b1d93749316c2fa9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e575b17a5a064124a3db03e5082c1fb8",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Блістер"
+          ],
+          "id": "da2ba3bae02340939f88c7a8b32b2bf1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "48e9a06850074e1a911ac9b37c8ef3a4",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "40 мг"
+          ],
+          "id": "21b90f04a63345f1a0eb1b910ffcbd30",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cb88c317d1cf402ab9ab01b6450954a1",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "J01DD04"
+          ],
+          "id": "0793763185bb4151ac5de2f35319a032",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "14a3d202d0494ec293f0c3eef8200e2a",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Ceftriaxone"
+          ],
+          "id": "5e5563a7a2524e2db9e76b12b0b2197e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86fa0ac51a2546f6b0c1f19e412202f0",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Порошок для розчину для ін'єкцій"
+          ],
+          "id": "89f513f675234115933730cceafcc547",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "de46c02c27ae40fca291aaf3fe57d632",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "1000  мг"
+          ],
+          "id": "f30e0c7bff3843a080b5149be9b3b38b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3ac0b33bfb9c42948290e1ddf41da5e2",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Флакон"
+          ],
+          "id": "63e5bae973ef4d279e7eaaaa2816cd89",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "92c630245a7b44dc9d649cba31f15075",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M01AE17"
+          ],
+          "id": "8db3cda3441c4b86b0ab36579f41ba74",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9aa44c5ba62e480cb2dd7442a638f28d",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Dexketoprofen"
+          ],
+          "id": "6999ea86573f4f5ea1b8afc0523e9bed",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "df51ebf36f0741e98c77ffa8bacc7b11",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "a573aa7401564cbf8dc56e6a07ea4210",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7eedcbb5546b48b883310e5615fe16de",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "25 мг/мл"
+          ],
+          "id": "912c3d11d076445ca1dab92d45c29945",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac1c5388f9d6420ab0b8692ade6ccc34",
+            "title": "Об'єм"
+          },
+          "value": 2,
+          "id": "ada182cd83464741a574cec29dfa9d38",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4238c724f3e04f53845b06b5d72eb4df",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "c03512bd0cd74ed693b4616ab5446cdd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0277dc5ab5f645f999134ada9af0803b",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M02AA15"
+          ],
+          "id": "88098b0f2edb45eb9d18e182905d7a88",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3743a66901b14a5db316181009f47f3f",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Diclofenac"
+          ],
+          "id": "cbc864dd9acb4880bc58b1fc327666ba",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f84b00c7dc8048fc898b3056b5d977bb",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Гель"
+          ],
+          "id": "5b470945b9404f55b0cd3c08d018af28",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "724cdf1a92d948c18af6b2d01f4b8ab0",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "50 мг/г"
+          ],
+          "id": "d0ad9f9f314a4adbb7d5eff3abac95f4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "722734fa00da474db24f90b7a561f219",
+            "title": "Вага"
+          },
+          "value": 50,
+          "id": "b1de4885737a4d67b07ac491846efd5f",
+          "unit": {
+            "code": "GRM",
+            "name": "грам"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0822d83d466944f3bb156fc3f3074835",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Туба"
+          ],
+          "id": "78a1cc10f39e495f921f170941cc9ade",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399bf43a642a4668a4890c6bdf38a254",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Haloperidol"
+          ],
+          "id": "f649187fee6a45e4894316425854fcf0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6bee419b559b47c484dd2bc51d87af01",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "N05AD01"
+          ],
+          "id": "30c3ee2935774254a8ebb8e8e5251814",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "302c1997fd97458692d826056d0a4393",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "57f33055bd5c4f3f8fd9d42c5c061d86",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76c0e01c4e164283bae23e55119106d4",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "52a8589f83db49749044d0e102c0c4db",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0dbf42aea57446c7abc2e75c6e12107c",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "5 мг/мл"
+          ],
+          "id": "8a0ad7f48e8945cba6b39ddc0d1990ce",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0685e2597454423cac9f872b547efe63",
+            "title": "Об'єм"
+          },
+          "value": 1,
+          "id": "90023f427be74864b0bdcd5fd3dfc406",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bbab480a8b78413f875731135c2ba641",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M01AX17"
+          ],
+          "id": "f00505aaa96c470b8af9f69685a94382",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "386a26d81edb418ab7e8837fe2a11708",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Nimesulide"
+          ],
+          "id": "84ac4e6a853a458ca843b81d862cf493",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd760739d7594408a83eb59c741da1f1",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Таблетки"
+          ],
+          "id": "dc31d2501a774ad2ad62a27f5e702d2c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ec52b17aa96c4c708957658991cfcd21",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "100 мг"
+          ],
+          "id": "522ee3b6064e4ec8a59918c67994beea",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecf1b4404687468bbe5e3fa2830bd677",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Блістер"
+          ],
+          "id": "0e2a6bf4ee324dba8d63f80a2e5f40b2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "823e422e00414546a3607dd303ee56ea",
+          "description": "Фуросемід розчин для ін'єкцій 10 мг/мл в ампулах по 2 мл №10",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 150.0,
+          "product": "483a6851326d40f9ab447617236a6525"
+        },
+        {
+          "id": "9d564ef3962b4df3a4c59a260921dd78",
+          "description": "ФУРОСЕМІД-ДАРНИЦЯ,таблетки по 40мг №50(10х5)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 0.43,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1000.0,
+          "product": "865d7b1515bc44e882f75fe1a6eb96db"
+        },
+        {
+          "id": "b80cefffdc1d404f936f5ae4ac7ca444",
+          "description": "Цефтриаксон, порошок для ін'єкцій 1,0 г, №5",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 27.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 500.0,
+          "product": "9ed527313089480888f065626d8e0675"
+        },
+        {
+          "id": "3d8734bc5d054259bd1983a8688a2da4",
+          "description": "Дексалгін-ін'єкт р-н д / ін. 50мг / 2мл амп.N5",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 51.75,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 25.0,
+          "product": "8be832f291c946d495fb693edfcae736"
+        },
+        {
+          "id": "acfc20fb0a11449bbf014fdc7f9bc7ac",
+          "description": "ДИКЛОФЕНАК гель 5 % по 50 г у тубі",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 75.45,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 30.0,
+          "product": "de0a78e26488408da597fdf86875e27c"
+        },
+        {
+          "id": "bbe06f10112c4509bfc31f58e91dbdb5",
+          "description": "ГАЛОПЕРИДОЛ-РІХТЕР розчин для ін'єкцій, 5 мг/мл, по 1 мл в ампулі, по 5 ампул у пластиковій формі у картонній коробці",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 20.7,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 25.0,
+          "product": "5c5fc596e9ba4bcba2eddd804d43bc56"
+        },
+        {
+          "id": "8208431ee16441f2859c386a3a1ab934",
+          "description": "НІМІД®, таблетки по 100 мг №100(10x10) у блістерах",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2.26,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 100.0,
+          "product": "d57cda2370c244c1b25ad4afc73321f7"
+        }
+      ],
+      "submissionDate": "2026-06-05T12:01:39.393116+03:00",
+      "initialValue": {
+        "amount": 20060.63,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "14b97cd533e743cba1ef16834f00e65f",
+      "date": "2026-06-06T21:03:45.953388+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:31c79eff634d9072908ac138ff0bd5a48a15c32f;SHA2-384:9ccfe9eabfd3ee089cef76c90aab2c40216fb6c6043169a36bc4a53cb4b16b06b7b580c6c3d9e58c6ab592559ec8763d;Antivirus: ESET Antivirus,fids:541ff18130c84cbf840879ff0e00af07:fide",
+          "id": "e28eb4833fab43ad9ceaf7af0588754e",
+          "datePublished": "2026-06-06T21:03:45.686149+03:00",
+          "hash": "md5:c373369c58ea83f34963830eb38daf11",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/09fef5c0bc244a8da7ec6fdab0cc4266?Signature=mULoRblOCqIq%2F8W25fcI43ibI8hQgsyoOoxESGz%2BldjdGn3Kx35dVFxe0G4g1f3dUuEHlDRc3qwkeszZH5IwAQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T21:03:45.686149+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Восток-Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "35809661",
+            "legalName": "ТОВ \"Восток-Фарм\"",
+            "uri": "http://vostok-farm.com.ua"
+          },
+          "address": {
+            "streetAddress": "пр.Яворницького Дмитра, будинок 115, квартира 55",
+            "locality": "Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49038",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Людмила Соколова",
+            "email": "vostokf@gmail.com",
+            "telephone": "+380675660214"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 16954.72,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "c6a8b5d87af94b6b9b34bae2819516c1",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "1764f45f20cc45aaba2c2e2120fa1ce0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f36dd00a4e314284b416ef7a1658e508",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "7107d974f8e9468f8d4b22bc340a2b8d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "56aa6e9fe8244c5aa3308db5affa3237",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "bdebbbbffc514e5b98707a3b5de1ffbb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3524b5c13c6f4da58a4396bc03c1d35f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "954e4616eb984da58cadfd770d64e9ca",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7e691e8d1d37490e8694bf670a86e07c",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "C03CA01"
+          ],
+          "id": "fac770b7c57341bea02ece7aea6345f7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e562ed898a81453da673e7eb9e619910",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Furosemide"
+          ],
+          "id": "3d15590c18b547328797198c10e870c6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "947ef649d8bd4b77b4601b447eff2071",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "ca6a11c0305941289ae63379db0b039f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8d56dc87a2a64efa8a735ab4f754f9a3",
+            "title": "Об'єм"
+          },
+          "value": 2,
+          "id": "23b48cdf78264a1883d31acb62e28278",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ff9301dd2f0d435c81e7f8adb02aa087",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "a4343081bd1743dc9a8713269faac830",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "537e3bc26a5a4d1e82f87e2150e71db9",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "10 мг/мл"
+          ],
+          "id": "e4277cf992854e2a9e7a99ace75aea4a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2d0197f86ed34340acce90d15727e836",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "C03CA01"
+          ],
+          "id": "efc254f2c7b446fd8c2977524ab65737",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86f2607889cc496da5159f7946dacc50",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Furosemide"
+          ],
+          "id": "f3ccc47baa1e4efcbec4168b57c2d298",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "04f5c615216a4457aab6e838a7eb314b",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Таблетки"
+          ],
+          "id": "f1be32f4c75b4ad28bc46f61f88cd284",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e575b17a5a064124a3db03e5082c1fb8",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Блістер"
+          ],
+          "id": "b801697c552544258d0eab518114231b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "48e9a06850074e1a911ac9b37c8ef3a4",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "40 мг"
+          ],
+          "id": "f91cbff3136e45c6b74a1a987d653684",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "14a3d202d0494ec293f0c3eef8200e2a",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Ceftriaxone"
+          ],
+          "id": "9aa9a4cb66564f7b9af4ca9d562b3bdc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cb88c317d1cf402ab9ab01b6450954a1",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "J01DD04"
+          ],
+          "id": "ca66f4334e984e08a6dfd8ab7eb92c1c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86fa0ac51a2546f6b0c1f19e412202f0",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Порошок для розчину для ін'єкцій"
+          ],
+          "id": "5713a0a990da4764a13179336c7f4a06",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "de46c02c27ae40fca291aaf3fe57d632",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "1000  мг"
+          ],
+          "id": "24892105cc3a41088967f1c045c00366",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3ac0b33bfb9c42948290e1ddf41da5e2",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Флакон"
+          ],
+          "id": "1a19b5a66720438baf9662556f8ac06f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "92c630245a7b44dc9d649cba31f15075",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M01AE17"
+          ],
+          "id": "f8b937d77cab4b40a0b9b11a68f8a7ef",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9aa44c5ba62e480cb2dd7442a638f28d",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Dexketoprofen"
+          ],
+          "id": "371e2bfeb2bc4548bc51ac9458f51879",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "df51ebf36f0741e98c77ffa8bacc7b11",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "2b62c3b0b89f4c1f8ddbe15c8b2467bf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7eedcbb5546b48b883310e5615fe16de",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "25 мг/мл"
+          ],
+          "id": "ba7253b474434b23b0aa95b7e0ef1b14",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac1c5388f9d6420ab0b8692ade6ccc34",
+            "title": "Об'єм"
+          },
+          "value": 2,
+          "id": "9ca095de1e554ebc8e1e2bbc715ecb9b",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4238c724f3e04f53845b06b5d72eb4df",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "bfcd9548f17f4807bbe91e4961f6b761",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0277dc5ab5f645f999134ada9af0803b",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M02AA15"
+          ],
+          "id": "1c2aea9e856d419eb6b1cb004c0bd50b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3743a66901b14a5db316181009f47f3f",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Diclofenac"
+          ],
+          "id": "529b1ae538a94138bf5b62da38a87d07",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f84b00c7dc8048fc898b3056b5d977bb",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Гель"
+          ],
+          "id": "2d17863735404faab531b0785e03fc4c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "724cdf1a92d948c18af6b2d01f4b8ab0",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "50 мг/г"
+          ],
+          "id": "0129e59457ed4f50aa3e7031df54b188",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "722734fa00da474db24f90b7a561f219",
+            "title": "Вага"
+          },
+          "value": 50,
+          "id": "f482c5b6ec534f058f9d85b8f847e6da",
+          "unit": {
+            "code": "GRM",
+            "name": "грам"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0822d83d466944f3bb156fc3f3074835",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Туба"
+          ],
+          "id": "b0ecd3ba783a4e9699837c99ff50e5f0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "399bf43a642a4668a4890c6bdf38a254",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Haloperidol"
+          ],
+          "id": "68aec0e56bcb4fd89f36f28fe624ae2a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6bee419b559b47c484dd2bc51d87af01",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "N05AD01"
+          ],
+          "id": "129042efcce44cc399f167984c1fc039",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "302c1997fd97458692d826056d0a4393",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Розчин для ін'єкцій"
+          ],
+          "id": "a5406e3a7f4a4b69b3a5efeaa8b342d9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76c0e01c4e164283bae23e55119106d4",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Ампула"
+          ],
+          "id": "bc7194f1a58e4bbfa68898999b21db8c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0dbf42aea57446c7abc2e75c6e12107c",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "5 мг/мл"
+          ],
+          "id": "a452a0d104104080907bb6dfbe3f5538",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0685e2597454423cac9f872b547efe63",
+            "title": "Об'єм"
+          },
+          "value": 1,
+          "id": "5ea934c8b4d247948200fcf7cf591535",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bbab480a8b78413f875731135c2ba641",
+            "title": "Класифікація згідно АТХ"
+          },
+          "values": [
+            "M01AX17"
+          ],
+          "id": "6f5cacf8b5c749d3b8b441a61f8b5da3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "386a26d81edb418ab7e8837fe2a11708",
+            "title": "Класифікація згідно МНН"
+          },
+          "values": [
+            "Nimesulide"
+          ],
+          "id": "db4276c4e7ad4e90bf9d7b56935154d0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dd760739d7594408a83eb59c741da1f1",
+            "title": "Форма випуску"
+          },
+          "values": [
+            "Таблетки"
+          ],
+          "id": "2ea9a41dd6624887959dd6395915c313",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ec52b17aa96c4c708957658991cfcd21",
+            "title": "Доза діючої речовини"
+          },
+          "values": [
+            "100 мг"
+          ],
+          "id": "186295d979bb486c89160b3f2d9e2177",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ecf1b4404687468bbe5e3fa2830bd677",
+            "title": "Тип пакування"
+          },
+          "values": [
+            "Блістер"
+          ],
+          "id": "def4577124f14b99b1e19a29dc3e2d0d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "823e422e00414546a3607dd303ee56ea",
+          "description": "Фуросемід розчин для ін'єкцій 10 мг/мл в ампулах по 2 мл №10",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3.6299065,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 150.0,
+          "product": "483a6851326d40f9ab447617236a6525"
+        },
+        {
+          "id": "9d564ef3962b4df3a4c59a260921dd78",
+          "description": "Фуросемід табл. 0.04г N50 (10х5)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 0.355514,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1000.0,
+          "product": "a2c8576f02224169b53a37b2f40b6cb5"
+        },
+        {
+          "id": "b80cefffdc1d404f936f5ae4ac7ca444",
+          "description": "ЦЕФТРИАКСОН, порошок для розчину для ін'єкцій по 1 г у флаконі №50",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 21.6224299,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 500.0,
+          "product": "8cab198278e141bba2fd109b0cd38899"
+        },
+        {
+          "id": "3d8734bc5d054259bd1983a8688a2da4",
+          "description": "Декспро р-н д / ін. 50мг / 2мл амп.2мл №5 (5x1)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 15.142056,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 25.0,
+          "product": "02308c4d9dea45b58971be3eb4a5c624"
+        },
+        {
+          "id": "acfc20fb0a11449bbf014fdc7f9bc7ac",
+          "description": "Диклофенак-Здоров’я ультра, гель, 50 мг/г по 50 г у тубі № 1",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 104.5140186,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 30.0,
+          "product": "4eb85354082743d0b6edf21522c30e63"
+        },
+        {
+          "id": "bbe06f10112c4509bfc31f58e91dbdb5",
+          "description": "ГАЛОПРИЛ розчин для ін'єкцій, 5 мг/мл, по 1 мл в ампулі, по 10 ампул у коробці з картону",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 14.8691588,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 25.0,
+          "product": "d5a4768659d747d7988538671923dc41"
+        },
+        {
+          "id": "8208431ee16441f2859c386a3a1ab934",
+          "description": "НІМЕЛГАН таблетки по 100 мг №100",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2.4861682,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 100.0,
+          "product": "935ff4f752a24780b004700d9d4f1c6f"
+        }
+      ],
+      "submissionDate": "2026-06-06T21:03:45.953388+03:00",
+      "initialValue": {
+        "amount": 16954.72,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T08:00:09.162541+03:00"
+  },
+  "awards": [
+    {
+      "id": "5b80e53f4dac41caab3c90177b78251f",
+      "status": "pending",
+      "date": "2026-06-09T08:00:09.162541+03:00",
+      "value": {
+        "amount": 16954.72,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"Восток-Фарм\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "35809661",
+            "legalName": "ТОВ \"Восток-Фарм\"",
+            "uri": "http://vostok-farm.com.ua"
+          },
+          "address": {
+            "streetAddress": "пр.Яворницького Дмитра, будинок 115, квартира 55",
+            "locality": "Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49038",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Людмила Соколова",
+            "email": "vostokf@gmail.com",
+            "telephone": "+380675660214"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "14b97cd533e743cba1ef16834f00e65f",
+      "period": {
+        "startDate": "2026-06-09T08:00:09.162541+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      }
+    }
+  ],
+  "id": "3f646a4ce828448583ab3be7aef8d884"
+}

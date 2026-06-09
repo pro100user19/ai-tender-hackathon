@@ -1,0 +1,3084 @@
+{
+  "description": "Товар, який поставляється Постачальником, не повинен бути походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран.",
+  "date": "2026-06-09T01:00:00.735451+03:00",
+  "dateModified": "2026-06-09T01:00:00.735451+03:00",
+  "dateCreated": "2026-06-04T14:38:25.813102+03:00",
+  "tenderID": "UA-2026-06-04-009172-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:4ea39b289d3ef0b291f567fa513713d53e7d425b;SHA2-384:70f95e743ed09289a63899b80fcb50eb1278d814621fe2b6b373544ed38657b18a037df72307f271b14eb26bad1b0b71;Antivirus: ESET Antivirus",
+      "relatedItem": "0896abaa5a9e4935ad723b2fd92ae49e",
+      "id": "5dffdc7e7b43434185bf203eef655f51",
+      "datePublished": "2026-06-04T14:38:27.240368+03:00",
+      "hash": "md5:1c35057b911c06d22974923fb051c442",
+      "title": "Проєкт договору.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/73720a258f384150822cdc1e1dac35bd?Signature=qCvOnPBb1BP1llHJg2Uclh6ovta5ZGqF2LubJbMUe6c8NRr7%2B5Tp3wMvvZdmIFkSY6jqABr38EZkWqF8RXY%2FBw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T14:38:27.240368+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:cdb3ff60097878b4241d26cae06a23b7c94175c2;SHA2-384:f3235b71d46fe5de17661d8163e558c3aafd458727b892dbe6e1f207c164cd2741c7ebeb62d3e7c8713763313fa2a074;Antivirus: ESET Antivirus",
+      "id": "e29deb2a681d400d968e1318eaab676f",
+      "datePublished": "2026-06-04T14:43:35.025592+03:00",
+      "hash": "md5:1d507b0853a51f2b82a39808cf0e86d9",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/ed1092f85d0849e2a7ea3aed984fcc31?Signature=zOhrkX3Vjzq99IQqVfDuYnYcXHMSf4eNU%2FHeomRPrIalcKJ0TrwPn2FM8MvD5RfHgNWOoy%2BrbpQn2tjz4qw2Bw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T14:43:35.269566+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Рукавички медичні оглядові; Рукавички медичні оглядові; Рукавички медичні оглядові; Маски медичні захисні",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "33e680eb93874922b0076df9cc9cd222"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "ad7bf3aed1c74fdeb181c08db6154658",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 5,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "4dc49fa85fa2457eab1c2a681f1e2cdd",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "d028398176044f749b5dca67479c0af8"
+  },
+  "value": {
+    "amount": 25000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T14:43:35.562390+03:00",
+    "endDate": "2026-06-09T01:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"СТОМАТОЛОГІЧНА ПОЛІКЛІНІКА КАЛУСЬКОЇ МІСЬКОЇ РАДИ\"",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "26482723",
+      "legalName": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"СТОМАТОЛОГІЧНА ПОЛІКЛІНІКА КАЛУСЬКОЇ МІСЬКОЇ РАДИ\""
+    },
+    "address": {
+      "streetAddress": "вул. Грушевського, буд. 88-А",
+      "locality": "м. Калуш",
+      "region": "Івано-Франківська область",
+      "postalCode": "77300",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Тетяна Кравчук",
+      "email": "tanjakravchuk2012d@gmail.com",
+      "telephone": "+380500517022"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "category": "33140000-614919-42574629",
+      "id": "db3ddfda176a422e935bd2eddf143f3e",
+      "description": "Рукавички медичні оглядові",
+      "quantity": 1000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Грушевського, буд. 88-А",
+        "locality": "Калуш",
+        "region": "Івано-Франківська область",
+        "postalCode": "77300",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "category": "33140000-614919-42574629",
+      "id": "73edeecb497e49e7828ddc60a5a394fe",
+      "description": "Рукавички медичні оглядові",
+      "quantity": 3000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Грушевського, буд. 88-А",
+        "locality": "Калуш",
+        "region": "Івано-Франківська область",
+        "postalCode": "77300",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "category": "33140000-614919-42574629",
+      "id": "b65f480a55394ad7beef25ee1d45315d",
+      "description": "Рукавички медичні оглядові",
+      "quantity": 1000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Грушевського, буд. 88-А",
+        "locality": "Калуш",
+        "region": "Івано-Франківська область",
+        "postalCode": "77300",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "пара",
+        "code": "PR"
+      }
+    },
+    {
+      "category": "33141000-000003-42574629",
+      "id": "026f3019947f4c5097d27d00db7d3476",
+      "description": "Маски медичні захисні",
+      "quantity": 2000.0,
+      "classification": {
+        "description": "Медичні матеріали нехімічні та гематологічні одноразового застосування",
+        "scheme": "ДК021",
+        "id": "33141000-0"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Грушевського, буд. 88-А",
+        "locality": "Калуш",
+        "region": "Івано-Франківська область",
+        "postalCode": "77300",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "58f7d86753964b5a8375a786eed1ede8",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "08e766ac438e4250aa486cb3f3031fea",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "49c23263bae645318978b237e8901228",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "5f719b3aced54106a00bf4e3f4a31c49",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "4c6ff4e1142f4dddb108ddf6f7a84d6f",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ef73bc16e6e4f87a79e48091e250b87",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "b81a4384ed14479cb619fd4b7b782fc7",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "f899c32b76a648548f7a8b2342c2d529",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        },
+        {
+          "id": "d6d5e2215593424caca897532548a582",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "a64a6008f2cb4338b5e09bb2b37f4dc0",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bb8b9ae6a51405fb79c2347327a5fbe",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "db3ddfda176a422e935bd2eddf143f3e",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "75694815133947f8835fef6ae3a45fdd",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "3f8f0fcaa2f7462c9f96add8dc5f7970",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "872ebcc778c84d2e9a3a069474d0566e",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Нітрил"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "c14e0b42a0704418903d9e75e60db766",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "671f17ae8c1f4901876421ec16196587",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "L"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "72222d6635ec4c5dbc72fcacce390424",
+              "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "NEW",
+                "name": "ньютон"
+              },
+              "minValue": 9.0,
+              "maxValue": 9.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "5ce7ddd5bc764a2cbfdaefcc6a4c77ae",
+              "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.16,
+              "maxValue": 0.16,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "f844a235887043f79aa24e5b15fc7650",
+              "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.11,
+              "maxValue": 0.11,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "d5053456c78247929bc6904177e4b81e",
+              "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.09,
+              "maxValue": 0.09,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "0848828bec8f4d22b9334a815852babf",
+              "title": "Довжина манжети, мінімальна (мм)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 245.0,
+              "maxValue": 245.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "f63d38f7e58c4537bfb98f0593344a89",
+              "title": "Специфічність манжети",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "З валиком на манжеті"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "2301581144424f13a8a8d1b32c56f357",
+              "title": "Клас медичного виробу",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Клас I"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "479e70456d924e7a82bd6177cf70c09c",
+              "title": "Відповідність ДСТУ EN 455-2:2015",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "ce006a418b1f40519da073c42ecd77b6",
+              "title": "Кількість штук в упаковці, (пар)",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "PR",
+                "name": "пара"
+              },
+              "minValue": 50,
+              "maxValue": 50,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "504ea894719a4cc4934cb290e565bf3d",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "73edeecb497e49e7828ddc60a5a394fe",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1ada97483b9a4c04a96452bbf29ce2cf",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "449ae878180745008f42dcf65449378f",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "a4c4322438b5485ab87d147d3863f557",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Нітрил"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "b6b1059ab83e414f88df23a43f84309b",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "e1eaab7488d241519648978f3c3f259b",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "S"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "1dc577c0f1d6493b912e5113609f11b6",
+              "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "NEW",
+                "name": "ньютон"
+              },
+              "minValue": 9.0,
+              "maxValue": 9.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "25b1ffb4cf8f497dad1ea0dd1fc4f5b0",
+              "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.15,
+              "maxValue": 0.15,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "a9a0f1b27b10427581aaf007cd9b3a3c",
+              "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.11,
+              "maxValue": 0.11,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "575ac343aa734d78934a9382c729bc9e",
+              "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.08,
+              "maxValue": 0.08,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "87ca6372ab8b441e81c9f004861dce75",
+              "title": "Довжина манжети, мінімальна (мм)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 290.0,
+              "maxValue": 290.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "e0cf30e881da4574bb1e2485c7d8c4d6",
+              "title": "Специфічність манжети",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "З валиком на манжеті"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "e7373a38ee874d1db387ae611ae36a41",
+              "title": "Клас медичного виробу",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Клас I"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "9cf7eb6ef76947ebae292266f46192fb",
+              "title": "Відповідність ДСТУ EN 455-2:2015",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "1c3d022579f3490993c9db69d3290152",
+              "title": "Кількість штук в упаковці, (пар)",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "PR",
+                "name": "пара"
+              },
+              "minValue": 50,
+              "maxValue": 50,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0984bd6b95c943d5b2fba2ea230ca6ab",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "b65f480a55394ad7beef25ee1d45315d",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "71f1fc3475084b9fafa1f349a09e0b61",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "0c9ea174fd2a4b329b9187e2b14f0ad6",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "43f7db2cd40647abbaafd5bc0a017fe7",
+              "title": "Матеріал виготовлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Нітрил"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "9ac9320acdd94e3e8708955959869b59",
+              "title": "Наявність пудри",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "ad8821aca84b4bbf963980babb3aca24",
+              "title": "Розмір (ДСТУ EN 455-2:2015)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "M"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "da42ae30a3684484b3b20c19a771e4da",
+              "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "NEW",
+                "name": "ньютон"
+              },
+              "minValue": 9.0,
+              "maxValue": 9.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "56e0e1cc7c3a4b11af5e1a08847a6354",
+              "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.15,
+              "maxValue": 0.15,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "daf3301a26174ecea0c5cd3e201c7162",
+              "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.11,
+              "maxValue": 0.11,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "6ca32063d1cd48f2bc0fe714aac6ff51",
+              "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.08,
+              "maxValue": 0.08,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "a2cdda0614454671bae1bc646c854aef",
+              "title": "Довжина манжети, мінімальна (мм)",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 290.0,
+              "maxValue": 290.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "69dbf19a71d345bf91ca7419637fef0e",
+              "title": "Специфічність манжети",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "З валиком на манжеті"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "7a7a45bf8feb44008288a34a87ae2156",
+              "title": "Клас медичного виробу",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Клас I"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "fd2b6ff2149341679534d615decc385c",
+              "title": "Відповідність ДСТУ EN 455-2:2015",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "453c5aaee63b4b2fbd7c7e0f9efdb6ba",
+              "title": "Кількість штук в упаковці, (пар)",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "PR",
+                "name": "пара"
+              },
+              "minValue": 50,
+              "maxValue": 50,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6fcfe01240c42c3a44ceba1432cf443",
+      "description": "Учасники процедури закупівлі повинні надати у складі тендерних пропозицій інформацію та документи, які підтверджують відповідність тендерної пропозиції учасника технічним, якісним, кількісним та іншим вимогам до предмета закупівлі, установленим замовником",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "026f3019947f4c5097d27d00db7d3476",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмету закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#Text"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "49f35e9495c14c9eb5f3d5e8b98ed19c",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "d950ca35aa3647d5b1279ec9a90e8c4d",
+              "title": "Категорія (згідно призначення)",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Для дорослих"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "bcb657d0e7c14c39884b9a93fa671ffe",
+              "title": "Кількість шарів",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Тришарова"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "5d1e67617fbc43538c2331aa7ca29781",
+              "title": "Кріплення маски",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "На гумових петлях"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "0fcedb7451e94d9abf8fc459a648bd75",
+              "title": "Наявність носового фіксатора",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "e7b834c1513c4f5a9ed4ac4561c0e2dc",
+              "title": "Кількість застосувань",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Одноразова"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "d0905b98c2aa42bc8b956eb9bce43e36",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Нетканий матеріал (Спанбонд+Мельтблаун)"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "fbdf9ddd97f44c60a99292ce6dde0f65",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "14751254560c4850a59d90311d426509",
+              "title": "Ширина, см",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 9.5,
+              "maxValue": 9.5,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "b0e34899137446c88cfdc752dfaef2f3",
+              "title": "Довжина, см",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 17.5,
+              "maxValue": 17.5,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "422fb70f0adb447a8c20ce6db2c4b7f8",
+              "title": "Колір",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Синій"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "86b92f266fb947d0b68420e4ed5c8efa",
+              "title": "Відповідність стандартам",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "ДСТУ EN 14683"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "e6a03d94d5ea4d88947071680f7cdd5e",
+              "title": "Кількість одиниць в упаковці, шт",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 50,
+              "maxValue": 50,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            },
+            {
+              "id": "debbdf11656e4bf78ba0fef74a5bd5b9",
+              "title": "Щільність матеріалу, г/м²",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "GM",
+                "name": "грам на квадратний метр"
+              },
+              "minValue": 25.0,
+              "maxValue": 25.0,
+              "datePublished": "2026-06-04T14:38:27.703877+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T14:43:35.562390+03:00",
+  "bids": [
+    {
+      "id": "c0b4774716f042dd8054913d2015a6ec",
+      "date": "2026-06-04T15:48:22.508775+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:e67452a3e37fdcd077cd4e6d2a8a230514c5ba7d;SHA2-384:a14d2911f060022d206341721239a576f574bbe2693acdaf37fe07dea1d6616f5267f3ee592be4baafe3a7280487d20d;Antivirus: ESET Antivirus,fids:e16b6dad3e0e4c6babf5e00e2a734a6b:fide",
+          "id": "cd1c1535125447aca6ff49321f50d3cd",
+          "datePublished": "2026-06-04T15:48:21.886798+03:00",
+          "hash": "md5:3ac2c101645c586d51e1375719f5e41e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/cfc231a5756947f69af709b988604228?Signature=GTVuk614Bm1ztPAqvaGpH4lzkvsXDomEcdc%2BpSd9gx1CsYfvBrfgivMPQ9QKqQChKIZtmgUalyEwmER1SMVwDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T15:48:21.886798+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ВОК - Медіка Груп\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45099150",
+            "legalName": "ТОВ \"ВОК - Медіка Груп\""
+          },
+          "address": {
+            "streetAddress": "вулиця Без Назви, будинок 241",
+            "locality": "Мукачівський район, село Солочин",
+            "region": "Закарпатська область",
+            "postalCode": "89321",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Кантемир",
+            "email": "vok.sergey349@gmail.com",
+            "telephone": "+380672233404, +380506482455"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 24695.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "f899c32b76a648548f7a8b2342c2d529",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "a72383ffae4e45a1999de806cad405bc",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "49c23263bae645318978b237e8901228",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "6d1720cfe71a426989d407058dc29bf0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f719b3aced54106a00bf4e3f4a31c49",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "b68e07d52c354bf88e0d6b0f0361a15d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4c6ff4e1142f4dddb108ddf6f7a84d6f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "2a9c2813129d4bcc8d041a26912e4559",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d950ca35aa3647d5b1279ec9a90e8c4d",
+            "title": "Категорія (згідно призначення)"
+          },
+          "values": [
+            "Для дорослих"
+          ],
+          "id": "034b4b3a34454bd28cc50fe1718e5701",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb657d0e7c14c39884b9a93fa671ffe",
+            "title": "Кількість шарів"
+          },
+          "values": [
+            "Тришарова"
+          ],
+          "id": "89754efc2b514edab66a124bbcd6b526",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5d1e67617fbc43538c2331aa7ca29781",
+            "title": "Кріплення маски"
+          },
+          "values": [
+            "На гумових петлях"
+          ],
+          "id": "95d265a8396a4b3cbff1f7dde72254fc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0fcedb7451e94d9abf8fc459a648bd75",
+            "title": "Наявність носового фіксатора"
+          },
+          "value": true,
+          "id": "d11b65ca6e2148568b8bb33626b05c87",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e7b834c1513c4f5a9ed4ac4561c0e2dc",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразова"
+          ],
+          "id": "444ac8907be64671848066be6eadd4c8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0905b98c2aa42bc8b956eb9bce43e36",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Нетканий матеріал (Спанбонд+Мельтблаун)"
+          ],
+          "id": "6fe25a82b6614b27b11bdbf59c38797d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fbdf9ddd97f44c60a99292ce6dde0f65",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "728b004a21c4444bb3bafad0ed811854",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "14751254560c4850a59d90311d426509",
+            "title": "Ширина, см"
+          },
+          "value": 9.5,
+          "id": "1b708ee4de174d528cbd2b607b087eb0",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e34899137446c88cfdc752dfaef2f3",
+            "title": "Довжина, см"
+          },
+          "value": 17.5,
+          "id": "b35cff35270b4233848f7270b9c62675",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "422fb70f0adb447a8c20ce6db2c4b7f8",
+            "title": "Колір"
+          },
+          "values": [
+            "Синій"
+          ],
+          "id": "1d8b13646b124ebbb0ceb5b969623e5e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86b92f266fb947d0b68420e4ed5c8efa",
+            "title": "Відповідність стандартам"
+          },
+          "values": [
+            "ДСТУ EN 14683"
+          ],
+          "id": "2b7e6784beaa4ff38427c2aaaaf1efea",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6a03d94d5ea4d88947071680f7cdd5e",
+            "title": "Кількість одиниць в упаковці, шт"
+          },
+          "value": 50,
+          "id": "9af54ccccdf0482b8da0dfbb69b4a998",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "debbdf11656e4bf78ba0fef74a5bd5b9",
+            "title": "Щільність матеріалу, г/м²"
+          },
+          "value": 25,
+          "id": "e2f52d26c148490f9c35566ea6e71e58",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0c9ea174fd2a4b329b9187e2b14f0ad6",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "e6d8baf4bdcf42e3ad45f7a9d56d738b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "43f7db2cd40647abbaafd5bc0a017fe7",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "b04477e6b0334f3ab798c2df5b9e73ce",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9ac9320acdd94e3e8708955959869b59",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "de3a9870d9144beab8787d6cc1d05077",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad8821aca84b4bbf963980babb3aca24",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "M"
+          ],
+          "id": "65e92aff5d304012a2be1400d56bf303",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da42ae30a3684484b3b20c19a771e4da",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9,
+          "id": "6ad90e51799f4169b5134ddaebd03a3f",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "56e0e1cc7c3a4b11af5e1a08847a6354",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.15,
+          "id": "1d1a05206be140049897444ee109facb",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "daf3301a26174ecea0c5cd3e201c7162",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "cbd1a5d3dd0a4b58bf20d945cb62c810",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ca32063d1cd48f2bc0fe714aac6ff51",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.08,
+          "id": "eff257bbc60b4f4b88803ed435596b42",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a2cdda0614454671bae1bc646c854aef",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 290,
+          "id": "10bedb292f074f98b19829622d0352f4",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "69dbf19a71d345bf91ca7419637fef0e",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "1e622ffd6b5d47d3ade19273171e97a7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a7a45bf8feb44008288a34a87ae2156",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "621dd7e749e74169b92b8f1cd5135f54",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fd2b6ff2149341679534d615decc385c",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "e850892bb5a04bea80d3ef8feb1fc081",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "453c5aaee63b4b2fbd7c7e0f9efdb6ba",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "f46e7042800447f38001695fead800e3",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "449ae878180745008f42dcf65449378f",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "476a345184db46e4ae5f6256f7063e02",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a4c4322438b5485ab87d147d3863f557",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "b3020842c3f94217896e4f9c920ffedc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b6b1059ab83e414f88df23a43f84309b",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "df5e2ce0edce44168785db8785e4ec99",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e1eaab7488d241519648978f3c3f259b",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "S"
+          ],
+          "id": "b50a504149304753ac44cdbd5ea7de63",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1dc577c0f1d6493b912e5113609f11b6",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9,
+          "id": "f40540dde61e4b529bf413a77c25efe0",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "25b1ffb4cf8f497dad1ea0dd1fc4f5b0",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.15,
+          "id": "c65c04e34c074b37bc38af9b8ba125c8",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a9a0f1b27b10427581aaf007cd9b3a3c",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "e1ce9b095db24a50b683c203fb203a9d",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "575ac343aa734d78934a9382c729bc9e",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.08,
+          "id": "37a34029c2f54e45970569f208d5900c",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "87ca6372ab8b441e81c9f004861dce75",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 290,
+          "id": "9ce263812298423eb6021afd7d77865b",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e0cf30e881da4574bb1e2485c7d8c4d6",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "c0b55a55801748c0be3dc6a698c46add",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e7373a38ee874d1db387ae611ae36a41",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "eda692d986474607b533b5fd67f8d12c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9cf7eb6ef76947ebae292266f46192fb",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "9071ec401e1c4d56b17b82d43e107e0c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3d022579f3490993c9db69d3290152",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "8ceca911185c4f69806007a2166c8a58",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f8f0fcaa2f7462c9f96add8dc5f7970",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "82f8fde82e404d019312701efb69026e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "872ebcc778c84d2e9a3a069474d0566e",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "a4688dfe0d4245808d772e8600268147",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c14e0b42a0704418903d9e75e60db766",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "2689c849ee724b4aa08a53fcae5fa0e4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "671f17ae8c1f4901876421ec16196587",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "L"
+          ],
+          "id": "57b4c6d6cf304f7094c342d5fc02fc34",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "72222d6635ec4c5dbc72fcacce390424",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9,
+          "id": "e148fc367b084d9ab3bae0730090e093",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5ce7ddd5bc764a2cbfdaefcc6a4c77ae",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.16,
+          "id": "b8d5dccde8254cf886d4a8c81bb04d37",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f844a235887043f79aa24e5b15fc7650",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "05a7f48941814af185730cea320a9104",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d5053456c78247929bc6904177e4b81e",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.09,
+          "id": "7a877e640dea40ad905f55a28f65f0fe",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0848828bec8f4d22b9334a815852babf",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 245,
+          "id": "40b4dfc120e34f298bf0b8ce80db9c00",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f63d38f7e58c4537bfb98f0593344a89",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "64dd93a45bde4a95af4c5d6b8de2dd3c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2301581144424f13a8a8d1b32c56f357",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "897a83ffa05c40dbbc3d38326336e15f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "479e70456d924e7a82bd6177cf70c09c",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "44af22da45974c069de1228846f17a4b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce006a418b1f40519da073c42ecd77b6",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "b1033542705a4c2984a44cf54cf95716",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "026f3019947f4c5097d27d00db7d3476",
+          "description": "Медична маска, одноразова, з вушними петлями, нестерильна, ZARYS",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.29,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 2000.0,
+          "product": "33cd2c08159b4969b863331fd70058e6"
+        },
+        {
+          "id": "db3ddfda176a422e935bd2eddf143f3e",
+          "description": "DERMAGRIP® Нітрилові  Оглядові Рукавички, не містять латексу , неопудрені, нестерильні  L",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 4.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 1000.0,
+          "product": "88f9d01f56244d53815f0ae74aec8d3f"
+        },
+        {
+          "id": "73edeecb497e49e7828ddc60a5a394fe",
+          "description": "DERMAGRIP ® Нітрилові Оглядові Рукавички Ультра Лонг, не містять латексу, неопудрені, нестерильні, з подовженим манжетом, розмір S",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 3.9,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "c9fb631c63344e16aaecb035edcb86d0"
+        },
+        {
+          "id": "b65f480a55394ad7beef25ee1d45315d",
+          "description": "DERMAGRIP ® Нітрилові Оглядові Рукавички Ультра Лонг, не містять латексу, неопудрені, нестерильні, з подовженим манжетом, розмір М",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 4.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 1000.0,
+          "product": "5fafc53ca2b7432da55924e3cfad01e6"
+        }
+      ],
+      "submissionDate": "2026-06-04T15:48:22.508775+03:00",
+      "initialValue": {
+        "amount": 24695.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "f58b1b41d9a54a589807f022a22c22ef",
+      "date": "2026-06-08T16:02:35.516030+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "0af86695efa44aee866f046eadf95533",
+          "datePublished": "2026-06-08T16:02:35.110697+03:00",
+          "hash": "md5:06fc64665b39cc0884316190c1704eaa",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/a2dcf64d6cef43009778eb6481c481e6?Signature=INAL3NYEBwEwHHkOyU7vnu8EpJtrMfdj%2BeIvJcvnJA4dfrYcrQdWFYJ3oaU%2B17IbOcC%2BDOy3CECebjFs3F54Bw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T16:02:35.110697+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕДКОМ МВ УКРАЇНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44024667",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕДКОМ МВ УКРАЇНА\""
+          },
+          "address": {
+            "streetAddress": "04073, місто Київ, пр.Бандери Степана, будинок 21, офіс 455",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04073",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Галина Кириленко",
+            "email": "tmn2021@ukr.net",
+            "telephone": "380968534736"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 24824.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "49c23263bae645318978b237e8901228",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f65a9ae31b154bbbb0c61c1ab9b58c41",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5f719b3aced54106a00bf4e3f4a31c49",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "95e1de7efde244e1bac33a331c3b80ac",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4c6ff4e1142f4dddb108ddf6f7a84d6f",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "33e922492ca143138fa57a94b116472d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f899c32b76a648548f7a8b2342c2d529",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "d341356ff29b4ceca3870341844ae844",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "3f8f0fcaa2f7462c9f96add8dc5f7970",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "66f0ce5ba07e4f84908543d8175bfe8e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "872ebcc778c84d2e9a3a069474d0566e",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "fb24113a309448cdb5af597d22edbf78",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c14e0b42a0704418903d9e75e60db766",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "2106f4574c9e4754825cdd791a6a7dfe",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "671f17ae8c1f4901876421ec16196587",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "L"
+          ],
+          "id": "8bf6bd243c2245e18d215247e7835bc4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "72222d6635ec4c5dbc72fcacce390424",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9.0,
+          "id": "7eccfafd40974da69c0b816790fd8ac2",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5ce7ddd5bc764a2cbfdaefcc6a4c77ae",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.16,
+          "id": "49d0ea8dde2f4af7aec83896d90e95a3",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f844a235887043f79aa24e5b15fc7650",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "fd8f32fa91744e0b81adc55bc840680d",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d5053456c78247929bc6904177e4b81e",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.09,
+          "id": "780abc26729b4e2280b287f737e4ce23",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0848828bec8f4d22b9334a815852babf",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 245.0,
+          "id": "435e2a2a15c44114a424f113c0dcf0ae",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f63d38f7e58c4537bfb98f0593344a89",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "b5a2ce69e32b49dab02fe9783044ed35",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2301581144424f13a8a8d1b32c56f357",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "d2f43592217c4bc28a8171a0f4941fa4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "479e70456d924e7a82bd6177cf70c09c",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "a89ac4976076455fa29bd83765b49f02",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ce006a418b1f40519da073c42ecd77b6",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "829c6f0e418a4b9790dcb73f2a4629aa",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "449ae878180745008f42dcf65449378f",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "8516038dc27e41a9a099bd181a820996",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a4c4322438b5485ab87d147d3863f557",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "08df891bb1a8488e9b327453d83a9bda",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b6b1059ab83e414f88df23a43f84309b",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "e24c75be6bca4d72b5e6c7b5b34e9476",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e1eaab7488d241519648978f3c3f259b",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "S"
+          ],
+          "id": "3b5f95fbd535444691072068e764419d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1dc577c0f1d6493b912e5113609f11b6",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9.0,
+          "id": "c9deb36504394890a363f580c7d1fbe6",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "25b1ffb4cf8f497dad1ea0dd1fc4f5b0",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.15,
+          "id": "694998e9a0734743bf8c1a7f8fe600cd",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a9a0f1b27b10427581aaf007cd9b3a3c",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "5d5651aa5413421b84b5b135c3ff20b4",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "575ac343aa734d78934a9382c729bc9e",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.08,
+          "id": "ab131943d0944a01bf06a7665c932a8e",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "87ca6372ab8b441e81c9f004861dce75",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 290.0,
+          "id": "caef39b3608e48b396efb19a3184479a",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e0cf30e881da4574bb1e2485c7d8c4d6",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "8fa02b29e5a54e4d92e95856414b97d4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e7373a38ee874d1db387ae611ae36a41",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "7f4f032b07c64ece8da8e8149e4fd248",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9cf7eb6ef76947ebae292266f46192fb",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "0e4bad08ac5e4bb78f459f5cc3a9259d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c3d022579f3490993c9db69d3290152",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "824e034d61f648df83c804520eed12d8",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0c9ea174fd2a4b329b9187e2b14f0ad6",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "6ef3a48825a3469daebc208a2f7c8709",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "43f7db2cd40647abbaafd5bc0a017fe7",
+            "title": "Матеріал виготовлення"
+          },
+          "values": [
+            "Нітрил"
+          ],
+          "id": "964cd531eaf54487bba5d3f78b2e713c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9ac9320acdd94e3e8708955959869b59",
+            "title": "Наявність пудри"
+          },
+          "value": false,
+          "id": "a2fe1a0a90fd472b9bb9f7391b39d414",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad8821aca84b4bbf963980babb3aca24",
+            "title": "Розмір (ДСТУ EN 455-2:2015)"
+          },
+          "values": [
+            "M"
+          ],
+          "id": "d6ceefc43b764e3f83c9e8888ebab675",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da42ae30a3684484b3b20c19a771e4da",
+            "title": "Міцність на розрив до прискореного старіння (Н), (ДСТУ EN 455-2:2015)"
+          },
+          "value": 9.0,
+          "id": "b320a56bff834c45a128901db812a030",
+          "unit": {
+            "code": "NEW",
+            "name": "ньютон"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "56e0e1cc7c3a4b11af5e1a08847a6354",
+            "title": "Товщина на пальці, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.15,
+          "id": "4bfbc28a9ea54302b7e3f3463f43a107",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "daf3301a26174ecea0c5cd3e201c7162",
+            "title": "Товщина на долоні, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.11,
+          "id": "8f5e8e09463544b28a9c5477450dacd7",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ca32063d1cd48f2bc0fe714aac6ff51",
+            "title": "Товщина на манжеті, (мм) (ДСТУ EN 455-2:2015)"
+          },
+          "value": 0.08,
+          "id": "2f3ea7719eb6434993a22f07aa31e046",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a2cdda0614454671bae1bc646c854aef",
+            "title": "Довжина манжети, мінімальна (мм)"
+          },
+          "value": 290.0,
+          "id": "435713a774464a0e81943e4cfcd4b7e0",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "69dbf19a71d345bf91ca7419637fef0e",
+            "title": "Специфічність манжети"
+          },
+          "values": [
+            "З валиком на манжеті"
+          ],
+          "id": "1685bcacce0947309ef4edafdfaa867c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7a7a45bf8feb44008288a34a87ae2156",
+            "title": "Клас медичного виробу"
+          },
+          "values": [
+            "Клас I"
+          ],
+          "id": "f6d198b9ebe94e0cbbb76dbf878ac2ff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fd2b6ff2149341679534d615decc385c",
+            "title": "Відповідність ДСТУ EN 455-2:2015"
+          },
+          "value": true,
+          "id": "d2bac76433284ee3b8358312a3915ba8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "453c5aaee63b4b2fbd7c7e0f9efdb6ba",
+            "title": "Кількість штук в упаковці, (пар)"
+          },
+          "value": 50,
+          "id": "103a2765e0364eb9bfb10ea2437fc54a",
+          "unit": {
+            "code": "PR",
+            "name": "пара"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d950ca35aa3647d5b1279ec9a90e8c4d",
+            "title": "Категорія (згідно призначення)"
+          },
+          "values": [
+            "Для дорослих"
+          ],
+          "id": "64a7ec0221594acab826d44dd0eff87e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "bcb657d0e7c14c39884b9a93fa671ffe",
+            "title": "Кількість шарів"
+          },
+          "values": [
+            "Тришарова"
+          ],
+          "id": "3ab55a296df44ffa98fc1b18a437f983",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5d1e67617fbc43538c2331aa7ca29781",
+            "title": "Кріплення маски"
+          },
+          "values": [
+            "На гумових петлях"
+          ],
+          "id": "0c035dc2d748429a99f2f09d7c5a543c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0fcedb7451e94d9abf8fc459a648bd75",
+            "title": "Наявність носового фіксатора"
+          },
+          "value": true,
+          "id": "1896884c336d4f00ab7b0b3dae73f148",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e7b834c1513c4f5a9ed4ac4561c0e2dc",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразова"
+          ],
+          "id": "4b737ff2381b4fb6ae257ed0cdd99d2c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d0905b98c2aa42bc8b956eb9bce43e36",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Нетканий матеріал (Спанбонд+Мельтблаун)"
+          ],
+          "id": "bb53f114bdf04fd1bb5f8366e91eeef2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fbdf9ddd97f44c60a99292ce6dde0f65",
+            "title": "Стерильність"
+          },
+          "value": false,
+          "id": "1197a640137b4220abfdcf43b4befda1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "14751254560c4850a59d90311d426509",
+            "title": "Ширина, см"
+          },
+          "value": 9.5,
+          "id": "632fa8241f094cbb9825526729309360",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e34899137446c88cfdc752dfaef2f3",
+            "title": "Довжина, см"
+          },
+          "value": 17.5,
+          "id": "047dfbe32abb440180ba2642c971c12d",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "422fb70f0adb447a8c20ce6db2c4b7f8",
+            "title": "Колір"
+          },
+          "values": [
+            "Синій"
+          ],
+          "id": "67ec643426f94e66aac2084292cbe244",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86b92f266fb947d0b68420e4ed5c8efa",
+            "title": "Відповідність стандартам"
+          },
+          "values": [
+            "ДСТУ EN 14683"
+          ],
+          "id": "ce53fe799109451ba040428cb1f6b683",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6a03d94d5ea4d88947071680f7cdd5e",
+            "title": "Кількість одиниць в упаковці, шт"
+          },
+          "value": 50,
+          "id": "e263ea0f653e4d67ab6bd36bf2a0925d",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "debbdf11656e4bf78ba0fef74a5bd5b9",
+            "title": "Щільність матеріалу, г/м²"
+          },
+          "value": 25.0,
+          "id": "2d7b0621018b492f80e4acaddd91e717",
+          "unit": {
+            "code": "GM",
+            "name": "грам на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "db3ddfda176a422e935bd2eddf143f3e",
+          "description": "DERMAGRIP® Нітрилові  Оглядові Рукавички, не містять латексу , неопудрені, нестерильні  L",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 4.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 1000.0,
+          "product": "88f9d01f56244d53815f0ae74aec8d3f"
+        },
+        {
+          "id": "73edeecb497e49e7828ddc60a5a394fe",
+          "description": "DERMAGRIP ® Нітрилові Оглядові Рукавички Ультра Лонг, не містять латексу, неопудрені, нестерильні, з подовженим манжетом, розмір S",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 4.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 3000.0,
+          "product": "c9fb631c63344e16aaecb035edcb86d0"
+        },
+        {
+          "id": "b65f480a55394ad7beef25ee1d45315d",
+          "description": "DERMAGRIP ® Нітрилові Оглядові Рукавички Ультра Лонг, не містять латексу, неопудрені, нестерильні, з подовженим манжетом, розмір М",
+          "unit": {
+            "name": "пара",
+            "value": {
+              "amount": 4.2,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "PR"
+          },
+          "quantity": 1000.0,
+          "product": "5fafc53ca2b7432da55924e3cfad01e6"
+        },
+        {
+          "id": "026f3019947f4c5097d27d00db7d3476",
+          "description": "Медична маска, одноразова, з вушними петлями, нестерильна, ZARYS",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.1,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 2000.0,
+          "product": "33cd2c08159b4969b863331fd70058e6"
+        }
+      ],
+      "submissionDate": "2026-06-08T16:02:35.516030+03:00",
+      "initialValue": {
+        "amount": 24824.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T01:00:00.735451+03:00"
+  },
+  "awards": [
+    {
+      "id": "acca9ba9ffed4e6dbc84a4e1c76150ac",
+      "status": "pending",
+      "date": "2026-06-09T01:00:00.735451+03:00",
+      "value": {
+        "amount": 24695.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ВОК - Медіка Груп\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45099150",
+            "legalName": "ТОВ \"ВОК - Медіка Груп\""
+          },
+          "address": {
+            "streetAddress": "вулиця Без Назви, будинок 241",
+            "locality": "Мукачівський район, село Солочин",
+            "region": "Закарпатська область",
+            "postalCode": "89321",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Кантемир",
+            "email": "vok.sergey349@gmail.com",
+            "telephone": "+380672233404, +380506482455"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "c0b4774716f042dd8054913d2015a6ec",
+      "period": {
+        "startDate": "2026-06-09T01:00:00.735451+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      }
+    }
+  ],
+  "id": "0896abaa5a9e4935ad723b2fd92ae49e"
+}
