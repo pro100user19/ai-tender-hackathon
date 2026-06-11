@@ -31,6 +31,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     templates.env.filters["tokens"] = format_tokens
     templates.env.filters["usd"] = format_usd
     templates.env.filters["category_label"] = category_label
+    templates.env.filters["table_title"] = table_title
 
     static_dir = PACKAGE_DIR / "static"
     app.mount("/static", StaticFiles(directory=str(static_dir)), name="static")
@@ -149,6 +150,18 @@ def category_label(category: str | None) -> str:
         return ""
     category = category.strip()
     return f"{category[:1].upper()}{category[1:]}"
+
+
+def table_title(value: str | None, limit: int = 365) -> str:
+    if not value:
+        return ""
+    text = " ".join(value.split())
+    if len(text) <= limit:
+        return text
+    truncated = text[:limit].rstrip()
+    if " " in truncated:
+        truncated = truncated.rsplit(" ", 1)[0]
+    return f"{truncated}..."
 
 
 SORT_LABELS = {

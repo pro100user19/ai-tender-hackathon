@@ -9,6 +9,7 @@ from prozorro_quality.web import (
     parse_int,
     sort_marker,
     sort_results,
+    table_title,
 )
 
 
@@ -71,3 +72,16 @@ def test_category_label_capitalizes_detail_issue_groups():
     assert category_label("документальні вимоги") == "Документальні вимоги"
     assert category_label("географічне обмеження") == "Географічне обмеження"
     assert category_label("лист виробника") == "Лист виробника"
+
+
+def test_table_title_keeps_normal_titles_and_truncates_extreme_ones():
+    normal = (
+        "код ДК 021:2015 - 33190000-8 - Медичне обладнання та вироби медичного "
+        "призначення різні (Автоматичний ендоскопічний репроцесор; Шафа для "
+        "сушіння та зберігання ендоскопів)"
+    )
+    long_title = " ".join(["Реагенти для лабораторії"] * 40)
+
+    assert table_title(normal) == normal
+    assert len(table_title(long_title)) <= 365
+    assert table_title(long_title).endswith("...")

@@ -1,0 +1,103 @@
+{
+  "type": "object",
+  "properties": {
+    "candidate_heuristics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "severity": {
+            "type": "string"
+          },
+          "pattern_description": {
+            "type": "string"
+          },
+          "why_it_matters": {
+            "type": "string"
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "tender_code": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "tender_code",
+                "quote"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "false_positive_controls": {
+            "type": "string"
+          },
+          "regex_hint": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "category",
+          "severity",
+          "pattern_description",
+          "why_it_matters",
+          "evidence",
+          "false_positive_controls",
+          "regex_hint",
+          "confidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "false_positive_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tender_code": {
+            "type": "string"
+          },
+          "current_issue_title": {
+            "type": "string"
+          },
+          "why_maybe_false_positive": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "tender_code",
+          "current_issue_title",
+          "why_maybe_false_positive"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "covered_patterns_to_ignore": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "candidate_heuristics",
+    "false_positive_notes",
+    "covered_patterns_to_ignore"
+  ],
+  "additionalProperties": false
+}

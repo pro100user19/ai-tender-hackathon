@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["items", "summary", "recommended_rule_changes"],
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "tender_code",
+          "category",
+          "issue_title",
+          "verdict",
+          "confidence",
+          "reason",
+          "suggested_action"
+        ],
+        "properties": {
+          "tender_code": { "type": "string" },
+          "category": { "type": "string" },
+          "issue_title": { "type": "string" },
+          "verdict": {
+            "type": "string",
+            "enum": ["true_positive", "false_positive", "uncertain"]
+          },
+          "confidence": {
+            "type": "string",
+            "enum": ["high", "medium", "low"]
+          },
+          "reason": { "type": "string" },
+          "suggested_action": {
+            "type": "string",
+            "enum": ["keep", "narrow_rule", "rename_or_reword", "manual_review"]
+          }
+        }
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "total_items",
+        "true_positive_count",
+        "false_positive_count",
+        "uncertain_count",
+        "highest_risk_categories"
+      ],
+      "properties": {
+        "total_items": { "type": "integer" },
+        "true_positive_count": { "type": "integer" },
+        "false_positive_count": { "type": "integer" },
+        "uncertain_count": { "type": "integer" },
+        "highest_risk_categories": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "recommended_rule_changes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

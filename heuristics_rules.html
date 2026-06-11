@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Правила евристик</title>
+  <style>
+    :root {
+      --bg: #f7f7f4;
+      --text: #1f2328;
+      --muted: #5f6670;
+      --line: #d8d8d2;
+      --surface: #ffffff;
+      --accent: #2f6f9f;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.45;
+    }
+
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 36px 20px 56px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 34px;
+      line-height: 1.15;
+    }
+
+    h2 {
+      margin: 34px 0 14px;
+      font-size: 24px;
+    }
+
+    p {
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin: 22px 0 28px;
+    }
+
+    .summary div {
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+    }
+
+    .summary strong {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--accent);
+      font-size: 26px;
+      line-height: 1;
+    }
+
+    .summary span {
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--line);
+      background: var(--surface);
+    }
+
+    th,
+    td {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: #ecece7;
+      color: #30343a;
+      font-size: 13px;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    td {
+      font-size: 15px;
+    }
+
+    tr:last-child td {
+      border-bottom: 0;
+    }
+
+    .category {
+      min-width: 190px;
+      font-weight: 700;
+    }
+
+    .rule {
+      min-width: 230px;
+      font-weight: 700;
+    }
+
+    .severity {
+      white-space: nowrap;
+      font-weight: 700;
+    }
+
+    .note {
+      margin-top: 18px;
+      padding: 16px;
+      border: 1px solid #d9c58f;
+      border-radius: 8px;
+      background: #fff8e6;
+      color: #4d3b10;
+    }
+
+    .note p {
+      margin: 0;
+      color: inherit;
+    }
+
+    code {
+      padding: 2px 5px;
+      border-radius: 4px;
+      background: #ecece7;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.92em;
+    }
+
+    @media (max-width: 860px) {
+      main {
+        padding: 24px 12px 40px;
+      }
+
+      .summary {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      table,
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+      }
+
+      thead {
+        display: none;
+      }
+
+      tr {
+        border-bottom: 1px solid var(--line);
+      }
+
+      td {
+        border-bottom: 0;
+        padding: 10px 14px;
+      }
+
+      td::before {
+        content: attr(data-label);
+        display: block;
+        margin-bottom: 4px;
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Правила евристик</h1>
+    <p>Простий список нових і розширених правил detector-а після 6 циклів аналізу документів. Це сигнали для review, а не юридичні висновки.</p>
+
+    <section class="summary" aria-label="Підсумок">
+      <div><strong>6</strong><span>нових або розширених правил</span></div>
+      <div><strong>26</strong><span>матчів у фінальному audit set</span></div>
+      <div><strong>0</strong><span>false positives у LLM audit</span></div>
+      <div><strong>47</strong><span>автоматичних tests passed</span></div>
+    </section>
+
+    <h2>Основні правила</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Категорія</th>
+          <th>Правило</th>
+          <th>Рівень</th>
+          <th>Що ловить</th>
+          <th>Що ігнорує / guard</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="category" data-label="Категорія">Формат кошторису / ПЗ</td>
+          <td class="rule" data-label="Правило">Кошторис вимагається у АВК або форматі .imd</td>
+          <td class="severity" data-label="Рівень">Середній</td>
+          <td data-label="Що ловить">Вимогу подати договірну ціну або кошторис у <code>АВК-5</code>, <code>.imd</code>, <code>ims/imd</code> або сумісному кошторисному ПЗ.</td>
+          <td data-label="Guard">Не рахує післяконтрактні акти виконаних робіт, де АВК або imd згадуються для підписання актів.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Сертифікаційний бар'єр</td>
+          <td class="rule" data-label="Правило">Кілька сертифікатів систем управління як умова участі</td>
+          <td class="severity" data-label="Рівень">Середній</td>
+          <td data-label="Що ловить">Пакет сертифікатів для учасника: ISO 9001, ISO 14001, ISO 45001, ISO 37001, ДСТУ 8965 тощо.</td>
+          <td data-label="Guard">Не рахує локалізацію, закупівлю послуг ISO-аудиту і акредитацію органу сертифікації.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Комплаєнс-опитувальник</td>
+          <td class="rule" data-label="Правило">Опитувальник забороняє пропуски або відповіді «невідомо»</td>
+          <td class="severity" data-label="Рівень">Середній</td>
+          <td data-label="Що ловить">Вимогу заповнити всі поля, не ставити прочерки, не пропускати питання і не писати “інформація відсутня / невідома”.</td>
+          <td data-label="Guard">Поки лишається середнім сигналом: м'які формулювання типу “просимо уникати” не підвищуються до високого рівня.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Забезпечення виконання договору</td>
+          <td class="rule" data-label="Правило">Грошова застава як забезпечення виконання договору</td>
+          <td class="severity" data-label="Рівень">Високий</td>
+          <td data-label="Що ловить">Вимогу переможцю перерахувати кошти на рахунок замовника як заставу або забезпечення виконання договору.</td>
+          <td data-label="Guard">Не плутає з банківською гарантією, якщо кошти не перераховуються напряму замовнику.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Лист власника сертифіката</td>
+          <td class="rule" data-label="Правило">Потрібен лист від власника сертифіката про право використання</td>
+          <td class="severity" data-label="Рівень">Високий</td>
+          <td data-label="Що ловить">Вимогу отримати лист від власника сертифіката про право використати цей сертифікат у торгах.</td>
+          <td data-label="Guard">Спрацьовує на зв'язку “лист від власника сертифіката” + “право використання” + “у торгах”.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Супутні витрати підрядника</td>
+          <td class="rule" data-label="Правило">Експертиза кошторисної документації коштом підрядника</td>
+          <td class="severity" data-label="Рівень">Середній</td>
+          <td data-label="Що ловить">Вимогу включити у договірну ціну відшкодування або проходження експертизи кошторисної документації.</td>
+          <td data-label="Guard">Не рахує просту згадку експертизи, якщо немає покладання витрат на учасника або підрядника.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Поточні спрацювання в БД</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Категорія</th>
+          <th>Кількість</th>
+          <th>Коментар</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="category" data-label="Категорія">Формат кошторису / ПЗ</td>
+          <td class="severity" data-label="Кількість">8</td>
+          <td data-label="Коментар">Після guard-ів залишились вимоги саме до кошторису або договірної ціни у пропозиції.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Сертифікаційний бар'єр</td>
+          <td class="severity" data-label="Кількість">8</td>
+          <td data-label="Коментар">ISO false positives з локалізації та послуг сертифікації відсіяні.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Комплаєнс-опитувальник</td>
+          <td class="severity" data-label="Кількість">5</td>
+          <td data-label="Коментар">Усі знайдені матчі підтверджені audit-ом як корисні сигнали.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Забезпечення виконання договору</td>
+          <td class="severity" data-label="Кількість">3</td>
+          <td data-label="Коментар">Усі три приклади прямо вимагають грошову заставу.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Лист власника сертифіката</td>
+          <td class="severity" data-label="Кількість">1</td>
+          <td data-label="Коментар">Один точний матч по листу від власника сертифіката.</td>
+        </tr>
+        <tr>
+          <td class="category" data-label="Категорія">Супутні витрати підрядника</td>
+          <td class="severity" data-label="Кількість">1</td>
+          <td data-label="Коментар">Один матч, де ціна має враховувати проходження експертизи кошторису.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <section class="note">
+      <p><strong>Як читати:</strong> правило показує потенційний ризик для конкуренції або прозорості. Остаточне рішення має робити людина по повному документу.</p>
+    </section>
+  </main>
+</body>
+</html>

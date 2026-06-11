@@ -5,7 +5,21 @@ import sqlite3
 from pathlib import Path
 from typing import Iterable
 
-from .models import TenderResult
+from .models import LlmUsage, TenderResult
+
+
+LLM_USAGE_SUM_FIELDS = (
+    "input_tokens",
+    "cached_input_tokens",
+    "billable_input_tokens",
+    "output_tokens",
+    "reasoning_output_tokens",
+    "total_tokens",
+    "input_cost_usd",
+    "cached_input_cost_usd",
+    "output_cost_usd",
+    "total_cost_usd",
+)
 
 
 class ResultStorage:
@@ -63,6 +77,9 @@ class ResultStorage:
         return {row["tender_id"] for row in rows}
 
     def save(self, result: TenderResult) -> None:
+        existing = self.get(result.summary.tender_id)
+        if existing is not None:
+            result.llm_usage = merge_llm_usage(existing.llm_usage, result.llm_usage)
         payload = json.dumps(result.to_dict(), ensure_ascii=False, indent=2)
         summary = result.summary
         with self._connect() as conn:
@@ -165,3 +182,27 @@ class MemoryProcessedSet:
 
     def has_tender(self, tender_id: str) -> bool:
         return tender_id in self.ids
+
+
+def merge_llm_usage(previous: LlmUsage, current: LlmUsage) -> LlmUsage:
+    if not has_billable_usage(previous):
+        return current
+    if not has_billable_usage(current):
+        return previous
+
+    merged = LlmUsage(
+        model=current.model or previous.model,
+        input_usd_per_million=current.input_usd_per_million or previous.input_usd_per_million,
+        cached_input_usd_per_million=(
+            current.cached_input_usd_per_million or previous.cached_input_usd_per_million
+        ),
+        output_usd_per_million=current.output_usd_per_million or previous.output_usd_per_million,
+        source=current.source or previous.source,
+    )
+    for field_name in LLM_USAGE_SUM_FIELDS:
+        setattr(merged, field_name, getattr(previous, field_name) + getattr(current, field_name))
+    return merged
+
+
+def has_billable_usage(usage: LlmUsage) -> bool:
+    return any(getattr(usage, field_name) for field_name in LLM_USAGE_SUM_FIELDS)

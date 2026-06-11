@@ -88,7 +88,7 @@
     <span>{{ results|length }} у поточному списку</span>
   </div>
   <div class="table-wrap">
-    <table>
+    <table class="results-table">
       <thead>
         <tr>
           <th>Тендер</th>
@@ -96,7 +96,6 @@
           <th>Вартість</th>
           <th>CPV / сектор</th>
           <th>Дата обробки</th>
-          <th>Токени / $</th>
           <th>
             <a class="sort-link {% if selected_sort in ['score_asc', 'score_desc'] %}is-active{% endif %}" href="{{ request.url.include_query_params(sort=score_sort) }}">
               Бал <span class="sort-mark">{{ score_sort_marker }}</span>
@@ -115,27 +114,19 @@
         <tr>
           <td>
             <a class="row-title" href="/tenders/{{ result.summary.tender_id }}">{{ result.summary.tender_code }}</a>
-            <span>{{ result.summary.title }}</span>
+            <span class="row-description" title="{{ result.summary.title }}">{{ result.summary.title|table_title }}</span>
           </td>
           <td>{{ result.summary.buyer_name }}</td>
           <td>{{ result.summary.value_amount|uah(result.summary.currency) }}</td>
           <td>{{ result.summary.cpv or "не вказано" }}<br><small>{{ result.summary.sector }}</small></td>
           <td>{{ result.processed_at|date_ua }}</td>
-          <td>
-            {% if result.llm_usage.model %}
-              {{ result.llm_usage.total_tokens|tokens }}<br>
-              <small>{{ result.llm_usage.total_cost_usd|usd }}</small>
-            {% else %}
-              <span class="muted">не рахувалось</span>
-            {% endif %}
-          </td>
           <td><span class="score">{{ result.overall_score }}</span></td>
           <td>{{ result.issues|length }}</td>
           <td><span class="priority priority-{{ result.highest_severity|priority_class }}">{{ result.highest_severity|priority_label }}</span></td>
         </tr>
         {% else %}
         <tr>
-          <td colspan="9" class="empty">Ще немає опрацьованих тендерів. Запустіть обробку партії або одного ID.</td>
+          <td colspan="8" class="empty">Ще немає опрацьованих тендерів. Запустіть обробку партії або одного ID.</td>
         </tr>
         {% endfor %}
       </tbody>

@@ -85,7 +85,6 @@ class TenderProcessor:
         issues, subscores, overall_score = self.analyzer.analyze(parsed_documents)
         llm_engine = "детерміновані правила"
         llm_usage = LlmUsage(
-            model=self.settings.codex_cost_model,
             input_usd_per_million=self.settings.codex_input_usd_per_million,
             cached_input_usd_per_million=self.settings.codex_cached_input_usd_per_million,
             output_usd_per_million=self.settings.codex_output_usd_per_million,

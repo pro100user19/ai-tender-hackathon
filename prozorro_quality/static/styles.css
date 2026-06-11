@@ -221,6 +221,16 @@ table {
   width: 100%;
 }
 
+.results-table {
+  min-width: 1050px;
+}
+
+.results-table th:first-child,
+.results-table td:first-child {
+  min-width: 375px;
+  width: 31%;
+}
+
 th,
 td {
   border-bottom: 1px solid var(--line);
@@ -275,6 +285,13 @@ tbody tr:hover {
   display: block;
   font-weight: 700;
   margin-bottom: 4px;
+}
+
+.row-description {
+  color: #526172;
+  display: block;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .score {
