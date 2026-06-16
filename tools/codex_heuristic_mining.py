@@ -34,9 +34,22 @@ Current deterministic rules already cover:
 - лист виробника: authorization/manufacturer/distributor letters and authorized partner status.
 - географічне обмеження: office/warehouse/service center/local participant location requirements.
 - нечітка вимога: vague quality or subjective timing wording.
-- кваліфікаційні вимоги: high experience thresholds, especially 3+ years/contracts.
+- кваліфікаційні вимоги: high experience thresholds, 3+ years/contracts, narrowed analogous contracts,
+  and analogous contracts at 100% of expected value.
 - документальні вимоги: notarized copies, originals of all docs, all passport pages, repeated free-form certificates.
-- умови оплати/поставки: unclear delivery/payment wording.
+- формат кошторису / ПЗ: AVK-5 and .imd estimate-file requirements.
+- сертифікаційний бар'єр: multiple ISO/DSTU management-system certificates.
+- умови оплати/поставки: unclear delivery/payment wording, long post-payment, budget-payment risk.
+- строки поставки / сервіс: 24h/1-5 day delivery, replacement, repair, and delivery on request day.
+- договірні санкції / дисбаланс: excessive penalties, unilateral acts, unilateral buyer exit/change,
+  uncompensated supplier costs, cash pledge performance security, tax-invoice payment holds.
+- контроль якості / гарантія: supplier-paid tests/samples, warranty media retention, automatic warranty admission.
+- логістика: mandatory physical acceptance, carrier bans, unknown addresses, asphalt-transport distance limits,
+  and goods required to already be in participant ownership.
+- структура закупівлі / доступ: no-lot multi-position bundles, one-participant document relaxation,
+  compliance questionnaires with no unknown/blank answers, revenue tied to expected value.
+- прозорість / треті особи: broad contract confidentiality, certificate-owner letters, fixed personnel/equipment,
+  and site audits with rejection risk.
 There are also synthetic checks for missing payment, missing delivery, missing contract draft,
 missing contract liability terms, and documents that are hard to parse.
 """.strip()
