@@ -161,7 +161,7 @@ SYNTHESIS_SCHEMA: dict[str, Any] = {
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0, help="Maximum tenders to analyze; 0 means all.")
-    parser.add_argument("--timeout", type=int, default=240, help="Per-Codex-call timeout in seconds.")
+    parser.add_argument("--timeout", type=int, default=600, help="Per-Codex-call timeout in seconds.")
     parser.add_argument("--synthesize", action="store_true", help="Synthesize a final heuristic list after analysis.")
     parser.add_argument("--only-synthesize", action="store_true", help="Skip per-tender analysis and synthesize existing JSONL.")
     args = parser.parse_args()
@@ -176,7 +176,7 @@ def main() -> None:
         synthesize(timeout=args.timeout)
 
 
-def analyze_tenders(limit: int, timeout: int) -> None:
+def analyze_tenders(limit: int, timeout: int) -> tuple[int, float]:
     settings = replace(load_settings(), max_text_chars_per_doc=2_000_000)
     storage = ResultStorage(settings.db_path)
     doc_parser = DocumentParser(settings)
@@ -184,6 +184,9 @@ def analyze_tenders(limit: int, timeout: int) -> None:
     results = storage.list_results()
     if limit:
         results = results[:limit]
+
+    analyzed_count = 0
+    total_cost = 0.0
 
     for index, result in enumerate(results, start=1):
         tender_id = result.summary.tender_id
@@ -210,9 +213,12 @@ def analyze_tenders(limit: int, timeout: int) -> None:
                 "usage": usage,
             }
             append_jsonl(ANALYSES_PATH, record)
+            cost = usage.get("total_cost_usd", 0.0) or 0.0
+            total_cost += cost
+            analyzed_count += 1
             print(
                 f"done {result.summary.tender_code} "
-                f"candidates={len(data.get('candidates', []))} cost=${usage.get('total_cost_usd', 0):.4f}"
+                f"candidates={len(data.get('candidates', []))} cost=${cost:.4f}"
             )
         except Exception as exc:
             append_jsonl(
@@ -224,6 +230,7 @@ def analyze_tenders(limit: int, timeout: int) -> None:
                 },
             )
             print(f"fail {result.summary.tender_code}: {exc}")
+    return analyzed_count, total_cost
 
 
 def build_tender_prompt(result: Any, doc_parser: DocumentParser) -> tuple[str, int, int]:
@@ -297,7 +304,7 @@ Documents:
     return prompt, doc_count, char_count
 
 
-def synthesize(timeout: int) -> None:
+def synthesize(timeout: int) -> float:
     records = read_jsonl(ANALYSES_PATH)
     candidates = []
     for record in records:
@@ -326,8 +333,10 @@ Candidates JSON:
     payload = {"synthesis": data, "usage": usage, "source_candidate_count": len(candidates)}
     SYNTHESIS_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     REPORT_PATH.write_text(render_report(payload), encoding="utf-8")
-    print(f"synthesis heuristics={len(data.get('heuristics', []))} cost=${usage.get('total_cost_usd', 0):.4f}")
+    cost = usage.get("total_cost_usd", 0.0) or 0.0
+    print(f"synthesis heuristics={len(data.get('heuristics', []))} cost=${cost:.4f}")
     print(f"report {REPORT_PATH}")
+    return cost
 
 
 def run_codex_json(prompt: str, schema: dict[str, Any], timeout: int) -> tuple[dict[str, Any], dict[str, Any]]:

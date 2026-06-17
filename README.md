@@ -63,6 +63,25 @@ python -m prozorro_quality.cli serve --host 127.0.0.1 --port 8000
 - запропоноване переписування;
 - обмеження автоматичного аналізу.
 
+## React dashboard
+
+Frontend живе окремо в `frontend/` як npm/Vite/React/TypeScript застосунок.
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Для збірки bundle, який підхоплює FastAPI-шаблон:
+
+```bash
+cd frontend
+npm run build
+```
+
+Збірка записує артефакти в `prozorro_quality/static/dashboard/`, а Python-застосунок завантажує `dashboard/dashboard.js`.
+
 ## Налаштування
 
 Можна змінити параметри через змінні середовища:

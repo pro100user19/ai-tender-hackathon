@@ -99,6 +99,7 @@ class TenderResult:
     )
     llm_engine: str = "детерміновані правила"
     llm_usage: LlmUsage = field(default_factory=LlmUsage)
+    document_review: dict[str, list[dict[str, Any]]] = field(default_factory=dict)
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -109,6 +110,7 @@ class TenderResult:
         issues = [Issue(**item) for item in data.get("issues", [])]
         documents = [DocumentResult(**item) for item in data.get("documents", [])]
         llm_usage = LlmUsage(**data.get("llm_usage", {}))
+        document_review = data.get("document_review", {})
         return cls(
             summary=summary,
             processed_at=data["processed_at"],
@@ -123,6 +125,7 @@ class TenderResult:
             ),
             llm_engine=data.get("llm_engine", "детерміновані правила"),
             llm_usage=llm_usage,
+            document_review=document_review,
         )
 
     @property

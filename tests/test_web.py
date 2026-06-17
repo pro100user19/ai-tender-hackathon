@@ -1,7 +1,13 @@
 from types import SimpleNamespace
 
+from fastapi.testclient import TestClient
+
+from prozorro_quality.config import Settings
+from prozorro_quality.models import Issue, TenderResult, TenderSummary
+from prozorro_quality.storage import ResultStorage
 from prozorro_quality.models import priority_label
 from prozorro_quality.web import (
+    create_app,
     category_label,
     format_tokens,
     format_usd,
@@ -11,6 +17,42 @@ from prozorro_quality.web import (
     sort_results,
     table_title,
 )
+
+
+def sample_result() -> TenderResult:
+    return TenderResult(
+        summary=TenderSummary(
+            tender_id="abc",
+            tender_code="UA-TEST",
+            title="Тестовий тендер",
+            buyer_name="Замовник",
+            value_amount=1_500_000,
+            currency="UAH",
+            cpv="30200000-1",
+            sector="Офісна та комп'ютерна техніка",
+            procurement_method_type="aboveThreshold",
+            date_modified="2026-06-09T00:00:00+03:00",
+        ),
+        processed_at="2026-06-09T01:00:00+00:00",
+        overall_score=82,
+        subscores={
+            "повнота": 90,
+            "зрозумілість": 90,
+            "конкурентність": 80,
+            "технічна нейтральність": 70,
+            "якість проєкту договору": 90,
+        },
+        issues=[
+            Issue(
+                category="бренд/модель",
+                title="Можлива прив'язка",
+                severity="висока",
+                evidence_quote="Lenovo",
+                explanation="Потенційний ризик.",
+                suggested_rewrite="Додайте або еквівалент.",
+            )
+        ],
+    )
 
 
 def result(code: str, score: int, priority: str):
@@ -30,6 +72,22 @@ def test_priority_labels_use_masculine_forms_for_dashboard_priority():
     assert priority_label("середня") == "середній"
     assert priority_label("низька") == "низький"
     assert priority_label("немає") == "без сигналів"
+
+
+def test_dashboard_and_detail_routes_render_templates(tmp_path):
+    settings = Settings(data_dir=tmp_path)
+    storage = ResultStorage(settings.db_path)
+    storage.save(sample_result())
+    client = TestClient(create_app(settings))
+
+    dashboard = client.get("/")
+    detail = client.get("/tenders/abc")
+
+    assert dashboard.status_code == 200
+    assert 'id="dashboard-root"' in dashboard.text
+    assert "dashboard/dashboard.js" in dashboard.text
+    assert detail.status_code == 200
+    assert 'data-initial-tender-id="abc"' in detail.text
 
 
 def test_sort_results_by_score_and_priority():

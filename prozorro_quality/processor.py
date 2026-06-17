@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Any
 
-from .analyzer import ParsedDocument, TenderAnalyzer
+from .analyzer import ParsedDocument, TenderAnalyzer, extract_document_review
 from .codex_engine import CodexEngine
 from .config import Settings
 from .models import DocumentResult, LlmUsage, TenderResult
@@ -82,7 +82,9 @@ class TenderProcessor:
                     )
                 )
 
-        issues, subscores, overall_score = self.analyzer.analyze(parsed_documents)
+        active_rules = self.storage.get_active_heuristics()
+        issues, subscores, overall_score = self.analyzer.analyze(parsed_documents, rules=active_rules)
+        document_review = extract_document_review(parsed_documents)
         llm_engine = "детерміновані правила"
         llm_usage = LlmUsage(
             input_usd_per_million=self.settings.codex_input_usd_per_million,
@@ -105,6 +107,7 @@ class TenderProcessor:
             limitations=dedupe_strings(limitations),
             llm_engine=llm_engine,
             llm_usage=llm_usage,
+            document_review=document_review,
         )
         self.storage.save(result)
         return result

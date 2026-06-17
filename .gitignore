@@ -6,3 +6,7 @@ data/cache/
 data/results/
 data/*.sqlite3
 
+/.idea/
+prozorro_quality/static/dashboard/
+frontend/node_modules/
+frontend/*.tsbuildinfo

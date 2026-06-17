@@ -57,11 +57,80 @@ class ResultStorage:
                 """
             )
             conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS user_requests (
+                    user_id TEXT NOT NULL,
+                    tender_id TEXT NOT NULL,
+                    PRIMARY KEY (user_id, tender_id)
+                )
+                """
+            )
+            conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS heuristics (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    category TEXT NOT NULL,
+                    title TEXT NOT NULL,
+                    severity TEXT NOT NULL,
+                    explanation TEXT NOT NULL,
+                    suggested_rewrite TEXT NOT NULL,
+                    subscores TEXT NOT NULL,
+                    pattern TEXT NOT NULL,
+                    status TEXT NOT NULL DEFAULT 'active'
+                )
+                """
+            )
+            conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS mining_history (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    requested_at TEXT NOT NULL,
+                    tenders_limit INTEGER NOT NULL,
+                    tenders_analyzed INTEGER DEFAULT 0,
+                    total_cost_usd REAL DEFAULT 0.0,
+                    status TEXT NOT NULL,
+                    error TEXT
+                )
+                """
+            )
+            conn.execute(
                 "CREATE INDEX IF NOT EXISTS idx_processed_at ON processed_tenders(processed_at DESC)"
             )
             conn.execute(
                 "CREATE INDEX IF NOT EXISTS idx_score ON processed_tenders(overall_score)"
             )
+            conn.execute(
+                "CREATE INDEX IF NOT EXISTS idx_user_requests ON user_requests(user_id)"
+            )
+            conn.execute(
+                "CREATE INDEX IF NOT EXISTS idx_heuristics_status ON heuristics(status)"
+            )
+            conn.execute(
+                "CREATE INDEX IF NOT EXISTS idx_mining_history_requested ON mining_history(requested_at DESC)"
+            )
+
+            cursor = conn.execute("SELECT COUNT(*) as cnt FROM heuristics")
+            row = cursor.fetchone()
+            if row["cnt"] == 0:
+                from .analyzer import RULES
+                for r in RULES:
+                    conn.execute(
+                        """
+                        INSERT INTO heuristics (category, title, severity, explanation, suggested_rewrite, subscores, pattern, status)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, 'active')
+                        """,
+                        (
+                            r.category,
+                            r.title,
+                            r.severity,
+                            r.explanation,
+                            r.suggested_rewrite,
+                            json.dumps(list(r.subscores), ensure_ascii=False),
+                            r.pattern.pattern,
+                        ),
+                    )
+
+
 
     def has_tender(self, tender_id: str) -> bool:
         with self._connect() as conn:
@@ -174,6 +243,143 @@ class ResultStorage:
             "total_llm_tokens": total_llm_tokens,
             "sectors": sorted(sector_counts.items(), key=lambda item: item[1], reverse=True),
         }
+
+    def add_user_request(self, user_id: str, tender_id: str) -> None:
+        with self._connect() as conn:
+            conn.execute(
+                "INSERT OR IGNORE INTO user_requests (user_id, tender_id) VALUES (?, ?)",
+                (user_id, tender_id),
+            )
+
+    def get_user_request_ids(self, user_id: str) -> set[str]:
+        with self._connect() as conn:
+            rows = conn.execute(
+                "SELECT tender_id FROM user_requests WHERE user_id = ?",
+                (user_id,),
+            ).fetchall()
+        return {row["tender_id"] for row in rows}
+
+    def get_active_heuristics(self) -> list[Any]:
+        from .analyzer import Rule
+        import re
+        with self._connect() as conn:
+            rows = conn.execute(
+                "SELECT category, title, severity, explanation, suggested_rewrite, subscores, pattern FROM heuristics WHERE status = 'active'"
+            ).fetchall()
+        rules = []
+        for row in rows:
+            try:
+                subscores = tuple(json.loads(row["subscores"]))
+            except Exception:
+                subscores = ()
+            try:
+                pattern = re.compile(row["pattern"], re.UNICODE)
+            except Exception:
+                continue
+            rules.append(
+                Rule(
+                    category=row["category"],
+                    title=row["title"],
+                    severity=row["severity"],
+                    explanation=row["explanation"],
+                    suggested_rewrite=row["suggested_rewrite"],
+                    subscores=subscores,
+                    pattern=pattern,
+                )
+            )
+        return rules
+
+    def list_heuristics(self) -> list[dict[str, Any]]:
+        with self._connect() as conn:
+            rows = conn.execute(
+                "SELECT id, category, title, severity, explanation, suggested_rewrite, subscores, pattern, status FROM heuristics ORDER BY id DESC"
+            ).fetchall()
+        res = []
+        for row in rows:
+            try:
+                subscores = json.loads(row["subscores"])
+            except Exception:
+                subscores = []
+            res.append({
+                "id": row["id"],
+                "category": row["category"],
+                "title": row["title"],
+                "severity": row["severity"],
+                "explanation": row["explanation"],
+                "suggested_rewrite": row["suggested_rewrite"],
+                "subscores": subscores,
+                "pattern": row["pattern"],
+                "status": row["status"],
+            })
+        return res
+
+    def update_heuristic_status(self, heuristic_id: int, status: str) -> None:
+        with self._connect() as conn:
+            conn.execute(
+                "UPDATE heuristics SET status = ? WHERE id = ?",
+                (status, heuristic_id),
+            )
+
+    def add_heuristic(self, category: str, title: str, severity: str, explanation: str, suggested_rewrite: str, subscores: list[str], pattern: str, status: str = 'to_review') -> int:
+        with self._connect() as conn:
+            cursor = conn.execute(
+                """
+                INSERT INTO heuristics (category, title, severity, explanation, suggested_rewrite, subscores, pattern, status)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                (category, title, severity, explanation, suggested_rewrite, json.dumps(subscores, ensure_ascii=False), pattern, status),
+            )
+            return cursor.lastrowid
+
+    def start_mining_run(self, limit: int) -> int:
+        import datetime
+        requested_at = datetime.datetime.utcnow().isoformat()
+        with self._connect() as conn:
+            cursor = conn.execute(
+                """
+                INSERT INTO mining_history (requested_at, tenders_limit, tenders_analyzed, total_cost_usd, status, error)
+                VALUES (?, ?, 0, 0.0, 'running', NULL)
+                """,
+                (requested_at, limit),
+            )
+            return cursor.lastrowid
+
+    def update_mining_run(
+        self,
+        run_id: int,
+        status: str,
+        tenders_analyzed: int = 0,
+        total_cost_usd: float = 0.0,
+        error: str | None = None,
+    ) -> None:
+        with self._connect() as conn:
+            conn.execute(
+                """
+                UPDATE mining_history
+                SET status = ?, tenders_analyzed = ?, total_cost_usd = ?, error = ?
+                WHERE id = ?
+                """,
+                (status, tenders_analyzed, total_cost_usd, error, run_id),
+            )
+
+    def list_mining_history(self) -> list[dict[str, Any]]:
+        with self._connect() as conn:
+            rows = conn.execute(
+                "SELECT id, requested_at, tenders_limit, tenders_analyzed, total_cost_usd, status, error FROM mining_history ORDER BY requested_at DESC"
+            ).fetchall()
+        from typing import Any
+        return [
+            {
+                "id": row["id"],
+                "requested_at": row["requested_at"],
+                "tenders_limit": row["tenders_limit"],
+                "tenders_analyzed": row["tenders_analyzed"],
+                "total_cost_usd": row["total_cost_usd"],
+                "status": row["status"],
+                "error": row["error"],
+            }
+            for row in rows
+        ]
 
 
 class MemoryProcessedSet:
