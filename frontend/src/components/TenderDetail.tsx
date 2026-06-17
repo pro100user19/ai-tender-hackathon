@@ -11,6 +11,16 @@ interface TenderDetailProps {
 
 export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode {
   const [activeTab, setActiveTab] = useState<"risks" | "doc-review" | "tech-details">("risks");
+  const [isOwner, setIsOwner] = useState<boolean>(() => {
+    return localStorage.getItem("role_is_owner") === "true";
+  });
+
+  const handleToggleOwner = (checked: boolean) => {
+    setIsOwner(checked);
+    localStorage.setItem("role_is_owner", String(checked));
+  };
+
+  const effectiveIsOwner = !!(result.is_private || (isOwner && result.is_user_request));
 
   const summary = result.summary;
   const highestSeverity = getHighestSeverity(result);
@@ -105,9 +115,31 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
         {activeTab === "risks" && (
           <div className="detail-tab-content active" id="tab-risks">
             <section className="issues">
-              <div className="section-head">
-                <h2>Виявлені сигнали</h2>
-                <span>{issues.length}</span>
+              <div className="section-head" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "12px" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+                  <h2>Виявлені сигнали</h2>
+                  <span className="badge" style={{
+                    background: "var(--line)",
+                    color: "var(--muted)",
+                    borderRadius: "999px",
+                    padding: "2px 8px",
+                    fontSize: "12px",
+                    fontWeight: 800
+                  }}>{issues.length}</span>
+                </div>
+                
+                {/* Role/Owner Selector */}
+                {!result.is_private && result.is_user_request && (
+                  <label className="toggle" style={{ margin: 0, fontSize: "13.5px", fontWeight: 700, color: "var(--muted)", display: "flex", alignItems: "center", gap: "8px" }}>
+                    <input
+                      type="checkbox"
+                      checked={isOwner}
+                      onChange={(e) => handleToggleOwner(e.target.checked)}
+                      style={{ width: "16px", height: "16px", minHeight: "16px", margin: 0 }}
+                    />
+                    <span>Я замовник (власник тендера)</span>
+                  </label>
+                )}
               </div>
               {Object.entries(groupedIssues).map(([category, catIssues]) => (
                 <div className="issue-group" key={category}>
@@ -127,9 +159,11 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
                       <p>
                         <strong>Пояснення:</strong> {issue.explanation}
                       </p>
-                      <p>
-                        <strong>Можливе переписування:</strong> {issue.suggested_rewrite}
-                      </p>
+                      {effectiveIsOwner && issue.suggested_rewrite && (
+                        <p>
+                          <strong>Можливе переписування:</strong> {issue.suggested_rewrite}
+                        </p>
+                      )}
                     </article>
                   ))}
                 </div>

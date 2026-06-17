@@ -46,6 +46,7 @@ export function AdminView(): ReactNode {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [activeSubTab, setActiveSubTab] = useState<"to_review" | "active" | "rejected">("to_review");
+  const [activeAdminTab, setActiveAdminTab] = useState<"moderation" | "mining" | "user_llm">("moderation");
 
   // Login form states
   const [usernameInput, setUsernameInput] = useState("");
@@ -439,462 +440,565 @@ export function AdminView(): ReactNode {
   }
 
   return (
-    <div className="heuristics-view">
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: "20px", flexWrap: "wrap" }}>
+    <div className="heuristics-view" style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
+      {/* Header section with logout */}
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", borderBottom: "1px solid var(--line)", paddingBottom: "16px", flexWrap: "wrap", gap: "12px" }}>
         <div>
-          <div style={{ display: "flex", alignItems: "center", gap: "16px" }}>
-            <h2>Панель адміністрування евристик</h2>
-            <button
-              type="button"
-              onClick={handleLogout}
-              style={{
-                borderRadius: "20px",
-                background: "var(--panel-soft)",
-                color: "var(--muted)",
-                fontWeight: 700,
-                padding: "4px 12px",
-                border: "1px solid var(--line)",
-                cursor: "pointer",
-                fontSize: "11px"
-              }}
-            >
-              Вийти
-            </button>
-          </div>
-          <p className="lead">
-            Керування правилами аналізу та запуск автоматичного LLM-пошуку нових дискримінаційних умов.
+          <h2 style={{ margin: 0, fontSize: "22px" }}>Панель адміністрування</h2>
+          <p className="lead" style={{ margin: "4px 0 0 0", fontSize: "14px", color: "var(--muted)" }}>
+            Керування автоматичними правилами аналізу та перегляд історії LLM-операцій.
           </p>
         </div>
+        <button
+          type="button"
+          onClick={handleLogout}
+          style={{
+            borderRadius: "20px",
+            background: "var(--panel-soft)",
+            color: "var(--muted)",
+            fontWeight: 700,
+            padding: "6px 16px",
+            border: "1px solid var(--line)",
+            cursor: "pointer",
+            fontSize: "12px",
+            transition: "all 0.2s ease"
+          }}
+          onMouseOver={(e) => {
+            e.currentTarget.style.borderColor = "var(--red)";
+            e.currentTarget.style.color = "var(--red)";
+            e.currentTarget.style.background = "var(--red-soft)";
+          }}
+          onMouseOut={(e) => {
+            e.currentTarget.style.borderColor = "var(--line)";
+            e.currentTarget.style.color = "var(--muted)";
+            e.currentTarget.style.background = "var(--panel-soft)";
+          }}
+        >
+          Вийти
+        </button>
+      </div>
 
-        {/* LLM Mining Control Panel */}
-        <div className="mining-control-card" style={{
-          background: "var(--panel-soft)",
-          border: "1px solid var(--line)",
-          borderRadius: "8px",
-          padding: "16px",
-          maxWidth: "420px",
-          flex: "1 1 300px"
-        }}>
-          <h3 style={{ fontSize: "14px", fontWeight: 800, margin: "0 0 10px 0", color: "var(--ink)" }}>
-            Автоматичний LLM-пошук евристик
-          </h3>
-          {miningStatus.status === "running" ? (
-            <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
-              <div className="spinner" style={{
-                width: "20px",
-                height: "20px",
-                border: "3px solid var(--line)",
-                borderTopColor: "var(--blue)",
-                borderRadius: "50%",
-                animation: "spin 1s linear infinite"
-              }}></div>
-              <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
-                Аналізуємо тендери та виділяємо нові правила...
-              </span>
+      {/* Main Admin Tab Switcher */}
+      <div style={{
+        display: "flex",
+        gap: "6px",
+        background: "var(--panel-soft)",
+        padding: "4px",
+        borderRadius: "8px",
+        border: "1px solid var(--line)",
+        width: "fit-content",
+        marginBottom: "10px"
+      }}>
+        <button
+          type="button"
+          onClick={() => setActiveAdminTab("moderation")}
+          style={{
+            background: activeAdminTab === "moderation" ? "var(--panel)" : "transparent",
+            color: activeAdminTab === "moderation" ? "var(--ink)" : "var(--muted)",
+            boxShadow: activeAdminTab === "moderation" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
+            border: "none",
+            borderRadius: "6px",
+            padding: "8px 18px",
+            fontWeight: 700,
+            cursor: "pointer",
+            fontSize: "13.5px",
+            transition: "all 0.2s ease"
+          }}
+        >
+          Правила та модерація
+        </button>
+        <button
+          type="button"
+          onClick={() => setActiveAdminTab("mining")}
+          style={{
+            background: activeAdminTab === "mining" ? "var(--panel)" : "transparent",
+            color: activeAdminTab === "mining" ? "var(--ink)" : "var(--muted)",
+            boxShadow: activeAdminTab === "mining" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
+            border: "none",
+            borderRadius: "6px",
+            padding: "8px 18px",
+            fontWeight: 700,
+            cursor: "pointer",
+            fontSize: "13.5px",
+            transition: "all 0.2s ease"
+          }}
+        >
+          Історія запусків майнінгу
+        </button>
+        <button
+          type="button"
+          onClick={() => setActiveAdminTab("user_llm")}
+          style={{
+            background: activeAdminTab === "user_llm" ? "var(--panel)" : "transparent",
+            color: activeAdminTab === "user_llm" ? "var(--ink)" : "var(--muted)",
+            boxShadow: activeAdminTab === "user_llm" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
+            border: "none",
+            borderRadius: "6px",
+            padding: "8px 18px",
+            fontWeight: 700,
+            cursor: "pointer",
+            fontSize: "13.5px",
+            transition: "all 0.2s ease"
+          }}
+        >
+          Історія LLM-пояснень користувачів
+        </button>
+      </div>
+
+      {error && <p className="panel-error">{error}</p>}
+
+      {/* Render content based on activeAdminTab */}
+      {activeAdminTab === "moderation" && (
+        <>
+          {/* LLM Mining Trigger Panel at the top of Moderation */}
+          <div className="action-panel" style={{
+            padding: "16px",
+            background: "var(--panel-soft)",
+            border: "1px solid var(--line)",
+            borderRadius: "8px",
+            marginBottom: "16px",
+            display: "flex",
+            justifyContent: "space-between",
+            alignItems: "center",
+            flexWrap: "wrap",
+            gap: "16px"
+          }}>
+            <div style={{ flex: "1 1 400px" }}>
+              <h3 style={{ fontSize: "14px", fontWeight: 800, margin: "0 0 4px 0", color: "var(--ink)" }}>
+                Автоматичний LLM-пошук нових евристик
+              </h3>
+              <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0 }}>
+                Запуск фонового аналізу останніх тендерів з Prozorro для виявлення нових дискримінаційних умов.
+              </p>
             </div>
-          ) : (
-            <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
-              {miningStatus.status === "error" && (
-                <div className="panel-error" style={{ fontSize: "12px", padding: "6px 10px" }}>
-                  Помилка: {miningStatus.error}
-                </div>
-              )}
-              <div style={{ display: "flex", gap: "10px", alignItems: "center" }}>
-                <label style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", flex: 1 }}>
-                  Кількість тендерів
-                  <select
-                    value={mineLimit}
-                    onChange={(e) => setMineLimit(Number(e.target.value))}
-                    style={{
-                      width: "100%",
-                      marginTop: "4px",
-                      borderRadius: "6px",
-                      border: "1px solid var(--line)",
-                      padding: "6px",
-                      fontSize: "13px"
-                    }}
-                  >
-                    <option value="3">3 тендери</option>
-                    <option value="5">5 тендерів</option>
-                    <option value="10">10 тендерів</option>
-                    <option value="20">20 тендерів</option>
-                  </select>
-                </label>
+            {miningStatus.status === "running" ? (
+              <div style={{ display: "flex", alignItems: "center", gap: "10px", background: "var(--blue-soft)", padding: "8px 12px", borderRadius: "6px" }}>
+                <div className="spinner" style={{
+                  width: "16px",
+                  height: "16px",
+                  border: "2px solid var(--line)",
+                  borderTopColor: "var(--blue)",
+                  borderRadius: "50%",
+                  animation: "spin 1s linear infinite"
+                }}></div>
+                <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--blue-strong)" }}>
+                  Аналіз тендерів у фоні...
+                </span>
+              </div>
+            ) : (
+              <div style={{ display: "flex", gap: "10px", alignItems: "center", flexWrap: "wrap" }}>
+                {miningStatus.status === "error" && (
+                  <span style={{ fontSize: "12px", color: "var(--red)", fontWeight: 500, marginRight: "8px" }}>
+                    Помилка: {miningStatus.error}
+                  </span>
+                )}
+                <select
+                  value={mineLimit}
+                  onChange={(e) => setMineLimit(Number(e.target.value))}
+                  style={{
+                    borderRadius: "6px",
+                    border: "1px solid var(--line)",
+                    padding: "6px 10px",
+                    fontSize: "13px",
+                    width: "130px",
+                    minHeight: "36px",
+                    background: "var(--panel)"
+                  }}
+                >
+                  <option value="3">3 тендери</option>
+                  <option value="5">5 тендерів</option>
+                  <option value="10">10 тендерів</option>
+                  <option value="20">20 тендерів</option>
+                </select>
                 <button
                   type="button"
                   onClick={handleRunMining}
                   style={{
-                    alignSelf: "flex-end",
                     borderRadius: "6px",
                     background: "var(--blue-strong)",
                     color: "#fff",
                     fontWeight: 700,
-                    padding: "8px 14px",
+                    padding: "8px 16px",
                     border: "none",
                     cursor: "pointer",
-                    fontSize: "12px",
-                    height: "35px"
+                    fontSize: "13px",
+                    height: "36px"
                   }}
                 >
                   Запустити пошук
                 </button>
               </div>
-            </div>
-          )}
-
-          {/* Runs History */}
-          <div style={{ marginTop: "16px", borderTop: "1px solid var(--line)", paddingTop: "12px" }}>
-            <h4 style={{ fontSize: "12px", fontWeight: 800, margin: "0 0 8px 0", color: "var(--ink)" }}>
-              Історія запусків майнінгу
-            </h4>
-            {historyLoading && miningHistory.length === 0 ? (
-              <div style={{ fontSize: "11px", color: "var(--muted)" }}>Завантаження історії...</div>
-            ) : miningHistory.length === 0 ? (
-              <div style={{ fontSize: "11px", color: "var(--muted)" }}>Історія пошуків порожня</div>
-            ) : (
-              <div style={{
-                display: "flex",
-                flexDirection: "column",
-                gap: "8px",
-                maxHeight: "180px",
-                overflowY: "auto",
-                paddingRight: "4px",
-                marginBottom: "12px"
-              }}>
-                {miningHistory.map((run) => (
-                  <div key={run.id} style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    alignItems: "center",
-                    fontSize: "11px",
-                    padding: "8px",
-                    borderRadius: "6px",
-                    background: "var(--panel)",
-                    border: "1px solid var(--line)",
-                  }}>
-                    <div style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-                      <span style={{ fontWeight: 700, color: "var(--ink)" }}>
-                        {formatDateTime(run.requested_at)}
-                      </span>
-                      <span style={{ color: "var(--muted)", fontSize: "10px" }}>
-                        Обмеження: {run.tenders_limit} | Знайдено нових: {run.tenders_analyzed}
-                      </span>
-                      {run.error && (
-                        <span style={{ color: "var(--red)", fontSize: "9px", marginTop: "2px" }} title={run.error}>
-                          Помилка: {run.error.length > 40 ? run.error.substring(0, 37) + "..." : run.error}
-                        </span>
-                      )}
-                    </div>
-                    <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: "4px" }}>
-                      <span style={{ fontWeight: 800, color: "var(--ink)" }}>
-                        ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
-                      </span>
-                      <span className={`status-badge ${run.status}`} style={{
-                        fontSize: "9px",
-                        fontWeight: 800,
-                        padding: "2px 6px",
-                        borderRadius: "4px",
-                        textTransform: "uppercase",
-                        background: run.status === "success" ? "var(--green-soft)" : run.status === "running" ? "var(--blue-soft)" : "var(--red-soft)",
-                        color: run.status === "success" ? "var(--green-strong)" : run.status === "running" ? "var(--blue-strong)" : "var(--red)"
-                      }}>
-                        {run.status === "success" ? "Успішно" : run.status === "running" ? "Пошук..." : "Помилка"}
-                      </span>
-                    </div>
-                  </div>
-                ))}
-              </div>
             )}
           </div>
 
-          {/* User Flow LLM Explanations */}
-          <div style={{ marginTop: "16px", borderTop: "1px solid var(--line)", paddingTop: "12px" }}>
-            <h4 style={{ fontSize: "12px", fontWeight: 800, margin: "0 0 8px 0", color: "var(--ink)" }}>
-              Історія LLM-пояснень користувачів
-            </h4>
-            {userLlmLoading && userLlmHistory.length === 0 ? (
-              <div style={{ fontSize: "11px", color: "var(--muted)" }}>Завантаження історії...</div>
-            ) : userLlmHistory.length === 0 ? (
-              <div style={{ fontSize: "11px", color: "var(--muted)" }}>Немає запусків LLM від користувачів</div>
-            ) : (
-              <div style={{
-                display: "flex",
-                flexDirection: "column",
-                gap: "8px",
-                maxHeight: "180px",
-                overflowY: "auto",
-                paddingRight: "4px"
+          {/* Admin Sub Tab Switching */}
+          <div className="heuristics-filters" style={{
+            display: "flex",
+            gap: "10px",
+            borderBottom: "1px solid var(--line)",
+            paddingBottom: "12px",
+            marginTop: "6px"
+          }}>
+            <button
+              type="button"
+              onClick={() => setActiveSubTab("to_review")}
+              style={{
+                background: activeSubTab === "to_review" ? "var(--blue-soft)" : "transparent",
+                color: activeSubTab === "to_review" ? "var(--blue-strong)" : "var(--muted)",
+                border: "none",
+                borderRadius: "6px",
+                padding: "8px 16px",
+                fontWeight: 800,
+                cursor: "pointer",
+                fontSize: "13px",
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "6px"
+              }}
+            >
+              Потребують модерації
+              <span style={{
+                background: toReviewList.length > 0 ? "var(--red)" : "var(--line)",
+                color: toReviewList.length > 0 ? "#fff" : "var(--muted)",
+                borderRadius: "999px",
+                padding: "2px 6px",
+                fontSize: "10px"
               }}>
-                {userLlmHistory.map((run) => (
-                  <div key={run.tender_id} style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    alignItems: "center",
-                    fontSize: "11px",
-                    padding: "8px",
-                    borderRadius: "6px",
-                    background: "var(--panel)",
-                    border: "1px solid var(--line)",
-                  }}>
-                    <div style={{ display: "flex", flexDirection: "column", gap: "2px", flex: 1, minWidth: 0 }}>
-                      <span style={{ fontWeight: 700, color: "var(--ink)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }} title={run.title}>
-                        {run.tender_code}
-                      </span>
-                      <span style={{ color: "var(--muted)", fontSize: "10px" }}>
-                        {formatDateTime(run.processed_at)}
-                      </span>
+                {toReviewList.length.toString()}
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setActiveSubTab("active")}
+              style={{
+                background: activeSubTab === "active" ? "var(--blue-soft)" : "transparent",
+                color: activeSubTab === "active" ? "var(--blue-strong)" : "var(--muted)",
+                border: "none",
+                borderRadius: "6px",
+                padding: "8px 16px",
+                fontWeight: 800,
+                cursor: "pointer",
+                fontSize: "13px",
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "6px"
+              }}
+            >
+              Активні правила
+              <span style={{
+                background: "var(--line)",
+                color: "var(--muted)",
+                borderRadius: "999px",
+                padding: "2px 6px",
+                fontSize: "10px"
+              }}>
+                {activeList.length.toString()}
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setActiveSubTab("rejected")}
+              style={{
+                background: activeSubTab === "rejected" ? "var(--blue-soft)" : "transparent",
+                color: activeSubTab === "rejected" ? "var(--blue-strong)" : "var(--muted)",
+                border: "none",
+                borderRadius: "6px",
+                padding: "8px 16px",
+                fontWeight: 800,
+                cursor: "pointer",
+                fontSize: "13px",
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "6px"
+              }}
+            >
+              Відхилені правила
+              <span style={{
+                background: "var(--line)",
+                color: "var(--muted)",
+                borderRadius: "999px",
+                padding: "2px 6px",
+                fontSize: "10px"
+              }}>
+                {rejectedList.length.toString()}
+              </span>
+            </button>
+          </div>
+
+          {/* Rules Grid */}
+          <div className="heuristics-grid">
+            {currentList.map((rule) => {
+              const sevClass = rule.severity === "висока" ? "high" : rule.severity === "середня" ? "medium" : "low";
+              const isExpanded = expandedHeuristics.has(rule.id);
+              return (
+                <div key={rule.id} className="heuristic-rule-card" style={{ borderLeft: "4px solid var(--line)" }}>
+                  <div className="heuristic-card-header">
+                    <span className="heuristic-category">{rule.category}</span>
+                    <span className={`heuristic-severity ${sevClass}`}>{rule.severity}</span>
+                  </div>
+                  <h3>{rule.title}</h3>
+                  <p className="heuristic-explanation">{rule.explanation}</p>
+                  
+                  {rule.suggested_rewrite && (
+                    <div className="heuristic-rewrite">
+                      <strong>Рекомендоване редагування:</strong> {rule.suggested_rewrite}
                     </div>
-                    <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: "2px", marginLeft: "12px" }}>
-                      <span style={{ fontWeight: 800, color: "var(--ink)" }}>
-                        ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
-                      </span>
-                      <span style={{ color: "var(--muted)", fontSize: "9px" }}>
-                        {run.tokens ? run.tokens.toLocaleString() : "0"} токенів
-                      </span>
+                  )}
+
+                  {rule.subscores && rule.subscores.length > 0 && (
+                    <div className="heuristic-subscores" style={{ marginBottom: "8px" }}>
+                      {rule.subscores.map((sub, sIdx) => (
+                        <span key={sIdx} className="heuristic-subscore-tag">
+                          {sub}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+
+                  <div style={{ marginTop: "auto", paddingTop: "10px", borderTop: "1px solid var(--line)", display: "flex", flexDirection: "column", gap: "8px" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                      <button
+                        type="button"
+                        className="heuristic-pattern-toggle"
+                        onClick={() => toggleExpand(rule.id)}
+                        style={{ fontSize: "11px" }}
+                      >
+                        {isExpanded ? "▲ Сховати вираз" : "▼ Показати вираз"}
+                      </button>
+                    </div>
+
+                    {isExpanded && (
+                      <div className="heuristic-pattern-box" style={{ margin: 0 }}>
+                        <code>{rule.pattern}</code>
+                      </div>
+                    )}
+
+                    {/* Moderation Controls */}
+                    <div style={{ display: "flex", gap: "6px", marginTop: "4px" }}>
+                      {rule.status === "to_review" && (
+                        <>
+                          <button
+                            type="button"
+                            onClick={() => handleUpdateStatus(rule.id, "active")}
+                            style={{
+                              flex: 1,
+                              background: "var(--green-soft)",
+                              color: "var(--green-strong)",
+                              border: "1px solid var(--green)",
+                              borderRadius: "4px",
+                              padding: "6px 8px",
+                              fontSize: "11px",
+                              fontWeight: 700,
+                              cursor: "pointer"
+                            }}
+                          >
+                            ✓ Затвердити
+                          </button>
+                          <button
+                            type="button"
+                            onClick={() => handleUpdateStatus(rule.id, "rejected")}
+                            style={{
+                              flex: 1,
+                              background: "var(--red-soft)",
+                              color: "var(--red)",
+                              border: "1px solid var(--red)",
+                              borderRadius: "4px",
+                              padding: "6px 8px",
+                              fontSize: "11px",
+                              fontWeight: 700,
+                              cursor: "pointer"
+                            }}
+                          >
+                            ✕ Відхилити
+                          </button>
+                        </>
+                      )}
+                      {rule.status === "active" && (
+                        <button
+                          type="button"
+                          onClick={() => handleUpdateStatus(rule.id, "rejected")}
+                          style={{
+                            width: "100%",
+                            background: "var(--red-soft)",
+                            color: "var(--red)",
+                            border: "1px solid var(--red)",
+                            borderRadius: "4px",
+                            padding: "6px 8px",
+                            fontSize: "11px",
+                            fontWeight: 700,
+                            cursor: "pointer"
+                          }}
+                        >
+                          ✕ Деактивувати
+                        </button>
+                      )}
+                      {rule.status === "rejected" && (
+                        <button
+                          type="button"
+                          onClick={() => handleUpdateStatus(rule.id, "active")}
+                          style={{
+                            width: "100%",
+                            background: "var(--green-soft)",
+                            color: "var(--green-strong)",
+                            border: "1px solid var(--green)",
+                            borderRadius: "4px",
+                            padding: "6px 8px",
+                            fontSize: "11px",
+                            fontWeight: 700,
+                            cursor: "pointer"
+                          }}
+                        >
+                          ✓ Активувати
+                        </button>
+                      )}
                     </div>
                   </div>
-                ))}
+                </div>
+              );
+            })}
+          </div>
+
+          {currentList.length === 0 && (
+            <p style={{ textAlign: "center", color: "var(--muted)", padding: "40px 20px" }}>
+              Немає правил у цій категорії.
+            </p>
+          )}
+        </>
+      )}
+
+      {activeAdminTab === "mining" && (
+        <div style={{ display: "flex", flexDirection: "column", gap: "24px" }}>
+          {/* Runs History Table */}
+          <div style={{ background: "var(--panel)", border: "1px solid var(--line)", borderRadius: "8px", padding: "20px" }}>
+            <h3 style={{ fontSize: "16px", fontWeight: 800, margin: "0 0 16px 0", color: "var(--ink)" }}>
+              Історія запусків автоматичного пошуку (майнінгу)
+            </h3>
+            
+            {historyLoading && miningHistory.length === 0 ? (
+              <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)" }}>
+                Завантаження історії...
+              </div>
+            ) : miningHistory.length === 0 ? (
+              <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)", fontStyle: "italic" }}>
+                Історія запусків порожня
+              </div>
+            ) : (
+              <div className="table-wrap">
+                <table className="results-table" style={{ minWidth: "100%", width: "100%" }}>
+                  <thead>
+                    <tr>
+                      <th style={{ width: "20%" }}>Час запуску</th>
+                      <th style={{ width: "15%" }}>Кількість тендерів</th>
+                      <th style={{ width: "25%" }}>Результати / Нові правила</th>
+                      <th style={{ width: "15%" }}>Статус</th>
+                      <th style={{ width: "25%", textAlign: "right" }}>Вартість запиту (USD)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {miningHistory.map((run) => (
+                      <tr key={run.id}>
+                        <td>
+                          <strong>{formatDateTime(run.requested_at)}</strong>
+                        </td>
+                        <td>{run.tenders_limit}</td>
+                        <td>
+                          <div>Знайдено: {run.tenders_analyzed}</div>
+                          {run.error && (
+                            <div style={{ color: "var(--red)", fontSize: "11px", marginTop: "4px", maxWidth: "300px" }} title={run.error}>
+                              Помилка: {run.error}
+                            </div>
+                          )}
+                        </td>
+                        <td>
+                          <span className={`status-badge ${run.status}`} style={{
+                            fontSize: "11px",
+                            fontWeight: 800,
+                            padding: "4px 8px",
+                            borderRadius: "4px",
+                            textTransform: "uppercase",
+                            background: run.status === "success" ? "var(--green-soft)" : run.status === "running" ? "var(--blue-soft)" : "var(--red-soft)",
+                            color: run.status === "success" ? "var(--green-strong)" : run.status === "running" ? "var(--blue-strong)" : "var(--red)"
+                          }}>
+                            {run.status === "success" ? "Успішно" : run.status === "running" ? "Пошук..." : "Помилка"}
+                          </span>
+                        </td>
+                        <td style={{ textAlign: "right", fontWeight: 800 }}>
+                          ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
               </div>
             )}
           </div>
         </div>
-      </div>
+      )}
 
-      {error && <p className="panel-error">{error}</p>}
+      {activeAdminTab === "user_llm" && (
+        <div style={{ background: "var(--panel)", border: "1px solid var(--line)", borderRadius: "8px", padding: "20px" }}>
+          <div style={{ marginBottom: "16px" }}>
+            <h3 style={{ fontSize: "16px", fontWeight: 800, margin: "0 0 4px 0", color: "var(--ink)" }}>
+              Історія LLM-пояснень користувачів
+            </h3>
+            <p style={{ fontSize: "13.5px", color: "var(--muted)", margin: 0 }}>
+              Перелік генерацій пояснень дискримінаційних умов та оцінки ризиків, що були активовані користувачами для конкретних тендерів.
+            </p>
+          </div>
 
-      {/* Admin Tab Switching */}
-      <div className="heuristics-filters" style={{
-        display: "flex",
-        gap: "10px",
-        borderBottom: "1px solid var(--line)",
-        paddingBottom: "12px",
-        marginTop: "16px"
-      }}>
-        <button
-          type="button"
-          onClick={() => setActiveSubTab("to_review")}
-          style={{
-            background: activeSubTab === "to_review" ? "var(--blue-soft)" : "transparent",
-            color: activeSubTab === "to_review" ? "var(--blue-strong)" : "var(--muted)",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 16px",
-            fontWeight: 800,
-            cursor: "pointer",
-            fontSize: "13px",
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "6px"
-          }}
-        >
-          Потребують модерації
-          <span style={{
-            background: toReviewList.length > 0 ? "var(--red)" : "var(--line)",
-            color: toReviewList.length > 0 ? "#fff" : "var(--muted)",
-            borderRadius: "999px",
-            padding: "2px 6px",
-            fontSize: "10px"
-          }}>
-            {toReviewList.length.toString()}
-          </span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => setActiveSubTab("active")}
-          style={{
-            background: activeSubTab === "active" ? "var(--blue-soft)" : "transparent",
-            color: activeSubTab === "active" ? "var(--blue-strong)" : "var(--muted)",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 16px",
-            fontWeight: 800,
-            cursor: "pointer",
-            fontSize: "13px",
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "6px"
-          }}
-        >
-          Активні правила
-          <span style={{
-            background: "var(--line)",
-            color: "var(--muted)",
-            borderRadius: "999px",
-            padding: "2px 6px",
-            fontSize: "10px"
-          }}>
-            {activeList.length.toString()}
-          </span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => setActiveSubTab("rejected")}
-          style={{
-            background: activeSubTab === "rejected" ? "var(--blue-soft)" : "transparent",
-            color: activeSubTab === "rejected" ? "var(--blue-strong)" : "var(--muted)",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 16px",
-            fontWeight: 800,
-            cursor: "pointer",
-            fontSize: "13px",
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "6px"
-          }}
-        >
-          Відхилені правила
-          <span style={{
-            background: "var(--line)",
-            color: "var(--muted)",
-            borderRadius: "999px",
-            padding: "2px 6px",
-            fontSize: "10px"
-          }}>
-            {rejectedList.length.toString()}
-          </span>
-        </button>
-      </div>
-
-      {/* Rules Grid */}
-      <div className="heuristics-grid">
-        {currentList.map((rule, idx) => {
-          const sevClass = rule.severity === "висока" ? "high" : rule.severity === "середня" ? "medium" : "low";
-          const isExpanded = expandedHeuristics.has(rule.id);
-          return (
-            <div key={rule.id} className="heuristic-rule-card" style={{ borderLeft: "4px solid var(--line)" }}>
-              <div className="heuristic-card-header">
-                <span className="heuristic-category">{rule.category}</span>
-                <span className={`heuristic-severity ${sevClass}`}>{rule.severity}</span>
-              </div>
-              <h3>{rule.title}</h3>
-              <p className="heuristic-explanation">{rule.explanation}</p>
-              
-              {rule.suggested_rewrite && (
-                <div className="heuristic-rewrite">
-                  <strong>Рекомендоване редагування:</strong> {rule.suggested_rewrite}
-                </div>
-              )}
-
-              {rule.subscores && rule.subscores.length > 0 && (
-                <div className="heuristic-subscores" style={{ marginBottom: "8px" }}>
-                  {rule.subscores.map((sub, sIdx) => (
-                    <span key={sIdx} className="heuristic-subscore-tag">
-                      {sub}
-                    </span>
-                  ))}
-                </div>
-              )}
-
-              <div style={{ marginTop: "auto", paddingTop: "10px", borderTop: "1px solid var(--line)", display: "flex", flexDirection: "column", gap: "8px" }}>
-                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                  <button
-                    type="button"
-                    className="heuristic-pattern-toggle"
-                    onClick={() => toggleExpand(rule.id)}
-                    style={{ fontSize: "11px" }}
-                  >
-                    {isExpanded ? "▲ Сховати вираз" : "▼ Показати вираз"}
-                  </button>
-                </div>
-
-                {isExpanded && (
-                  <div className="heuristic-pattern-box" style={{ margin: 0 }}>
-                    <code>{rule.pattern}</code>
-                  </div>
-                )}
-
-                {/* Moderation Controls */}
-                <div style={{ display: "flex", gap: "6px", marginTop: "4px" }}>
-                  {rule.status === "to_review" && (
-                    <>
-                      <button
-                        type="button"
-                        onClick={() => handleUpdateStatus(rule.id, "active")}
-                        style={{
-                          flex: 1,
-                          background: "var(--green-soft)",
-                          color: "var(--green-strong)",
-                          border: "1px solid var(--green)",
-                          borderRadius: "4px",
-                          padding: "6px 8px",
-                          fontSize: "11px",
-                          fontWeight: 700,
-                          cursor: "pointer"
-                        }}
-                      >
-                        ✓ Затвердити
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => handleUpdateStatus(rule.id, "rejected")}
-                        style={{
-                          flex: 1,
-                          background: "var(--red-soft)",
-                          color: "var(--red)",
-                          border: "1px solid var(--red)",
-                          borderRadius: "4px",
-                          padding: "6px 8px",
-                          fontSize: "11px",
-                          fontWeight: 700,
-                          cursor: "pointer"
-                        }}
-                      >
-                        ✕ Відхилити
-                      </button>
-                    </>
-                  )}
-                  {rule.status === "active" && (
-                    <button
-                      type="button"
-                      onClick={() => handleUpdateStatus(rule.id, "rejected")}
-                      style={{
-                        width: "100%",
-                        background: "var(--red-soft)",
-                        color: "var(--red)",
-                        border: "1px solid var(--red)",
-                        borderRadius: "4px",
-                        padding: "6px 8px",
-                        fontSize: "11px",
-                        fontWeight: 700,
-                        cursor: "pointer"
-                      }}
-                    >
-                      ✕ Деактивувати
-                    </button>
-                  )}
-                  {rule.status === "rejected" && (
-                    <button
-                      type="button"
-                      onClick={() => handleUpdateStatus(rule.id, "active")}
-                      style={{
-                        width: "100%",
-                        background: "var(--green-soft)",
-                        color: "var(--green-strong)",
-                        border: "1px solid var(--green)",
-                        borderRadius: "4px",
-                        padding: "6px 8px",
-                        fontSize: "11px",
-                        fontWeight: 700,
-                        cursor: "pointer"
-                      }}
-                    >
-                      ✓ Активувати
-                    </button>
-                  )}
-                </div>
-              </div>
+          {userLlmLoading && userLlmHistory.length === 0 ? (
+            <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)" }}>
+              Завантаження історії...
             </div>
-          );
-        })}
-      </div>
-
-      {currentList.length === 0 && (
-        <p style={{ textAlign: "center", color: "var(--muted)", padding: "40px 20px" }}>
-          Немає правил у цій категорії.
-        </p>
+          ) : userLlmHistory.length === 0 ? (
+            <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)", fontStyle: "italic" }}>
+              Немає запитів на пояснення від користувачів
+            </div>
+          ) : (
+            <div className="table-wrap">
+              <table className="results-table" style={{ minWidth: "100%", width: "100%" }}>
+                <thead>
+                  <tr>
+                    <th style={{ width: "20%" }}>Код тендера</th>
+                    <th style={{ width: "40%" }}>Назва закупівлі</th>
+                    <th style={{ width: "15%" }}>Час запиту</th>
+                    <th style={{ width: "12%" }}>Використано токенів</th>
+                    <th style={{ width: "13%", textAlign: "right" }}>Вартість (USD)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {userLlmHistory.map((run) => (
+                    <tr key={run.tender_id}>
+                      <td>
+                        <a
+                          href={`/tenders/${run.tender_id}`}
+                          onClick={(e) => {
+                            e.preventDefault();
+                            window.history.pushState({ tab: "requests", tenderId: run.tender_id }, "", `/tenders/${run.tender_id}`);
+                            window.dispatchEvent(new PopStateEvent("popstate"));
+                          }}
+                          style={{ fontWeight: 800, color: "var(--blue-strong)", textDecoration: "underline" }}
+                        >
+                          {run.tender_code}
+                        </a>
+                      </td>
+                      <td style={{ maxWidth: "300px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }} title={run.title}>
+                        {run.title}
+                      </td>
+                      <td>{formatDateTime(run.processed_at)}</td>
+                      <td>{run.tokens ? run.tokens.toLocaleString() : "0"}</td>
+                      <td style={{ textAlign: "right", fontWeight: 800 }}>
+                        ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+        </div>
       )}
     </div>
   );

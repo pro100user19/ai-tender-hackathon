@@ -6,15 +6,17 @@ import os
 import secrets
 import json
 import re
+import uuid
+import shutil
 
-from fastapi import FastAPI, Form, Request, Depends, HTTPException, BackgroundTasks
+from fastapi import FastAPI, Form, Request, Depends, HTTPException, BackgroundTasks, File, UploadFile
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 from .config import Settings, load_settings
-from .models import TenderResult, priority_class, priority_label, priority_weight
-from .processor import TenderProcessor
+from .models import TenderResult, TenderSummary, DocumentResult, LlmUsage, priority_class, priority_label, priority_weight
+from .processor import TenderProcessor, dedupe_strings
 from .storage import ResultStorage
 
 import base64
@@ -172,7 +174,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.mount("/static", StaticFiles(directory=str(static_dir)), name="static")
 
     def serve_dashboard(request: Request, category: str = "", max_score: str = "", sort: str = "processed_desc"):
-        results = storage.list_results()
+        user_id = getattr(request.state, "user_id", None)
+        results = storage.list_results(user_id)
         categories = sorted({issue.category for result in results for issue in result.issues})
         filtered = results
         score_limit = parse_int(max_score)
@@ -191,7 +194,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             {
                 "request": request,
                 "results": filtered,
-                "aggregate": storage.aggregate(),
+                "aggregate": storage.aggregate(user_id),
                 "categories": categories,
                 "selected_category": category,
                 "max_score": score_limit if score_limit is not None else "",
@@ -235,11 +238,132 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             from fastapi import HTTPException
             raise HTTPException(status_code=400, detail=str(e))
 
+    @app.post("/process/custom")
+    async def process_custom(
+        request: Request,
+        title: str = Form(...),
+        description: str = Form(default=""),
+        value_amount: float = Form(default=None),
+        sector: str = Form(default="інші галузі"),
+        cpv: str = Form(default=""),
+        use_codex: bool = Form(default=False),
+        files: list[UploadFile] = File(default=[]),
+    ):
+        from datetime import datetime, timezone
+        from .models import DocumentResult, LlmUsage, TenderResult, TenderSummary
+        from .analyzer import ParsedDocument, extract_document_review
+        from .codex_engine import CodexEngine
+
+        tender_id = f"draft_{uuid.uuid4().hex}"
+        tender_code = f"ЧЕРНЕТКА-{datetime.now().strftime('%Y%m%d%H%M%S')}"
+
+        upload_dir = Path("data/uploads") / tender_id
+        upload_dir.mkdir(parents=True, exist_ok=True)
+
+        parsed_documents = []
+        limitations = []
+
+        # 1. Process files
+        for uploaded_file in files:
+            if not uploaded_file.filename:
+                continue
+
+            # Save uploaded file
+            file_path = upload_dir / uploaded_file.filename
+            with file_path.open("wb") as buffer:
+                shutil.copyfileobj(uploaded_file.file, buffer)
+
+            doc = DocumentResult(
+                id=str(uuid.uuid4().hex),
+                title=uploaded_file.filename,
+                format=uploaded_file.content_type or "application/octet-stream",
+                url="",
+                local_path=str(file_path),
+                status="завантажено",
+            )
+
+            # Parse text from file
+            doc, text = processor.parser.parse(doc)
+            if doc.limitation:
+                limitations.append(f"{doc.title}: {doc.limitation}")
+            parsed_documents.append(ParsedDocument(document=doc, text=text))
+
+        # 2. Process description (as fallback text document)
+        desc_text = f"Назва закупівлі:\n{title}\n\nОпис та технічні вимоги:\n{description}"
+        fallback_doc = DocumentResult(
+            id="description",
+            title="Опис та технічне завдання",
+            format="text/plain",
+            url="",
+            local_path=None,
+            status="опрацьовано",
+            parsed_chars=len(desc_text),
+        )
+        parsed_documents.append(ParsedDocument(document=fallback_doc, text=desc_text))
+
+        # 3. Analyze
+        active_rules = storage.get_active_heuristics()
+        issues, subscores, overall_score = processor.analyzer.analyze(parsed_documents, rules=active_rules)
+        document_review = extract_document_review(parsed_documents)
+
+        # 4. LLM / Codex
+        llm_engine = "детерміновані правила"
+        llm_usage = LlmUsage(
+            input_usd_per_million=processor.settings.codex_input_usd_per_million,
+            cached_input_usd_per_million=processor.settings.codex_cached_input_usd_per_million,
+            output_usd_per_million=processor.settings.codex_output_usd_per_million,
+        )
+        if use_codex:
+            issues, codex_limitation, llm_usage = CodexEngine(processor.settings).enrich(issues)
+            llm_engine = "Codex + детерміновані правила"
+            if codex_limitation:
+                limitations.append(codex_limitation)
+
+        # 5. Create TenderResult
+        result = TenderResult(
+            summary=TenderSummary(
+                tender_id=tender_id,
+                tender_code=tender_code,
+                title=title,
+                buyer_name="Власник чернетки",
+                value_amount=value_amount,
+                currency="UAH",
+                cpv=cpv or None,
+                sector=sector or "інші галузі",
+                procurement_method_type="draft",
+                date_modified=datetime.now(timezone.utc).isoformat(),
+            ),
+            processed_at=datetime.now(timezone.utc).isoformat(),
+            overall_score=overall_score,
+            subscores=subscores,
+            issues=issues,
+            documents=[p.document for p in parsed_documents],
+            limitations=dedupe_strings(limitations),
+            llm_engine=llm_engine,
+            llm_usage=llm_usage,
+            document_review=document_review,
+            is_private=True,
+        )
+
+        storage.save(result)
+
+        # 6. Associate with user requests
+        user_id = getattr(request.state, "user_id", None)
+        if user_id:
+            storage.add_user_request(user_id, tender_id)
+
+        return {"success": True, "result": result.to_dict()}
+
     @app.get("/tenders/{tender_id}", response_class=HTMLResponse)
     def detail(request: Request, tender_id: str):
         result = storage.get(tender_id)
         if result is None:
             return HTMLResponse("Тендер не знайдено", status_code=404)
+        if result.is_private:
+            user_id = getattr(request.state, "user_id", None)
+            user_request_ids = storage.get_user_request_ids(user_id) if user_id else set()
+            if tender_id not in user_request_ids:
+                return HTMLResponse("Доступ заборонено", status_code=403)
         return templates.TemplateResponse(
             request,
             "index.html",
@@ -269,17 +393,22 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         user_id = getattr(request.state, "user_id", None)
         user_request_ids = storage.get_user_request_ids(user_id) if user_id else set()
         results = []
-        for result in storage.list_results():
+        for result in storage.list_results(user_id):
             d = result.to_dict()
             d["is_user_request"] = result.summary.tender_id in user_request_ids
             results.append(d)
         return results
 
     @app.get("/api/results/{tender_id}")
-    def api_result(tender_id: str):
+    def api_result(tender_id: str, request: Request):
         result = storage.get(tender_id)
         if result is None:
             return {"error": "not_found"}
+        if result.is_private:
+            user_id = getattr(request.state, "user_id", None)
+            user_request_ids = storage.get_user_request_ids(user_id) if user_id else set()
+            if tender_id not in user_request_ids:
+                raise HTTPException(status_code=403, detail="Доступ заборонено")
         return result.to_dict()
 
     @app.get("/heuristics", response_class=HTMLResponse)

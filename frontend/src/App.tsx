@@ -200,6 +200,45 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
     }
   };
 
+  const handleProcessCustom = async (formData: FormData) => {
+    setIsProcessing(true);
+    setSingleError(null);
+
+    try {
+      const response = await fetch("/process/custom", {
+        method: "POST",
+        body: formData,
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        const errorMessage = errorData.detail || `Помилка сервера (${response.status})`;
+        throw new Error(errorMessage);
+      }
+
+      const payload = await response.json();
+      const newTenderId = payload.result?.summary?.tender_id;
+
+      // Re-fetch all results to refresh the table lists
+      const refreshResponse = await fetch(apiUrl, { headers: { Accept: "application/json" } });
+      if (!refreshResponse.ok) {
+        throw new Error("Не вдалося оновити список результатів");
+      }
+      const newResults = await refreshResponse.json();
+      setResults(Array.isArray(newResults) ? (newResults as TenderResult[]) : []);
+
+      // Select the new tender
+      if (newTenderId) {
+        setSelectedTenderId(newTenderId);
+      }
+    } catch (err: any) {
+      console.error("Error processing custom draft:", err);
+      setSingleError(err.message || "Не вдалося обробити чернетку");
+    } finally {
+      setIsProcessing(false);
+    }
+  };
+
   const tabFilteredResults = useMemo(() => {
     if (activeTab === "requests") {
       return results.filter((result) => result.is_user_request);
@@ -361,6 +400,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
                       isProcessing={isProcessing}
                       singleError={singleError}
                       onProcessTender={handleProcessTenders}
+                      onProcessCustom={handleProcessCustom}
                     />
                     {activeTab === "all" && (
                       <RiskOverview

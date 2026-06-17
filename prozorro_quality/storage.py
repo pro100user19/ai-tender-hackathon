@@ -109,6 +109,12 @@ class ResultStorage:
                 "CREATE INDEX IF NOT EXISTS idx_mining_history_requested ON mining_history(requested_at DESC)"
             )
 
+            # Migration: add is_private column if not exists
+            try:
+                conn.execute("ALTER TABLE processed_tenders ADD COLUMN is_private INTEGER DEFAULT 0")
+            except sqlite3.OperationalError:
+                pass
+
             cursor = conn.execute("SELECT COUNT(*) as cnt FROM heuristics")
             row = cursor.fetchone()
             if row["cnt"] == 0:
@@ -151,15 +157,16 @@ class ResultStorage:
             result.llm_usage = merge_llm_usage(existing.llm_usage, result.llm_usage)
         payload = json.dumps(result.to_dict(), ensure_ascii=False, indent=2)
         summary = result.summary
+        is_private = 1 if result.is_private else 0
         with self._connect() as conn:
             conn.execute(
                 """
                 INSERT INTO processed_tenders (
                     tender_id, tender_code, title, buyer_name, value_amount, currency, cpv,
                     sector, procurement_method_type, date_modified, processed_at,
-                    overall_score, issue_count, highest_severity, result_json
+                    overall_score, issue_count, highest_severity, result_json, is_private
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(tender_id) DO UPDATE SET
                     tender_code = excluded.tender_code,
                     title = excluded.title,
@@ -174,7 +181,8 @@ class ResultStorage:
                     overall_score = excluded.overall_score,
                     issue_count = excluded.issue_count,
                     highest_severity = excluded.highest_severity,
-                    result_json = excluded.result_json
+                    result_json = excluded.result_json,
+                    is_private = excluded.is_private
                 """,
                 (
                     summary.tender_id,
@@ -192,6 +200,7 @@ class ResultStorage:
                     len(result.issues),
                     result.highest_severity,
                     payload,
+                    is_private,
                 ),
             )
 
@@ -205,15 +214,30 @@ class ResultStorage:
             return None
         return TenderResult.from_dict(json.loads(row["result_json"]))
 
-    def list_results(self) -> list[TenderResult]:
+    def list_results(self, user_id: str | None = None) -> list[TenderResult]:
+        if user_id:
+            query = """
+                SELECT pt.result_json 
+                FROM processed_tenders pt
+                LEFT JOIN user_requests ur ON pt.tender_id = ur.tender_id AND ur.user_id = ?
+                WHERE COALESCE(pt.is_private, 0) = 0 OR ur.user_id IS NOT NULL
+                ORDER BY pt.processed_at DESC
+            """
+            params = (user_id,)
+        else:
+            query = """
+                SELECT result_json 
+                FROM processed_tenders 
+                WHERE COALESCE(is_private, 0) = 0 
+                ORDER BY processed_at DESC
+            """
+            params = ()
         with self._connect() as conn:
-            rows = conn.execute(
-                "SELECT result_json FROM processed_tenders ORDER BY processed_at DESC"
-            ).fetchall()
+            rows = conn.execute(query, params).fetchall()
         return [TenderResult.from_dict(json.loads(row["result_json"])) for row in rows]
 
-    def aggregate(self) -> dict[str, object]:
-        results = self.list_results()
+    def aggregate(self, user_id: str | None = None) -> dict[str, object]:
+        results = self.list_results(user_id=user_id)
         total = len(results)
         if not results:
             return {

@@ -100,6 +100,7 @@ class TenderResult:
     llm_engine: str = "детерміновані правила"
     llm_usage: LlmUsage = field(default_factory=LlmUsage)
     document_review: dict[str, list[dict[str, Any]]] = field(default_factory=dict)
+    is_private: bool = False
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -126,6 +127,7 @@ class TenderResult:
             llm_engine=data.get("llm_engine", "детерміновані правила"),
             llm_usage=llm_usage,
             document_review=document_review,
+            is_private=bool(data.get("is_private", False)),
         )
 
     @property

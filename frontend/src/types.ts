@@ -79,6 +79,7 @@ export interface TenderResult {
   subscores: Record<string, number>;
   issues?: Issue[];
   is_user_request?: boolean;
+  is_private?: boolean;
   documents?: DocumentResult[];
   limitations?: string[];
   human_review_notice?: string;

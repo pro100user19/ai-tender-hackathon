@@ -8,7 +8,50 @@ interface ActionPanelProps {
   isProcessing?: boolean;
   singleError?: string | null;
   onProcessTender?: (tenderIds: string[], useCodex: boolean) => void;
+  onProcessCustom?: (formData: FormData) => void;
 }
+
+const SECTORS = [
+  "інші галузі",
+  "Сільське господарство та продукти",
+  "Нафтопродукти, паливо, електроенергія",
+  "Харчові продукти",
+  "Одяг та взуття",
+  "Друкована продукція",
+  "Хімічна продукція",
+  "Офісна та комп'ютерна техніка",
+  "Електричні машини",
+  "Радіо-, теле-, комунікаційне обладнання",
+  "Медичне обладнання та фармацевтика",
+  "Транспортне обладнання",
+  "Охоронне та пожежне обладнання",
+  "Музичні інструменти, спорттовари та ігри",
+  "Меблі та побутова продукція",
+  "Промислова техніка",
+  "Будівельні матеріали",
+  "Будівельні роботи",
+  "Програмне забезпечення",
+  "Ремонт і технічне обслуговування",
+  "Послуги зі встановлення",
+  "Готельні та ресторанні послуги",
+  "Транспортні послуги",
+  "Допоміжні транспортні послуги",
+  "Поштові та телекомунікаційні послуги",
+  "Комунальні послуги",
+  "Фінансові та страхові послуги",
+  "Нерухомість",
+  "Архітектурні та інженерні послуги",
+  "ІТ-послуги",
+  "Дослідження та розробки",
+  "Адміністративні послуги",
+  "Сільськогосподарські та лісові послуги",
+  "Ділові послуги",
+  "Освітні послуги",
+  "Охорона здоров'я та соціальні послуги",
+  "Екологічні послуги",
+  "Культурні та спортивні послуги",
+  "Інші послуги",
+];
 
 export function ActionPanel({
   defaultPages,
@@ -17,9 +60,55 @@ export function ActionPanel({
   isProcessing = false,
   singleError = null,
   onProcessTender,
+  onProcessCustom,
 }: ActionPanelProps): ReactNode {
   const [tenderIds, setTenderIds] = useState<string[]>([""]);
   const [useCodex, setUseCodex] = useState(false);
+
+  // Custom draft states
+  const [customTitle, setCustomTitle] = useState("");
+  const [customDesc, setCustomDesc] = useState("");
+  const [customBudget, setCustomBudget] = useState("");
+  const [customCpv, setCustomCpv] = useState("");
+  const [customSector, setCustomSector] = useState("інші галузі");
+  const [customFiles, setCustomFiles] = useState<FileList | null>(null);
+  const [customUseCodex, setCustomUseCodex] = useState(false);
+
+  const handleSubmitCustom = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (onProcessCustom) {
+      const formData = new FormData();
+      formData.append("title", customTitle.trim());
+      formData.append("description", customDesc.trim());
+      if (customBudget.trim()) {
+        formData.append("value_amount", customBudget.trim());
+      }
+      formData.append("sector", customSector);
+      formData.append("cpv", customCpv.trim());
+      if (customUseCodex) {
+        formData.append("use_codex", "true");
+      }
+      if (customFiles) {
+        for (let i = 0; i < customFiles.length; i++) {
+          const file = customFiles[i];
+          if (file) {
+            formData.append("files", file);
+          }
+        }
+      }
+      onProcessCustom(formData);
+      // Reset form fields
+      setCustomTitle("");
+      setCustomDesc("");
+      setCustomBudget("");
+      setCustomCpv("");
+      setCustomSector("інші галузі");
+      setCustomFiles(null);
+      // Reset input element value to clear file selection
+      const fileInput = e.currentTarget.querySelector('input[type="file"]') as HTMLInputElement;
+      if (fileInput) fileInput.value = "";
+    }
+  };
 
   const handleSubmitSingle = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -118,6 +207,105 @@ export function ActionPanel({
           </label>
           <button type="submit" disabled={isProcessing}>
             {isProcessing ? "Опрацювання..." : "Перевірити"}
+          </button>
+        </form>
+      )}
+      {onProcessCustom && (
+        <form className="action-panel" onSubmit={handleSubmitCustom}>
+          <div className="panel-title">
+            <h2>Аналіз чернетки</h2>
+            <span>перед публікацією</span>
+          </div>
+          
+          <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
+            <label>
+              Назва закупівлі *
+              <input
+                type="text"
+                placeholder="Закупівля комп'ютерного обладнання"
+                value={customTitle}
+                onChange={(e) => setCustomTitle(e.target.value)}
+                disabled={isProcessing}
+                required
+              />
+            </label>
+
+            <label>
+              Опис та вимоги
+              <textarea
+                placeholder="Введіть опис предмета закупівлі або детальні технічні вимоги..."
+                value={customDesc}
+                onChange={(e) => setCustomDesc(e.target.value)}
+                disabled={isProcessing}
+                style={{ minHeight: "80px" }}
+              />
+            </label>
+
+            <label>
+              Код CPV
+              <input
+                type="text"
+                placeholder="Наприклад: 30230000-0"
+                value={customCpv}
+                onChange={(e) => setCustomCpv(e.target.value)}
+                disabled={isProcessing}
+              />
+            </label>
+
+            <div className="mini-grid">
+              <label>
+                Бюджет, грн
+                <input
+                  type="number"
+                  placeholder="100000"
+                  value={customBudget}
+                  onChange={(e) => setCustomBudget(e.target.value)}
+                  disabled={isProcessing}
+                  min="0"
+                  step="0.01"
+                />
+              </label>
+
+              <label>
+                Галузь
+                <select
+                  value={customSector}
+                  onChange={(e) => setCustomSector(e.target.value)}
+                  disabled={isProcessing}
+                >
+                  {SECTORS.map((sec) => (
+                    <option key={sec} value={sec}>
+                      {sec}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            </div>
+
+            <label>
+              Тендерна документація (файли)
+              <input
+                type="file"
+                multiple
+                onChange={(e) => setCustomFiles(e.target.files)}
+                disabled={isProcessing}
+                style={{ padding: "6px 10px", height: "auto" }}
+              />
+            </label>
+          </div>
+
+          <label className="toggle">
+            <input
+              type="checkbox"
+              checked={customUseCodex}
+              onChange={(e) => setCustomUseCodex(e.target.checked)}
+              disabled={isProcessing}
+            />
+            <span>LLM пояснення</span>
+          </label>
+
+          <button type="submit" disabled={isProcessing}>
+            {isProcessing ? "Опрацювання..." : "Перевірити чернетку"}
           </button>
         </form>
       )}
