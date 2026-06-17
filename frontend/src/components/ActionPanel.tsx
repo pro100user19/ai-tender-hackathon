@@ -63,7 +63,7 @@ export function ActionPanel({
           {singleError && <div className="panel-error" style={{ whiteSpace: "pre-line" }}>{singleError}</div>}
           
           <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
-            <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+            <span style={{ fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
               Prozorro UUID
             </span>
             

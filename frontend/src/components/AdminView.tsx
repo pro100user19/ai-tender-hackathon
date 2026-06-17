@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
+import { CustomSelect } from "./CustomSelect";
 
 interface AdminHeuristic {
   id: number;
@@ -335,7 +336,7 @@ export function AdminView(): ReactNode {
           gap: "16px"
         }}>
           <div style={{ textAlign: "center", marginBottom: "8px" }}>
-            <h2 style={{ fontSize: "20px", fontWeight: 800, margin: "0 0 6px 0", color: "var(--ink)" }}>
+            <h2 style={{ fontSize: "20px", fontWeight: 600, margin: "0 0 6px 0", color: "var(--ink)" }}>
               Вхід до адмін-панелі
             </h2>
             <p style={{ fontSize: "13px", color: "var(--muted)", margin: 0 }}>
@@ -349,7 +350,7 @@ export function AdminView(): ReactNode {
             </div>
           )}
 
-          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
             Ім'я користувача
             <input
               type="text"
@@ -369,7 +370,7 @@ export function AdminView(): ReactNode {
             />
           </label>
 
-          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
             Пароль
             <input
               type="password"
@@ -398,7 +399,7 @@ export function AdminView(): ReactNode {
               borderRadius: "6px",
               background: "var(--blue-strong)",
               color: "#fff",
-              fontWeight: 800,
+              fontWeight: 600,
               fontSize: "14px",
               border: "none",
               cursor: "pointer",
@@ -451,7 +452,7 @@ export function AdminView(): ReactNode {
                 borderRadius: "20px",
                 background: "var(--panel-soft)",
                 color: "var(--muted)",
-                fontWeight: 700,
+                fontWeight: 500,
                 padding: "4px 12px",
                 border: "1px solid var(--line)",
                 cursor: "pointer",
@@ -475,7 +476,7 @@ export function AdminView(): ReactNode {
           maxWidth: "420px",
           flex: "1 1 300px"
         }}>
-          <h3 style={{ fontSize: "14px", fontWeight: 800, margin: "0 0 10px 0", color: "var(--ink)" }}>
+          <h3 style={{ fontSize: "14px", fontWeight: 600, margin: "0 0 10px 0", color: "var(--ink)" }}>
             Автоматичний LLM-пошук евристик
           </h3>
           {miningStatus.status === "running" ? (
@@ -488,7 +489,7 @@ export function AdminView(): ReactNode {
                 borderRadius: "50%",
                 animation: "spin 1s linear infinite"
               }}></div>
-              <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+              <span style={{ fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
                 Аналізуємо тендери та виділяємо нові правила...
               </span>
             </div>
@@ -500,25 +501,18 @@ export function AdminView(): ReactNode {
                 </div>
               )}
               <div style={{ display: "flex", gap: "10px", alignItems: "center" }}>
-                <label style={{ fontSize: "12px", fontWeight: 700, color: "var(--muted)", flex: 1 }}>
+                <label style={{ fontSize: "12px", fontWeight: 500, color: "var(--muted)", flex: 1 }}>
                   Кількість тендерів
-                  <select
-                    value={mineLimit}
-                    onChange={(e) => setMineLimit(Number(e.target.value))}
-                    style={{
-                      width: "100%",
-                      marginTop: "4px",
-                      borderRadius: "6px",
-                      border: "1px solid var(--line)",
-                      padding: "6px",
-                      fontSize: "13px"
-                    }}
-                  >
-                    <option value="3">3 тендери</option>
-                    <option value="5">5 тендерів</option>
-                    <option value="10">10 тендерів</option>
-                    <option value="20">20 тендерів</option>
-                  </select>
+                  <CustomSelect
+                    value={mineLimit.toString()}
+                    onChange={(value) => setMineLimit(Number(value))}
+                    options={[
+                      { label: "3 тендери", value: "3" },
+                      { label: "5 тендерів", value: "5" },
+                      { label: "10 тендерів", value: "10" },
+                      { label: "20 тендерів", value: "20" },
+                    ]}
+                  />
                 </label>
                 <button
                   type="button"
@@ -528,7 +522,7 @@ export function AdminView(): ReactNode {
                     borderRadius: "6px",
                     background: "var(--blue-strong)",
                     color: "#fff",
-                    fontWeight: 700,
+                    fontWeight: 500,
                     padding: "8px 14px",
                     border: "none",
                     cursor: "pointer",
@@ -544,7 +538,7 @@ export function AdminView(): ReactNode {
 
           {/* Runs History */}
           <div style={{ marginTop: "16px", borderTop: "1px solid var(--line)", paddingTop: "12px" }}>
-            <h4 style={{ fontSize: "12px", fontWeight: 800, margin: "0 0 8px 0", color: "var(--ink)" }}>
+            <h4 style={{ fontSize: "12px", fontWeight: 600, margin: "0 0 8px 0", color: "var(--ink)" }}>
               Історія запусків майнінгу
             </h4>
             {historyLoading && miningHistory.length === 0 ? (
@@ -573,7 +567,7 @@ export function AdminView(): ReactNode {
                     border: "1px solid var(--line)",
                   }}>
                     <div style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-                      <span style={{ fontWeight: 700, color: "var(--ink)" }}>
+                      <span style={{ fontWeight: 500, color: "var(--ink)" }}>
                         {formatDateTime(run.requested_at)}
                       </span>
                       <span style={{ color: "var(--muted)", fontSize: "10px" }}>
@@ -586,12 +580,12 @@ export function AdminView(): ReactNode {
                       )}
                     </div>
                     <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: "4px" }}>
-                      <span style={{ fontWeight: 800, color: "var(--ink)" }}>
+                      <span style={{ fontWeight: 600, color: "var(--ink)" }}>
                         ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
                       </span>
                       <span className={`status-badge ${run.status}`} style={{
                         fontSize: "9px",
-                        fontWeight: 800,
+                        fontWeight: 600,
                         padding: "2px 6px",
                         borderRadius: "4px",
                         textTransform: "uppercase",
@@ -609,7 +603,7 @@ export function AdminView(): ReactNode {
 
           {/* User Flow LLM Explanations */}
           <div style={{ marginTop: "16px", borderTop: "1px solid var(--line)", paddingTop: "12px" }}>
-            <h4 style={{ fontSize: "12px", fontWeight: 800, margin: "0 0 8px 0", color: "var(--ink)" }}>
+            <h4 style={{ fontSize: "12px", fontWeight: 600, margin: "0 0 8px 0", color: "var(--ink)" }}>
               Історія LLM-пояснень користувачів
             </h4>
             {userLlmLoading && userLlmHistory.length === 0 ? (
@@ -637,7 +631,7 @@ export function AdminView(): ReactNode {
                     border: "1px solid var(--line)",
                   }}>
                     <div style={{ display: "flex", flexDirection: "column", gap: "2px", flex: 1, minWidth: 0 }}>
-                      <span style={{ fontWeight: 700, color: "var(--ink)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }} title={run.title}>
+                      <span style={{ fontWeight: 500, color: "var(--ink)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }} title={run.title}>
                         {run.tender_code}
                       </span>
                       <span style={{ color: "var(--muted)", fontSize: "10px" }}>
@@ -645,7 +639,7 @@ export function AdminView(): ReactNode {
                       </span>
                     </div>
                     <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: "2px", marginLeft: "12px" }}>
-                      <span style={{ fontWeight: 800, color: "var(--ink)" }}>
+                      <span style={{ fontWeight: 600, color: "var(--ink)" }}>
                         ${run.total_cost_usd ? run.total_cost_usd.toFixed(4) : "0.0000"}
                       </span>
                       <span style={{ color: "var(--muted)", fontSize: "9px" }}>
@@ -679,7 +673,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 16px",
-            fontWeight: 800,
+            fontWeight: 600,
             cursor: "pointer",
             fontSize: "13px",
             display: "inline-flex",
@@ -708,7 +702,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 16px",
-            fontWeight: 800,
+            fontWeight: 600,
             cursor: "pointer",
             fontSize: "13px",
             display: "inline-flex",
@@ -737,7 +731,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 16px",
-            fontWeight: 800,
+            fontWeight: 600,
             cursor: "pointer",
             fontSize: "13px",
             display: "inline-flex",
@@ -821,7 +815,7 @@ export function AdminView(): ReactNode {
                           borderRadius: "4px",
                           padding: "6px 8px",
                           fontSize: "11px",
-                          fontWeight: 700,
+                          fontWeight: 500,
                           cursor: "pointer"
                         }}
                       >
@@ -838,7 +832,7 @@ export function AdminView(): ReactNode {
                           borderRadius: "4px",
                           padding: "6px 8px",
                           fontSize: "11px",
-                          fontWeight: 700,
+                          fontWeight: 500,
                           cursor: "pointer"
                         }}
                       >
@@ -858,7 +852,7 @@ export function AdminView(): ReactNode {
                         borderRadius: "4px",
                         padding: "6px 8px",
                         fontSize: "11px",
-                        fontWeight: 700,
+                        fontWeight: 500,
                         cursor: "pointer"
                       }}
                     >
@@ -877,7 +871,7 @@ export function AdminView(): ReactNode {
                         borderRadius: "4px",
                         padding: "6px 8px",
                         fontSize: "11px",
-                        fontWeight: 700,
+                        fontWeight: 500,
                         cursor: "pointer"
                       }}
                     >

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
+import { CustomSelect } from "./CustomSelect";
 
 interface Heuristic {
   category: string;
@@ -123,26 +124,15 @@ export function HeuristicsView(): ReactNode {
           />
         </div>
 
-        <div>
-          <select
+        <div style={{ minWidth: "240px" }}>
+          <CustomSelect
             value={selectedCategory}
-            onChange={(e) => setSelectedCategory(e.target.value)}
-            style={{
-              borderRadius: "20px",
-              padding: "8px 16px",
-              border: "1px solid var(--line)",
-              background: "var(--panel)",
-              color: "var(--ink)",
-              fontSize: "13px",
-              height: "38px",
-              cursor: "pointer"
-            }}
-          >
-            <option value="">Усі категорії ({categories.length.toString()})</option>
-            {categories.map((cat) => (
-              <option key={cat} value={cat}>{cat}</option>
-            ))}
-          </select>
+            onChange={setSelectedCategory}
+            options={[
+              { label: `Усі категорії (${categories.length.toString()})`, value: "" },
+              ...categories.map((cat) => ({ label: cat, value: cat })),
+            ]}
+          />
         </div>
 
         <div className="severity-pills" style={{ display: "flex", gap: "6px" }}>
@@ -161,7 +151,7 @@ export function HeuristicsView(): ReactNode {
                   border: "1px solid var(--line)",
                   background: isActive ? "var(--navy)" : "var(--panel)",
                   color: isActive ? "#fff" : "var(--ink)",
-                  fontWeight: isActive ? 700 : 500,
+                  fontWeight: isActive ? 600 : 400,
                   fontSize: "13px",
                   cursor: "pointer",
                   height: "38px",

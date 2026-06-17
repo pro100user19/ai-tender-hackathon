@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { priorityMeta, sortLabels } from "../constants";
 import type { Severity, SortKey, StateSetter } from "../types";
+import { CustomSelect } from "./CustomSelect";
 
 interface SearchDockProps {
   categories: string[];
@@ -95,19 +96,15 @@ export function SearchDock(props: SearchDockProps): ReactNode {
             placeholder="100"
           />
         </label>
-        <label>
-          Сортування
-          <select
-            value={sort}
-            onChange={(event) => setSort(event.target.value as SortKey)}
-          >
-            {(Object.keys(sortLabels) as SortKey[]).map((option) => (
-              <option key={option} value={option}>
-                {sortLabels[option]}
-              </option>
-            ))}
-          </select>
-        </label>
+        <CustomSelect
+          label="Сортування"
+          value={sort}
+          onChange={setSort}
+          options={(Object.keys(sortLabels) as SortKey[]).map((option) => ({
+            label: sortLabels[option],
+            value: option,
+          }))}
+        />
       </div>
       <div className="chip-row" aria-label="Активні фільтри">
         <span className="filter-chip">{`${activeFilterCount} фільтрів`}</span>
@@ -136,19 +133,17 @@ function SelectField<T extends string>({
   value,
 }: SelectFieldProps<T>): ReactNode {
   return (
-    <label>
-      {label}
-      <select
-        value={value}
-        onChange={(event) => onChange(event.target.value as T)}
-      >
-        {emptyLabel !== "" && <option value="">{emptyLabel}</option>}
-        {options.map((option) => (
-          <option key={option} value={option}>
-            {formatOption ? formatOption(option) : option}
-          </option>
-        ))}
-      </select>
-    </label>
+    <CustomSelect
+      label={label}
+      value={value}
+      onChange={onChange}
+      options={[
+        ...(emptyLabel !== "" ? [{ label: emptyLabel, value: "" as T }] : []),
+        ...options.map((option) => ({
+          label: formatOption ? formatOption(option) : option,
+          value: option,
+        })),
+      ]}
+    />
   );
 }
