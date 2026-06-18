@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import { useTranslation } from "../LanguageContext";
+import { CustomSelect } from "./CustomSelect";
 
 interface AdminHeuristic {
   id: number;
@@ -338,7 +339,7 @@ export function AdminView(): ReactNode {
           gap: "16px"
         }}>
           <div style={{ textAlign: "center", marginBottom: "8px" }}>
-            <h2 style={{ fontSize: "20px", fontWeight: 800, margin: "0 0 6px 0", color: "var(--ink)" }}>
+            <h2 style={{ fontSize: "20px", fontWeight: 600, margin: "0 0 6px 0", color: "var(--ink)" }}>
               {t("adminLoginTitle")}
             </h2>
             <p style={{ fontSize: "13px", color: "var(--muted)", margin: 0 }}>
@@ -352,7 +353,7 @@ export function AdminView(): ReactNode {
             </div>
           )}
 
-          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
             {t("usernameLabel")}
             <input
               type="text"
@@ -372,7 +373,7 @@ export function AdminView(): ReactNode {
             />
           </label>
 
-          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
+          <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 500, color: "var(--muted)" }}>
             {t("passwordLabel")}
             <input
               type="password"
@@ -401,7 +402,7 @@ export function AdminView(): ReactNode {
               borderRadius: "6px",
               background: "var(--blue-strong)",
               color: "#fff",
-              fontWeight: 800,
+              fontWeight: 600,
               fontSize: "14px",
               border: "none",
               cursor: "pointer",
@@ -501,7 +502,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 18px",
-            fontWeight: 700,
+            fontWeight: activeAdminTab === "moderation" ? 600 : 400,
             cursor: "pointer",
             fontSize: "13.5px",
             transition: "all 0.2s ease"
@@ -519,7 +520,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 18px",
-            fontWeight: 700,
+            fontWeight: activeAdminTab === "mining" ? 600 : 400,
             cursor: "pointer",
             fontSize: "13.5px",
             transition: "all 0.2s ease"
@@ -537,7 +538,7 @@ export function AdminView(): ReactNode {
             border: "none",
             borderRadius: "6px",
             padding: "8px 18px",
-            fontWeight: 700,
+            fontWeight: activeAdminTab === "user_llm" ? 600 : 400,
             cursor: "pointer",
             fontSize: "13.5px",
             transition: "all 0.2s ease"
@@ -566,7 +567,7 @@ export function AdminView(): ReactNode {
             gap: "16px"
           }}>
             <div style={{ flex: "1 1 400px" }}>
-              <h3 style={{ fontSize: "14px", fontWeight: 800, margin: "0 0 4px 0", color: "var(--ink)" }}>
+              <h3 style={{ fontSize: "14px", fontWeight: 600, margin: "0 0 4px 0", color: "var(--ink)" }}>
                 {t("autoLlmSearchTitle")}
               </h3>
               <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0 }}>
@@ -583,7 +584,7 @@ export function AdminView(): ReactNode {
                   borderRadius: "50%",
                   animation: "spin 1s linear infinite"
                 }}></div>
-                <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--blue-strong)" }}>
+                <span style={{ fontSize: "12px", fontWeight: 600, color: "var(--blue-strong)" }}>
                   {t("miningInProgress")}
                 </span>
               </div>
@@ -594,24 +595,16 @@ export function AdminView(): ReactNode {
                     {t("statusFailed")}: {miningStatus.error}
                   </span>
                 )}
-                <select
-                  value={mineLimit}
-                  onChange={(e) => setMineLimit(Number(e.target.value))}
-                  style={{
-                    borderRadius: "6px",
-                    border: "1px solid var(--line)",
-                    padding: "6px 10px",
-                    fontSize: "13px",
-                    width: "130px",
-                    minHeight: "36px",
-                    background: "var(--panel)"
-                  }}
-                >
-                  <option value="3">{t("tenders3")}</option>
-                  <option value="5">{t("tenders5")}</option>
-                  <option value="10">{t("tenders10")}</option>
-                  <option value="20">{t("tenders20")}</option>
-                </select>
+                <CustomSelect
+                  value={mineLimit.toString()}
+                  onChange={(value) => setMineLimit(Number(value))}
+                  options={[
+                    { label: t("tenders3"), value: "3" },
+                    { label: t("tenders5"), value: "5" },
+                    { label: t("tenders10"), value: "10" },
+                    { label: t("tenders20"), value: "20" },
+                  ]}
+                />
                 <button
                   type="button"
                   onClick={handleRunMining}
@@ -619,7 +612,7 @@ export function AdminView(): ReactNode {
                     borderRadius: "6px",
                     background: "var(--blue-strong)",
                     color: "#fff",
-                    fontWeight: 700,
+                    fontWeight: 500,
                     padding: "8px 16px",
                     border: "none",
                     cursor: "pointer",
@@ -650,7 +643,7 @@ export function AdminView(): ReactNode {
                 border: "none",
                 borderRadius: "6px",
                 padding: "8px 16px",
-                fontWeight: 800,
+                fontWeight: 600,
                 cursor: "pointer",
                 fontSize: "13px",
                 display: "inline-flex",
@@ -679,7 +672,7 @@ export function AdminView(): ReactNode {
                 border: "none",
                 borderRadius: "6px",
                 padding: "8px 16px",
-                fontWeight: 800,
+                fontWeight: 600,
                 cursor: "pointer",
                 fontSize: "13px",
                 display: "inline-flex",
@@ -708,7 +701,7 @@ export function AdminView(): ReactNode {
                 border: "none",
                 borderRadius: "6px",
                 padding: "8px 16px",
-                fontWeight: 800,
+                fontWeight: 600,
                 cursor: "pointer",
                 fontSize: "13px",
                 display: "inline-flex",
@@ -792,11 +785,11 @@ export function AdminView(): ReactNode {
                               borderRadius: "4px",
                               padding: "6px 8px",
                               fontSize: "11px",
-                              fontWeight: 700,
+                              fontWeight: 500,
                               cursor: "pointer"
                             }}
                           >
-                            {t("approveBtn")}
+                            ✓ {t("approveBtn")}
                           </button>
                           <button
                             type="button"
@@ -809,11 +802,11 @@ export function AdminView(): ReactNode {
                               borderRadius: "4px",
                               padding: "6px 8px",
                               fontSize: "11px",
-                              fontWeight: 700,
+                              fontWeight: 500,
                               cursor: "pointer"
                             }}
                           >
-                            {t("rejectBtn")}
+                            ✕ {t("rejectBtn")}
                           </button>
                         </>
                       )}
@@ -829,11 +822,11 @@ export function AdminView(): ReactNode {
                             borderRadius: "4px",
                             padding: "6px 8px",
                             fontSize: "11px",
-                            fontWeight: 700,
+                            fontWeight: 500,
                             cursor: "pointer"
                           }}
                         >
-                          {t("deactivateBtn")}
+                          ✕ {t("deactivateBtn")}
                         </button>
                       )}
                       {rule.status === "rejected" && (
@@ -848,11 +841,11 @@ export function AdminView(): ReactNode {
                             borderRadius: "4px",
                             padding: "6px 8px",
                             fontSize: "11px",
-                            fontWeight: 700,
+                            fontWeight: 500,
                             cursor: "pointer"
                           }}
                         >
-                          {t("activateBtn")}
+                          ✓ {t("activateBtn")}
                         </button>
                       )}
                     </div>

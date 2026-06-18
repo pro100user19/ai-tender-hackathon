@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import { priorityMeta } from "../constants";
 import type { Severity, SortKey, StateSetter } from "../types";
 import { useTranslation, translations } from "../LanguageContext";
+import { CustomSelect } from "./CustomSelect";
 
 interface SearchDockProps {
   categories: string[];
@@ -101,24 +102,20 @@ export function SearchDock(props: SearchDockProps): ReactNode {
             placeholder="100"
           />
         </label>
-        <label>
-          {t("sorting")}
-          <select
-            value={sort}
-            onChange={(event) => setSort(event.target.value as SortKey)}
-          >
-            {(Object.keys(translations[lang]) as Array<keyof typeof translations.uk>)
-              .filter((key) => key.startsWith("sort_"))
-              .map((optionKey) => {
-                const sortKey = optionKey.slice("sort_".length) as SortKey;
-                return (
-                  <option key={sortKey} value={sortKey}>
-                    {t(optionKey)}
-                  </option>
-                );
-              })}
-          </select>
-        </label>
+        <CustomSelect
+          label={t("sorting")}
+          value={sort}
+          onChange={setSort}
+          options={(Object.keys(translations[lang]) as Array<keyof typeof translations.uk>)
+            .filter((key) => key.startsWith("sort_"))
+            .map((optionKey) => {
+              const sortKey = optionKey.slice("sort_".length) as SortKey;
+              return {
+                label: t(optionKey),
+                value: sortKey,
+              };
+            })}
+        />
       </div>
       <div className="chip-row" aria-label={t("activeFilters")}>
         <span className="filter-chip">{`${activeFilterCount} ${t("filtersCount")}`}</span>
@@ -147,19 +144,17 @@ function SelectField<T extends string>({
   value,
 }: SelectFieldProps<T>): ReactNode {
   return (
-    <label>
-      {label}
-      <select
-        value={value}
-        onChange={(event) => onChange(event.target.value as T)}
-      >
-        {emptyLabel !== "" && <option value="">{emptyLabel}</option>}
-        {options.map((option) => (
-          <option key={option} value={option}>
-            {formatOption ? formatOption(option) : option}
-          </option>
-        ))}
-      </select>
-    </label>
+    <CustomSelect
+      label={label}
+      value={value}
+      onChange={onChange}
+      options={[
+        ...(emptyLabel !== "" ? [{ label: emptyLabel, value: "" as T }] : []),
+        ...options.map((option) => ({
+          label: formatOption ? formatOption(option) : option,
+          value: option,
+        })),
+      ]}
+    />
   );
 }

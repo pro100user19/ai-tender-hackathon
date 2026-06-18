@@ -15,7 +15,7 @@ interface TenderTableProps {
   onSelectTender: (tenderId: string) => void;
 }
 
-interface TenderRowProps {
+interface TenderCardProps {
   result: TenderResult;
   onSelectTender: (tenderId: string) => void;
 }
@@ -95,43 +95,25 @@ export function TenderTable({
             : `${results.length} у поточному списку`}
         </span>
       </div>
-      <div className="table-wrap tender-table-wrap">
-        <table className="results-table dashboard-table">
-          <thead>
-            <tr>
-              <th>{t("tenderCode")}</th>
-              <th>{t("buyer")}</th>
-              <th>{lang === "en" ? "Budget" : "Вартість"}</th>
-              <th>{t("sector")}</th>
-              <th>{lang === "en" ? "Updated" : "Оновлено"}</th>
-              <th>{t("score")}</th>
-              <th>{lang === "en" ? "Signals" : "Сигнали"}</th>
-              <th>{t("riskPriority")}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {hasProcessing && currentPage === 1 && (
-              processingTenderIds.map((tid) => (
-                <TenderProcessingRow key={tid} tenderId={tid} lang={lang} />
-              ))
-            )}
-            {paginated.length ? (
-              paginated.map((result) => (
-                <TenderRow key={result.summary.tender_id} result={result} onSelectTender={onSelectTender} lang={lang} />
-              ))
-            ) : (
-              !hasProcessing && (
-                <tr>
-                  <td colSpan={8} className="empty">
-                    {lang === "en"
-                      ? "No tenders match the current filters."
-                      : "Немає тендерів для поточних фільтрів."}
-                  </td>
-                </tr>
-              )
-            )}
-          </tbody>
-        </table>
+      <div className="tender-card-list">
+        {hasProcessing && currentPage === 1 && (
+          processingTenderIds.map((tid) => (
+            <TenderProcessingCard key={tid} tenderId={tid} lang={lang} />
+          ))
+        )}
+        {paginated.length ? (
+          paginated.map((result) => (
+            <TenderCard key={result.summary.tender_id} result={result} onSelectTender={onSelectTender} lang={lang} />
+          ))
+        ) : (
+          !hasProcessing && (
+            <div className="empty tender-card-empty">
+              {lang === "en"
+                ? "No tenders match the current filters."
+                : "Немає тендерів для поточних фільтрів."}
+            </div>
+          )
+        )}
       </div>
       {totalItems > 0 && (
         <div className="pagination-container">
@@ -173,41 +155,37 @@ export function TenderTable({
   );
 }
 
-function TenderProcessingRow({ tenderId, lang }: { tenderId: string; lang: string }): ReactNode {
+function TenderProcessingCard({ tenderId, lang }: { tenderId: string; lang: string }): ReactNode {
   return (
-    <tr className="processing-row">
-      <td>
+    <article className="tender-card processing-row">
+      <div className="tender-card-main">
         <span className="row-title processing-title">
           {lang === "en" ? "Request queued..." : "Запит у черзі..."}
         </span>
         <span className="row-description">{tenderId}</span>
-      </td>
-      <td>
-        <span className="text-muted-loading">
-          {lang === "en" ? "Fetching data" : "Отримання даних"}
-        </span>
-      </td>
-      <td>—</td>
-      <td>
-        <span>—</span>
-      </td>
-      <td>{lang === "en" ? "now" : "зараз"}</td>
-      <td>
+      </div>
+      <div className="tender-card-meta">
+        <TenderMetaItem
+          label={lang === "en" ? "Status" : "Стан"}
+          value={lang === "en" ? "Fetching data" : "Отримання даних"}
+        />
+        <TenderMetaItem
+          label={lang === "en" ? "Updated" : "Оновлено"}
+          value={lang === "en" ? "now" : "зараз"}
+        />
+      </div>
+      <div className="tender-card-status">
         <span className="score score-blue loading-pulse">...</span>
-      </td>
-      <td>
         <span className="spinner-inline" />
-      </td>
-      <td>
         <span className="priority priority-none loading-pulse">
           {lang === "en" ? "Analyzing" : "Аналіз"}
         </span>
-      </td>
-    </tr>
+      </div>
+    </article>
   );
 }
 
-function TenderRow({ result, onSelectTender, lang }: TenderRowProps & { lang: string }): ReactNode {
+function TenderCard({ result, onSelectTender, lang }: TenderCardProps & { lang: string }): ReactNode {
   const summary = result.summary;
   const highestSeverity = getHighestSeverity(result);
   const meta = priorityMeta[highestSeverity] || priorityMeta["немає"];
@@ -218,8 +196,8 @@ function TenderRow({ result, onSelectTender, lang }: TenderRowProps & { lang: st
     : meta.label;
 
   return (
-    <tr>
-      <td>
+    <article className="tender-card">
+      <div className="tender-card-main">
         <a
           className="row-title"
           href={`/tenders/${summary.tender_id}`}
@@ -233,23 +211,54 @@ function TenderRow({ result, onSelectTender, lang }: TenderRowProps & { lang: st
         <span className="row-description" title={summary.title || ""}>
           {summary.title || (lang === "en" ? "No title" : "Без назви")}
         </span>
-      </td>
-      <td>{summary.buyer_name || (lang === "en" ? "not specified" : "не вказано")}</td>
-      <td>{formatUah(summary.value_amount, summary.currency)}</td>
-      <td>
-        <span>{summary.cpv || (lang === "en" ? "CPV not specified" : "CPV не вказано")}</span>
-        <small>{summary.sector || (lang === "en" ? "no sector" : "без сектору")}</small>
-      </td>
-      <td>{formatDate(summary.date_modified || result.processed_at)}</td>
-      <td>
+      </div>
+      <div className="tender-card-meta" aria-label={lang === "en" ? "Tender data" : "Дані тендера"}>
+        <TenderMetaItem
+          label={lang === "en" ? "Buyer" : "Замовник"}
+          value={summary.buyer_name || (lang === "en" ? "not specified" : "не вказано")}
+        />
+        <TenderMetaItem
+          label={lang === "en" ? "Budget" : "Вартість"}
+          value={formatUah(summary.value_amount, summary.currency)}
+        />
+        <TenderMetaItem
+          label={lang === "en" ? "Sector" : "Сектор"}
+          value={summary.cpv || (lang === "en" ? "CPV not specified" : "CPV не вказано")}
+          detail={summary.sector || (lang === "en" ? "no sector" : "без сектору")}
+        />
+        <TenderMetaItem
+          label={lang === "en" ? "Updated" : "Оновлено"}
+          value={formatDate(summary.date_modified || result.processed_at)}
+        />
+      </div>
+      <div className="tender-card-status" aria-label={lang === "en" ? "Score" : "Оцінка"}>
         <span className={`score score-${scoreTone(result.overall_score)}`}>
           {result.overall_score || 0}
         </span>
-      </td>
-      <td>{issues.length}</td>
-      <td>
+        <span className="tender-signal-count">
+          <span>{issues.length.toString()}</span>
+          <small>{lang === "en" ? "signals" : "сигнали"}</small>
+        </span>
         <span className={`priority priority-${meta.className}`}>{displayPriority}</span>
-      </td>
-    </tr>
+      </div>
+    </article>
+  );
+}
+
+function TenderMetaItem({
+  detail,
+  label,
+  value,
+}: {
+  detail?: string;
+  label: string;
+  value: string;
+}): ReactNode {
+  return (
+    <div className="tender-meta-item">
+      <span>{label}</span>
+      <strong>{value}</strong>
+      {detail && <small>{detail}</small>}
+    </div>
   );
 }
