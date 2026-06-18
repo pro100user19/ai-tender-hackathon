@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import { priorityMeta } from "../constants";
 import type { Status, TenderResult } from "../types";
 import { formatDate, formatUah, getHighestSeverity, scoreTone } from "../utils";
+import { useTranslation } from "../LanguageContext";
 
 interface TenderTableProps {
   error: string;
@@ -29,19 +30,24 @@ export function TenderTable({
   processingTenderIds = [],
   onSelectTender,
 }: TenderTableProps): ReactNode {
+  const { t, lang } = useTranslation();
   const hasProcessing = processingTenderIds && processingTenderIds.length > 0;
 
   if (status === "loading") {
     return (
       <section className="table-section">
         <div className="section-title">
-          <h2>Опрацьовані тендери</h2>
-          <span>{hasProcessing ? `Аналіз тендерів...` : "завантаження"}</span>
+          <h2>{t("recentTenders")}</h2>
+          <span>{hasProcessing ? t("processing") : t("loading")}</span>
         </div>
         {hasProcessing && (
           <div className="processing-alert">
             <span className="spinner" />
-            <p>Триває збір та аналіз документів через Prozorro API. Будь ласка, зачекайте... (це може зайняти до 1 хв)</p>
+            <p>
+              {lang === "en"
+                ? "Collecting and analyzing documents from Prozorro API. Please wait... (takes up to 1 min)"
+                : "Триває збір та аналіз документів через Prozorro API. Будь ласка, зачекайте... (це може зайняти до 1 хв)"}
+            </p>
           </div>
         )}
         <div className="skeleton-table">
@@ -56,7 +62,7 @@ export function TenderTable({
   if (status === "error") {
     return (
       <section className="empty-state">
-        <h2>Не вдалося завантажити дані</h2>
+        <h2>{lang === "en" ? "Failed to load data" : "Не вдалося завантажити дані"}</h2>
         <p>{error}</p>
       </section>
     );
@@ -82,38 +88,44 @@ export function TenderTable({
   return (
     <section className="table-section">
       <div className="section-title">
-        <h2>Опрацьовані тендери</h2>
-        <span>{`${results.length} у поточному списку`}</span>
+        <h2>{t("recentTenders")}</h2>
+        <span>
+          {lang === "en"
+            ? `${results.length} in current list`
+            : `${results.length} у поточному списку`}
+        </span>
       </div>
       <div className="table-wrap tender-table-wrap">
         <table className="results-table dashboard-table">
           <thead>
             <tr>
-              <th>Тендер</th>
-              <th>Замовник</th>
-              <th>Вартість</th>
-              <th>Сектор</th>
-              <th>Оновлено</th>
-              <th>Бал</th>
-              <th>Сигнали</th>
-              <th>Пріоритет</th>
+              <th>{t("tenderCode")}</th>
+              <th>{t("buyer")}</th>
+              <th>{lang === "en" ? "Budget" : "Вартість"}</th>
+              <th>{t("sector")}</th>
+              <th>{lang === "en" ? "Updated" : "Оновлено"}</th>
+              <th>{t("score")}</th>
+              <th>{lang === "en" ? "Signals" : "Сигнали"}</th>
+              <th>{t("riskPriority")}</th>
             </tr>
           </thead>
           <tbody>
             {hasProcessing && currentPage === 1 && (
               processingTenderIds.map((tid) => (
-                <TenderProcessingRow key={tid} tenderId={tid} />
+                <TenderProcessingRow key={tid} tenderId={tid} lang={lang} />
               ))
             )}
             {paginated.length ? (
               paginated.map((result) => (
-                <TenderRow key={result.summary.tender_id} result={result} onSelectTender={onSelectTender} />
+                <TenderRow key={result.summary.tender_id} result={result} onSelectTender={onSelectTender} lang={lang} />
               ))
             ) : (
               !hasProcessing && (
                 <tr>
                   <td colSpan={8} className="empty">
-                    Немає тендерів для поточних фільтрів.
+                    {lang === "en"
+                      ? "No tenders match the current filters."
+                      : "Немає тендерів для поточних фільтрів."}
                   </td>
                 </tr>
               )
@@ -124,7 +136,9 @@ export function TenderTable({
       {totalItems > 0 && (
         <div className="pagination-container">
           <span className="pagination-info">
-            {`Показано ${startIndex + 1}–${endIndex} з ${totalItems}`}
+            {lang === "en"
+              ? `Showing ${startIndex + 1}–${endIndex} of ${totalItems}`
+              : `Показано ${startIndex + 1}–${endIndex} з ${totalItems}`}
           </span>
           {totalPages > 1 && (
             <div className="pagination-buttons">
@@ -133,11 +147,11 @@ export function TenderTable({
                 onClick={() => setCurrentPage(currentPage - 1)}
                 disabled={currentPage === 1}
               >
-                Попередня
+                {lang === "en" ? "Previous" : "Попередня"}
               </button>
               {pageNumbers.map((page) => (
                 <button
-                  key={page}
+                   key={page}
                   className={`pagination-btn ${currentPage === page ? "active" : ""}`}
                   onClick={() => setCurrentPage(page)}
                 >
@@ -149,7 +163,7 @@ export function TenderTable({
                 onClick={() => setCurrentPage(currentPage + 1)}
                 disabled={currentPage === totalPages}
               >
-                Наступна
+                {lang === "en" ? "Next" : "Наступна"}
               </button>
             </div>
           )}
@@ -159,21 +173,25 @@ export function TenderTable({
   );
 }
 
-function TenderProcessingRow({ tenderId }: { tenderId: string }): ReactNode {
+function TenderProcessingRow({ tenderId, lang }: { tenderId: string; lang: string }): ReactNode {
   return (
     <tr className="processing-row">
       <td>
-        <span className="row-title processing-title">Запит у черзі...</span>
+        <span className="row-title processing-title">
+          {lang === "en" ? "Request queued..." : "Запит у черзі..."}
+        </span>
         <span className="row-description">{tenderId}</span>
       </td>
       <td>
-        <span className="text-muted-loading">Отримання даних</span>
+        <span className="text-muted-loading">
+          {lang === "en" ? "Fetching data" : "Отримання даних"}
+        </span>
       </td>
       <td>—</td>
       <td>
         <span>—</span>
       </td>
-      <td>зараз</td>
+      <td>{lang === "en" ? "now" : "зараз"}</td>
       <td>
         <span className="score score-blue loading-pulse">...</span>
       </td>
@@ -181,17 +199,24 @@ function TenderProcessingRow({ tenderId }: { tenderId: string }): ReactNode {
         <span className="spinner-inline" />
       </td>
       <td>
-        <span className="priority priority-none loading-pulse">Аналіз</span>
+        <span className="priority priority-none loading-pulse">
+          {lang === "en" ? "Analyzing" : "Аналіз"}
+        </span>
       </td>
     </tr>
   );
 }
 
-function TenderRow({ result, onSelectTender }: TenderRowProps): ReactNode {
+function TenderRow({ result, onSelectTender, lang }: TenderRowProps & { lang: string }): ReactNode {
   const summary = result.summary;
   const highestSeverity = getHighestSeverity(result);
   const meta = priorityMeta[highestSeverity] || priorityMeta["немає"];
   const issues = result.issues || [];
+
+  const displayPriority = lang === "en"
+    ? (highestSeverity === "висока" ? "high" : highestSeverity === "середня" ? "medium" : highestSeverity === "низька" ? "low" : "none")
+    : meta.label;
+
   return (
     <tr>
       <td>
@@ -203,17 +228,17 @@ function TenderRow({ result, onSelectTender }: TenderRowProps): ReactNode {
             onSelectTender(summary.tender_id);
           }}
         >
-          {summary.tender_code || "Без номера"}
+          {summary.tender_code || (lang === "en" ? "No number" : "Без номера")}
         </a>
         <span className="row-description" title={summary.title || ""}>
-          {summary.title || "Без назви"}
+          {summary.title || (lang === "en" ? "No title" : "Без назви")}
         </span>
       </td>
-      <td>{summary.buyer_name || "не вказано"}</td>
+      <td>{summary.buyer_name || (lang === "en" ? "not specified" : "не вказано")}</td>
       <td>{formatUah(summary.value_amount, summary.currency)}</td>
       <td>
-        <span>{summary.cpv || "CPV не вказано"}</span>
-        <small>{summary.sector || "без сектору"}</small>
+        <span>{summary.cpv || (lang === "en" ? "CPV not specified" : "CPV не вказано")}</span>
+        <small>{summary.sector || (lang === "en" ? "no sector" : "без сектору")}</small>
       </td>
       <td>{formatDate(summary.date_modified || result.processed_at)}</td>
       <td>
@@ -223,7 +248,7 @@ function TenderRow({ result, onSelectTender }: TenderRowProps): ReactNode {
       </td>
       <td>{issues.length}</td>
       <td>
-        <span className={`priority priority-${meta.className}`}>{meta.label}</span>
+        <span className={`priority priority-${meta.className}`}>{displayPriority}</span>
       </td>
     </tr>
   );

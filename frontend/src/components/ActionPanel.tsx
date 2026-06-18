@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { ReactNode } from "react";
+import { useTranslation } from "../LanguageContext";
 
 interface ActionPanelProps {
   defaultPages: string;
@@ -62,6 +63,7 @@ export function ActionPanel({
   onProcessTender,
   onProcessCustom,
 }: ActionPanelProps): ReactNode {
+  const { t, lang } = useTranslation();
   const [tenderIds, setTenderIds] = useState<string[]>([""]);
   const [useCodex, setUseCodex] = useState(false);
 
@@ -127,33 +129,33 @@ export function ActionPanel({
       {showBatchForm && (
         <form className="action-panel" method="post" action="/process/batch">
           <div className="panel-title">
-            <h2>Обробка партії</h2>
-            <span>новити тендери</span>
+            <h2>{t("batchTitle")}</h2>
+            <span>{t("batchSubtitle")}</span>
           </div>
           <div style={{ marginBottom: "6px" }}>
             <label style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
-              Кількість
+              {t("limit")}
               <input type="number" name="limit" min="1" max="25" defaultValue="5" />
             </label>
           </div>
           <label className="toggle">
             <input type="checkbox" name="use_codex" value="true" />
-            <span>LLM пояснення</span>
+            <span>{t("llmExpl")}</span>
           </label>
-          <button type="submit">Обробити</button>
+          <button type="submit">{t("processBtn")}</button>
         </form>
       )}
       {showSingleForm && (
         <form className="action-panel" onSubmit={handleSubmitSingle}>
           <div className="panel-title">
-            <h2>Тендери за UUID</h2>
-            <span>один або кілька</span>
+            <h2>{t("uuidTitle")}</h2>
+            <span>{t("uuidSubtitle")}</span>
           </div>
           {singleError && <div className="panel-error" style={{ whiteSpace: "pre-line" }}>{singleError}</div>}
           
           <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
             <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
-              Prozorro UUID
+              {t("uuidInputLabel")}
             </span>
             
             {tenderIds.map((id, index) => (
@@ -178,7 +180,7 @@ export function ActionPanel({
                       setTenderIds(tenderIds.filter((_, i) => i !== index));
                     }}
                     disabled={isProcessing}
-                    title="Видалити"
+                    title={lang === "en" ? "Remove" : "Видалити"}
                   >
                     ✕
                   </button>
@@ -192,7 +194,7 @@ export function ActionPanel({
               onClick={() => setTenderIds([...tenderIds, ""])}
               disabled={isProcessing}
             >
-              + Додати ще один UUID
+              {t("addMoreUuid")}
             </button>
           </div>
 
@@ -203,26 +205,26 @@ export function ActionPanel({
               onChange={(e) => setUseCodex(e.target.checked)}
               disabled={isProcessing}
             />
-            <span>LLM пояснення</span>
+            <span>{t("llmExpl")}</span>
           </label>
           <button type="submit" disabled={isProcessing}>
-            {isProcessing ? "Опрацювання..." : "Перевірити"}
+            {isProcessing ? t("processing") : t("checkBtn")}
           </button>
         </form>
       )}
       {onProcessCustom && (
         <form className="action-panel" onSubmit={handleSubmitCustom}>
           <div className="panel-title">
-            <h2>Аналіз чернетки</h2>
-            <span>перед публікацією</span>
+            <h2>{t("draftTitle")}</h2>
+            <span>{t("draftSubtitle")}</span>
           </div>
           
           <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
             <label>
-              Назва закупівлі *
+              {t("customTitleLabel")}
               <input
                 type="text"
-                placeholder="Закупівля комп'ютерного обладнання"
+                placeholder={t("customTitlePlaceholder")}
                 value={customTitle}
                 onChange={(e) => setCustomTitle(e.target.value)}
                 disabled={isProcessing}
@@ -231,9 +233,9 @@ export function ActionPanel({
             </label>
 
             <label>
-              Опис та вимоги
+              {t("customDescLabel")}
               <textarea
-                placeholder="Введіть опис предмета закупівлі або детальні технічні вимоги..."
+                placeholder={t("customDescPlaceholder")}
                 value={customDesc}
                 onChange={(e) => setCustomDesc(e.target.value)}
                 disabled={isProcessing}
@@ -242,10 +244,10 @@ export function ActionPanel({
             </label>
 
             <label>
-              Код CPV
+              {t("customCpvLabel")}
               <input
                 type="text"
-                placeholder="Наприклад: 30230000-0"
+                placeholder={t("customCpvPlaceholder")}
                 value={customCpv}
                 onChange={(e) => setCustomCpv(e.target.value)}
                 disabled={isProcessing}
@@ -254,7 +256,7 @@ export function ActionPanel({
 
             <div className="mini-grid">
               <label>
-                Бюджет, грн
+                {t("customBudgetLabel")}
                 <input
                   type="number"
                   placeholder="100000"
@@ -267,7 +269,7 @@ export function ActionPanel({
               </label>
 
               <label>
-                Галузь
+                {t("customSectorLabel")}
                 <select
                   value={customSector}
                   onChange={(e) => setCustomSector(e.target.value)}
@@ -283,7 +285,7 @@ export function ActionPanel({
             </div>
 
             <label>
-              Тендерна документація (файли)
+              {t("customFilesLabel")}
               <input
                 type="file"
                 multiple
@@ -301,11 +303,11 @@ export function ActionPanel({
               onChange={(e) => setCustomUseCodex(e.target.checked)}
               disabled={isProcessing}
             />
-            <span>LLM пояснення</span>
+            <span>{t("llmExpl")}</span>
           </label>
 
           <button type="submit" disabled={isProcessing}>
-            {isProcessing ? "Опрацювання..." : "Перевірити чернетку"}
+            {isProcessing ? t("processing") : t("checkDraftBtn")}
           </button>
         </form>
       )}

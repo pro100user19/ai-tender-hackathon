@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import type { ReactNode } from "react";
+import { useTranslation } from "./LanguageContext";
 import { ActionPanel } from "./components/ActionPanel";
 import { IdentityHeader } from "./components/IdentityHeader";
 import { MetricGrid } from "./components/MetricGrid";
@@ -19,6 +20,7 @@ interface AppProps {
 }
 
 export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): ReactNode {
+  const { lang, setLang, t } = useTranslation();
   const [results, setResults] = useState<TenderResult[]>([]);
   const [status, setStatus] = useState<Status>("loading");
   const [error, setError] = useState("");
@@ -119,7 +121,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
         if (!active) {
           return;
         }
-        setError(fetchError.message || "Помилка завантаження");
+        setError(fetchError.message || t("errorLoading"));
         setStatus("error");
       });
     return () => {
@@ -138,7 +140,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
     const invalidUuids = tenderIds.filter((id) => !uuidRegex.test(id));
     if (invalidUuids.length > 0) {
       setSingleError(
-        `Будь ласка, введіть коректні 32-значні Prozorro UUID без дефісів.\nНекоректні значення: ${invalidUuids.join(", ")}`
+        `${t("invalidUuidError")}${invalidUuids.join(", ")}`
       );
       return;
     }
@@ -180,12 +182,12 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
       // Re-fetch all results to refresh the table lists
       const refreshResponse = await fetch(apiUrl, { headers: { Accept: "application/json" } });
       if (!refreshResponse.ok) {
-        throw new Error("Не вдалося оновити список результатів");
+        throw new Error(t("errorFailedToRefresh"));
       }
       const payload = await refreshResponse.json();
       setResults(Array.isArray(payload) ? (payload as TenderResult[]) : []);
     } catch (refreshErr: any) {
-      errors.push(refreshErr.message || "Не вдалося оновити список результатів");
+      errors.push(refreshErr.message || t("errorFailedToRefresh"));
     }
       
     // Reset states
@@ -222,7 +224,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
       // Re-fetch all results to refresh the table lists
       const refreshResponse = await fetch(apiUrl, { headers: { Accept: "application/json" } });
       if (!refreshResponse.ok) {
-        throw new Error("Не вдалося оновити список результатів");
+        throw new Error(t("errorFailedToRefresh"));
       }
       const newResults = await refreshResponse.json();
       setResults(Array.isArray(newResults) ? (newResults as TenderResult[]) : []);
@@ -233,7 +235,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
       }
     } catch (err: any) {
       console.error("Error processing custom draft:", err);
-      setSingleError(err.message || "Не вдалося обробити чернетку");
+      setSingleError(err.message || t("errorFailedToProcessDraft"));
     } finally {
       setIsProcessing(false);
     }
@@ -323,9 +325,27 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
             setSelectedTenderId(null);
           }}
         >
-          Якість документації Prozorro
+          {t("brand")}
         </a>
-        <span className="notice">Автоматичні сигнали потребують перевірки людиною</span>
+        <div className="topbar-right">
+          <span className="notice">{t("notice")}</span>
+          <div className="lang-switcher">
+            <button
+              type="button"
+              className={`lang-btn ${lang === "uk" ? "active" : ""}`}
+              onClick={() => setLang("uk")}
+            >
+              UA
+            </button>
+            <button
+              type="button"
+              className={`lang-btn ${lang === "en" ? "active" : ""}`}
+              onClick={() => setLang("en")}
+            >
+              EN
+            </button>
+          </div>
+        </div>
       </header>
 
       <main className="layout">
@@ -334,9 +354,9 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
             <TenderDetail result={selectedTender} onClose={() => setSelectedTenderId(null)} />
           ) : selectedTenderId ? (
             <section className="empty-state">
-              <h2>Тендер завантажується або не знайдено</h2>
+              <h2>{t("tenderLoadingOrNotFound")}</h2>
               <p>
-                Будь ласка, зачекайте або поверніться{" "}
+                {t("pleaseWaitOrReturn")}{" "}
                 <a
                   href="/"
                   onClick={(e) => {
@@ -344,7 +364,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
                     setSelectedTenderId(null);
                   }}
                 >
-                  до списку
+                  {t("toTheList")}
                 </a>
                 .
               </p>
@@ -363,7 +383,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
                 <AdminView />
               ) : (
                 <div className="dashboard-grid">
-                  <section className="dashboard-main" aria-label="Огляд якості тендерів">
+                  <section className="dashboard-main" aria-label={t("qualityOverview")}>
                     {activeTab === "all" && <MetricGrid aggregate={aggregate} />}
                     <SearchDock
                       categories={categories}
@@ -392,7 +412,7 @@ export function App({ apiUrl, defaultPages, initialTenderId = "" }: AppProps): R
                       onSelectTender={setSelectedTenderId}
                     />
                   </section>
-                  <aside className="dashboard-rail" aria-label="Дії та ризики">
+                  <aside className="dashboard-rail" aria-label={t("actionsAndRisks")}>
                     <ActionPanel
                       defaultPages={defaultPages}
                       showBatchForm={activeTab === "all"}

@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
-import { priorityMeta, sortLabels } from "../constants";
+import { priorityMeta } from "../constants";
 import type { Severity, SortKey, StateSetter } from "../types";
+import { useTranslation, translations } from "../LanguageContext";
 
 interface SearchDockProps {
   categories: string[];
@@ -48,44 +49,49 @@ export function SearchDock(props: SearchDockProps): ReactNode {
     sort,
   } = props;
 
+  const { t, lang } = useTranslation();
+
   const activeFilterCount = [query, category, sector, severity, maxScore].filter(Boolean).length;
 
   return (
-    <section className="search-dock" aria-label="Пошук і фільтри">
+    <section className="search-dock" aria-label={t("search")}>
       <label className="searchbox">
-        <span>Пошук</span>
+        <span>{t("search")}</span>
         <input
           type="search"
-          placeholder="Назва товару, код ДК, ЄДРПОУ компанії, UA-номер або фраза..."
+          placeholder={t("searchPlaceholder")}
           value={query}
           onChange={(event) => setQuery(event.target.value)}
         />
       </label>
       <div className="filter-grid">
         <SelectField
-          label="Категорія"
+          label={t("category")}
           value={category}
           onChange={setCategory}
           options={categories}
-          emptyLabel="Усі категорії"
+          emptyLabel={t("allCategories")}
         />
         <SelectField
-          label="Сектор"
+          label={t("sector")}
           value={sector}
           onChange={setSector}
           options={sectors}
-          emptyLabel="Усі сектори"
+          emptyLabel={t("allSectors")}
         />
         <SelectField
-          label="Пріоритет"
+          label={t("priority")}
           value={severity}
           onChange={setSeverity}
           options={["висока", "середня", "низька", "немає"]}
-          emptyLabel="Усі пріоритети"
-          formatOption={(value) => priorityMeta[value as Severity].label}
+          emptyLabel={t("allPriorities")}
+          formatOption={(value) => {
+            const key = value === "висока" ? "sev_high" : value === "середня" ? "sev_medium" : value === "низька" ? "sev_low" : "sev_none";
+            return t(key);
+          }}
         />
         <label>
-          Максимальний бал
+          {t("maxScore")}
           <input
             type="number"
             min="0"
@@ -96,31 +102,36 @@ export function SearchDock(props: SearchDockProps): ReactNode {
           />
         </label>
         <label>
-          Сортування
+          {t("sorting")}
           <select
             value={sort}
             onChange={(event) => setSort(event.target.value as SortKey)}
           >
-            {(Object.keys(sortLabels) as SortKey[]).map((option) => (
-              <option key={option} value={option}>
-                {sortLabels[option]}
-              </option>
-            ))}
+            {(Object.keys(translations[lang]) as Array<keyof typeof translations.uk>)
+              .filter((key) => key.startsWith("sort_"))
+              .map((optionKey) => {
+                const sortKey = optionKey.slice("sort_".length) as SortKey;
+                return (
+                  <option key={sortKey} value={sortKey}>
+                    {t(optionKey)}
+                  </option>
+                );
+              })}
           </select>
         </label>
       </div>
-      <div className="chip-row" aria-label="Активні фільтри">
-        <span className="filter-chip">{`${activeFilterCount} фільтрів`}</span>
+      <div className="chip-row" aria-label={t("activeFilters")}>
+        <span className="filter-chip">{`${activeFilterCount} ${t("filtersCount")}`}</span>
         {category && <span className="filter-chip is-blue">{category}</span>}
         {sector && <span className="filter-chip is-green">{sector}</span>}
         {severity && (
           <span className="filter-chip is-red">
-            {priorityMeta[severity as Severity].label}
+            {t(severity === "висока" ? "sev_high" : severity === "середня" ? "sev_medium" : severity === "низька" ? "sev_low" : "sev_none")}
           </span>
         )}
-        {maxScore && <span className="filter-chip is-amber">{`бал <= ${maxScore}`}</span>}
+        {maxScore && <span className="filter-chip is-amber">{`${t("scoreLimit")} <= ${maxScore}`}</span>}
         <button className="ghost-button" onClick={clearFilters} type="button">
-          Скинути
+          {t("reset")}
         </button>
       </div>
     </section>

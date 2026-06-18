@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
+import { useTranslation } from "../LanguageContext";
 
 interface Heuristic {
   category: string;
@@ -12,6 +13,7 @@ interface Heuristic {
 }
 
 export function HeuristicsView(): ReactNode {
+  const { t } = useTranslation();
   const [heuristics, setHeuristics] = useState<Heuristic[]>([]);
   const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [error, setError] = useState("");
@@ -32,7 +34,7 @@ export function HeuristicsView(): ReactNode {
         setStatus("ready");
       })
       .catch((err: Error) => {
-        setError(err.message || "Помилка завантаження евристик");
+        setError(err.message || t("errorLoadingHeuristics"));
         setStatus("error");
       });
   }, []);
@@ -53,8 +55,8 @@ export function HeuristicsView(): ReactNode {
   if (status === "loading") {
     return (
       <div className="heuristics-view">
-        <h2>Автоматичні евристики аналізу</h2>
-        <p className="lead">Завантаження списку правил виявлення ризиків...</p>
+        <h2>{t("heuristicsTitle")}</h2>
+        <p className="lead">{t("loadingRules")}</p>
         <div className="skeleton-table">
           <span></span>
           <span></span>
@@ -67,7 +69,7 @@ export function HeuristicsView(): ReactNode {
   if (status === "error") {
     return (
       <div className="heuristics-view">
-        <h2>Помилка завантаження евристик</h2>
+        <h2>{t("errorLoadingHeuristics")}</h2>
         <p className="panel-error">{error}</p>
       </div>
     );
@@ -76,28 +78,28 @@ export function HeuristicsView(): ReactNode {
   return (
     <div className="heuristics-view">
       <div>
-        <h2>Автоматичні евристики аналізу</h2>
+        <h2>{t("heuristicsTitle")}</h2>
         <p className="lead">
-          Повний перелік правил та шаблонів регулярних виразів, які використовуються нашою системою для автоматичного виявлення дискримінаційних умов та ризиків у документації.
+          {t("heuristicsDescription")}
         </p>
       </div>
 
       {/* Summary Metrics Grid */}
       <section className="metric-grid" aria-label="Статистика евристик" style={{ marginBottom: "8px" }}>
         <article className="metric-card tone-blue">
-          <span>Усього евристик</span>
+          <span>{t("totalHeuristics")}</span>
           <strong>{heuristics.length.toString()}</strong>
         </article>
         <article className="metric-card tone-red">
-          <span>Висока критичність</span>
+          <span>{t("highSeverity")}</span>
           <strong>{heuristics.filter((h) => h.severity === "висока").length.toString()}</strong>
         </article>
         <article className="metric-card tone-amber">
-          <span>Середня критичність</span>
+          <span>{t("mediumSeverity")}</span>
           <strong>{heuristics.filter((h) => h.severity === "середня").length.toString()}</strong>
         </article>
         <article className="metric-card tone-blue">
-          <span>Низька критичність</span>
+          <span>{t("lowSeverity")}</span>
           <strong>{heuristics.filter((h) => h.severity === "низька").length.toString()}</strong>
         </article>
       </section>
@@ -116,7 +118,7 @@ export function HeuristicsView(): ReactNode {
         <div style={{ flex: "1 1 300px" }}>
           <input
             type="search"
-            placeholder="Шукати евристику за назвою, описом або категорією..."
+            placeholder={t("searchHeuristicsPlaceholder")}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             style={{ borderRadius: "20px", paddingLeft: "16px", margin: 0, width: "100%" }}
@@ -138,7 +140,7 @@ export function HeuristicsView(): ReactNode {
               cursor: "pointer"
             }}
           >
-            <option value="">Усі категорії ({categories.length.toString()})</option>
+            <option value="">{t("allCategories")} ({categories.length.toString()})</option>
             {categories.map((cat) => (
               <option key={cat} value={cat}>{cat}</option>
             ))}
@@ -147,7 +149,7 @@ export function HeuristicsView(): ReactNode {
 
         <div className="severity-pills" style={{ display: "flex", gap: "6px" }}>
           {(["all", "висока", "середня", "низька"] as const).map((sev) => {
-            const label = sev === "all" ? "Усі" : sev;
+            const label = sev === "all" ? t("allPill") : t(`severity_${sev}`);
             const isActive = selectedSeverity === sev;
             return (
               <button
@@ -185,13 +187,13 @@ export function HeuristicsView(): ReactNode {
             <div key={idx} className="heuristic-rule-card">
               <div className="heuristic-card-header">
                 <span className="heuristic-category">{rule.category}</span>
-                <span className={`heuristic-severity ${sevClass}`}>{rule.severity}</span>
+                <span className={`heuristic-severity ${sevClass}`}>{t(`severity_${rule.severity}` as any)}</span>
               </div>
               <h3>{rule.title}</h3>
               <p className="heuristic-explanation">{rule.explanation}</p>
               {rule.suggested_rewrite && (
                 <div className="heuristic-rewrite">
-                  <strong>Рекомендоване редагування:</strong> {rule.suggested_rewrite}
+                  <strong>{t("recommendedEdit")}</strong> {rule.suggested_rewrite}
                 </div>
               )}
               {rule.subscores && rule.subscores.length > 0 && (
@@ -211,7 +213,7 @@ export function HeuristicsView(): ReactNode {
       </div>
       {filtered.length === 0 && (
         <p style={{ textAlign: "center", color: "var(--muted)", padding: "20px" }}>
-          Нічого не знайдено за вашим запитом.
+          {t("noRulesFound")}
         </p>
       )}
     </div>

@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { useTranslation } from "../LanguageContext";
 
 interface IdentityHeaderProps {
   activeTab: "requests" | "all" | "heuristics" | "admin";
@@ -13,6 +14,8 @@ export function IdentityHeader({
   userRequestsCount,
   allReviewsCount,
 }: IdentityHeaderProps): ReactNode {
+  const { t } = useTranslation();
+
   return (
     <header className="identity-header">
       <a className="identity-brand" href="/">
@@ -27,14 +30,14 @@ export function IdentityHeader({
           className={`header-tab-btn ${activeTab === "requests" ? "active" : ""}`}
           onClick={() => setActiveTab("requests")}
         >
-          Запити користувачів
+          {t("userRequests")}
           <span className="header-tab-badge">{userRequestsCount.toString()}</span>
         </button>
         <button
           className={`header-tab-btn ${activeTab === "all" ? "active" : ""}`}
           onClick={() => setActiveTab("all")}
         >
-          Всі перевірки
+          {t("allReviews")}
           <span className="header-tab-badge">{allReviewsCount.toString()}</span>
         </button>
       </div>
@@ -48,7 +51,7 @@ export function IdentityHeader({
             setActiveTab("heuristics");
           }}
         >
-          автоматичні сигнали
+          {t("autoSignals")}
         </a>
         {(activeTab === "admin" || window.location.pathname === "/admin") && (
           <a
@@ -59,7 +62,7 @@ export function IdentityHeader({
               setActiveTab("admin");
             }}
           >
-            адмін-панель
+            {t("adminPanel")}
           </a>
         )}
       </nav>

@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
+import { useTranslation } from "../LanguageContext";
 
 interface AdminHeuristic {
   id: number;
@@ -38,6 +39,7 @@ interface UserLlmRun {
 }
 
 export function AdminView(): ReactNode {
+  const { t } = useTranslation();
   const [token, setToken] = useState<string | null>(() => {
     return sessionStorage.getItem("admin_auth");
   });
@@ -110,7 +112,7 @@ export function AdminView(): ReactNode {
       })
       .catch((err: Error) => {
         if (err.message !== "Unauthorized") {
-          setError(err.message || "Помилка завантаження евристик");
+          setError(err.message || t("errorLoadingHeuristics"));
         }
         setLoading(false);
       });
@@ -239,7 +241,7 @@ export function AdminView(): ReactNode {
 
       if (!response.ok) {
         const errData = await response.json().catch(() => ({}));
-        throw new Error(errData.detail || "Неправильний логін або пароль");
+        throw new Error(errData.detail || t("invalidLoginError"));
       }
 
       const data = await response.json();
@@ -247,7 +249,7 @@ export function AdminView(): ReactNode {
       sessionStorage.setItem("admin_auth", userToken);
       setToken(userToken);
     } catch (err: any) {
-      setLoginError(err.message || "Помилка авторизації");
+      setLoginError(err.message || t("authError"));
     } finally {
       setLoggingIn(false);
     }
@@ -272,7 +274,7 @@ export function AdminView(): ReactNode {
         prev.map((h) => (h.id === id ? { ...h, status: newStatus } : h))
       );
     } catch (err: any) {
-      alert(`Не вдалося змінити статус: ${err.message || err}`);
+      alert(`${t("errorStatusChange")}: ${err.message || err}`);
     }
   };
 
@@ -297,7 +299,7 @@ export function AdminView(): ReactNode {
         setTimeout(() => fetchMiningStatus(token), 1500);
       }
     } catch (err: any) {
-      setMiningStatus({ status: "error", error: err.message || "Не вдалося запустити майнінг" });
+      setMiningStatus({ status: "error", error: err.message || t("errorFailedToStartMining") });
     }
   };
 
@@ -337,10 +339,10 @@ export function AdminView(): ReactNode {
         }}>
           <div style={{ textAlign: "center", marginBottom: "8px" }}>
             <h2 style={{ fontSize: "20px", fontWeight: 800, margin: "0 0 6px 0", color: "var(--ink)" }}>
-              Вхід до адмін-панелі
+              {t("adminLoginTitle")}
             </h2>
             <p style={{ fontSize: "13px", color: "var(--muted)", margin: 0 }}>
-              Будь ласка, авторизуйтесь для керування автоматичними сигналами.
+              {t("adminLoginSubtitle")}
             </p>
           </div>
 
@@ -351,7 +353,7 @@ export function AdminView(): ReactNode {
           )}
 
           <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
-            Ім'я користувача
+            {t("usernameLabel")}
             <input
               type="text"
               placeholder="admin"
@@ -371,7 +373,7 @@ export function AdminView(): ReactNode {
           </label>
 
           <label style={{ display: "flex", flexDirection: "column", gap: "6px", fontSize: "13px", fontWeight: 700, color: "var(--muted)" }}>
-            Пароль
+            {t("passwordLabel")}
             <input
               type="password"
               placeholder="••••••••"
@@ -406,7 +408,7 @@ export function AdminView(): ReactNode {
               transition: "opacity 0.2s ease"
             }}
           >
-            {loggingIn ? "Вхід..." : "Увійти"}
+            {loggingIn ? t("loggingInBtn") : t("loginBtn")}
           </button>
         </form>
       </div>
@@ -428,8 +430,8 @@ export function AdminView(): ReactNode {
   if (loading && heuristics.length === 0) {
     return (
       <div className="heuristics-view">
-        <h2>Адміністрування евристик</h2>
-        <p className="lead">Завантаження панелі адміністрування...</p>
+        <h2>{t("adminTitle")}</h2>
+        <p className="lead">{t("loading")}</p>
         <div className="skeleton-table">
           <span></span>
           <span></span>
@@ -444,9 +446,9 @@ export function AdminView(): ReactNode {
       {/* Header section with logout */}
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", borderBottom: "1px solid var(--line)", paddingBottom: "16px", flexWrap: "wrap", gap: "12px" }}>
         <div>
-          <h2 style={{ margin: 0, fontSize: "22px" }}>Панель адміністрування</h2>
+          <h2 style={{ margin: 0, fontSize: "22px" }}>{t("adminTitle")}</h2>
           <p className="lead" style={{ margin: "4px 0 0 0", fontSize: "14px", color: "var(--muted)" }}>
-            Керування автоматичними правилами аналізу та перегляд історії LLM-операцій.
+            {t("adminSubtitle")}
           </p>
         </div>
         <button
@@ -474,7 +476,7 @@ export function AdminView(): ReactNode {
             e.currentTarget.style.background = "var(--panel-soft)";
           }}
         >
-          Вийти
+          {t("logoutBtn")}
         </button>
       </div>
 
@@ -505,7 +507,7 @@ export function AdminView(): ReactNode {
             transition: "all 0.2s ease"
           }}
         >
-          Правила та модерація
+          {t("moderationTab")}
         </button>
         <button
           type="button"
@@ -523,7 +525,7 @@ export function AdminView(): ReactNode {
             transition: "all 0.2s ease"
           }}
         >
-          Історія запусків майнінгу
+          {t("miningTab")}
         </button>
         <button
           type="button"
@@ -541,7 +543,7 @@ export function AdminView(): ReactNode {
             transition: "all 0.2s ease"
           }}
         >
-          Історія LLM-пояснень користувачів
+          {t("userLlmTab")}
         </button>
       </div>
 
@@ -565,10 +567,10 @@ export function AdminView(): ReactNode {
           }}>
             <div style={{ flex: "1 1 400px" }}>
               <h3 style={{ fontSize: "14px", fontWeight: 800, margin: "0 0 4px 0", color: "var(--ink)" }}>
-                Автоматичний LLM-пошук нових евристик
+                {t("autoLlmSearchTitle")}
               </h3>
               <p style={{ fontSize: "12px", color: "var(--muted)", margin: 0 }}>
-                Запуск фонового аналізу останніх тендерів з Prozorro для виявлення нових дискримінаційних умов.
+                {t("autoLlmSearchDesc")}
               </p>
             </div>
             {miningStatus.status === "running" ? (
@@ -582,14 +584,14 @@ export function AdminView(): ReactNode {
                   animation: "spin 1s linear infinite"
                 }}></div>
                 <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--blue-strong)" }}>
-                  Аналіз тендерів у фоні...
+                  {t("miningInProgress")}
                 </span>
               </div>
             ) : (
               <div style={{ display: "flex", gap: "10px", alignItems: "center", flexWrap: "wrap" }}>
                 {miningStatus.status === "error" && (
                   <span style={{ fontSize: "12px", color: "var(--red)", fontWeight: 500, marginRight: "8px" }}>
-                    Помилка: {miningStatus.error}
+                    {t("statusFailed")}: {miningStatus.error}
                   </span>
                 )}
                 <select
@@ -605,10 +607,10 @@ export function AdminView(): ReactNode {
                     background: "var(--panel)"
                   }}
                 >
-                  <option value="3">3 тендери</option>
-                  <option value="5">5 тендерів</option>
-                  <option value="10">10 тендерів</option>
-                  <option value="20">20 тендерів</option>
+                  <option value="3">{t("tenders3")}</option>
+                  <option value="5">{t("tenders5")}</option>
+                  <option value="10">{t("tenders10")}</option>
+                  <option value="20">{t("tenders20")}</option>
                 </select>
                 <button
                   type="button"
@@ -625,7 +627,7 @@ export function AdminView(): ReactNode {
                     height: "36px"
                   }}
                 >
-                  Запустити пошук
+                  {t("mineBtn")}
                 </button>
               </div>
             )}
@@ -656,7 +658,7 @@ export function AdminView(): ReactNode {
                 gap: "6px"
               }}
             >
-              Потребують модерації
+              {t("needModeration")}
               <span style={{
                 background: toReviewList.length > 0 ? "var(--red)" : "var(--line)",
                 color: toReviewList.length > 0 ? "#fff" : "var(--muted)",
@@ -685,7 +687,7 @@ export function AdminView(): ReactNode {
                 gap: "6px"
               }}
             >
-              Активні правила
+              {t("activeRules")}
               <span style={{
                 background: "var(--line)",
                 color: "var(--muted)",
@@ -714,7 +716,7 @@ export function AdminView(): ReactNode {
                 gap: "6px"
               }}
             >
-              Відхилені правила
+              {t("rejectedRules")}
               <span style={{
                 background: "var(--line)",
                 color: "var(--muted)",
@@ -736,14 +738,14 @@ export function AdminView(): ReactNode {
                 <div key={rule.id} className="heuristic-rule-card" style={{ borderLeft: "4px solid var(--line)" }}>
                   <div className="heuristic-card-header">
                     <span className="heuristic-category">{rule.category}</span>
-                    <span className={`heuristic-severity ${sevClass}`}>{rule.severity}</span>
+                    <span className={`heuristic-severity ${sevClass}`}>{t(`severity_${rule.severity}` as any)}</span>
                   </div>
                   <h3>{rule.title}</h3>
                   <p className="heuristic-explanation">{rule.explanation}</p>
                   
                   {rule.suggested_rewrite && (
                     <div className="heuristic-rewrite">
-                      <strong>Рекомендоване редагування:</strong> {rule.suggested_rewrite}
+                      <strong>{t("recommendedEdit")}</strong> {rule.suggested_rewrite}
                     </div>
                   )}
 
@@ -765,7 +767,7 @@ export function AdminView(): ReactNode {
                         onClick={() => toggleExpand(rule.id)}
                         style={{ fontSize: "11px" }}
                       >
-                        {isExpanded ? "▲ Сховати вираз" : "▼ Показати вираз"}
+                        {isExpanded ? t("hidePattern") : t("showPattern")}
                       </button>
                     </div>
 
@@ -794,7 +796,7 @@ export function AdminView(): ReactNode {
                               cursor: "pointer"
                             }}
                           >
-                            ✓ Затвердити
+                            {t("approveBtn")}
                           </button>
                           <button
                             type="button"
@@ -811,7 +813,7 @@ export function AdminView(): ReactNode {
                               cursor: "pointer"
                             }}
                           >
-                            ✕ Відхилити
+                            {t("rejectBtn")}
                           </button>
                         </>
                       )}
@@ -831,7 +833,7 @@ export function AdminView(): ReactNode {
                             cursor: "pointer"
                           }}
                         >
-                          ✕ Деактивувати
+                          {t("deactivateBtn")}
                         </button>
                       )}
                       {rule.status === "rejected" && (
@@ -850,7 +852,7 @@ export function AdminView(): ReactNode {
                             cursor: "pointer"
                           }}
                         >
-                          ✓ Активувати
+                          {t("activateBtn")}
                         </button>
                       )}
                     </div>
@@ -862,7 +864,7 @@ export function AdminView(): ReactNode {
 
           {currentList.length === 0 && (
             <p style={{ textAlign: "center", color: "var(--muted)", padding: "40px 20px" }}>
-              Немає правил у цій категорії.
+              {t("emptyCategoryRules")}
             </p>
           )}
         </>
@@ -873,27 +875,27 @@ export function AdminView(): ReactNode {
           {/* Runs History Table */}
           <div style={{ background: "var(--panel)", border: "1px solid var(--line)", borderRadius: "8px", padding: "20px" }}>
             <h3 style={{ fontSize: "16px", fontWeight: 800, margin: "0 0 16px 0", color: "var(--ink)" }}>
-              Історія запусків автоматичного пошуку (майнінгу)
+              {t("miningHistoryTitle")}
             </h3>
             
             {historyLoading && miningHistory.length === 0 ? (
               <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)" }}>
-                Завантаження історії...
+                {t("loadingHistory")}
               </div>
             ) : miningHistory.length === 0 ? (
               <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)", fontStyle: "italic" }}>
-                Історія запусків порожня
+                {t("historyEmpty")}
               </div>
             ) : (
               <div className="table-wrap">
                 <table className="results-table" style={{ minWidth: "100%", width: "100%" }}>
                   <thead>
                     <tr>
-                      <th style={{ width: "20%" }}>Час запуску</th>
-                      <th style={{ width: "15%" }}>Кількість тендерів</th>
-                      <th style={{ width: "25%" }}>Результати / Нові правила</th>
-                      <th style={{ width: "15%" }}>Статус</th>
-                      <th style={{ width: "25%", textAlign: "right" }}>Вартість запиту (USD)</th>
+                      <th style={{ width: "20%" }}>{t("thStartTime")}</th>
+                      <th style={{ width: "15%" }}>{t("thTendersCount")}</th>
+                      <th style={{ width: "25%" }}>{t("thResultsNewRules")}</th>
+                      <th style={{ width: "15%" }}>{t("thStatus")}</th>
+                      <th style={{ width: "25%", textAlign: "right" }}>{t("thRequestCost")}</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -904,10 +906,10 @@ export function AdminView(): ReactNode {
                         </td>
                         <td>{run.tenders_limit}</td>
                         <td>
-                          <div>Знайдено: {run.tenders_analyzed}</div>
+                          <div>{t("foundCount")}{run.tenders_analyzed}</div>
                           {run.error && (
                             <div style={{ color: "var(--red)", fontSize: "11px", marginTop: "4px", maxWidth: "300px" }} title={run.error}>
-                              Помилка: {run.error}
+                              {t("statusFailed")}: {run.error}
                             </div>
                           )}
                         </td>
@@ -921,7 +923,7 @@ export function AdminView(): ReactNode {
                             background: run.status === "success" ? "var(--green-soft)" : run.status === "running" ? "var(--blue-soft)" : "var(--red-soft)",
                             color: run.status === "success" ? "var(--green-strong)" : run.status === "running" ? "var(--blue-strong)" : "var(--red)"
                           }}>
-                            {run.status === "success" ? "Успішно" : run.status === "running" ? "Пошук..." : "Помилка"}
+                            {run.status === "success" ? t("statusSuccess") : run.status === "running" ? t("statusMining") : t("statusFailed")}
                           </span>
                         </td>
                         <td style={{ textAlign: "right", fontWeight: 800 }}>
@@ -941,31 +943,31 @@ export function AdminView(): ReactNode {
         <div style={{ background: "var(--panel)", border: "1px solid var(--line)", borderRadius: "8px", padding: "20px" }}>
           <div style={{ marginBottom: "16px" }}>
             <h3 style={{ fontSize: "16px", fontWeight: 800, margin: "0 0 4px 0", color: "var(--ink)" }}>
-              Історія LLM-пояснень користувачів
+              {t("userLlmHistoryTitle")}
             </h3>
             <p style={{ fontSize: "13.5px", color: "var(--muted)", margin: 0 }}>
-              Перелік генерацій пояснень дискримінаційних умов та оцінки ризиків, що були активовані користувачами для конкретних тендерів.
+              {t("userLlmHistoryDesc")}
             </p>
           </div>
 
           {userLlmLoading && userLlmHistory.length === 0 ? (
             <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)" }}>
-              Завантаження історії...
+              {t("loadingHistory")}
             </div>
           ) : userLlmHistory.length === 0 ? (
             <div style={{ padding: "40px", textAlign: "center", color: "var(--muted)", fontStyle: "italic" }}>
-              Немає запитів на пояснення від користувачів
+              {t("noUserLlmRequests")}
             </div>
           ) : (
             <div className="table-wrap">
               <table className="results-table" style={{ minWidth: "100%", width: "100%" }}>
                 <thead>
                   <tr>
-                    <th style={{ width: "20%" }}>Код тендера</th>
-                    <th style={{ width: "40%" }}>Назва закупівлі</th>
-                    <th style={{ width: "15%" }}>Час запиту</th>
-                    <th style={{ width: "12%" }}>Використано токенів</th>
-                    <th style={{ width: "13%", textAlign: "right" }}>Вартість (USD)</th>
+                    <th style={{ width: "20%" }}>{t("thTenderCode")}</th>
+                    <th style={{ width: "40%" }}>{t("thProcurementTitle")}</th>
+                    <th style={{ width: "15%" }}>{t("thRequestTime")}</th>
+                    <th style={{ width: "12%" }}>{t("thTokensUsed")}</th>
+                    <th style={{ width: "13%", textAlign: "right" }}>{t("thCostUSD")}</th>
                   </tr>
                 </thead>
                 <tbody>
