@@ -87,7 +87,7 @@ export function HeuristicsView(): ReactNode {
 
       {/* Summary Metrics Grid */}
       <section className="metric-grid" aria-label="Статистика евристик" style={{ marginBottom: "8px" }}>
-        <article className="metric-card tone-blue">
+        <article className="metric-card tone-green">
           <span>{t("totalHeuristics")}</span>
           <strong>{heuristics.length.toString()}</strong>
         </article>

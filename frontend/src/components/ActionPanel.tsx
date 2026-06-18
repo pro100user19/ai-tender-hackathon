@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { ReactNode } from "react";
+import { Plus, X } from "lucide-react";
 import { useTranslation } from "../LanguageContext";
 
 interface ActionPanelProps {
@@ -182,7 +183,7 @@ export function ActionPanel({
                     disabled={isProcessing}
                     title={lang === "en" ? "Remove" : "Видалити"}
                   >
-                    ✕
+                    <X aria-hidden="true" size={16} />
                   </button>
                 )}
               </div>
@@ -194,6 +195,7 @@ export function ActionPanel({
               onClick={() => setTenderIds([...tenderIds, ""])}
               disabled={isProcessing}
             >
+              <Plus aria-hidden="true" size={16} />
               {t("addMoreUuid")}
             </button>
           </div>

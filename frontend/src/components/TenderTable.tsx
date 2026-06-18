@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { ShieldAlert, ShieldCheck } from "lucide-react";
 import { priorityMeta } from "../constants";
 import type { Status, TenderResult } from "../types";
 import { formatDate, formatUah, getHighestSeverity, scoreTone } from "../utils";
@@ -192,8 +193,11 @@ function TenderCard({ result, onSelectTender, lang }: TenderCardProps & { lang: 
   const issues = result.issues || [];
 
   const displayPriority = lang === "en"
-    ? (highestSeverity === "висока" ? "high" : highestSeverity === "середня" ? "medium" : highestSeverity === "низька" ? "low" : "none")
-    : meta.label;
+    ? (highestSeverity === "висока" ? "High risk" : highestSeverity === "середня" ? "Medium risk" : highestSeverity === "низька" ? "Low risk" : "No signals")
+    : (highestSeverity === "немає" ? meta.label : `${meta.label} ризик`);
+  const score = result.overall_score || 0;
+  const scoreToneClass = scoreTone(score);
+  const RiskIcon = highestSeverity === "немає" ? ShieldCheck : ShieldAlert;
 
   return (
     <article className="tender-card">
@@ -231,15 +235,34 @@ function TenderCard({ result, onSelectTender, lang }: TenderCardProps & { lang: 
           value={formatDate(summary.date_modified || result.processed_at)}
         />
       </div>
-      <div className="tender-card-status" aria-label={lang === "en" ? "Score" : "Оцінка"}>
-        <span className={`score score-${scoreTone(result.overall_score)}`}>
-          {result.overall_score || 0}
-        </span>
-        <span className="tender-signal-count">
-          <span>{issues.length.toString()}</span>
-          <small>{lang === "en" ? "signals" : "сигнали"}</small>
-        </span>
-        <span className={`priority priority-${meta.className}`}>{displayPriority}</span>
+      <div className="tender-card-status" aria-label={lang === "en" ? "Risk indicators" : "Показники ризику"}>
+        <div
+          className={`tender-score-summary tone-${scoreToneClass}`}
+          title={lang === "en" ? "Overall automated tender quality score" : "Загальна автоматична оцінка якості тендера"}
+        >
+          <span className="tender-status-copy">
+            <small>{lang === "en" ? "Score" : "Бал"}</small>
+            <strong>{score}</strong>
+          </span>
+        </div>
+        <div
+          className="tender-signals-summary"
+          title={lang === "en"
+            ? "Detected indicators that require attention"
+            : "Виявлені індикатори, які потребують уваги"}
+        >
+          <strong>{issues.length.toString()}</strong>
+          <span>{lang === "en" ? "signals" : "сигнали"}</span>
+        </div>
+        <div
+          className={`tender-risk-status risk-${meta.className}`}
+          title={lang === "en"
+            ? "Highest severity among detected signals"
+            : "Найвищий рівень критичності серед виявлених сигналів"}
+        >
+          <RiskIcon aria-hidden="true" size={16} strokeWidth={1.9} />
+          <span>{displayPriority}</span>
+        </div>
       </div>
     </article>
   );

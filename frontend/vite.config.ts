@@ -9,10 +9,9 @@ export default defineConfig({
       strict: false,
     },
     proxy: {
-      "/api": "http://127.0.0.1:8000",
-      "/process": "http://127.0.0.1:8000",
-      "/static": "http://127.0.0.1:8000",
-      "/tenders": "http://127.0.0.1:8000",
+      "/api": "http://127.0.0.1:8001",
+      "/process": "http://127.0.0.1:8001",
+      "/static": "http://127.0.0.1:8001",
     },
   },
   build: {

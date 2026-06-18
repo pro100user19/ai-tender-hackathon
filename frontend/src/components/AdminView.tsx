@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
+import { Check, ChevronDown, ChevronUp, LogOut, Play, X } from "lucide-react";
 import { useTranslation } from "../LanguageContext";
 import { CustomSelect } from "./CustomSelect";
 
@@ -443,9 +444,9 @@ export function AdminView(): ReactNode {
   }
 
   return (
-    <div className="heuristics-view" style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
+    <div className="heuristics-view admin-view">
       {/* Header section with logout */}
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", borderBottom: "1px solid var(--line)", paddingBottom: "16px", flexWrap: "wrap", gap: "12px" }}>
+      <div className="admin-heading">
         <div>
           <h2 style={{ margin: 0, fontSize: "22px" }}>{t("adminTitle")}</h2>
           <p className="lead" style={{ margin: "4px 0 0 0", fontSize: "14px", color: "var(--muted)" }}>
@@ -454,95 +455,34 @@ export function AdminView(): ReactNode {
         </div>
         <button
           type="button"
+          className="admin-logout-btn"
           onClick={handleLogout}
-          style={{
-            borderRadius: "20px",
-            background: "var(--panel-soft)",
-            color: "var(--muted)",
-            fontWeight: 700,
-            padding: "6px 16px",
-            border: "1px solid var(--line)",
-            cursor: "pointer",
-            fontSize: "12px",
-            transition: "all 0.2s ease"
-          }}
-          onMouseOver={(e) => {
-            e.currentTarget.style.borderColor = "var(--red)";
-            e.currentTarget.style.color = "var(--red)";
-            e.currentTarget.style.background = "var(--red-soft)";
-          }}
-          onMouseOut={(e) => {
-            e.currentTarget.style.borderColor = "var(--line)";
-            e.currentTarget.style.color = "var(--muted)";
-            e.currentTarget.style.background = "var(--panel-soft)";
-          }}
         >
+          <LogOut aria-hidden="true" size={15} />
           {t("logoutBtn")}
         </button>
       </div>
 
       {/* Main Admin Tab Switcher */}
-      <div style={{
-        display: "flex",
-        gap: "6px",
-        background: "var(--panel-soft)",
-        padding: "4px",
-        borderRadius: "8px",
-        border: "1px solid var(--line)",
-        width: "fit-content",
-        marginBottom: "10px"
-      }}>
+      <div className="admin-tabs">
         <button
           type="button"
+          className={`admin-tab ${activeAdminTab === "moderation" ? "active" : ""}`}
           onClick={() => setActiveAdminTab("moderation")}
-          style={{
-            background: activeAdminTab === "moderation" ? "var(--panel)" : "transparent",
-            color: activeAdminTab === "moderation" ? "var(--ink)" : "var(--muted)",
-            boxShadow: activeAdminTab === "moderation" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 18px",
-            fontWeight: activeAdminTab === "moderation" ? 600 : 400,
-            cursor: "pointer",
-            fontSize: "13.5px",
-            transition: "all 0.2s ease"
-          }}
         >
           {t("moderationTab")}
         </button>
         <button
           type="button"
+          className={`admin-tab ${activeAdminTab === "mining" ? "active" : ""}`}
           onClick={() => setActiveAdminTab("mining")}
-          style={{
-            background: activeAdminTab === "mining" ? "var(--panel)" : "transparent",
-            color: activeAdminTab === "mining" ? "var(--ink)" : "var(--muted)",
-            boxShadow: activeAdminTab === "mining" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 18px",
-            fontWeight: activeAdminTab === "mining" ? 600 : 400,
-            cursor: "pointer",
-            fontSize: "13.5px",
-            transition: "all 0.2s ease"
-          }}
         >
           {t("miningTab")}
         </button>
         <button
           type="button"
+          className={`admin-tab ${activeAdminTab === "user_llm" ? "active" : ""}`}
           onClick={() => setActiveAdminTab("user_llm")}
-          style={{
-            background: activeAdminTab === "user_llm" ? "var(--panel)" : "transparent",
-            color: activeAdminTab === "user_llm" ? "var(--ink)" : "var(--muted)",
-            boxShadow: activeAdminTab === "user_llm" ? "0 2px 6px rgba(27, 42, 56, 0.08)" : "none",
-            border: "none",
-            borderRadius: "6px",
-            padding: "8px 18px",
-            fontWeight: activeAdminTab === "user_llm" ? 600 : 400,
-            cursor: "pointer",
-            fontSize: "13.5px",
-            transition: "all 0.2s ease"
-          }}
         >
           {t("userLlmTab")}
         </button>
@@ -554,18 +494,7 @@ export function AdminView(): ReactNode {
       {activeAdminTab === "moderation" && (
         <>
           {/* LLM Mining Trigger Panel at the top of Moderation */}
-          <div className="action-panel" style={{
-            padding: "16px",
-            background: "var(--panel-soft)",
-            border: "1px solid var(--line)",
-            borderRadius: "8px",
-            marginBottom: "16px",
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            flexWrap: "wrap",
-            gap: "16px"
-          }}>
+          <div className="admin-mining-panel">
             <div style={{ flex: "1 1 400px" }}>
               <h3 style={{ fontSize: "14px", fontWeight: 600, margin: "0 0 4px 0", color: "var(--ink)" }}>
                 {t("autoLlmSearchTitle")}
@@ -607,19 +536,10 @@ export function AdminView(): ReactNode {
                 />
                 <button
                   type="button"
+                  className="admin-run-btn"
                   onClick={handleRunMining}
-                  style={{
-                    borderRadius: "6px",
-                    background: "var(--blue-strong)",
-                    color: "#fff",
-                    fontWeight: 500,
-                    padding: "8px 16px",
-                    border: "none",
-                    cursor: "pointer",
-                    fontSize: "13px",
-                    height: "36px"
-                  }}
                 >
+                  <Play aria-hidden="true" size={15} />
                   {t("mineBtn")}
                 </button>
               </div>
@@ -627,29 +547,14 @@ export function AdminView(): ReactNode {
           </div>
 
           {/* Admin Sub Tab Switching */}
-          <div className="heuristics-filters" style={{
-            display: "flex",
-            gap: "10px",
-            borderBottom: "1px solid var(--line)",
-            paddingBottom: "12px",
-            marginTop: "6px"
-          }}>
+          <div className="admin-subtabs">
             <button
               type="button"
               onClick={() => setActiveSubTab("to_review")}
               style={{
-                background: activeSubTab === "to_review" ? "var(--blue-soft)" : "transparent",
-                color: activeSubTab === "to_review" ? "var(--blue-strong)" : "var(--muted)",
-                border: "none",
-                borderRadius: "6px",
-                padding: "8px 16px",
-                fontWeight: 600,
-                cursor: "pointer",
-                fontSize: "13px",
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px"
+                color: activeSubTab === "to_review" ? "var(--blue-strong)" : "var(--muted)"
               }}
+              className={`admin-subtab ${activeSubTab === "to_review" ? "active" : ""}`}
             >
               {t("needModeration")}
               <span style={{
@@ -667,18 +572,9 @@ export function AdminView(): ReactNode {
               type="button"
               onClick={() => setActiveSubTab("active")}
               style={{
-                background: activeSubTab === "active" ? "var(--blue-soft)" : "transparent",
-                color: activeSubTab === "active" ? "var(--blue-strong)" : "var(--muted)",
-                border: "none",
-                borderRadius: "6px",
-                padding: "8px 16px",
-                fontWeight: 600,
-                cursor: "pointer",
-                fontSize: "13px",
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px"
+                color: activeSubTab === "active" ? "var(--blue-strong)" : "var(--muted)"
               }}
+              className={`admin-subtab ${activeSubTab === "active" ? "active" : ""}`}
             >
               {t("activeRules")}
               <span style={{
@@ -696,18 +592,9 @@ export function AdminView(): ReactNode {
               type="button"
               onClick={() => setActiveSubTab("rejected")}
               style={{
-                background: activeSubTab === "rejected" ? "var(--blue-soft)" : "transparent",
-                color: activeSubTab === "rejected" ? "var(--blue-strong)" : "var(--muted)",
-                border: "none",
-                borderRadius: "6px",
-                padding: "8px 16px",
-                fontWeight: 600,
-                cursor: "pointer",
-                fontSize: "13px",
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px"
+                color: activeSubTab === "rejected" ? "var(--blue-strong)" : "var(--muted)"
               }}
+              className={`admin-subtab ${activeSubTab === "rejected" ? "active" : ""}`}
             >
               {t("rejectedRules")}
               <span style={{
@@ -728,7 +615,7 @@ export function AdminView(): ReactNode {
               const sevClass = rule.severity === "висока" ? "high" : rule.severity === "середня" ? "medium" : "low";
               const isExpanded = expandedHeuristics.has(rule.id);
               return (
-                <div key={rule.id} className="heuristic-rule-card" style={{ borderLeft: "4px solid var(--line)" }}>
+                <div key={rule.id} className="heuristic-rule-card admin-rule-card">
                   <div className="heuristic-card-header">
                     <span className="heuristic-category">{rule.category}</span>
                     <span className={`heuristic-severity ${sevClass}`}>{t(`severity_${rule.severity}` as any)}</span>
@@ -760,6 +647,9 @@ export function AdminView(): ReactNode {
                         onClick={() => toggleExpand(rule.id)}
                         style={{ fontSize: "11px" }}
                       >
+                        {isExpanded
+                          ? <ChevronUp aria-hidden="true" size={14} />
+                          : <ChevronDown aria-hidden="true" size={14} />}
                         {isExpanded ? t("hidePattern") : t("showPattern")}
                       </button>
                     </div>
@@ -771,11 +661,12 @@ export function AdminView(): ReactNode {
                     )}
 
                     {/* Moderation Controls */}
-                    <div style={{ display: "flex", gap: "6px", marginTop: "4px" }}>
+                    <div className="moderation-actions" style={{ display: "flex", gap: "6px", marginTop: "4px" }}>
                       {rule.status === "to_review" && (
                         <>
                           <button
                             type="button"
+                            className="moderation-btn is-success"
                             onClick={() => handleUpdateStatus(rule.id, "active")}
                             style={{
                               flex: 1,
@@ -789,10 +680,12 @@ export function AdminView(): ReactNode {
                               cursor: "pointer"
                             }}
                           >
-                            ✓ {t("approveBtn")}
+                            <Check aria-hidden="true" size={14} />
+                            {t("approveBtn")}
                           </button>
                           <button
                             type="button"
+                            className="moderation-btn is-danger"
                             onClick={() => handleUpdateStatus(rule.id, "rejected")}
                             style={{
                               flex: 1,
@@ -806,13 +699,15 @@ export function AdminView(): ReactNode {
                               cursor: "pointer"
                             }}
                           >
-                            ✕ {t("rejectBtn")}
+                            <X aria-hidden="true" size={14} />
+                            {t("rejectBtn")}
                           </button>
                         </>
                       )}
                       {rule.status === "active" && (
                         <button
                           type="button"
+                          className="moderation-btn is-danger"
                           onClick={() => handleUpdateStatus(rule.id, "rejected")}
                           style={{
                             width: "100%",
@@ -826,12 +721,14 @@ export function AdminView(): ReactNode {
                             cursor: "pointer"
                           }}
                         >
-                          ✕ {t("deactivateBtn")}
+                          <X aria-hidden="true" size={14} />
+                          {t("deactivateBtn")}
                         </button>
                       )}
                       {rule.status === "rejected" && (
                         <button
                           type="button"
+                          className="moderation-btn is-success"
                           onClick={() => handleUpdateStatus(rule.id, "active")}
                           style={{
                             width: "100%",
@@ -845,7 +742,8 @@ export function AdminView(): ReactNode {
                             cursor: "pointer"
                           }}
                         >
-                          ✓ {t("activateBtn")}
+                          <Check aria-hidden="true" size={14} />
+                          {t("activateBtn")}
                         </button>
                       )}
                     </div>

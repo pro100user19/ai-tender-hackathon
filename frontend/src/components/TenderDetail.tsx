@@ -1,5 +1,18 @@
 import type { ReactNode } from "react";
 import { useState } from "react";
+import {
+  AlertTriangle,
+  ArrowLeft,
+  BarChart3,
+  Building2,
+  CalendarClock,
+  FileSearch,
+  FileText,
+  Lightbulb,
+  Settings2,
+  Tags,
+  Wallet,
+} from "lucide-react";
 import type { TenderResult } from "../types";
 import { formatDate, formatUah, getHighestSeverity } from "../utils";
 import { priorityMeta } from "../constants";
@@ -61,49 +74,97 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
   const displayPriority = lang === "en"
     ? (highestSeverity === "висока" ? "high" : highestSeverity === "середня" ? "medium" : highestSeverity === "низька" ? "low" : "none")
     : meta.label;
+  const displayProcessedAt = formatDate(result.processed_at);
 
   return (
     <div className="tender-detail-view">
       <nav className="crumb">
         <a href="/" onClick={(e) => { e.preventDefault(); onClose(); }}>
-          {t("backToList")}
+          <ArrowLeft aria-hidden="true" size={16} />
+          {lang === "en" ? "Back to list" : "До списку"}
         </a>
       </nav>
 
-      <section className="detail-head">
-        <div>
-          <p className="eyebrow">{summary.tender_code}</p>
-          <h1>{summary.title}</h1>
-          <p>
-            {summary.buyer_name} · {formatUah(summary.value_amount, summary.currency)} · {summary.cpv || (lang === "en" ? "CPV not specified" : "CPV не вказано")}
-          </p>
+      <section className="detail-overview">
+        <div className="detail-overview-main">
+          <div className="detail-title-block">
+            <p className="eyebrow">{summary.tender_code}</p>
+            <h1>{summary.title}</h1>
+            <p className="detail-intro">
+              {lang === "en"
+                ? `${issues.length} automated signals were found. Review the evidence and recommendations before making a decision.`
+                : `Знайдено ${issues.length} автоматичних сигналів. Перевірте цитати та рекомендації перед ухваленням рішення.`}
+            </p>
+          </div>
+
+          <div className="detail-facts" aria-label={lang === "en" ? "Tender details" : "Дані закупівлі"}>
+            <DetailFact
+              icon={<Building2 aria-hidden="true" size={17} />}
+              label={lang === "en" ? "Buyer" : "Замовник"}
+              value={summary.buyer_name || (lang === "en" ? "Not specified" : "Не вказано")}
+            />
+            <DetailFact
+              icon={<Wallet aria-hidden="true" size={17} />}
+              label={lang === "en" ? "Expected value" : "Очікувана вартість"}
+              value={formatUah(summary.value_amount, summary.currency)}
+            />
+            <DetailFact
+              icon={<Tags aria-hidden="true" size={17} />}
+              label="CPV"
+              value={summary.cpv || (lang === "en" ? "Not specified" : "Не вказано")}
+            />
+            <DetailFact
+              icon={<CalendarClock aria-hidden="true" size={17} />}
+              label={lang === "en" ? "Processed" : "Оброблено"}
+              value={displayProcessedAt}
+            />
+          </div>
         </div>
-        <div className="score-block">
+
+        <aside className={`detail-score-summary priority-${meta.className}`}>
           <span>{t("overallScoreLabel")}</span>
           <strong>{result.overall_score}</strong>
-          <em>{displayPriority} {t("priorityLevel")}</em>
-        </div>
+          <div>
+            <AlertTriangle aria-hidden="true" size={16} />
+            <em>{displayPriority} {t("priorityLevel")}</em>
+          </div>
+          <small>
+            {lang === "en"
+              ? `${issues.length} signals require review`
+              : `${issues.length} сигналів потребують перевірки`}
+          </small>
+        </aside>
       </section>
 
-      <section className="subscores" aria-label={t("subscoresLabel")}>
-        {Object.entries(subscores).map(([name, value]) => {
-          // Localize subscore names if English
-          let displayName = name;
-          if (lang === "en") {
-            if (name === "повнота") displayName = "Completeness";
-            else if (name === "зрозумілість") displayName = "Clarity";
-            else if (name === "конкурентність") displayName = "Competitiveness";
-            else if (name === "технічна нейтральність") displayName = "Tech Neutrality";
-            else if (name === "якість проєкту договору") displayName = "Contract Quality";
-          }
-          return (
-            <div className="subscore" key={name} style={{ borderTop: "3px solid var(--blue)" }}>
-              <span>{displayName}</span>
-              <meter min="0" max="100" value={value}></meter>
-              <strong>{value}</strong>
-            </div>
-          );
-        })}
+      <section className="detail-quality" aria-label={t("subscoresLabel")}>
+        <div className="detail-quality-heading">
+          <BarChart3 aria-hidden="true" size={18} />
+          <div>
+            <h2>{lang === "en" ? "Documentation quality" : "Якість документації"}</h2>
+            <p>{lang === "en" ? "Supporting indicators for the overall score" : "Допоміжні показники загальної оцінки"}</p>
+          </div>
+        </div>
+        <div className="subscores">
+          {Object.entries(subscores).map(([name, value]) => {
+            let displayName = name;
+            if (lang === "en") {
+              if (name === "повнота") displayName = "Completeness";
+              else if (name === "зрозумілість") displayName = "Clarity";
+              else if (name === "конкурентність") displayName = "Competitiveness";
+              else if (name === "технічна нейтральність") displayName = "Tech Neutrality";
+              else if (name === "якість проєкту договору") displayName = "Contract Quality";
+            }
+            return (
+              <div className="subscore" key={name}>
+                <div>
+                  <span>{displayName}</span>
+                  <strong>{value}</strong>
+                </div>
+                <meter min="0" max="100" value={value}></meter>
+              </div>
+            );
+          })}
+        </div>
       </section>
 
       <div className="detail-tabs-container">
@@ -112,18 +173,21 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
             className={`detail-tab-btn ${activeTab === "risks" ? "active" : ""}`}
             onClick={() => setActiveTab("risks")}
           >
+            <AlertTriangle aria-hidden="true" size={16} />
             {t("potentialRisksTab")}
           </button>
           <button
             className={`detail-tab-btn ${activeTab === "doc-review" ? "active" : ""}`}
             onClick={() => setActiveTab("doc-review")}
           >
+            <FileSearch aria-hidden="true" size={16} />
             {t("requirementsTab")}
           </button>
           <button
             className={`detail-tab-btn ${activeTab === "tech-details" ? "active" : ""}`}
             onClick={() => setActiveTab("tech-details")}
           >
+            <Settings2 aria-hidden="true" size={16} />
             {t("techDetailsTab")}
           </button>
         </div>
@@ -132,27 +196,19 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
         {activeTab === "risks" && (
           <div className="detail-tab-content active" id="tab-risks">
             <section className="issues">
-              <div className="section-head" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "12px" }}>
-                <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+              <div className="section-head detail-section-head">
+                <div className="detail-section-title">
                   <h2>{t("detectedSignalsLabel")}</h2>
-                  <span className="badge" style={{
-                    background: "var(--line)",
-                    color: "var(--muted)",
-                    borderRadius: "999px",
-                    padding: "2px 8px",
-                    fontSize: "12px",
-                    fontWeight: 800
-                  }}>{issues.length}</span>
+                  <span className="badge">{issues.length}</span>
                 </div>
                 
                 {/* Role/Owner Selector */}
                 {!result.is_private && result.is_user_request && (
-                  <label className="toggle" style={{ margin: 0, fontSize: "13.5px", fontWeight: 700, color: "var(--muted)", display: "flex", alignItems: "center", gap: "8px" }}>
+                  <label className="toggle detail-owner-toggle">
                     <input
                       type="checkbox"
                       checked={isOwner}
                       onChange={(e) => handleToggleOwner(e.target.checked)}
-                      style={{ width: "16px", height: "16px", minHeight: "16px", margin: 0 }}
                     />
                     <span>{t("ownerToggleLabel")}</span>
                   </label>
@@ -170,7 +226,7 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
                 }
                 return (
                   <div className="issue-group" key={category}>
-                    <h3 style={{ textTransform: "capitalize" }}>{displayCategory}</h3>
+                    <h3>{displayCategory}</h3>
                     {catIssues.map((issue, idx) => {
                       const displaySeverity = lang === "en"
                         ? (issue.severity === "висока" ? "high" : issue.severity === "середня" ? "medium" : issue.severity === "низька" ? "low" : "none")
@@ -178,22 +234,33 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
                       return (
                         <article className="issue" key={idx}>
                           <header>
-                            <div>
+                            <div className="issue-title">
+                              <FileText aria-hidden="true" size={18} />
+                              <div>
                               <h4>{issue.title}</h4>
                               {issue.document_title && <span>{issue.document_title}</span>}
+                              </div>
                             </div>
                             <span className={`priority priority-${priorityMeta[issue.severity]?.className || "none"}`}>
                               {displaySeverity}
                             </span>
                           </header>
-                          <blockquote>{issue.evidence_quote}</blockquote>
-                          <p>
-                            <strong>{t("explanationLabel")}</strong> {issue.explanation}
-                          </p>
+                          <div className="issue-evidence">
+                            <span>{lang === "en" ? "Evidence" : "Цитата з документа"}</span>
+                            <blockquote>{issue.evidence_quote}</blockquote>
+                          </div>
+                          <div className="issue-explanation">
+                            <strong>{t("explanationLabel")}</strong>
+                            <p>{issue.explanation}</p>
+                          </div>
                           {effectiveIsOwner && issue.suggested_rewrite && (
-                            <p>
-                              <strong>{t("suggestedRewriteLabel")}</strong> {issue.suggested_rewrite}
-                            </p>
+                            <div className="issue-recommendation">
+                              <Lightbulb aria-hidden="true" size={18} />
+                              <div>
+                                <strong>{t("suggestedRewriteLabel")}</strong>
+                                <p>{issue.suggested_rewrite}</p>
+                              </div>
+                            </div>
                           )}
                         </article>
                       );
@@ -471,6 +538,26 @@ export function TenderDetail({ result, onClose }: TenderDetailProps): ReactNode 
             </section>
           </div>
         )}
+      </div>
+    </div>
+  );
+}
+
+function DetailFact({
+  icon,
+  label,
+  value,
+}: {
+  icon: ReactNode;
+  label: string;
+  value: string;
+}): ReactNode {
+  return (
+    <div className="detail-fact">
+      <span className="detail-fact-icon">{icon}</span>
+      <div>
+        <span>{label}</span>
+        <strong>{value}</strong>
       </div>
     </div>
   );
